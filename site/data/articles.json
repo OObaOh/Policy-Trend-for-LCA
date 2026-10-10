@@ -1,0 +1,212 @@
+{
+  "updated_at": "2026-10-10T05:15:00+00:00",
+  "collector": "Initial official source checked + daily scheduled official feeds / Crossref",
+  "new_items": 4,
+  "articles": [
+    {
+      "date": "2026-10-09",
+      "category": "국제 정책",
+      "region": "UN",
+      "source": "UNFCCC",
+      "title": "유엔 파리협정 탄소시장, 청정 취사(clean cooking) 사업에 적용할 신규 방법론 채택",
+      "url": "https://unfccc.int/news/clean-cooking-projects-gain-access-to-un-carbon-market",
+      "summary": "UNFCCC는 파리협정 제6.4조 탄소시장의 청정 취사 사업에 관한 두 가지 방법론과 비재생 바이오매스 관련 감축효과의 역전 위험 평가 도구를 채택했다고 발표했습니다.",
+      "insight": "LCA의 회피배출 산정과 크레딧 제도의 기준선·비재생 바이오매스 가정이 어떻게 다른지 검토할 수 있습니다.",
+      "tags": [
+        "탄소시장",
+        "바이오매스",
+        "회피배출",
+        "탄소배출권·GHG"
+      ],
+      "verification": "UNFCCC 공식 발표 원문 확인",
+      "review_status": "공식 원문 확인",
+      "id": "8798ff8d6a5102",
+      "doi": "",
+      "source_excerpt": "",
+      "document_type": "정책·발표",
+      "priority_score": 22,
+      "priority": "우선 검토",
+      "priority_reasons": [
+        "탄소배출권·GHG",
+        "바이오에너지·유기성 폐자원"
+      ],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치"
+    },
+    {
+      "id": "30c14bff261658",
+      "date": "2026-10-09",
+      "region": "일본",
+      "category": "국제 정책",
+      "source": "일본 환경성",
+      "title": "令和８年度資源循環の促進のための再資源化事業等の高度化に関する法律に係るケーススタディ制作事業の公募について",
+      "url": "https://www.env.go.jp/press/press_05636.html",
+      "summary": "일본 환경성이 재자원화 고도화법에 따른 자원순환·온실가스 감축효과 산정 사례연구 지원사업을 발표했습니다. 2026년 10월 9일~11월 9일 신청 접수.",
+      "insight": "감축효과 산정에서 기준선과 대체효과·회피배출의 처리방법이 실제로 어떻게 규정되는지 확인할 가치가 있습니다.",
+      "source_excerpt": "資源循環 再資源化 廃棄物 2030 資源循環の効果及び温室効果ガス排出量の削減効果の算出",
+      "tags": [
+        "폐기물관리·처리",
+        "순환경제·재활용",
+        "탄소배출권·GHG"
+      ],
+      "document_type": "정부 공고",
+      "review_status": "공식 원문 확인",
+      "verification": "기관 공식 발표 원문 확인",
+      "link_status": "원문 연결 확인",
+      "doi": "",
+      "priority_score": 32,
+      "priority": "필독",
+      "priority_reasons": [
+        "순환경제·재활용",
+        "폐기물관리·처리",
+        "탄소배출권·GHG"
+      ],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치"
+    },
+    {
+      "date": "2026-10-08",
+      "category": "국제 정책",
+      "region": "UN",
+      "source": "UNFCCC",
+      "title": "UNFCCC, 개도국 온실가스 보고 투명성 강화를 위한 지원 우선순위 논의",
+      "url": "https://unfccc.int/news/sharpening-transparency-support-for-developing-countries",
+      "summary": "UNFCCC 자문전문가그룹(CGE)은 강화된 투명성 체계(ETF) 아래 보고 역량 강화, 온실가스 인벤토리 관리, QA/QC와 관련된 후속 지원 과제를 검토했습니다.",
+      "insight": "국가 온실가스 인벤토리 QA/QC와 제품 LCA 데이터 품질평가(DQA)의 목적·평가기준 차이를 비교할 수 있습니다.",
+      "tags": [
+        "온실가스",
+        "투명성",
+        "데이터 품질",
+        "탄소배출권·GHG",
+        "UNFCCC"
+      ],
+      "verification": "UNFCCC 공식 발표 원문 확인",
+      "review_status": "공식 원문 확인",
+      "id": "0624763b8d47e4",
+      "doi": "",
+      "source_excerpt": "",
+      "document_type": "정책·발표",
+      "priority_score": 15,
+      "priority": "우선 검토",
+      "priority_reasons": [
+        "탄소배출권·GHG"
+      ],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치"
+    },
+    {
+      "date": "2026-10-07",
+      "category": "국내 정책",
+      "region": "한국",
+      "source": "기후에너지환경부",
+      "title": "정부, 2026~2035년 한국형 녹색대전환(K-GX) 전략 발표",
+      "url": "https://mcee.go.kr/m/mob/board/read.do?boardId=1897230&boardMasterId=939&menuId=156",
+      "summary": "기후에너지환경부는 관계 부처와 민간이 공동 수립한 K-GX 전략을 발표했습니다. 보도자료에는 10년간 정부 투자 1,000조 원 규모의 계획이 제시됐습니다.",
+      "insight": "저탄소 기술 투자성과를 평가할 때 직접 감축, 대체·회피배출, 전과정 환경영향의 구분이 연구 쟁점이 될 수 있습니다.",
+      "tags": [
+        "탄소중립",
+        "녹색대전환",
+        "국내 정책",
+        "K-GX"
+      ],
+      "verification": "정부 공식 발표 원문 확인",
+      "review_status": "공식 원문 확인",
+      "id": "bb18875ffb972e",
+      "doi": "",
+      "source_excerpt": "",
+      "document_type": "정책·발표",
+      "priority_score": 0,
+      "priority": "참고",
+      "priority_reasons": [],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치"
+    },
+    {
+      "id": "93be487cbacc54",
+      "date": "2026-08-12",
+      "region": "EU",
+      "category": "국제 정책",
+      "source": "EU 집행위원회 환경총국",
+      "title": "New rules for a more circular European automotive sector",
+      "url": "https://environment.ec.europa.eu/news/new-rules-more-circular-european-automotive-sector-2026-08-12_en",
+      "summary": "EU 집행위원회는 ELV Regulation의 2026년 8월 13일 발효와 자동차 설계·회수·재활용 관련 요구사항을 발표했습니다. 재생 플라스틱 함량과 EPR 규정이 포함됩니다.",
+      "insight": "ELV의 재생원료 사용요건·생산자책임을 자동차부품 PCF, 원료 추적성, 재활용 할당 모델과 연결해 검토할 수 있습니다.",
+      "source_excerpt": "ELV End-of-life Vehicles Regulation Extended Producer Responsibility EPR recycled plastic automotive parts recycling",
+      "tags": [
+        "자동차부품 PCF",
+        "EPR",
+        "ELV·폐자동차",
+        "순환경제·재활용",
+        "플라스틱·재생원료"
+      ],
+      "document_type": "법령·규제",
+      "review_status": "공식 원문 확인",
+      "verification": "기관 공식 발표 원문 확인",
+      "link_status": "원문 연결 확인",
+      "doi": "",
+      "priority_score": 46,
+      "priority": "필독",
+      "priority_reasons": [
+        "자동차부품 PCF",
+        "EPR",
+        "ELV·폐자동차"
+      ],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치"
+    },
+    {
+      "id": "f743fe89c00f0c",
+      "date": "2026-08-11",
+      "region": "EU",
+      "category": "국제 정책",
+      "source": "EU 집행위원회 환경총국",
+      "title": "New EU rules on packaging enter into application",
+      "url": "https://environment.ec.europa.eu/news/new-eu-rules-packaging-enter-application-2026-08-11_en",
+      "summary": "EU PPWR의 주요 규정이 2026년 8월 12일부터 적용되기 시작했다고 집행위원회가 설명했습니다. 일부 세부 요건은 추후 단계적으로 적용됩니다.",
+      "insight": "포장재 재활용 가능성, 재생원료 함량과 제품 탄소발자국 산정의 관계 및 EPR 비용 부담을 검토할 수 있습니다.",
+      "source_excerpt": "Packaging and Packaging Waste Regulation PPWR recyclable recycled content circular economy waste management",
+      "tags": [
+        "PPWR·포장재",
+        "폐기물관리·처리",
+        "순환경제·재활용"
+      ],
+      "document_type": "법령·규제",
+      "review_status": "공식 원문 확인",
+      "verification": "기관 공식 발표 원문 확인",
+      "link_status": "원문 연결 확인",
+      "doi": "",
+      "priority_score": 28,
+      "priority": "필독",
+      "priority_reasons": [
+        "폐기물관리·처리",
+        "PPWR·포장재",
+        "순환경제·재활용"
+      ],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치"
+    },
+    {
+      "id": "c8f644df980cff",
+      "date": "2026-07-17",
+      "region": "EU",
+      "category": "국제 정책",
+      "source": "EU 집행위원회 환경총국",
+      "title": "Ban on destruction of unsold clothes and shoes enters into application",
+      "url": "https://environment.ec.europa.eu/news/ban-destruction-unsold-clothes-and-shoes-enters-application-2026-07-17_en",
+      "summary": "EU ESPR에 따른 미판매 의류·신발 폐기 금지 규정의 시행을 집행위원회가 안내했습니다. 대기업에는 2026년 7월 19일부터 적용됩니다.",
+      "insight": "재사용 촉진과 폐기 회피 효과를 LCA에서 어떻게 평가할지, 재고품 폐기 시나리오와 분리해 비교할 수 있습니다.",
+      "source_excerpt": "Ecodesign for Sustainable Products Regulation ESPR unsold goods circular economy waste prevention",
+      "tags": [
+        "ESPR·DPP",
+        "순환경제·재활용"
+      ],
+      "document_type": "법령·규제",
+      "review_status": "공식 원문 확인",
+      "verification": "기관 공식 발표 원문 확인",
+      "link_status": "원문 연결 확인",
+      "doi": "",
+      "priority_score": 20,
+      "priority": "우선 검토",
+      "priority_reasons": [
+        "ESPR·DPP",
+        "순환경제·재활용"
+      ],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치"
+    }
+  ],
+  "profile_version": "2026-10-10"
+}
