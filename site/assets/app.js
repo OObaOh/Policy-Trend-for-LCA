@@ -75,7 +75,7 @@
   }
   function labelCategory(cat) { return node('span', `category ${groups[cat] || 'domestic'}`, cat || '기타'); }
   function previewText(a) {
-    return a.summary || (a.doi ? 'Crossref DOI·서지정보가 등록됐습니다. 방법론과 결과는 논문 원문을 확인해 주세요.'
+    return (a.analysis?.key_takeaways?.[0] || '') || a.summary || (a.doi ? 'Crossref DOI·서지정보가 등록됐습니다. 방법론과 결과는 논문 원문을 확인해 주세요.'
       : '기관 공개 발표 제목과 원문 링크를 수집했습니다. 시행일·적용 범위 등은 해당 원문 확인이 필요합니다.');
   }
   function labelPriority(entry) {
@@ -85,6 +85,12 @@
     return label;
   }
   function unreadTag(entry) { return node('span', visited(entry) ? 'seen-tag' : 'unread-tag', visited(entry) ? '원문 열어봄' : '● 미열람'); }
+  function detailLink(entry, label, cls = '') {
+    const a = node('a', cls, label);
+    a.href = './detail.html?id=' + encodeURIComponent(readKey(entry));
+    a.title = '사이트 내부 요약과 LCA 연구주제 먼저 읽기';
+    return a;
+  }
   function sourceLink(entry, text = '원문 바로가기 ↗') { return safeLink(entry.url, text, 'source-link', entry); }
   function renderStats() {
     const a = state.articles;
@@ -118,7 +124,7 @@
     const hero = node('article', 'spot-primary');
     const hlabel = node('div', 'spot-labels');
     hlabel.append(labelPriority(first), unreadTag(first)); hero.append(hlabel);
-    const heading = node('h3'); heading.append(safeLink(first.url, first.title, '', first)); hero.append(heading);
+    const heading = node('h3'); heading.append(detailLink(first, first.title)); hero.append(heading);
     hero.append(node('p', '', previewText(first)));
     const reasons = computedPriority(first).reasons;
     if (reasons.length) hero.append(node('p', 'priority-reasons', '관심 일치 · ' + reasons.join(' / ')));
@@ -130,7 +136,7 @@
     chosen.slice(1).forEach(a => {
       const item = node('article', 'spot-small');
       const top = node('div', 'spot-labels'); top.append(labelPriority(a), unreadTag(a)); item.append(top);
-      const h = node('h3'); h.append(safeLink(a.url, a.title, '', a)); item.append(h);
+      const h = node('h3'); h.append(detailLink(a, a.title)); item.append(h);
       const b = node('div', 'spot-bottom'); b.append(node('span', '', localDate(a.date))); b.append(sourceLink(a, '출처 보기 ↗'));
       item.append(b); side.append(item);
     });
@@ -178,7 +184,7 @@
     const top = node('div', 'article-top');
     top.append(labelPriority(entry), labelCategory(entry.category), unreadTag(entry));
     item.append(top);
-    const title = node('h3'); title.append(safeLink(entry.url, entry.title, '', entry)); item.append(title);
+    const title = node('h3'); title.append(detailLink(entry, entry.title)); item.append(title);
     const meta = node('div', 'article-meta');
     meta.append(node('span', '', entry.region || '지역 미확인'));
     meta.append(node('span', '', entry.document_type || (entry.doi ? '논문' : '기관 발표')));
@@ -208,6 +214,7 @@
     seenToggle.type = 'button';
     seenToggle.addEventListener('click', () => markVisited(entry, !visited(entry)));
     bottom.append(seenToggle);
+    bottom.append(detailLink(entry, '요약·연구주제 보기 →', 'detail-link'));
     bottom.append(sourceLink(entry, entry.doi ? '논문 DOI ↗' : '기관 원문 ↗'));
     item.append(bottom);
     return item;
