@@ -46,7 +46,7 @@ jobs:
       - name: Collect new policy and LCA metadata
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-          MAX_AI_PER_RUN: '10'
+          MAX_AI_PER_RUN: '6'
           LOOKBACK_DAYS: '14'
           MAX_NEW_ITEMS: '60'
         run: python scripts/collect.py
