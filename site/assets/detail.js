@@ -53,7 +53,7 @@ function display(a){
     try{await navigator.clipboard.writeText(location.href);$('report-copy-button').textContent='링크 복사됨 ✓';}
     catch{$('report-copy-button').textContent='주소 표시줄에서 링크 복사';}
   });
-  const stage=available?'AI 예비분석 · 원문 검증 필요':'상세 분석 미작성 · 근거 확인 필요';
+  const stage=b.status==='editorial_preliminary'?'공식 원문 기반 편집 초안 · 추가 검토 가능':available?'AI 예비분석 · 원문 검증 필요':'상세 분석 미작성 · 근거 확인 필요';
   $('report-quality').replaceChildren(el('strong','',stage),el('span','','분석 근거: '+basis+'. LCA 논문주제는 확정된 연구 결과가 아닌 연구 제안입니다.'));
   bullets('key-points-content',b.key_takeaways,a.summary?'기존 수집 요약: '+a.summary:fallback,true);
   const ideas=$('research-content');ideas.replaceChildren();
