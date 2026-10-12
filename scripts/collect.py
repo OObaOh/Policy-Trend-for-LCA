@@ -615,11 +615,16 @@ def enrich_from_official_sources(entries: list[dict]) -> None:
     max_items = max(0, min(int(os.getenv("MAX_SOURCE_READ_PER_RUN", "12")), 35))
     if not max_items:
         return
-    pending = [a for a in entries if not isinstance(a.get("analysis"), dict)]
+    today = dt.datetime.now(UTC).date()
+    pending = [a for a in entries
+               if not isinstance(a.get("analysis"), dict)
+               and (not a.get("source_last_attempt")
+                    or (today - dt.date.fromisoformat(a["source_last_attempt"])).days >= 3)]
     pending.sort(key=lambda a: (a.get("priority_score", 0), a.get("date", "")), reverse=True)
     attempted = success = 0
     for item in pending[:max_items]:
         attempted += 1
+        item["source_last_attempt"] = today.isoformat()
         try:
             result = source_extract_brief(item, fetcher=fetch)
             if not result:
