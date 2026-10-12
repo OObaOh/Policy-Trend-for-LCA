@@ -128,6 +128,10 @@ def choose_topic(record: dict) -> str:
         return "ELV"
     if "PPWR·포장재" in tags or "ppwr" in text or "packaging" in text:
         return "포장"
+    if "수소 생산·공급" in tags or "수소도시" in tags or "수소철도·수소버스" in tags or "수소" in text or "hydrogen" in text:
+        return "수소"
+    if "자동차 LCA" in tags or "자동차부품 PCF" in tags:
+        return "자동차"
     scored = []
     for topic, terms in TOPIC_WORDS.items():
         score = sum(2 if v.casefold() in record.get("title","").casefold()
