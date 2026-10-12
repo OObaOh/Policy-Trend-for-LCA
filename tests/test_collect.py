@@ -151,3 +151,40 @@ def test_existing_items_recompute_if_profile_changes(monkeypatch, tmp_path):
     assert len(result['articles']) == 1
     assert result['articles'][0]['priority'] == '필독'
     assert result['articles'][0]['priority_reasons']
+
+
+def test_auto_source_reader_extracts_official_facts_without_api_key():
+    from auto_brief import source_extract_brief
+    sample = {
+        "id": "abc", "title": "EU automotive ELV recycled plastic targets",
+        "url": "https://environment.ec.europa.eu/news/fake-test",
+        "tags": ["ELV·폐자동차"], "source_excerpt": "", "doi": "",
+        "category": "국제 정책", "region": "EU",
+    }
+    text = b"""<html><body><nav>menu</nav><main><article>
+    <p>The new End-of-Life Vehicles Regulation sets obligations for vehicle design,
+    recycled plastic and reprocessing of materials at the end of a vehicle's service life.</p>
+    <p>Producers are expected to ensure traceability of recycled content across suppliers,
+    and the rules seek to reduce dependence on virgin materials.</p>
+    <p>New recovery requirements focus on better collection, dismantling and reuse
+    of automotive components, with monitoring by competent authorities.</p>
+    </article></main></body></html>"""
+    result = source_extract_brief(sample, fetcher=lambda url, timeout: text)
+    assert result["status"] == "source_extract"
+    assert len(result["key_takeaways"]) >= 1
+    assert result["research_ideas"][0]["title"]
+    assert result["background"] == ""  # never invent motives not in evidence
+    assert "직접 원문을 보라" not in result["limitations"]
+
+
+def test_auto_reader_blocks_nonofficial_hosts():
+    from auto_brief import source_extract_brief
+    a = {"url": "https://unknown.example.org/article", "title": "Waste management",
+         "source_excerpt": "", "doi": ""}
+    assert source_extract_brief(a, fetcher=lambda *args, **kwargs: b"<p>text</p>") is None
+
+
+def test_research_idea_for_hydrogen_is_methodological():
+    from auto_brief import research_ideas
+    value = research_ideas({"title": "수소도시의 수소 생산 온실가스 배출", "tags": ["수소 생산·공급"]})
+    assert value and "시간" in value[0]["methodology"]
