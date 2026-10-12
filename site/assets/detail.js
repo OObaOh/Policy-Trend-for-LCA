@@ -7,13 +7,14 @@ const el = (tag, cls='', val) => {
   if(val!==undefined)n.textContent=String(val);
   return n;
 };
-const fallback='현재 확보된 제목·서지정보·발췌문만으로는 확인하기 어렵습니다. 기관 원문이나 논문 초록·본문 확인이 필요합니다.';
+const fallback='해당 자료는 사이트의 자동 원문 조사 대기열에 있습니다. 조사 결과가 확보되면 상세 보고서에 반영됩니다.';
 const text=(x,defaultValue=fallback)=>typeof x==='string'&&x.trim()?x.trim():defaultValue;
-function paragraph(id,s){$(id).replaceChildren(el('p',s?'':'report-empty',text(s)));}
+function paragraph(id,s){const box=$(id); const section=box.closest('.report-section'); if(section)section.hidden=!Boolean(s&&String(s).trim()); box.replaceChildren(); if(s)box.append(el('p','',s));}
 function bullets(id,arr,alt=fallback,numeric=false){
   const dest=$(id);dest.replaceChildren();
   const list=Array.isArray(arr)?arr.filter(x=>typeof x==='string'&&x.trim()).slice(0,8):[];
-  if(!list.length){dest.append(el('p','report-empty',alt));return;}
+  const section=dest.closest('.report-section');if(section)section.hidden=list.length===0&&!alt;
+  if(!list.length){if(alt)dest.append(el('p','report-empty',alt));return;}
   const ul=el('ul',numeric?'report-number-list':'report-bullet-list');
   list.forEach(item=>ul.append(el('li','',item)));dest.append(ul);
 }
@@ -29,6 +30,7 @@ function updateRead(a,value){
 function display(a){
   const b=a.analysis&&typeof a.analysis==='object'?a.analysis:{};
   const available=b.status==='ai_preliminary';
+  const extracted=b.status==='source_extract';
   const basis=b.evidence_basis||(a.source_excerpt?(a.doi?'출판사 공개 초록 발췌':'기관 공개 발췌'):'제목·서지정보만 확보');
   document.title=a.title+' | Carbon & LCA Intelligence Hub';
   $('report-title').textContent=a.title;
@@ -53,9 +55,9 @@ function display(a){
     try{await navigator.clipboard.writeText(location.href);$('report-copy-button').textContent='링크 복사됨 ✓';}
     catch{$('report-copy-button').textContent='주소 표시줄에서 링크 복사';}
   });
-  const stage=b.status==='editorial_preliminary'?'공식 원문 기반 편집 초안 · 추가 검토 가능':available?'AI 예비분석 · 원문 검증 필요':'상세 분석 미작성 · 근거 확인 필요';
+  const stage=b.status==='editorial_preliminary'?'공식 발표문 기반 한국어 분석 · 조문별 검증 별도':available?'AI 원문 기반 예비 심층 분석':extracted?'공식 공개본문·초록 발췌 · 추가 한국어 분석 대기':'자동 원문 조사 대기';
   $('report-quality').replaceChildren(el('strong','',stage),el('span','','분석 근거: '+basis+'. LCA 논문주제는 확정된 연구 결과가 아닌 연구 제안입니다.'));
-  bullets('key-points-content',b.key_takeaways,a.summary?'기존 수집 요약: '+a.summary:fallback,true);
+  bullets('key-points-content',b.key_takeaways,a.summary?'이미 확보한 핵심 내용: '+a.summary:fallback,true);
   const ideas=$('research-content');ideas.replaceChildren();
   if(Array.isArray(b.research_ideas)&&b.research_ideas.some(i=>i&&i.title)){
     b.research_ideas.filter(i=>i&&i.title).slice(0,3).forEach((idea,i)=>{
@@ -66,13 +68,14 @@ function display(a){
       });card.append(dl);ideas.append(card);
     });
   }else{
-    ideas.append(el('p','report-empty',a.insight?'현재 파악된 LCA 쟁점: '+a.insight+' 단순 비교연구가 아닌 방법론적 논문으로 구체화하려면 선행연구·데이터 확인이 필요합니다.':'기존 연구·데이터를 검토한 뒤 시스템경계·할당·시간성·불확실성 등 관련 LCA 방법론과 연결한 연구 질문을 제시할 수 있습니다.'));
+    if(a.insight){ideas.append(el('p','',a.insight));}else{$('report-research').hidden=true;}
   }
   paragraph('background-content',b.background);
   paragraph('purpose-content',b.purpose);
-  bullets('main-content',b.main_points,a.source_excerpt?'기관·학술지 제공 발췌문: '+a.source_excerpt:fallback);
+  bullets('main-content',b.main_points,a.source_excerpt?'공식 발표문·논문 초록 발췌: '+a.source_excerpt:'');
   paragraph('conclusion-content',b.conclusion);
   const impact=$('implications-content');impact.replaceChildren();
+  $('report-implications').hidden=!(b.korea_implications||b.industry_implications);
   const domestic=a.region==='한국';
   const research=a.category==='LCA 논문'||a.category==='연구보고서';
   $('implication-title').textContent=domestic?'국내 산업계에 미치는 영향':(research?'국내 연구·산업 적용 시사점':'우리나라 및 산업계에 미치는 영향');
@@ -88,6 +91,10 @@ function display(a){
   '한계: '+text(b.limitations,'기관 발표문 또는 논문 전체 본문을 검증한 전문가 보고서가 아닙니다. 공식 원문 확인이 필요합니다.'),
   b.generated_at?'AI 분석 생성일: '+b.generated_at:'',
   a.doi?'DOI: '+a.doi:''].filter(Boolean).forEach(x=>evidence.append(el('p','',x)));
+  document.querySelectorAll('.toc-sticky>a[href^="#report-"]').forEach(link=>{
+    const section=document.getElementById(link.getAttribute('href').slice(1));
+    if(section)link.hidden=section.hidden;
+  });
   $('loading').hidden=true;$('report').hidden=false;
 }
 const id=new URLSearchParams(location.search).get('id');
