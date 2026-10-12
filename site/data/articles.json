@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-10-12T17:38:28+00:00",
+  "updated_at": "2026-10-12T17:41:11+00:00",
   "collector": "GitHub Actions / official government sources + Crossref",
   "profile_version": "2026-10-10",
-  "new_items": 5,
+  "new_items": 0,
   "source_health": {
     "ok": [
       "기후에너지환경부",
@@ -18,21 +18,21 @@
       "독일 연방환경부",
       "프랑스 생태전환부",
       "Crossref: dynamic life cycle assessment",
-      "Crossref: consequential life cycle assessment allocation",
+      "Crossref: prospective life cycle assessment",
       "Crossref: waste management life cycle assessment",
       "Crossref: recycling recycled plastics product carbon footprint",
+      "Crossref: end of life vehicles environmental impact",
+      "Crossref: automotive parts product carbon footprint",
       "Crossref: hydrogen life cycle assessment",
       "Crossref: bioenergy avoided emissions carbon removals",
-      "Crossref: product environmental footprint ecodesign regulation"
+      "Crossref: product environmental footprint ecodesign regulation",
+      "Crossref: mass balance recycling chain of custody"
     ],
     "errors": [
       "EU 집행위원회 역내시장·산업총국",
-      "Crossref: prospective life cycle assessment",
+      "Crossref: consequential life cycle assessment allocation",
       "Crossref: extended producer responsibility life cycle",
-      "Crossref: end of life vehicles environmental impact",
-      "Crossref: automotive parts product carbon footprint",
-      "Crossref: hydrogen well to wheel life cycle assessment",
-      "Crossref: mass balance recycling chain of custody"
+      "Crossref: hydrogen well to wheel life cycle assessment"
     ]
   },
   "articles": [
@@ -693,12 +693,45 @@
       "summary": "",
       "insight": "",
       "source_excerpt": "Annual technical reports for the Polycyclic Aromatic Hydrocarbons (PAH) Monitoring Network, part of the UK's air pollution monitoring regime.",
-      "review_status": "원문 검토 필요",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
       "verification": "기관 공식 피드",
       "priority_score": 0,
       "priority": "참고",
       "priority_reasons": [],
-      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치"
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-10-12",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "Annual technical reports for the Polycyclic Aromatic Hydrocarbons (PAH) Monitoring Network, part of the UK's air pollution monitoring regime.",
+          "UK PAH Monitoring and Analysis Network Annual Report for 2025",
+          "This file may not be suitable for users of assistive technology."
+        ],
+        "research_ideas": [
+          {
+            "title": "온실가스 감축정책 지표와 LCA 환경편익 산정의 경계 정합성",
+            "research_question": "정책상 감축실적의 기준선과 제품 전과정 산정의 기준선 차이는 어떻게 비교가능성을 제한하는가?",
+            "methodology": "시스템경계·기준선·할당 및 불확실성에 관한 방법론 대조",
+            "novelty": "정책 지표와 제품 지표의 목적·범위 차이를 규명하는 연구 가설",
+            "data": "공개 규정·배출계수·LCI DB 및 제도 운영 자료"
+          }
+        ],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "Annual technical reports for the Polycyclic Aromatic Hydrocarbons (PAH) Monitoring Network, part of the UK's air pollution monitoring regime.",
+          "UK PAH Monitoring and Analysis Network Annual Report for 2025",
+          "This file may not be suitable for users of assistive technology.",
+          "The Polycyclic Aromatic Hydrocarbons ( PAH ) Monitoring Network is part of the UK’s air pollution monitoring regime .",
+          "Annual technical reports provide information on the activities undertaken and data collected by the PAH in each reporting year."
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
     },
     {
       "id": "41fd8bc3f03bed",
@@ -715,12 +748,37 @@
       "summary": "",
       "insight": "",
       "source_excerpt": "Data used in the 'Air pollution in the UK 2025' report, which presents the results of the UK’s compliance assessment against the Air Quality Standards Regulations (2010).",
-      "review_status": "원문 검토 필요",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
       "verification": "기관 공식 피드",
       "priority_score": 0,
       "priority": "참고",
       "priority_reasons": [],
-      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치"
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-10-12",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "Data used in the 'Air pollution in the UK 2025' report, which presents the results of the UK’s compliance assessment against the Air Quality Standards Regulations (2010).",
+          "Air Pollution in the UK: Compliance Assessment Data for Arsenic",
+          "Air Pollution in the UK: Compliance Assessment Data for Benzo[a]pyrene"
+        ],
+        "research_ideas": [],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "Data used in the 'Air pollution in the UK 2025' report, which presents the results of the UK’s compliance assessment against the Air Quality Standards Regulations (2010).",
+          "Air Pollution in the UK: Compliance Assessment Data for Arsenic",
+          "Air Pollution in the UK: Compliance Assessment Data for Benzo[a]pyrene",
+          "Air Pollution in the UK: Compliance Assessment Data for Benzene",
+          "Air Pollution in the UK: Compliance Assessment Data for Cadmium"
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
     },
     {
       "id": "3999d9b51b4b52",
@@ -739,12 +797,37 @@
       "summary": "",
       "insight": "",
       "source_excerpt": "",
-      "review_status": "원문 검토 필요",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
       "verification": "UNFCCC 공식 뉴스",
       "priority_score": 0,
       "priority": "참고",
       "priority_reasons": [],
-      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치"
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-10-12",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "UN Climate Change News, 9 October 2026 – The Host Country Agreement between the government of Türkiye and the UNFCCC has now been finalized and come into force, with a range of strengthened measures to support an inclusive, efficient and effective COP31 in Antalya in November this year. The Host Country Agreement (HCA) provides the legal basis for ",
+          "The HCA recognizes the role of the Bureau by providing that it will be kept informed of any issues that arise, and by requiring the host country to report to the Bureau after COP31 on achievements and challenges in the organization of the conference and implementation of the HCA.",
+          "The HCA extends to UN Climate Change meetings held in the host country before and after the COP. This will help facilitate future UN Climate Change meetings post-session. It is part of ongoing efforts to improve efficiency and reduce costs for the secretariat and host country, responding to calls from Parties for continued efficiencies."
+        ],
+        "research_ideas": [],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "UN Climate Change News, 9 October 2026 – The Host Country Agreement between the government of Türkiye and the UNFCCC has now been finalized and come into force, with a range of strengthened measures to support an inclusive, efficient and effective COP31 in Antalya in November this year. The Host Country Agreement (HCA) provides the legal basis for ",
+          "The HCA recognizes the role of the Bureau by providing that it will be kept informed of any issues that arise, and by requiring the host country to report to the Bureau after COP31 on achievements and challenges in the organization of the conference and implementation of the HCA.",
+          "The HCA extends to UN Climate Change meetings held in the host country before and after the COP. This will help facilitate future UN Climate Change meetings post-session. It is part of ongoing efforts to improve efficiency and reduce costs for the secretariat and host country, responding to calls from Parties for continued efficiencies.",
+          "The agreement provides enhanced regulation of contractual arrangements for leasing delegation and pavilion space within the Conference premises.",
+          "The agreement was co-signed by COP31 President-Designate, Minister Murat Kurum, and UN Climate Change Executive Secretary Simon Stiell, during the SB64 June Meetings in Bonn. It entered into force and was published in September by UN Climate Change, in accordance with the requirement for publication to follow both the ratification of the agreement "
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
     },
     {
       "id": "31d55f48611377",
@@ -763,12 +846,37 @@
       "summary": "",
       "insight": "",
       "source_excerpt": "Annual technical reports for the Automatic, Urban and Rural Network (AURN), part of the UK's air pollution monitoring regime.",
-      "review_status": "원문 검토 필요",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
       "verification": "기관 공식 피드",
       "priority_score": 0,
       "priority": "참고",
       "priority_reasons": [],
-      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치"
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-10-12",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "Annual technical reports for the Automatic, Urban and Rural Network (AURN), part of the UK's air pollution monitoring regime.",
+          "Automatic Urban and Rural Network (AURN) QAQC annual technical report 2025",
+          "The Automatic, Urban and Rural Network ( AURN ) is part of the UK’s air pollution monitoring regime ."
+        ],
+        "research_ideas": [],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "Annual technical reports for the Automatic, Urban and Rural Network (AURN), part of the UK's air pollution monitoring regime.",
+          "Automatic Urban and Rural Network (AURN) QAQC annual technical report 2025",
+          "The Automatic, Urban and Rural Network ( AURN ) is part of the UK’s air pollution monitoring regime .",
+          "Annual technical reports provide information on the activities undertaken and data collected by the AURN in each reporting year.",
+          "The AURN quality assurance and quality control (QAQC) annual technical report 2025 is prepared by WSP UK."
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
     },
     {
       "id": "30c14bff261658",
@@ -853,12 +961,37 @@
       "summary": "",
       "insight": "",
       "source_excerpt": "Annual technical reports for the Heavy Metals Monitoring Network, part of the UK's air pollution monitoring regime.",
-      "review_status": "원문 검토 필요",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
       "verification": "기관 공식 피드",
       "priority_score": 0,
       "priority": "참고",
       "priority_reasons": [],
-      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치"
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-10-12",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "Annual technical reports for the Heavy Metals Monitoring Network, part of the UK's air pollution monitoring regime.",
+          "UK Heavy Metals Monitoring Network: Annual Report 2025",
+          "This file may not be suitable for users of assistive technology."
+        ],
+        "research_ideas": [],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "Annual technical reports for the Heavy Metals Monitoring Network, part of the UK's air pollution monitoring regime.",
+          "UK Heavy Metals Monitoring Network: Annual Report 2025",
+          "This file may not be suitable for users of assistive technology.",
+          "The Heavy Metals Monitoring Network is part of the UK’s air pollution monitoring regime .",
+          "Annual technical reports provide information on the activities undertaken and data collected by the network in each reporting year."
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
     },
     {
       "id": "246a8fd32e3dd3",
@@ -875,12 +1008,37 @@
       "summary": "",
       "insight": "",
       "source_excerpt": "The Blue Belt Programme supports the UK Overseas Territories with the protection and sustainable management of their marine environments.",
-      "review_status": "원문 검토 필요",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
       "verification": "기관 공식 피드",
       "priority_score": 0,
       "priority": "참고",
       "priority_reasons": [],
-      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치"
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-10-12",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "The Blue Belt Programme supports the UK Overseas Territories with the protection and sustainable management of their marine environments.",
+          "Blue Belt Programme UKOT Marine Biosecurity Roundtable Report FINAL added.",
+          "Page updated with: Blue Belt Programme Roundtable: Protected Area Management Effectiveness"
+        ],
+        "research_ideas": [],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "The Blue Belt Programme supports the UK Overseas Territories with the protection and sustainable management of their marine environments.",
+          "Blue Belt Programme UKOT Marine Biosecurity Roundtable Report FINAL added.",
+          "Page updated with: Blue Belt Programme Roundtable: Protected Area Management Effectiveness",
+          "The Blue Belt is the UK Government’s international marine conservation Programme. It works closely with UK Overseas Territories to assist them in creating and maintaining healthy and productive marine ecosystems.",
+          "This programme has been central to the UK Government’s ambition of leading action to tackle the serious global problems of overfishing, species extinction and climate change."
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
     },
     {
       "id": "1c1864eebfa0cb",
@@ -897,12 +1055,37 @@
       "summary": "",
       "insight": "",
       "source_excerpt": "Air quality modelling uses mathematical calculations to provide information on air pollution. Models are used to support policy making to improve UK air quality.",
-      "review_status": "원문 검토 필요",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
       "verification": "기관 공식 피드",
       "priority_score": 0,
       "priority": "참고",
       "priority_reasons": [],
-      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치"
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-10-12",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "Air quality modelling uses mathematical calculations to provide information on air pollution. Models are used to support policy making to improve UK air quality.",
+          "Air quality modelling is the use of mathematical calculations to simulate the formation, transportation and deposition of pollutants, as well as the chemical interactions between pollutants.",
+          "The Department for Environment, Food and Rural Affairs ( Defra ) uses air quality modelling to complement measurements that are gathered from air pollution monitoring networks ."
+        ],
+        "research_ideas": [],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "Air quality modelling uses mathematical calculations to provide information on air pollution. Models are used to support policy making to improve UK air quality.",
+          "Air quality modelling is the use of mathematical calculations to simulate the formation, transportation and deposition of pollutants, as well as the chemical interactions between pollutants.",
+          "The Department for Environment, Food and Rural Affairs ( Defra ) uses air quality modelling to complement measurements that are gathered from air pollution monitoring networks .",
+          "For example, the CMAQ-Urban (Community Multi-Scale Air Quality Urban) modelling system provides modelled air pollutant concentrations across an area and at the roadside at the level of detail needed to assess compliance for all regulated pollutants.",
+          "The CMAQ-Urban modelling system is used for the annual national air quality compliance assessment."
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
     },
     {
       "id": "fc42538f09fb66",
@@ -919,12 +1102,37 @@
       "summary": "",
       "insight": "",
       "source_excerpt": "",
-      "review_status": "원문 검토 필요",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
       "verification": "정부 공식 보도자료",
       "priority_score": 0,
       "priority": "참고",
       "priority_reasons": [],
-      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치"
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-10-12",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "첨부파일 가습기살균제 참사 배상재원 기후에너지환경부와 기업이 함께 책임진다(보도자료)(환경피해 10.8).hwpx(1,014.1 KB) 가습기살균제 참사 배상재원 기후에너지환경부와 기업이 함께 책임진다(보도자료)(환경피해 10.8).pdf(449 KB)",
+          "기후에너지환경부(장관 김성환)는 10월 8일 오전 석탄회관(서울 종로구 소재)에서 가습기살균제사업자 및 원료물질사업자 15개사*와 '가습기살균제 배상이행협약'을 체결한다고 밝혔다.",
+          "이번 협약은 '가습기살균제 피해구제를 위한 특별법' 전부개정 시행일(2026.10.8.)에 맞춰 기후에너지환경부와 기업이 배상 책임을 성실히 이행하겠다는 의지를 표명하기 위해 마련됐다."
+        ],
+        "research_ideas": [],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "첨부파일 가습기살균제 참사 배상재원 기후에너지환경부와 기업이 함께 책임진다(보도자료)(환경피해 10.8).hwpx(1,014.1 KB) 가습기살균제 참사 배상재원 기후에너지환경부와 기업이 함께 책임진다(보도자료)(환경피해 10.8).pdf(449 KB)",
+          "기후에너지환경부(장관 김성환)는 10월 8일 오전 석탄회관(서울 종로구 소재)에서 가습기살균제사업자 및 원료물질사업자 15개사*와 '가습기살균제 배상이행협약'을 체결한다고 밝혔다.",
+          "이번 협약은 '가습기살균제 피해구제를 위한 특별법' 전부개정 시행일(2026.10.8.)에 맞춰 기후에너지환경부와 기업이 배상 책임을 성실히 이행하겠다는 의지를 표명하기 위해 마련됐다.",
+          "이날 협약에는 김성환 장관을 비롯해 협약을 맺는 15개사 관계자들이 참석한다. 참석자들은 행사에 앞서 가습기살균제 참사 희생자를 추모하는 묵념의 시간을 갖는다.",
+          "이번 협약에 따라 사업자는 피해 배상을 위한 분담금을 성실히 납부하고, 기후에너지환경부는 정부 출연금 예산 확보에 힘쓰기로 했다."
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
     },
     {
       "id": "b2ba4fd81ca2ff",
@@ -941,12 +1149,39 @@
       "summary": "",
       "insight": "",
       "source_excerpt": "Data to monitor the installation of energy efficiency measures in domestic properties via the Social Housing Decarbonisation Fund (SHDF) scheme in England.",
-      "review_status": "원문 검토 필요",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
       "verification": "기관 공식 피드",
       "priority_score": 0,
       "priority": "참고",
       "priority_reasons": [],
-      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치"
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-10-12",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "Data to monitor the installation of energy efficiency measures in domestic properties via the Social Housing Decarbonisation Fund (SHDF) scheme in England."
+        ],
+        "research_ideas": [
+          {
+            "title": "온실가스 감축정책 지표와 LCA 환경편익 산정의 경계 정합성",
+            "research_question": "정책상 감축실적의 기준선과 제품 전과정 산정의 기준선 차이는 어떻게 비교가능성을 제한하는가?",
+            "methodology": "시스템경계·기준선·할당 및 불확실성에 관한 방법론 대조",
+            "novelty": "정책 지표와 제품 지표의 목적·범위 차이를 규명하는 연구 가설",
+            "data": "공개 규정·배출계수·LCI DB 및 제도 운영 자료"
+          }
+        ],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "Data to monitor the installation of energy efficiency measures in domestic properties via the Social Housing Decarbonisation Fund (SHDF) scheme in England."
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
     },
     {
       "id": "83ac780ca5682f",
@@ -963,12 +1198,37 @@
       "summary": "",
       "insight": "",
       "source_excerpt": "The winners represent Europe's leading cities for urban sustainability.",
-      "review_status": "원문 검토 필요",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
       "verification": "기관 공식 피드",
       "priority_score": 0,
       "priority": "참고",
       "priority_reasons": [],
-      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치"
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-10-12",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "The winners of the European Green Cities 2028 awards were announced today (8 Oct) at a festive ceremony in Guimarães, Portugal, the 2026 prizewinner.",
+          "Zaragoza (Spain) has been named European Green Capital 2028, while Benidorm (Spain) and Estarreja (Portugal) will share the European Green Leaf 2028 title, which celebrates smaller cities leading the way in environmental action.",
+          "The European Green Capital 2028 jury was impressed by Zaragoza’s strong governance and long-term commitment, helping the city respond successfully to growing climate challenges. Its approach demonstrates how ambitious environmental action can go hand in hand with social resilience and a community-oriented approach."
+        ],
+        "research_ideas": [],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "The winners of the European Green Cities 2028 awards were announced today (8 Oct) at a festive ceremony in Guimarães, Portugal, the 2026 prizewinner.",
+          "Zaragoza (Spain) has been named European Green Capital 2028, while Benidorm (Spain) and Estarreja (Portugal) will share the European Green Leaf 2028 title, which celebrates smaller cities leading the way in environmental action.",
+          "The European Green Capital 2028 jury was impressed by Zaragoza’s strong governance and long-term commitment, helping the city respond successfully to growing climate challenges. Its approach demonstrates how ambitious environmental action can go hand in hand with social resilience and a community-oriented approach.",
+          "Benidorm and Estarreja also impressed the jury with their strong commitment to creating greener, healthier and more sustainable places to live.",
+          "The 2028 European Green Capital and Green Leaf winners show that this is already happening in cities across Europe. I warmly congratulate Zaragoza , Benidorm and Estarreja . Their commitment and creativity show what can be achieved when local action, community engagement and ambition come together."
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
     },
     {
       "id": "8058c673b1ef78",
@@ -985,12 +1245,39 @@
       "summary": "",
       "insight": "",
       "source_excerpt": "Data to monitor the installation of energy efficiency measures in domestic properties via the Social Housing Decarbonisation Fund (SHDF) scheme in England.",
-      "review_status": "원문 검토 필요",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
       "verification": "기관 공식 피드",
       "priority_score": 0,
       "priority": "참고",
       "priority_reasons": [],
-      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치"
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-10-12",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "Data to monitor the installation of energy efficiency measures in domestic properties via the Social Housing Decarbonisation Fund (SHDF) scheme in England."
+        ],
+        "research_ideas": [
+          {
+            "title": "온실가스 감축정책 지표와 LCA 환경편익 산정의 경계 정합성",
+            "research_question": "정책상 감축실적의 기준선과 제품 전과정 산정의 기준선 차이는 어떻게 비교가능성을 제한하는가?",
+            "methodology": "시스템경계·기준선·할당 및 불확실성에 관한 방법론 대조",
+            "novelty": "정책 지표와 제품 지표의 목적·범위 차이를 규명하는 연구 가설",
+            "data": "공개 규정·배출계수·LCI DB 및 제도 운영 자료"
+          }
+        ],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "Data to monitor the installation of energy efficiency measures in domestic properties via the Social Housing Decarbonisation Fund (SHDF) scheme in England."
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
     },
     {
       "id": "7611111fbe2b6e",
@@ -1007,12 +1294,37 @@
       "summary": "",
       "insight": "",
       "source_excerpt": "Data on the UK’s renewables sector, including capacity, electricity generation and liquid biofuels consumption.",
-      "review_status": "원문 검토 필요",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
       "verification": "기관 공식 피드",
       "priority_score": 0,
       "priority": "참고",
       "priority_reasons": [],
-      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치"
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-10-12",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "Latest Energy Trends table 6.3 (Renewables obligation: certificates and generation) published",
+          "Monthly update to energy trends renewables obligation - certificates & generation data.",
+          "June 2014 Energy Trends, \"Renewables\" published."
+        ],
+        "research_ideas": [],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "Latest Energy Trends table 6.3 (Renewables obligation: certificates and generation) published",
+          "Monthly update to energy trends renewables obligation - certificates & generation data.",
+          "June 2014 Energy Trends, \"Renewables\" published.",
+          "Energy trends section 6: renewables published",
+          "Energy Trends renewables quarterly tables (ODS)"
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
     },
     {
       "id": "667212b1fb7f9d",
