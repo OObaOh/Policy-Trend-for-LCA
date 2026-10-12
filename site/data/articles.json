@@ -1,11 +1,10 @@
 {
-  "updated_at": "2026-10-12T17:41:11+00:00",
+  "updated_at": "2026-10-12T17:43:33+00:00",
   "collector": "GitHub Actions / official government sources + Crossref",
   "profile_version": "2026-10-10",
   "new_items": 0,
   "source_health": {
     "ok": [
-      "기후에너지환경부",
       "UNFCCC",
       "영국 에너지안보·넷제로부 (DESNZ)",
       "영국 환경식품농촌부 (Defra)",
@@ -19,20 +18,21 @@
       "프랑스 생태전환부",
       "Crossref: dynamic life cycle assessment",
       "Crossref: prospective life cycle assessment",
+      "Crossref: consequential life cycle assessment allocation",
       "Crossref: waste management life cycle assessment",
+      "Crossref: extended producer responsibility life cycle",
       "Crossref: recycling recycled plastics product carbon footprint",
       "Crossref: end of life vehicles environmental impact",
-      "Crossref: automotive parts product carbon footprint",
-      "Crossref: hydrogen life cycle assessment",
+      "Crossref: hydrogen well to wheel life cycle assessment",
       "Crossref: bioenergy avoided emissions carbon removals",
-      "Crossref: product environmental footprint ecodesign regulation",
-      "Crossref: mass balance recycling chain of custody"
+      "Crossref: product environmental footprint ecodesign regulation"
     ],
     "errors": [
+      "MCEE",
       "EU 집행위원회 역내시장·산업총국",
-      "Crossref: consequential life cycle assessment allocation",
-      "Crossref: extended producer responsibility life cycle",
-      "Crossref: hydrogen well to wheel life cycle assessment"
+      "Crossref: automotive parts product carbon footprint",
+      "Crossref: hydrogen life cycle assessment",
+      "Crossref: mass balance recycling chain of custody"
     ]
   },
   "articles": [
@@ -1587,12 +1587,36 @@
       "summary": "",
       "insight": "",
       "source_excerpt": "",
-      "review_status": "원문 검토 필요",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
       "verification": "UNFCCC 공식 뉴스",
       "priority_score": 0,
       "priority": "참고",
       "priority_reasons": [],
-      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치"
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-10-12",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "The following is a transcript of remarks delivered by UN Climate Change Executive Secretary Simon Stiell at the official opening of Pre-COP in Fiji on Wednesday 7 October 2026. Excellencies, dear friends, I thank the Government of Fiji for its hospitality. And the Governments of Türkiye, Australia and the Pacific islands for their dedication to COP",
+          "COP31 Host Country Agreement enters into force",
+          "New strategy for UN Climate Change's Entertainment and Culture for Climate Action initiative unveiled at Climate Week NYC"
+        ],
+        "research_ideas": [],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "The following is a transcript of remarks delivered by UN Climate Change Executive Secretary Simon Stiell at the official opening of Pre-COP in Fiji on Wednesday 7 October 2026. Excellencies, dear friends, I thank the Government of Fiji for its hospitality. And the Governments of Türkiye, Australia and the Pacific islands for their dedication to COP",
+          "COP31 Host Country Agreement enters into force",
+          "New strategy for UN Climate Change's Entertainment and Culture for Climate Action initiative unveiled at Climate Week NYC",
+          "UN Climate Chief major keynote: thanks to global renewables, humanity avoided almost half a trillion US dollars in fossil fuel costs last year"
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
     },
     {
       "id": "53bfe95b57d0cd",
@@ -1681,13 +1705,46 @@
       "summary": "",
       "insight": "",
       "source_excerpt": "NHTSA has received identical petitions from 13 final-stage manufacturers of \"entertainer-type motorcoaches,\" seeking renewal of temporary exemptions from a shoulder belt requirement of Federal Motor Vehicle Safety Standard (FMVSS) No. 208, \"Occupant crash protection,\" for side-facing seats on motorcoaches. The petitioners seek to renew their exemptions that allow them to install Type 1 seat belts (lap belt only) at side-facing seating positions, instead of Type 2 seat belts (lap and shoulder belts) required by FMVSS No. 208. Each petitioner sta",
-      "review_status": "원문 검토 필요",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
       "verification": "미국 연방 관보 공식 기록",
       "regulatory_status": "Notice",
       "priority_score": 0,
       "priority": "참고",
       "priority_reasons": [],
-      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치"
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-10-12",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "Due to aggressive automated scraping of FederalRegister.gov and eCFR.gov, programmatic access to these sites is limited to access to our extensive developer APIs. Please visit FederalRegister.gov API documentation or eCFR.gov API documentation to learn more about how to access the API.",
+          "Your request has been flagged as potentially automated. If you are human user receiving this message, please complete the CAPTCHA (bot test) below and click \"Request Access\". You may occassionally be asked to complete the CAPTCHA again, this is normal and part of our security measures.",
+          "An official website of the United States government."
+        ],
+        "research_ideas": [
+          {
+            "title": "자동차 공급망 제품단위 탄소발자국의 데이터 품질과 배분규칙 연구",
+            "research_question": "품목별 원재료 구성과 공정 할당·데이터 품질 차이가 자동차부품 PCF 불확실성을 얼마나 설명하는가?",
+            "methodology": "Catena-X·ISO 14067·DQR 요구사항 및 할당법 비교·민감도 분석",
+            "novelty": "제품 PCF의 데이터 출처·검증체계와 방법론의 연결을 탐색하는 가설",
+            "data": "공개 IMDS 예시, 소재별 LCI, 공급망 양식, 국가별 전력배출계수"
+          }
+        ],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "Due to aggressive automated scraping of FederalRegister.gov and eCFR.gov, programmatic access to these sites is limited to access to our extensive developer APIs. Please visit FederalRegister.gov API documentation or eCFR.gov API documentation to learn more about how to access the API.",
+          "Your request has been flagged as potentially automated. If you are human user receiving this message, please complete the CAPTCHA (bot test) below and click \"Request Access\". You may occassionally be asked to complete the CAPTCHA again, this is normal and part of our security measures.",
+          "An official website of the United States government.",
+          "If you experiencing issues with the CAPTCHA or want to request a wider IP range, you can use the \"Site Help\" button found in the lower, right of this page to make a request.",
+          "This contact form is only for IP Access help. Please do not provide confidential information or personal data."
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
     },
     {
       "id": "e84d86ad254762",
@@ -1704,12 +1761,45 @@
       "summary": "",
       "insight": "",
       "source_excerpt": "Environmental regulations and guidance on offshore oil and gas exploration and production offshore gas unloading and storage and offshore carbon dioxide storage activities",
-      "review_status": "원문 검토 필요",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
       "verification": "기관 공식 피드",
       "priority_score": 0,
       "priority": "참고",
       "priority_reasons": [],
-      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치"
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-10-12",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "Environmental regulations and guidance on offshore oil and gas exploration and production offshore gas unloading and storage and offshore carbon dioxide storage activities",
+          "Supplementary guidance for assessing the effects of downstream scope 3 emissions on climate from offshore oil and gas projects",
+          "Addition of the 2025 Baseline Data Collection FAQs to the Greenhouse Gases Emissions Trading Scheme (ETS) section SNS Activity Tracker updated"
+        ],
+        "research_ideas": [
+          {
+            "title": "온실가스 감축정책 지표와 LCA 환경편익 산정의 경계 정합성",
+            "research_question": "정책상 감축실적의 기준선과 제품 전과정 산정의 기준선 차이는 어떻게 비교가능성을 제한하는가?",
+            "methodology": "시스템경계·기준선·할당 및 불확실성에 관한 방법론 대조",
+            "novelty": "정책 지표와 제품 지표의 목적·범위 차이를 규명하는 연구 가설",
+            "data": "공개 규정·배출계수·LCI DB 및 제도 운영 자료"
+          }
+        ],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "Environmental regulations and guidance on offshore oil and gas exploration and production offshore gas unloading and storage and offshore carbon dioxide storage activities",
+          "Supplementary guidance for assessing the effects of downstream scope 3 emissions on climate from offshore oil and gas projects",
+          "Addition of the 2025 Baseline Data Collection FAQs to the Greenhouse Gases Emissions Trading Scheme (ETS) section SNS Activity Tracker updated",
+          "Greenhouse Gases Emissions Trading Scheme (ETS) section updated.",
+          "Addition of Net Zero North Sea Storage (Ltd): Northern Endurance Partnership CO2 Storage Development HRA to the Oil and gas: offshore environmental legislation website"
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
     },
     {
       "id": "23bf9eccb07e5c",
@@ -1726,12 +1816,45 @@
       "summary": "",
       "insight": "",
       "source_excerpt": "Deutschland bleibt verlässlicher Partner beim internationalen Klimaschutz und mobilisiert trotz sinkender Haushaltsmittel zusätzliche private Investitionen für Entwicklungs- und Schwellenländer.",
-      "review_status": "원문 검토 필요",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
       "verification": "기관 공식 피드",
       "priority_score": 0,
       "priority": "참고",
       "priority_reasons": [],
-      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치"
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-10-12",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "Die an die Europäische Union zugelieferten Klimafinanzierungszahlen für 2025 zeigen, dass Deutschland erneut seinen Anteil am globalen Klimaversprechen leistet und zu dem im Koalitionsvertrag festgelegten \"fairen Anteil\" für internationale Investitionen in den Klimaschutz steht. Der deutsche Beitrag zum internationalen Klimaschutz setzt sich aus Ha",
+          "\"In Zeiten geopolitischer Spannungen, einer globalen Energiekrise und der Zunahme von Extremwetterereignissen durch den Klimawandel setzt Deutschland mit seiner erneut starken Klimafinanzierung ein wichtiges Zeichen. Wir unterstützen Entwicklungs- und Schwellenländer dabei, die richtigen Rahmenbedingungen für die Abkehr von fossilen Energieträgern ",
+          "Aus Haushaltsmitteln stellte die Bundesregierung 2025 insgesamt 4,7 Milliarden Euro für die internationale Klimafinanzierung bereit (2024: 6,1 Milliarden Euro). 85 Prozent der Mittel kamen 2025 aus dem BMZ. Das BMZ unterstützt Entwicklungs- und Schwellenländer dabei, erneuerbare Energien auszubauen und Energieeffizienz zu steigern. Zur Anpassung an"
+        ],
+        "research_ideas": [
+          {
+            "title": "온실가스 감축정책 지표와 LCA 환경편익 산정의 경계 정합성",
+            "research_question": "정책상 감축실적의 기준선과 제품 전과정 산정의 기준선 차이는 어떻게 비교가능성을 제한하는가?",
+            "methodology": "시스템경계·기준선·할당 및 불확실성에 관한 방법론 대조",
+            "novelty": "정책 지표와 제품 지표의 목적·범위 차이를 규명하는 연구 가설",
+            "data": "공개 규정·배출계수·LCI DB 및 제도 운영 자료"
+          }
+        ],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "Die an die Europäische Union zugelieferten Klimafinanzierungszahlen für 2025 zeigen, dass Deutschland erneut seinen Anteil am globalen Klimaversprechen leistet und zu dem im Koalitionsvertrag festgelegten \"fairen Anteil\" für internationale Investitionen in den Klimaschutz steht. Der deutsche Beitrag zum internationalen Klimaschutz setzt sich aus Ha",
+          "\"In Zeiten geopolitischer Spannungen, einer globalen Energiekrise und der Zunahme von Extremwetterereignissen durch den Klimawandel setzt Deutschland mit seiner erneut starken Klimafinanzierung ein wichtiges Zeichen. Wir unterstützen Entwicklungs- und Schwellenländer dabei, die richtigen Rahmenbedingungen für die Abkehr von fossilen Energieträgern ",
+          "Aus Haushaltsmitteln stellte die Bundesregierung 2025 insgesamt 4,7 Milliarden Euro für die internationale Klimafinanzierung bereit (2024: 6,1 Milliarden Euro). 85 Prozent der Mittel kamen 2025 aus dem BMZ. Das BMZ unterstützt Entwicklungs- und Schwellenländer dabei, erneuerbare Energien auszubauen und Energieeffizienz zu steigern. Zur Anpassung an",
+          "Die übrigen Mittel kamen überwiegend aus dem Bundesumweltministerium (BMUKN), welches diese über das Förderinstrument der \"Internationalen Klimaschutzinitiative\" (IKI), unter Beteiligung des Auswärtigen Amts umsetzt. Im Jahr 2025 wurden hiermit Entwicklungs- und Schwellenländer dabei unterstützt, ihre nationalen Klimaziele (NDCs) zu erreichen: Die ",
+          "Die Bundesregierung leistet weiterhin Beitragszahlungen zu multilateralen Fonds wie dem Grünen Klimafonds, der Globalen Umweltfazilität oder dem Fonds zum Umgang mit Verlusten und Schäden. Auch der weltweite Schutz von Arten, Wäldern, Mooren, Meeren und anderen Ökosystemen zahlt auf die internationalen Klimaziele ein – dazu betrug die Unterstützung"
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
     },
     {
       "id": "03c2eb3c172672",
@@ -1748,12 +1871,45 @@
       "summary": "",
       "insight": "",
       "source_excerpt": "Wie können Moore, Wälder oder Böden dabei helfen, dem Klimawandel vorzubeugen und gleichzeitig die Folgen besser abzufedern? Das zeigen zahlreiche Projekte aus dem Aktionsprogramm Natürlicher Klimaschutz während der Themenwoche.",
-      "review_status": "원문 검토 필요",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
       "verification": "기관 공식 피드",
       "priority_score": 0,
       "priority": "참고",
       "priority_reasons": [],
-      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치"
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-10-12",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "Rund 50 lokale Projekte öffnen ihre Türen in Themenwoche zum Aktionsprogramm Natürlicher Klimaschutz",
+          "Wie können Moore, Wälder oder Böden dabei helfen, dem Klimawandel vorzubeugen und gleichzeitig dessen Folgen besser abzufedern? In einer Themenwoche vom 7. bis zum 14. Oktober 2026 öffnen bundesweit zahlreiche Projekte aus dem Aktionsprogramm Natürlicher Klimaschutz (ANK) ihre Türen. Direkt vor Ort oder online können sich Interessierte über einzeln",
+          "Bundesumweltminister Carsten Schneider: \"Die Natur ist unsere beste Verbündete im Einsatz gegen den Klimawandel. Intakte Moore, Wälder und Auen helfen uns gleich doppelt: Sie entnehmen Kohlenstoff aus der Atmosphäre und helfen zugleich, Wasser in der Landschaft zu halten, Hitze abzumildern und die Folgen von Starkregen zu begrenzen. Wer in Natur in"
+        ],
+        "research_ideas": [
+          {
+            "title": "온실가스 감축정책 지표와 LCA 환경편익 산정의 경계 정합성",
+            "research_question": "정책상 감축실적의 기준선과 제품 전과정 산정의 기준선 차이는 어떻게 비교가능성을 제한하는가?",
+            "methodology": "시스템경계·기준선·할당 및 불확실성에 관한 방법론 대조",
+            "novelty": "정책 지표와 제품 지표의 목적·범위 차이를 규명하는 연구 가설",
+            "data": "공개 규정·배출계수·LCI DB 및 제도 운영 자료"
+          }
+        ],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "Rund 50 lokale Projekte öffnen ihre Türen in Themenwoche zum Aktionsprogramm Natürlicher Klimaschutz",
+          "Wie können Moore, Wälder oder Böden dabei helfen, dem Klimawandel vorzubeugen und gleichzeitig dessen Folgen besser abzufedern? In einer Themenwoche vom 7. bis zum 14. Oktober 2026 öffnen bundesweit zahlreiche Projekte aus dem Aktionsprogramm Natürlicher Klimaschutz (ANK) ihre Türen. Direkt vor Ort oder online können sich Interessierte über einzeln",
+          "Bundesumweltminister Carsten Schneider: \"Die Natur ist unsere beste Verbündete im Einsatz gegen den Klimawandel. Intakte Moore, Wälder und Auen helfen uns gleich doppelt: Sie entnehmen Kohlenstoff aus der Atmosphäre und helfen zugleich, Wasser in der Landschaft zu halten, Hitze abzumildern und die Folgen von Starkregen zu begrenzen. Wer in Natur in",
+          "BfN-Präsidentin Sabine Riewenherm: \"Mehr als 13.000 kleinere und größere Vorhaben wurden und werden bereits im Aktionsprogramm Natürlicher Klimaschutz gefördert. An deren Umsetzung wirkt eine Vielzahl an Akteuren mit, wie zum Beispiel Kommunen, Landwirtschaft, Forstwirtschaft und Umweltverbände, Forschungseinrichtungen, aber auch Unternehmen und Pr",
+          "Unter dem Motto \"Natur stärken – Klima schützen\" bietet die ANK-Themenwoche ein vielseitiges Programm für Bürgerinnen und Bürger sowie weitere Interessierte in ganz Deutschland. Wie funktioniert Natürlicher Klimaschutz eigentlich? Welche Rolle spielen dabei Moore, Auen, Wälder, Meere oder die Natur in unseren Städten? Wie kann natürlicher Klimaschu"
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
     },
     {
       "id": "520845ae60c7d0",
@@ -1772,12 +1928,45 @@
       "summary": "",
       "insight": "",
       "source_excerpt": "Das Treffen in Fidschi dient der politischen Vorbereitung der Weltklimakonferenz COP31 im November in Antalya. Für Deutschland nimmt Staatssekretär Jochen Flasbarth an der Konferenz teil.",
-      "review_status": "원문 검토 필요",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
       "verification": "기관 공식 피드",
       "priority_score": 0,
       "priority": "참고",
       "priority_reasons": [],
-      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치"
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-10-12",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "Vom 5. bis 8. Oktober 2026 kommen in Fidschi und Tuvalu Ministerinnen und Minister sowie hochrangige Regierungsvertreterinnen und -vertreter zusammen. Das Treffen dient der politischen Vorbereitung der Weltklimakonferenz COP31 im November in Antalya. Für Deutschland nimmt Staatssekretär Jochen Flasbarth an der Konferenz teil. Die Pre-COP findet unt",
+          "Staatssekretär Jochen Flasbarth: \"Die Pre-COP ist ein wichtiger Moment, um vor der Weltklimakonferenz in Antalya politische Einigungsmöglichkeiten zu erkunden. Dass wir darüber im Pazifik beraten, ist von besonderer symbolischer Bedeutung. Die pazifischen Inselstaaten gehören seit Jahren zu den Wortführern einer engagierten Klimapolitik. Ohne das e",
+          "Deutschland arbeitet seit vielen Jahren eng mit den pazifischen Inselstaaten in der internationalen Klima- und Meerespolitik zusammen. Gemeinsam mit der EU setzt sich Deutschland für konkrete Ergebnisse der COP31 und eine beschleunigte Umsetzung des Pariser Klimaabkommens ein. Dazu gehört auch die weltweit beschleunigte Elektrifizierung, eine Prior"
+        ],
+        "research_ideas": [
+          {
+            "title": "온실가스 감축정책 지표와 LCA 환경편익 산정의 경계 정합성",
+            "research_question": "정책상 감축실적의 기준선과 제품 전과정 산정의 기준선 차이는 어떻게 비교가능성을 제한하는가?",
+            "methodology": "시스템경계·기준선·할당 및 불확실성에 관한 방법론 대조",
+            "novelty": "정책 지표와 제품 지표의 목적·범위 차이를 규명하는 연구 가설",
+            "data": "공개 규정·배출계수·LCI DB 및 제도 운영 자료"
+          }
+        ],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "Vom 5. bis 8. Oktober 2026 kommen in Fidschi und Tuvalu Ministerinnen und Minister sowie hochrangige Regierungsvertreterinnen und -vertreter zusammen. Das Treffen dient der politischen Vorbereitung der Weltklimakonferenz COP31 im November in Antalya. Für Deutschland nimmt Staatssekretär Jochen Flasbarth an der Konferenz teil. Die Pre-COP findet unt",
+          "Staatssekretär Jochen Flasbarth: \"Die Pre-COP ist ein wichtiger Moment, um vor der Weltklimakonferenz in Antalya politische Einigungsmöglichkeiten zu erkunden. Dass wir darüber im Pazifik beraten, ist von besonderer symbolischer Bedeutung. Die pazifischen Inselstaaten gehören seit Jahren zu den Wortführern einer engagierten Klimapolitik. Ohne das e",
+          "Deutschland arbeitet seit vielen Jahren eng mit den pazifischen Inselstaaten in der internationalen Klima- und Meerespolitik zusammen. Gemeinsam mit der EU setzt sich Deutschland für konkrete Ergebnisse der COP31 und eine beschleunigte Umsetzung des Pariser Klimaabkommens ein. Dazu gehört auch die weltweit beschleunigte Elektrifizierung, eine Prior",
+          "Die Pre-COP findet traditionell wenige Wochen vor der jährlichen Weltklimakonferenz statt und bringt eine ausgewählte Gruppe von Ministerinnen und Ministern sowie hochrangigen Regierungsvertreterinnen und -vertretern zusammen. Sie dient dazu, politische Lösungsräume für noch offene Fragen auszuloten und die Verhandlungen der anschließenden COP vorz",
+          "Pressemitteilung 18.06.2026 COP31-Präsidentschaften senden wichtige Signale für neue Klimaziele"
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
     },
     {
       "id": "4e397e28fbf22d",
@@ -1794,12 +1983,37 @@
       "summary": "",
       "insight": "",
       "source_excerpt": "The new assessments for certain Member States also highlight progress in the state of EU water bodies over the past six years.",
-      "review_status": "원문 검토 필요",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
       "verification": "기관 공식 피드",
       "priority_score": 0,
       "priority": "참고",
       "priority_reasons": [],
-      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치"
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-10-12",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "The European Commission has published new reports on the state of water in the European Union , which include assessments for Member States that did not provide data in time for the initial reports published in Feb 2025 .",
+          "The reports cover the implementation of the Water Framework Directive, the Floods Directive, and the Marine Strategy Framework Directive and highlight progress on the state of EU water bodies over the past six years.",
+          "The reports confirm many of the trends identified in the Commission’s February 2025 assessment . Pollution remains one of the biggest obstacles to achieving good ecological and chemical status, with diffuse nutrient pollution, alongside chemical pollution and other pressures, continuing to impact water bodies. Disruption of natural river flows and "
+        ],
+        "research_ideas": [],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "The European Commission has published new reports on the state of water in the European Union , which include assessments for Member States that did not provide data in time for the initial reports published in Feb 2025 .",
+          "The reports cover the implementation of the Water Framework Directive, the Floods Directive, and the Marine Strategy Framework Directive and highlight progress on the state of EU water bodies over the past six years.",
+          "The reports confirm many of the trends identified in the Commission’s February 2025 assessment . Pollution remains one of the biggest obstacles to achieving good ecological and chemical status, with diffuse nutrient pollution, alongside chemical pollution and other pressures, continuing to impact water bodies. Disruption of natural river flows and ",
+          "The European Water Resilience Strategy provides additional tools to accelerate action on the pressures identified in the reports.",
+          "As required by law, the Commission assesses Member States’ river basin and flood management plans as well as marine programmes of measures. These reports have highlighted persistent pressures from pollution, insufficient monitoring and lack of ambition and funding to tackle the existing challenges."
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
     },
     {
       "id": "361b5f7304d0a7",
@@ -1821,7 +2035,8 @@
       "priority_score": 0,
       "priority": "참고",
       "priority_reasons": [],
-      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치"
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-10-12"
     },
     {
       "id": "2cf56d642159e6",
@@ -1838,12 +2053,37 @@
       "summary": "",
       "insight": "",
       "source_excerpt": "",
-      "review_status": "원문 검토 필요",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
       "verification": "UNFCCC 공식 뉴스",
       "priority_score": 0,
       "priority": "참고",
       "priority_reasons": [],
-      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치"
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-10-12",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "The following is a transcript of remarks delivered by UN Climate Change Executive Secretary Simon Stiell at an event organized by Wellcome , on the first day of the official Pre-COP ministerial meeting, on Monday 5 October 2026 in Fiji. Bula vinaka. Thank you to Wellcome, and to the Government and people of Fiji. Your partnership with other Pacific",
+          "Tanzania’s adaptation plan charts a path to protect lives and livelihoods",
+          "UN Climate Chief written statement on glacial collapse and flooding in the Himalayan region"
+        ],
+        "research_ideas": [],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "The following is a transcript of remarks delivered by UN Climate Change Executive Secretary Simon Stiell at an event organized by Wellcome , on the first day of the official Pre-COP ministerial meeting, on Monday 5 October 2026 in Fiji. Bula vinaka. Thank you to Wellcome, and to the Government and people of Fiji. Your partnership with other Pacific",
+          "Tanzania’s adaptation plan charts a path to protect lives and livelihoods",
+          "UN Climate Chief written statement on glacial collapse and flooding in the Himalayan region",
+          "Safeguarding life through living knowledge systems",
+          "Jamaica turns climate lessons into long-term climate action"
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
     },
     {
       "id": "8ab6ccd1e3c45c",
@@ -1862,13 +2102,46 @@
       "summary": "",
       "insight": "",
       "source_excerpt": "The U.S. Environmental Protection Agency (EPA) is proposing to approve the \"Second 10-Year Maintenance Plan for the Truckee Meadows 24-Hour PM 10 Attainment Area\" (\"Truckee Meadows Second PM 10 Maintenance Plan\" or \"Plan\") as a revision to the Washoe County portion of the State implementation plan (SIP) for the State of Nevada. The Truckee Meadows Second PM 10 Maintenance Plan includes, among other elements, a base year emissions inventory, a maintenance demonstration, contingency provisions, and motor vehicle emissions budgets for use in trans",
-      "review_status": "원문 검토 필요",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
       "verification": "미국 연방 관보 공식 기록",
       "regulatory_status": "Proposed Rule",
       "priority_score": 0,
       "priority": "참고",
       "priority_reasons": [],
-      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치"
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-10-12",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "Due to aggressive automated scraping of FederalRegister.gov and eCFR.gov, programmatic access to these sites is limited to access to our extensive developer APIs. Please visit FederalRegister.gov API documentation or eCFR.gov API documentation to learn more about how to access the API.",
+          "Your request has been flagged as potentially automated. If you are human user receiving this message, please complete the CAPTCHA (bot test) below and click \"Request Access\". You may occassionally be asked to complete the CAPTCHA again, this is normal and part of our security measures.",
+          "An official website of the United States government."
+        ],
+        "research_ideas": [
+          {
+            "title": "온실가스 감축정책 지표와 LCA 환경편익 산정의 경계 정합성",
+            "research_question": "정책상 감축실적의 기준선과 제품 전과정 산정의 기준선 차이는 어떻게 비교가능성을 제한하는가?",
+            "methodology": "시스템경계·기준선·할당 및 불확실성에 관한 방법론 대조",
+            "novelty": "정책 지표와 제품 지표의 목적·범위 차이를 규명하는 연구 가설",
+            "data": "공개 규정·배출계수·LCI DB 및 제도 운영 자료"
+          }
+        ],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "Due to aggressive automated scraping of FederalRegister.gov and eCFR.gov, programmatic access to these sites is limited to access to our extensive developer APIs. Please visit FederalRegister.gov API documentation or eCFR.gov API documentation to learn more about how to access the API.",
+          "Your request has been flagged as potentially automated. If you are human user receiving this message, please complete the CAPTCHA (bot test) below and click \"Request Access\". You may occassionally be asked to complete the CAPTCHA again, this is normal and part of our security measures.",
+          "An official website of the United States government.",
+          "If you experiencing issues with the CAPTCHA or want to request a wider IP range, you can use the \"Site Help\" button found in the lower, right of this page to make a request.",
+          "This contact form is only for IP Access help. Please do not provide confidential information or personal data."
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
     },
     {
       "id": "292ffb46f97d0c",
@@ -1943,12 +2216,37 @@
       "summary": "",
       "insight": "",
       "source_excerpt": "",
-      "review_status": "원문 검토 필요",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
       "verification": "UNFCCC 공식 뉴스",
       "priority_score": 0,
       "priority": "참고",
       "priority_reasons": [],
-      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치"
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-10-12",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "UN Climate Change News, 1 October 2026 – Turning climate reporting into stronger policies, clearer investment priorities and measurable results was at the heart of the high-level dialogue on Transparency during Climate Week 4 in Baku, Azerbaijan. Participants highlighted how the enhanced transparency framework (ETF) can help countries advance imple",
+          "First 100 transparency report reviews conducted under the Paris Agreement",
+          "Sharpening transparency support for developing countries"
+        ],
+        "research_ideas": [],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "UN Climate Change News, 1 October 2026 – Turning climate reporting into stronger policies, clearer investment priorities and measurable results was at the heart of the high-level dialogue on Transparency during Climate Week 4 in Baku, Azerbaijan. Participants highlighted how the enhanced transparency framework (ETF) can help countries advance imple",
+          "First 100 transparency report reviews conducted under the Paris Agreement",
+          "Sharpening transparency support for developing countries",
+          "New UN Climate Change tool strengthens tracking of non-Party climate action",
+          "UNFCCC Climate Week in Baku to step up action and support on climate transparency"
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
     },
     {
       "id": "a12d3e4eae5469",
@@ -1968,13 +2266,46 @@
       "summary": "",
       "insight": "",
       "source_excerpt": "NHTSA, on behalf of the U.S. Department of Transportation (DOT), is substantially recalibrating the Corporate Average Fuel Economy (CAFE) program to bring the program into compliance with the law and to remove previous regulatory distortions which have induced manufacturers to make design decisions that have neither aligned with market demand and the needs of American families nor have delivered the consistent improvements in the fuel economy performance of manufacturer fleets, as Congress intended. This recalibration finalizes amendments to fu",
-      "review_status": "원문 검토 필요",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
       "verification": "미국 연방 관보 공식 기록",
       "regulatory_status": "Rule",
       "priority_score": 0,
       "priority": "참고",
       "priority_reasons": [],
-      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치"
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-10-12",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "Due to aggressive automated scraping of FederalRegister.gov and eCFR.gov, programmatic access to these sites is limited to access to our extensive developer APIs. Please visit FederalRegister.gov API documentation or eCFR.gov API documentation to learn more about how to access the API.",
+          "Your request has been flagged as potentially automated. If you are human user receiving this message, please complete the CAPTCHA (bot test) below and click \"Request Access\". You may occassionally be asked to complete the CAPTCHA again, this is normal and part of our security measures.",
+          "An official website of the United States government."
+        ],
+        "research_ideas": [
+          {
+            "title": "자동차 공급망 제품단위 탄소발자국의 데이터 품질과 배분규칙 연구",
+            "research_question": "품목별 원재료 구성과 공정 할당·데이터 품질 차이가 자동차부품 PCF 불확실성을 얼마나 설명하는가?",
+            "methodology": "Catena-X·ISO 14067·DQR 요구사항 및 할당법 비교·민감도 분석",
+            "novelty": "제품 PCF의 데이터 출처·검증체계와 방법론의 연결을 탐색하는 가설",
+            "data": "공개 IMDS 예시, 소재별 LCI, 공급망 양식, 국가별 전력배출계수"
+          }
+        ],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "Due to aggressive automated scraping of FederalRegister.gov and eCFR.gov, programmatic access to these sites is limited to access to our extensive developer APIs. Please visit FederalRegister.gov API documentation or eCFR.gov API documentation to learn more about how to access the API.",
+          "Your request has been flagged as potentially automated. If you are human user receiving this message, please complete the CAPTCHA (bot test) below and click \"Request Access\". You may occassionally be asked to complete the CAPTCHA again, this is normal and part of our security measures.",
+          "An official website of the United States government.",
+          "If you experiencing issues with the CAPTCHA or want to request a wider IP range, you can use the \"Site Help\" button found in the lower, right of this page to make a request.",
+          "This contact form is only for IP Access help. Please do not provide confidential information or personal data."
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
     },
     {
       "id": "42738a0a0e6591",
