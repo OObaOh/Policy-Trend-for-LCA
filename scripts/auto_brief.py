@@ -1,6 +1,7 @@
 """Grounded, no-key fallback for public source text.
 
-This module does NOT claim to translate or synthesize like an LLM. It retrieves
+This module does NOT claim to translate or synthesize like an LLM.
+Research backlog can be triggered manually for initial archive completion. It retrieves
 public body paragraphs, selects relevant statements, and builds a separately
 labeled extractive brief. Original prose remains marked as excerpts.
 """
