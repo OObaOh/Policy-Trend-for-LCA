@@ -23,6 +23,7 @@ import xml.etree.ElementTree as ET
 
 from bs4 import BeautifulSoup
 from topics import tags_from, relevant, compute_priority, load_profile
+from auto_brief import source_extract_brief
 
 ROOT = Path(__file__).resolve().parents[1]
 DATA_PATH = ROOT / 'site' / 'data' / 'articles.json'
@@ -475,7 +476,8 @@ def enrich_with_openai(entries: list[dict]) -> None:
     limit = max(0, min(int(os.getenv('MAX_AI_PER_RUN', '6')), 15))
     if not limit:
         return
-    pending = [a for a in entries if not isinstance(a.get('analysis'), dict)]
+    pending = [a for a in entries if not isinstance(a.get('analysis'), dict) or
+               a.get('analysis', {}).get('status') in ('source_extract', 'metadata_only')]
     pending.sort(key=lambda a: (a.get('priority_score', 0), a.get('date', '')), reverse=True)
     pending = pending[:limit]
     print('Structured LCA briefs to attempt:', len(pending))
@@ -603,6 +605,34 @@ def enrich_with_openai(entries: list[dict]) -> None:
             print('WARN AI brief:',type(err).__name__,str(err)[:160])
 
 
+def enrich_from_official_sources(entries: list[dict]) -> None:
+    """Proactively read accessible official pages and scholarly abstracts.
+
+    This extraction works without an API key and avoids an empty detail page.
+    AI reports may later replace source_extract briefs. The page displays this
+    provisional nature clearly so excerpts cannot masquerade as verified research.
+    """
+    max_items = max(0, min(int(os.getenv("MAX_SOURCE_READ_PER_RUN", "12")), 35))
+    if not max_items:
+        return
+    pending = [a for a in entries if not isinstance(a.get("analysis"), dict)]
+    pending.sort(key=lambda a: (a.get("priority_score", 0), a.get("date", "")), reverse=True)
+    attempted = success = 0
+    for item in pending[:max_items]:
+        attempted += 1
+        try:
+            result = source_extract_brief(item, fetcher=fetch)
+            if not result:
+                print("Source not extractable:", item.get("id"))
+                continue
+            item["analysis"] = result
+            item["review_status"] = "기관 공개 본문·초록 핵심 구절 자동 추출"
+            success += 1
+        except Exception as err:
+            print("WARN source extraction:", item.get("id"), type(err).__name__)
+    print("Source briefs:", success, "of", attempted)
+
+
 def load_existing() -> list[dict]:
     if not DATA_PATH.exists():
         return []
@@ -640,6 +670,7 @@ def collect() -> dict:
     new = sorted(unique.values(), key=lambda x: (x.get('priority_score', 0), x['date']), reverse=True)[:MAX_NEW]
     check_links(new)
     merged = sorted(old + new, key=lambda x: (x.get('date', ''), x.get('id', '')), reverse=True)
+    enrich_from_official_sources(merged)
     enrich_with_openai(merged)
     result = {
         'updated_at': dt.datetime.now(UTC).replace(microsecond=0).isoformat(),
