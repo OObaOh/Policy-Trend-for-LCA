@@ -95,6 +95,20 @@ function display(a){
     const section=document.getElementById(link.getAttribute('href').slice(1));
     if(section)link.hidden=section.hidden;
   });
+  if(Array.isArray(b.evidence_links)&&b.evidence_links.length){
+    const heading=el('h3','report-impact-label','추가 확인된 공식 출처');
+    const links=el('ul','report-bullet-list');
+    b.evidence_links.slice(0,6).forEach(item=>{
+      try{
+        const u=new URL(item.url);
+        if(u.protocol!=='https:')return;
+        const li=el('li');const link=el('a','source-ext-link',item.title||u.hostname);
+        link.href=u.href;link.target='_blank';link.rel='noopener noreferrer';
+        li.append(link);links.append(li);
+      }catch{}
+    });
+    if(links.children.length)evidence.append(heading,links);
+  }
   $('loading').hidden=true;$('report').hidden=false;
 }
 const id=new URLSearchParams(location.search).get('id');
