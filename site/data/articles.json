@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-10-11T01:26:54+00:00",
+  "updated_at": "2026-10-12T00:37:01+00:00",
   "collector": "GitHub Actions / official government sources + Crossref",
   "profile_version": "2026-10-10",
-  "new_items": 0,
+  "new_items": 1,
   "source_health": {
     "ok": [
       "기후에너지환경부",
@@ -19,23 +19,49 @@
       "프랑스 생태전환부",
       "Crossref: dynamic life cycle assessment",
       "Crossref: prospective life cycle assessment",
-      "Crossref: waste management life cycle assessment",
-      "Crossref: hydrogen life cycle assessment"
+      "Crossref: extended producer responsibility life cycle"
     ],
     "errors": [
       "EU 집행위원회 역내시장·산업총국",
       "Crossref: consequential life cycle assessment allocation",
-      "Crossref: extended producer responsibility life cycle",
+      "Crossref: waste management life cycle assessment",
       "Crossref: recycling recycled plastics product carbon footprint",
       "Crossref: end of life vehicles environmental impact",
       "Crossref: automotive parts product carbon footprint",
       "Crossref: hydrogen well to wheel life cycle assessment",
+      "Crossref: hydrogen life cycle assessment",
       "Crossref: bioenergy avoided emissions carbon removals",
       "Crossref: product environmental footprint ecodesign regulation",
       "Crossref: mass balance recycling chain of custody"
     ]
   },
   "articles": [
+    {
+      "id": "18d38bc0108ded",
+      "date": "2026-10-11",
+      "category": "국내 정책",
+      "region": "한국",
+      "title": "고준위 방사성폐기물 관리위원회 출범 1년, 50년 국가 난제 해결의 기틀 다져",
+      "source": "기후에너지환경부",
+      "url": "https://mcee.go.kr/m/mob/board/read.do?pagerOffset=0&maxPageItems=10&maxIndexPages=5&searchKey=&searchValue=&menuId=156&orgCd=&boardMasterId=939&boardId=1898370",
+      "doi": "",
+      "tags": [
+        "폐기물관리·처리"
+      ],
+      "document_type": "정책·발표",
+      "link_status": "원문 URL 제공 · 접근 여부 미검증",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "",
+      "review_status": "원문 검토 필요",
+      "verification": "정부 공식 보도자료",
+      "priority_score": 20,
+      "priority": "우선 검토",
+      "priority_reasons": [
+        "폐기물관리·처리"
+      ],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치"
+    },
     {
       "id": "de2f6601e2b44f",
       "date": "2026-10-09",
@@ -123,11 +149,10 @@
       "doi": "",
       "source_excerpt": "",
       "document_type": "정책·발표",
-      "priority_score": 22,
+      "priority_score": 12,
       "priority": "우선 검토",
       "priority_reasons": [
-        "탄소배출권·GHG",
-        "바이오에너지·유기성 폐자원"
+        "탄소배출권·GHG"
       ],
       "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
       "analysis": {
