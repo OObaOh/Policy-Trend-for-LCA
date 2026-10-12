@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-10-12T00:37:01+00:00",
+  "updated_at": "2026-10-12T17:38:28+00:00",
   "collector": "GitHub Actions / official government sources + Crossref",
   "profile_version": "2026-10-10",
-  "new_items": 1,
+  "new_items": 5,
   "source_health": {
     "ok": [
       "기후에너지환경부",
@@ -18,24 +18,291 @@
       "독일 연방환경부",
       "프랑스 생태전환부",
       "Crossref: dynamic life cycle assessment",
-      "Crossref: prospective life cycle assessment",
-      "Crossref: extended producer responsibility life cycle"
-    ],
-    "errors": [
-      "EU 집행위원회 역내시장·산업총국",
       "Crossref: consequential life cycle assessment allocation",
       "Crossref: waste management life cycle assessment",
       "Crossref: recycling recycled plastics product carbon footprint",
+      "Crossref: hydrogen life cycle assessment",
+      "Crossref: bioenergy avoided emissions carbon removals",
+      "Crossref: product environmental footprint ecodesign regulation"
+    ],
+    "errors": [
+      "EU 집행위원회 역내시장·산업총국",
+      "Crossref: prospective life cycle assessment",
+      "Crossref: extended producer responsibility life cycle",
       "Crossref: end of life vehicles environmental impact",
       "Crossref: automotive parts product carbon footprint",
       "Crossref: hydrogen well to wheel life cycle assessment",
-      "Crossref: hydrogen life cycle assessment",
-      "Crossref: bioenergy avoided emissions carbon removals",
-      "Crossref: product environmental footprint ecodesign regulation",
       "Crossref: mass balance recycling chain of custody"
     ]
   },
   "articles": [
+    {
+      "id": "f963c7c61d4cb8",
+      "date": "2026-10-12",
+      "category": "국제 정책",
+      "region": "독일",
+      "title": "Weltklimakonferenz: EU setzt auf Elektrifizierung als Priorität für Verhandlungen",
+      "source": "독일 연방환경부(BMUKN)",
+      "url": "https://www.bundesumweltministerium.de/pressemitteilung/weltklimakonferenz-eu-setzt-auf-elektrifizierung-als-prioritaet-fuer-verhandlungen",
+      "doi": "",
+      "tags": [],
+      "document_type": "정책·발표",
+      "link_status": "원문 연결 확인",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "Die EU-Umweltministerinnen und -minister haben in Luxemburg einstimmig die Positionierung der EU für die Weltklimakonferenz im November in Antalya angenommen. Priorität hat vor allem die Abkehr von fossilen Energien.",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "기관 공식 피드",
+      "priority_score": 0,
+      "priority": "참고",
+      "priority_reasons": [],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-10-12",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "Die EU-Umweltministerinnen und -minister haben heute in Luxemburg einstimmig die Positionierung der EU für die Weltklimakonferenz im November in Antalya angenommen. Die Positionierung deckt die wesentlichen Elemente der EU-Position in den Verhandlungen bei der Weltklimakonferenz ab.",
+          "Statement Bundesumweltminister Carsten Schneider: \"Wir haben heute unsere Prioritäten für die Weltklimakonferenz in Antalya im November besprochen und festgelegt. Es ist wichtig, dass wir als Europäer geschlossen in die Verhandlungen gehen. Die Ratsschlussfolgerungen geben starken Rückenwind für ein neues Ziel der Elektrifizierung. Wir wollen bei d",
+          "Beim EU-Umweltrat fand auch eine Orientierungsdebatte zur Reform des EU-Emissionshandels statt. Die EU-Kommission hatte im Juli einen Vorschlag zur Weiterentwicklung des ETS 1 vorgelegt."
+        ],
+        "research_ideas": [
+          {
+            "title": "온실가스 감축정책 지표와 LCA 환경편익 산정의 경계 정합성",
+            "research_question": "정책상 감축실적의 기준선과 제품 전과정 산정의 기준선 차이는 어떻게 비교가능성을 제한하는가?",
+            "methodology": "시스템경계·기준선·할당 및 불확실성에 관한 방법론 대조",
+            "novelty": "정책 지표와 제품 지표의 목적·범위 차이를 규명하는 연구 가설",
+            "data": "공개 규정·배출계수·LCI DB 및 제도 운영 자료"
+          }
+        ],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "Die EU-Umweltministerinnen und -minister haben heute in Luxemburg einstimmig die Positionierung der EU für die Weltklimakonferenz im November in Antalya angenommen. Die Positionierung deckt die wesentlichen Elemente der EU-Position in den Verhandlungen bei der Weltklimakonferenz ab.",
+          "Statement Bundesumweltminister Carsten Schneider: \"Wir haben heute unsere Prioritäten für die Weltklimakonferenz in Antalya im November besprochen und festgelegt. Es ist wichtig, dass wir als Europäer geschlossen in die Verhandlungen gehen. Die Ratsschlussfolgerungen geben starken Rückenwind für ein neues Ziel der Elektrifizierung. Wir wollen bei d",
+          "Beim EU-Umweltrat fand auch eine Orientierungsdebatte zur Reform des EU-Emissionshandels statt. Die EU-Kommission hatte im Juli einen Vorschlag zur Weiterentwicklung des ETS 1 vorgelegt.",
+          "Statement Bundesumweltminister Carsten Schneider: \"Der Emissionshandel hat bislang einen Superjob gemacht für die Modernisierung der Industrie und den Klimaschutz. Jetzt kommt es darauf an, dass er auch in Zukunft verlässlich wirkt, damit sich Investitionen in Zukunftstechnologien lohnen. Und damit auch die Unternehmen geschützt werden, die bereits",
+          "Pressemitteilung 18.07.2026 Vorschlag für Reform des Europäischen Emissionshandels"
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
+    {
+      "id": "c2beefb4289b47",
+      "date": "2026-10-12",
+      "category": "국제 정책",
+      "region": "영국",
+      "title": "Clean Heat Market Mechanism: revisions ahead of the 2027/28 scheme year",
+      "source": "영국 에너지안보·넷제로부 (DESNZ)",
+      "url": "https://www.gov.uk/government/consultations/clean-heat-market-mechanism-revisions-ahead-of-the-202728-scheme-year",
+      "doi": "",
+      "tags": [],
+      "document_type": "정책·발표",
+      "link_status": "원문 연결 확인",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "We're seeking views on the targets for years 3 to 6 of the scheme and other proposals, including support for investment in resilient and sustainable supply chains.",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "기관 공식 피드",
+      "priority_score": 0,
+      "priority": "참고",
+      "priority_reasons": [],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-10-12",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "We're seeking views on the targets for years 3 to 6 of the scheme and other proposals, including support for investment in resilient and sustainable supply chains.",
+          "This consultation closes at 11:59pm on 8 November 2026",
+          "This consultation seeks views on the government’s proposals to extend the regulations until 2032 and the design of years 3 to 6 of the scheme, including:"
+        ],
+        "research_ideas": [],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "We're seeking views on the targets for years 3 to 6 of the scheme and other proposals, including support for investment in resilient and sustainable supply chains.",
+          "This consultation closes at 11:59pm on 8 November 2026",
+          "This consultation seeks views on the government’s proposals to extend the regulations until 2032 and the design of years 3 to 6 of the scheme, including:",
+          "the award of credits for heat pump installations in new build properties",
+          "continuing current scheme mechanics such as the carry-over of credits, carry-forward of targets and the payment-in-lieu"
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
+    {
+      "id": "bbe300b4de8142",
+      "date": "2026-10-12",
+      "category": "국제 정책",
+      "region": "영국",
+      "title": "Guidance: Taking part in the UK Emissions Trading Scheme markets",
+      "source": "영국 에너지안보·넷제로부 (DESNZ)",
+      "url": "https://www.gov.uk/government/publications/taking-part-in-the-uk-emissions-trading-scheme-markets",
+      "doi": "",
+      "tags": [
+        "탄소배출권·GHG"
+      ],
+      "document_type": "정책·발표",
+      "link_status": "원문 연결 확인",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "This guidance explains the operation of the UK ETS markets and how to take part in auctions and in trading on the secondary market.",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "기관 공식 피드",
+      "priority_score": 12,
+      "priority": "우선 검토",
+      "priority_reasons": [
+        "탄소배출권·GHG"
+      ],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-10-12",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "'Taking part in the UK Emissions Trading Scheme markets' was updated to reflect that the revised 2026 auction calendar was published by ICE on 1 July 2026.",
+          "Updated 'Taking part in the UK Emissions Trading Scheme markets' to communicate the upcoming revision of the 2026 auction calendar to account for the inclusion of maritime emissions in the UK ETS from July.",
+          "Cost Containment Mechanism figures updated for latest month. 'Taking part in the UK Emissions Trading Scheme markets' has been updated to include further links to existing references, and to remove outdated information on previous auctions. The ICE email contact has been amended."
+        ],
+        "research_ideas": [
+          {
+            "title": "온실가스 감축정책 지표와 LCA 환경편익 산정의 경계 정합성",
+            "research_question": "정책상 감축실적의 기준선과 제품 전과정 산정의 기준선 차이는 어떻게 비교가능성을 제한하는가?",
+            "methodology": "시스템경계·기준선·할당 및 불확실성에 관한 방법론 대조",
+            "novelty": "정책 지표와 제품 지표의 목적·범위 차이를 규명하는 연구 가설",
+            "data": "공개 규정·배출계수·LCI DB 및 제도 운영 자료"
+          }
+        ],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "'Taking part in the UK Emissions Trading Scheme markets' was updated to reflect that the revised 2026 auction calendar was published by ICE on 1 July 2026.",
+          "Updated 'Taking part in the UK Emissions Trading Scheme markets' to communicate the upcoming revision of the 2026 auction calendar to account for the inclusion of maritime emissions in the UK ETS from July.",
+          "Cost Containment Mechanism figures updated for latest month. 'Taking part in the UK Emissions Trading Scheme markets' has been updated to include further links to existing references, and to remove outdated information on previous auctions. The ICE email contact has been amended.",
+          "Added link to UK Emissions Trading Scheme: future markets policy consultation.",
+          "Taking part in the UK Emissions Trading Scheme markets"
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
+    {
+      "id": "9447d290d03f9c",
+      "date": "2026-10-12",
+      "category": "국제 정책",
+      "region": "영국",
+      "title": "New 'Missy and Stanley's Tale' film helps the public prepare for flooding risk",
+      "source": "영국 환경식품농촌부 (Defra)",
+      "url": "https://www.gov.uk/government/news/new-missy-and-stanleys-tale-film-helps-the-public-prepare-for-flooding-risk",
+      "doi": "",
+      "tags": [],
+      "document_type": "정책·발표",
+      "link_status": "원문 연결 확인",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "Created in partnership with Aardman, the Environment Agency and East Sussex County Council",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "기관 공식 피드",
+      "priority_score": 0,
+      "priority": "참고",
+      "priority_reasons": [],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-10-12",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "Missy and Stanley’s Tale’ supports our ambition to ensure this country is ready for and resilient to flooding and coastal erosion for generations to come.",
+          "Missy and Stanley’s tale helps people of all ages understand how they can prepare for and stay safe when faced with flooding.",
+          "Launched as part of our Flood Action Week campaign, ‘Missy and Stanley’s’ tale encourages people across the country to ensure they’re prepared for the risk of flooding."
+        ],
+        "research_ideas": [],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "Missy and Stanley’s Tale’ supports our ambition to ensure this country is ready for and resilient to flooding and coastal erosion for generations to come.",
+          "Missy and Stanley’s tale helps people of all ages understand how they can prepare for and stay safe when faced with flooding.",
+          "Launched as part of our Flood Action Week campaign, ‘Missy and Stanley’s’ tale encourages people across the country to ensure they’re prepared for the risk of flooding.",
+          "We are delighted to have developed Missy and Stanley’s Tale, which is a great way to help people understand the potential risk of flooding on their lives.",
+          "In the film, flooding arrives unexpectedly and turns Missy and Stanley’s pet basket into a makeshift raft."
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
+    {
+      "id": "5bba0aef06223c",
+      "date": "2026-10-12",
+      "category": "국내 정책",
+      "region": "한국",
+      "title": "인공지능이 폐기물 종류 확인부터 배출 방법 안내까지 한번에… 폐기물 처리 도우미 앱 실증 개시",
+      "source": "기후에너지환경부",
+      "url": "https://mcee.go.kr/m/mob/board/read.do?pagerOffset=0&maxPageItems=10&maxIndexPages=5&searchKey=&searchValue=&menuId=156&orgCd=&boardMasterId=939&boardId=1898560",
+      "doi": "",
+      "tags": [
+        "폐기물관리·처리"
+      ],
+      "document_type": "정책·발표",
+      "link_status": "원문 URL 제공 · 접근 여부 미검증",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "정부 공식 보도자료",
+      "priority_score": 20,
+      "priority": "우선 검토",
+      "priority_reasons": [
+        "폐기물관리·처리"
+      ],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-10-12",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "첨부파일 인공지능으로 폐기물 종류부터 배출까지 한번에 안내… 폐기물 처리 도우미 앱 실증(보도자료)(폐자원 10.12).hwpx(1.5 MB) 인공지능으로 폐기물 종류부터 배출까지 한번에 안내… 폐기물 처리 도우미 앱 실증(보도자료)(폐자원 10.12).pdf(349.7 KB)",
+          "▷ 기후에너지환경부·과학기술정보통신부 공공 에이엑스(AX) 신규사업 ‘내 손안의 에이아이(AI) 폐기물 처리 도우미’ 앱 시범 서비스 개시",
+          "기후에너지환경부(장관 김성환)와 과학기술정보통신부(장관 배경훈)은 과기정통부 ‘공공 에이엑스(AX) 프로젝트’ 사업의 일환으로 개발 중인 모바일 애플리케이션 ‘내 손안의 에이아이(AI) 폐기물 처리 도우미, 가져가’(이하 가져가)의 실증을 10월 13일부터 서울특별시 은평구 주민을 대상으로 시작한다고 밝혔다."
+        ],
+        "research_ideas": [
+          {
+            "title": "재자원화 환경편익 산정에서 폐기물 지위와 환경부하 귀속의 영향",
+            "research_question": "폐기물의 원료 전환과 대체편익 반영 범위가 정책단위 감축실적과 제품단위 PCF 간 결과를 어떻게 변화시키는가?",
+            "methodology": "Attributional/Consequential LCA, cut-off·할당·회피배출 규칙을 결합한 시나리오",
+            "novelty": "정책 효과와 제품 탄소발자국의 산정목적·경계 차이에서 발생하는 연구 가설",
+            "data": "공식 정책 문서, 공개 재활용 통계와 공정 LCI. 민간 현장 수율은 확인 필요"
+          }
+        ],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "첨부파일 인공지능으로 폐기물 종류부터 배출까지 한번에 안내… 폐기물 처리 도우미 앱 실증(보도자료)(폐자원 10.12).hwpx(1.5 MB) 인공지능으로 폐기물 종류부터 배출까지 한번에 안내… 폐기물 처리 도우미 앱 실증(보도자료)(폐자원 10.12).pdf(349.7 KB)",
+          "▷ 기후에너지환경부·과학기술정보통신부 공공 에이엑스(AX) 신규사업 ‘내 손안의 에이아이(AI) 폐기물 처리 도우미’ 앱 시범 서비스 개시",
+          "기후에너지환경부(장관 김성환)와 과학기술정보통신부(장관 배경훈)은 과기정통부 ‘공공 에이엑스(AX) 프로젝트’ 사업의 일환으로 개발 중인 모바일 애플리케이션 ‘내 손안의 에이아이(AI) 폐기물 처리 도우미, 가져가’(이하 가져가)의 실증을 10월 13일부터 서울특별시 은평구 주민을 대상으로 시작한다고 밝혔다.",
+          "‘가져가’는 인공지능(AI) 기반으로 폐기물 처리를 지원하는 모바일 애플리케이션으로, 지역별로 폐기물의 배출 규정과 절차가 달라 발생하는 주민 불편을 해소하고, 인공지능 기술을 통해 분리배출 안내부터 대형폐기물 수수료 결제까지 한 번에 처리하여 국민 편의를 높이는 것을 목표로 개발되었다. 주요 기능은 다음과 같다.",
+          "① 폐기물 자동 식별: 스마트폰 카메라로 폐기물을 촬영하면 인공지능이 폐기물 품목을 자동으로 인식·분류한다."
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
     {
       "id": "18d38bc0108ded",
       "date": "2026-10-11",
@@ -53,14 +320,47 @@
       "summary": "",
       "insight": "",
       "source_excerpt": "",
-      "review_status": "원문 검토 필요",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
       "verification": "정부 공식 보도자료",
       "priority_score": 20,
       "priority": "우선 검토",
       "priority_reasons": [
         "폐기물관리·처리"
       ],
-      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치"
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-10-12",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "첨부파일 고준위 방사성폐기물 관리위원회 출범 1년 50년 국가 난제 해결의 기틀 다져(보도자료)(고준위 10.11).hwpx(1.8 MB) 고준위 방사성폐기물 관리위원회 출범 1년 50년 국가 난제 해결의 기틀 다져(보도자료)(고준위 10.11).pdf(337.8 KB)",
+          "고준위 방사성폐기물 관리위원회(위원장 김현권, 이하 위원회)가 출범 1주년을 맞았다. 위원회는 ‘고준위 방사성폐기물 관리에 관한 특별법(이하 특별법)’ 시행에 따라 2025년 9월 26일 출범한 이후 지난 1년간 정책 추진을 위한 의사결정 체계를 갖추고, 부지선정에 필요한 조사·평가 절차를 구체화하는 한편, 분야별 전문검토와 현장 소통을 병행해 왔다.",
+          "위원회는 올해 4월 제3차 위원회에서 ‘고준위 방사성폐기물 관리시설 부지적합성 조사계획’을 의결했다. 이는 관리시설 부지선정을 위한 조사와 평가를 어떤 절차와 기준에 따라 진행할 것인지 구체적인 청사진을 제시했다는 데 의미가 있다."
+        ],
+        "research_ideas": [
+          {
+            "title": "재자원화 환경편익 산정에서 폐기물 지위와 환경부하 귀속의 영향",
+            "research_question": "폐기물의 원료 전환과 대체편익 반영 범위가 정책단위 감축실적과 제품단위 PCF 간 결과를 어떻게 변화시키는가?",
+            "methodology": "Attributional/Consequential LCA, cut-off·할당·회피배출 규칙을 결합한 시나리오",
+            "novelty": "정책 효과와 제품 탄소발자국의 산정목적·경계 차이에서 발생하는 연구 가설",
+            "data": "공식 정책 문서, 공개 재활용 통계와 공정 LCI. 민간 현장 수율은 확인 필요"
+          }
+        ],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "첨부파일 고준위 방사성폐기물 관리위원회 출범 1년 50년 국가 난제 해결의 기틀 다져(보도자료)(고준위 10.11).hwpx(1.8 MB) 고준위 방사성폐기물 관리위원회 출범 1년 50년 국가 난제 해결의 기틀 다져(보도자료)(고준위 10.11).pdf(337.8 KB)",
+          "고준위 방사성폐기물 관리위원회(위원장 김현권, 이하 위원회)가 출범 1주년을 맞았다. 위원회는 ‘고준위 방사성폐기물 관리에 관한 특별법(이하 특별법)’ 시행에 따라 2025년 9월 26일 출범한 이후 지난 1년간 정책 추진을 위한 의사결정 체계를 갖추고, 부지선정에 필요한 조사·평가 절차를 구체화하는 한편, 분야별 전문검토와 현장 소통을 병행해 왔다.",
+          "위원회는 올해 4월 제3차 위원회에서 ‘고준위 방사성폐기물 관리시설 부지적합성 조사계획’을 의결했다. 이는 관리시설 부지선정을 위한 조사와 평가를 어떤 절차와 기준에 따라 진행할 것인지 구체적인 청사진을 제시했다는 데 의미가 있다.",
+          "특히, 올해 6월에는 한국원자력환경공단과 함께 방사성폐기물 안전관리 국제 토론회를 서울에서 개최하고, 일본·캐나다·프랑스·스웨덴·스위스·핀란드 등의 방사성폐기물 관리사업 관계자와 유치지역 주민대표를 초청했다. 기술적 안전성뿐만 아니라 부지선정 과정에서 지역사회화의 소통과 이해관계자 참여 경험 등을 공유했다.",
+          "김현권 고준위 방사성폐기물 관리위원회 위원장은 “지난 1년이 국가적 난제를 해결하기 위한 제도와 기반을 만드는 시간이었다면, 앞으로는 그 기반 위에서 국민과 지역사회가 신뢰할 수 있는 구체적인 해법을 하나씩 만들어가야 할 때”라고 밝혔다."
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
     },
     {
       "id": "de2f6601e2b44f",
@@ -77,12 +377,37 @@
       "summary": "",
       "insight": "",
       "source_excerpt": "Decision on an application for a solar farm in Nottinghamshire under the Planning Act 2008.",
-      "review_status": "원문 검토 필요",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
       "verification": "기관 공식 피드",
       "priority_score": 0,
       "priority": "참고",
       "priority_reasons": [],
-      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치"
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-10-12",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "Decision on an application for a solar farm in Nottinghamshire under the Planning Act 2008.",
+          "https://national-infrastructure-consenting.planninginspectorate.gov.uk/projects/EN010163",
+          "Decision by the Secretary of State on an application by Steeple Solar Farm Limited for the construction, operation and decommissioning of a ground mounted solar photovoltaic electricity generating facility with associated infrastructure."
+        ],
+        "research_ideas": [],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "Decision on an application for a solar farm in Nottinghamshire under the Planning Act 2008.",
+          "https://national-infrastructure-consenting.planninginspectorate.gov.uk/projects/EN010163",
+          "Decision by the Secretary of State on an application by Steeple Solar Farm Limited for the construction, operation and decommissioning of a ground mounted solar photovoltaic electricity generating facility with associated infrastructure.",
+          "Steeple Solar Farm Limited RES – Beaufort Court Egg Farm Lane Kings Langley WD4 8LR",
+          "Development consent order for a photovoltaic solar farm under the Planning Act 2008."
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
     },
     {
       "id": "d6ccbb99c2c171",
@@ -99,12 +424,37 @@
       "summary": "",
       "insight": "",
       "source_excerpt": "Check if you need to apply for an environmental permit, formerly known as a flood defence consent, and get the forms you need.",
-      "review_status": "원문 검토 필요",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
       "verification": "기관 공식 피드",
       "priority_score": 0,
       "priority": "참고",
       "priority_reasons": [],
-      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치"
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-10-12",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "Check if you need to apply for an environmental permit, formerly known as a flood defence consent, and get the forms you need.",
+          "Added an update on how flood risk activity permits (FRAP) will be processed from summer 2024.",
+          "Added new section on environmental improvement work in the bespoke permits section."
+        ],
+        "research_ideas": [],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "Check if you need to apply for an environmental permit, formerly known as a flood defence consent, and get the forms you need.",
+          "Added an update on how flood risk activity permits (FRAP) will be processed from summer 2024.",
+          "Added new section on environmental improvement work in the bespoke permits section.",
+          "These are regulated under environmental permits (formerly flood defence consents). You are breaking the law if you operate without getting the permit you need.",
+          "apply for a ‘bespoke permit’ – for all other flood risk activities – permits that are tailored to the risks from your activities"
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
     },
     {
       "id": "d07d671269f6c2",
@@ -121,12 +471,45 @@
       "summary": "",
       "insight": "",
       "source_excerpt": "How to get air pollution data from the Non-Automatic Hydrocarbon Network and the pollutants it measures.",
-      "review_status": "원문 검토 필요",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
       "verification": "기관 공식 피드",
       "priority_score": 0,
       "priority": "참고",
       "priority_reasons": [],
-      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치"
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-10-12",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "How to get air pollution data from the Non-Automatic Hydrocarbon Network and the pollutants it measures.",
+          "The Non-Automatic Hydrocarbon Network measures concentrations of benzene in ambient (outdoor) air. The concentration is the proportion of benzene in a volume of air.",
+          "Get air pollution data and find monitoring stations in the Non-Automatic Hydrocarbon Network."
+        ],
+        "research_ideas": [
+          {
+            "title": "온실가스 감축정책 지표와 LCA 환경편익 산정의 경계 정합성",
+            "research_question": "정책상 감축실적의 기준선과 제품 전과정 산정의 기준선 차이는 어떻게 비교가능성을 제한하는가?",
+            "methodology": "시스템경계·기준선·할당 및 불확실성에 관한 방법론 대조",
+            "novelty": "정책 지표와 제품 지표의 목적·범위 차이를 규명하는 연구 가설",
+            "data": "공개 규정·배출계수·LCI DB 및 제도 운영 자료"
+          }
+        ],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "How to get air pollution data from the Non-Automatic Hydrocarbon Network and the pollutants it measures.",
+          "The Non-Automatic Hydrocarbon Network measures concentrations of benzene in ambient (outdoor) air. The concentration is the proportion of benzene in a volume of air.",
+          "Get air pollution data and find monitoring stations in the Non-Automatic Hydrocarbon Network.",
+          "You can get estimates of benzene emissions in the UK from the National Atmospheric Emissions Inventory website .",
+          "Monitoring stations in this network are co-located with stations in the Automatic Urban and Rural Network ( AURN ) . This means that data from this network can be compared with AURN data to validate it."
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
     },
     {
       "date": "2026-10-09",
@@ -210,13 +593,38 @@
       "summary": "",
       "insight": "",
       "source_excerpt": "The U.S. Environmental Protection Agency (EPA) is determining under the Clean Air Act (CAA) that the Berrien County and Muskegon County, Michigan nonattainment areas have attained the 2015 ozone National Ambient Air Quality Standards (NAAQS). This determination, informally known as a clean data determination, is based upon complete, quality assured, and certified ambient air monitoring data for the 2023-2025 design value period showing that the areas achieved attainment of the 2015 ozone NAAQS. This clean data determination also relies upon the",
-      "review_status": "원문 검토 필요",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
       "verification": "미국 연방 관보 공식 기록",
       "regulatory_status": "Rule",
       "priority_score": 0,
       "priority": "참고",
       "priority_reasons": [],
-      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치"
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-10-12",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "Due to aggressive automated scraping of FederalRegister.gov and eCFR.gov, programmatic access to these sites is limited to access to our extensive developer APIs. Please visit FederalRegister.gov API documentation or eCFR.gov API documentation to learn more about how to access the API.",
+          "Your request has been flagged as potentially automated. If you are human user receiving this message, please complete the CAPTCHA (bot test) below and click \"Request Access\". You may occassionally be asked to complete the CAPTCHA again, this is normal and part of our security measures.",
+          "An official website of the United States government."
+        ],
+        "research_ideas": [],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "Due to aggressive automated scraping of FederalRegister.gov and eCFR.gov, programmatic access to these sites is limited to access to our extensive developer APIs. Please visit FederalRegister.gov API documentation or eCFR.gov API documentation to learn more about how to access the API.",
+          "Your request has been flagged as potentially automated. If you are human user receiving this message, please complete the CAPTCHA (bot test) below and click \"Request Access\". You may occassionally be asked to complete the CAPTCHA again, this is normal and part of our security measures.",
+          "An official website of the United States government.",
+          "If you experiencing issues with the CAPTCHA or want to request a wider IP range, you can use the \"Site Help\" button found in the lower, right of this page to make a request.",
+          "This contact form is only for IP Access help. Please do not provide confidential information or personal data."
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
     },
     {
       "id": "5b99c3b5aba164",
@@ -236,12 +644,37 @@
       "summary": "",
       "insight": "",
       "source_excerpt": "Annual technical reports for the UK Urban NO2 Network (UUNN), part of the UK's air pollution monitoring regime.",
-      "review_status": "원문 검토 필요",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
       "verification": "기관 공식 피드",
       "priority_score": 0,
       "priority": "참고",
       "priority_reasons": [],
-      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치"
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-10-12",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "Annual technical reports for the UK Urban NO2 Network (UUNN), part of the UK's air pollution monitoring regime.",
+          "UK Urban NO2 Network Operational Annual Report 2025",
+          "This file may not be suitable for users of assistive technology."
+        ],
+        "research_ideas": [],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "Annual technical reports for the UK Urban NO2 Network (UUNN), part of the UK's air pollution monitoring regime.",
+          "UK Urban NO2 Network Operational Annual Report 2025",
+          "This file may not be suitable for users of assistive technology.",
+          "The UK Urban NO2 Network ( UUNN ) is part of the UK’s air pollution monitoring regime .",
+          "Annual technical reports provide information on the activities undertaken and data collected by the UUNN in each reporting year."
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
     },
     {
       "id": "5495192fc8f3da",
@@ -651,14 +1084,47 @@
       "summary": "",
       "insight": "",
       "source_excerpt": "Der Runde Tisch des Bundesumweltministeriums legt Maßnahmen gegen Brände in der Abfallwirtschaft vor. Im Fokus stehen bessere Rücknahme, Aufklärung und Schulungen.",
-      "review_status": "원문 검토 필요",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
       "verification": "기관 공식 피드",
       "priority_score": 10,
       "priority": "참고",
       "priority_reasons": [
         "폐기물관리·처리"
       ],
-      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치"
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-10-12",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "Der vom Bundesumweltministerium einberufene Runde Tisch zu \"Maßnahmen gegen Brandereignisse in der Abfallentsorgung\" hat seine Ergebnisse vorgelegt. Beteiligt waren Vertreterinnen und Vertreter aus Entsorgungswirtschaft, Industrie, Handel, Versicherungsbranche, Feuerwehren, den Bundesländern, Verwaltung und der Politik. Die Parlamentarische Staatss",
+          "Parlamentarische Staatssekretärin im Bundesumweltministerium Bettina Hagedorn: \"Brände in Abfallanlagen gefährden nicht nur unsere Entsorgungsinfrastruktur, sondern sind eine echte Bedrohung für diejenigen, die sich jeden Tag um unseren Müll kümmern. Außerdem stecken auch in alten Batterien wertvolle Rohstoffe, die es zu recyclen gilt. Der Runde Ti",
+          "Zu den vorgeschlagenen Maßnahmen zählen unter anderem:"
+        ],
+        "research_ideas": [
+          {
+            "title": "재자원화 환경편익 산정에서 폐기물 지위와 환경부하 귀속의 영향",
+            "research_question": "폐기물의 원료 전환과 대체편익 반영 범위가 정책단위 감축실적과 제품단위 PCF 간 결과를 어떻게 변화시키는가?",
+            "methodology": "Attributional/Consequential LCA, cut-off·할당·회피배출 규칙을 결합한 시나리오",
+            "novelty": "정책 효과와 제품 탄소발자국의 산정목적·경계 차이에서 발생하는 연구 가설",
+            "data": "공식 정책 문서, 공개 재활용 통계와 공정 LCI. 민간 현장 수율은 확인 필요"
+          }
+        ],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "Der vom Bundesumweltministerium einberufene Runde Tisch zu \"Maßnahmen gegen Brandereignisse in der Abfallentsorgung\" hat seine Ergebnisse vorgelegt. Beteiligt waren Vertreterinnen und Vertreter aus Entsorgungswirtschaft, Industrie, Handel, Versicherungsbranche, Feuerwehren, den Bundesländern, Verwaltung und der Politik. Die Parlamentarische Staatss",
+          "Parlamentarische Staatssekretärin im Bundesumweltministerium Bettina Hagedorn: \"Brände in Abfallanlagen gefährden nicht nur unsere Entsorgungsinfrastruktur, sondern sind eine echte Bedrohung für diejenigen, die sich jeden Tag um unseren Müll kümmern. Außerdem stecken auch in alten Batterien wertvolle Rohstoffe, die es zu recyclen gilt. Der Runde Ti",
+          "Zu den vorgeschlagenen Maßnahmen zählen unter anderem:",
+          "Einheitliche Aufkleberkampagne: Entwicklung eines gemeinsamen Aufklebers für Abfallsammelbehälter für Elektroaltgeräte von Privathaushalten und Gewerbebetrieben.",
+          "Diese Maßnahmen des Runden Tisches sind Teil eines Instrumentenmixes, der dazu beitragen soll, die getrennte Sammlung von Batterien und batteriebetriebenen Elektrogeräten zu verbessern und Brandereignisse in der Entsorgungswirtschaft zu minimieren. Bereits Anfang des Jahres ist die Novelle des Elektrogesetzes in Kraft getreten, die über die Einführ"
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
     },
     {
       "date": "2026-10-08",
