@@ -44,15 +44,16 @@ jobs:
       - name: Run regression tests
         run: python -m pytest -q
       - name: Collect new policy and LCA metadata
-        if: github.event_name != 'push'
+        if: github.event_name != 'push' || contains(github.event.head_commit.message, '[research-now]')
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           MAX_AI_PER_RUN: '6'
           LOOKBACK_DAYS: '14'
           MAX_NEW_ITEMS: '60'
+          MAX_SOURCE_READ_PER_RUN: '12'
         run: python scripts/collect.py
       - name: Save archive updates to GitHub
-        if: github.event_name != 'push'
+        if: github.event_name != 'push' || contains(github.event.head_commit.message, '[research-now]')
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
