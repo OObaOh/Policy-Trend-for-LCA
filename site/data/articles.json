@@ -1,10 +1,11 @@
 {
-  "updated_at": "2026-10-12T17:43:33+00:00",
+  "updated_at": "2026-10-13T00:38:43+00:00",
   "collector": "GitHub Actions / official government sources + Crossref",
   "profile_version": "2026-10-10",
   "new_items": 0,
   "source_health": {
     "ok": [
+      "기후에너지환경부",
       "UNFCCC",
       "영국 에너지안보·넷제로부 (DESNZ)",
       "영국 환경식품농촌부 (Defra)",
@@ -17,21 +18,20 @@
       "독일 연방환경부",
       "프랑스 생태전환부",
       "Crossref: dynamic life cycle assessment",
-      "Crossref: prospective life cycle assessment",
       "Crossref: consequential life cycle assessment allocation",
-      "Crossref: waste management life cycle assessment",
       "Crossref: extended producer responsibility life cycle",
-      "Crossref: recycling recycled plastics product carbon footprint",
-      "Crossref: end of life vehicles environmental impact",
-      "Crossref: hydrogen well to wheel life cycle assessment",
-      "Crossref: bioenergy avoided emissions carbon removals",
       "Crossref: product environmental footprint ecodesign regulation"
     ],
     "errors": [
-      "MCEE",
       "EU 집행위원회 역내시장·산업총국",
+      "Crossref: prospective life cycle assessment",
+      "Crossref: waste management life cycle assessment",
+      "Crossref: recycling recycled plastics product carbon footprint",
+      "Crossref: end of life vehicles environmental impact",
       "Crossref: automotive parts product carbon footprint",
+      "Crossref: hydrogen well to wheel life cycle assessment",
       "Crossref: hydrogen life cycle assessment",
+      "Crossref: bioenergy avoided emissions carbon removals",
       "Crossref: mass balance recycling chain of custody"
     ]
   },
@@ -2322,12 +2322,31 @@
       "summary": "",
       "insight": "",
       "source_excerpt": "Energy production, consumption and trade of total energy, coal, oil, gas, electricity and renewables during the second calendar quarter of 2027.",
-      "review_status": "원문 검토 필요",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
       "verification": "기관 공식 피드",
       "priority_score": 0,
       "priority": "참고",
       "priority_reasons": [],
-      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치"
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-10-13",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "Energy production, consumption and trade of total energy, coal, oil, gas, electricity and renewables during the second calendar quarter of 2027."
+        ],
+        "research_ideas": [],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "Energy production, consumption and trade of total energy, coal, oil, gas, electricity and renewables during the second calendar quarter of 2027."
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
     },
     {
       "id": "d1a5c2b53e48b1",
@@ -2344,12 +2363,37 @@
       "summary": "",
       "insight": "",
       "source_excerpt": "Vaasa’s Green Leaf year turns sustainability into action: quieter, cleaner park maintenance, better cycling, accessible winter routes, youth-led biodiversity work, community participation and green mobility. Together, these initiatives support a healthier environment and a more sustainable future.",
-      "review_status": "원문 검토 필요",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
       "verification": "기관 공식 피드",
       "priority_score": 0,
       "priority": "참고",
       "priority_reasons": [],
-      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치"
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-10-13",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "Honouring their recognition as the 2026 European Green Leaf, the people of Finland’s Vaasa have rolled out a range of measures to improve environmental sustainability and mobility.",
+          "Working at the intersection of these sectors, officials and citizens are ensuring these steps help protect the climate and environment while remaining accessible.",
+          "A key part of environmental sustainability is reducing noise pollution. By introducing two electric, battery-powered lawnmowers in Vaasa, the city is reducing toxic pollutants and noise emissions at the same time."
+        ],
+        "research_ideas": [],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "Honouring their recognition as the 2026 European Green Leaf, the people of Finland’s Vaasa have rolled out a range of measures to improve environmental sustainability and mobility.",
+          "Working at the intersection of these sectors, officials and citizens are ensuring these steps help protect the climate and environment while remaining accessible.",
+          "A key part of environmental sustainability is reducing noise pollution. By introducing two electric, battery-powered lawnmowers in Vaasa, the city is reducing toxic pollutants and noise emissions at the same time.",
+          "Furthermore, in line with the city’s spirit of honouring sustainability, the Vaasa Future Festival, held a few weeks ago, saw visitors and participants pledge their commitment to a more sustainable, inclusive future. Companies also committed to working at the crossroads of sustainability and business.",
+          "Vaasa’s European Green Leaf Year initiative is also using inclusive budgeting to fund actions that advance environmental sustainability and improve residents ’ quality of life."
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
     },
     {
       "id": "39e35d763a61f7",
@@ -2366,12 +2410,37 @@
       "summary": "",
       "insight": "",
       "source_excerpt": "The Environment Ministers of Poland, Germany and France met under the Green Weimar Triangle to strengthen cooperation on climate action, nature restoration and biodiversity ahead of key EU and global milestones.",
-      "review_status": "원문 검토 필요",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
       "verification": "기관 공식 피드",
       "priority_score": 0,
       "priority": "참고",
       "priority_reasons": [],
-      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치"
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-10-13",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "On 28-29 September 2026, the Environment Ministers of Poland, Germany and France met at the Château de Chambord as part of the Green Weimar Triangle, a framework for strengthening trilateral cooperation on climate and environmental issues. Building on the meeting held in Gniezno in March 2026, the three Ministers reaffirmed the importance of closer",
+          "Building Europe’s resilience through climate action and nature restoration",
+          "The growing impacts of climate change underline that mitigation must go hand in hand with stronger adaptation and resilience, particularly in the area of water management. Recent extreme weather events across Europe have demonstrated the increasing risks posed by heatwaves, droughts, floods and wildfires to populations, ecosystems, infrastructure, "
+        ],
+        "research_ideas": [],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "On 28-29 September 2026, the Environment Ministers of Poland, Germany and France met at the Château de Chambord as part of the Green Weimar Triangle, a framework for strengthening trilateral cooperation on climate and environmental issues. Building on the meeting held in Gniezno in March 2026, the three Ministers reaffirmed the importance of closer",
+          "Building Europe’s resilience through climate action and nature restoration",
+          "The growing impacts of climate change underline that mitigation must go hand in hand with stronger adaptation and resilience, particularly in the area of water management. Recent extreme weather events across Europe have demonstrated the increasing risks posed by heatwaves, droughts, floods and wildfires to populations, ecosystems, infrastructure, ",
+          "In parallel, the implementation of the European Nature Restoration Regulation will be an important lever for strengthening Europe’s resilience, by restoring and enhancing natural ecosystems and their capacity to withstand climate impacts and protect our economies. Against this background, the Ministers discussed the challenges of implementing the N",
+          "Finally, the three Ministers reaffirmed their intention to continue their close cooperation within the Green Weimar Triangle and to keep coordinating ahead of key European and international discussions"
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
     },
     {
       "id": "c8fc7b856c18f6",
@@ -2388,13 +2457,46 @@
       "summary": "",
       "insight": "",
       "source_excerpt": "On May 8, 2024, the U.S. Environmental Protection Agency (EPA) published the National Emission Standards for Hazardous Air Pollutants (NESHAP): Gasoline Distribution Technology Reviews and New Source Performance Standards (NSPS) Review for Bulk Gasoline Terminals final rule (\"2024 Final Rule\"). The EPA is reconsidering various provisions of the 2024 Final Rule in this proposed rule, including the operating limits and continuous compliance requirements for air emission control devices, and the vapor tightness requirements for gasoline cargo tank",
-      "review_status": "원문 검토 필요",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
       "verification": "미국 연방 관보 공식 기록",
       "regulatory_status": "Proposed Rule",
       "priority_score": 0,
       "priority": "참고",
       "priority_reasons": [],
-      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치"
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-10-13",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "Due to aggressive automated scraping of FederalRegister.gov and eCFR.gov, programmatic access to these sites is limited to access to our extensive developer APIs. Please visit FederalRegister.gov API documentation or eCFR.gov API documentation to learn more about how to access the API.",
+          "Your request has been flagged as potentially automated. If you are human user receiving this message, please complete the CAPTCHA (bot test) below and click \"Request Access\". You may occassionally be asked to complete the CAPTCHA again, this is normal and part of our security measures.",
+          "An official website of the United States government."
+        ],
+        "research_ideas": [
+          {
+            "title": "온실가스 감축정책 지표와 LCA 환경편익 산정의 경계 정합성",
+            "research_question": "정책상 감축실적의 기준선과 제품 전과정 산정의 기준선 차이는 어떻게 비교가능성을 제한하는가?",
+            "methodology": "시스템경계·기준선·할당 및 불확실성에 관한 방법론 대조",
+            "novelty": "정책 지표와 제품 지표의 목적·범위 차이를 규명하는 연구 가설",
+            "data": "공개 규정·배출계수·LCI DB 및 제도 운영 자료"
+          }
+        ],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "Due to aggressive automated scraping of FederalRegister.gov and eCFR.gov, programmatic access to these sites is limited to access to our extensive developer APIs. Please visit FederalRegister.gov API documentation or eCFR.gov API documentation to learn more about how to access the API.",
+          "Your request has been flagged as potentially automated. If you are human user receiving this message, please complete the CAPTCHA (bot test) below and click \"Request Access\". You may occassionally be asked to complete the CAPTCHA again, this is normal and part of our security measures.",
+          "An official website of the United States government.",
+          "If you experiencing issues with the CAPTCHA or want to request a wider IP range, you can use the \"Site Help\" button found in the lower, right of this page to make a request.",
+          "This contact form is only for IP Access help. Please do not provide confidential information or personal data."
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
     },
     {
       "id": "6bd2bb6479d69f",
@@ -2411,12 +2513,31 @@
       "summary": "",
       "insight": "",
       "source_excerpt": "The EU's growing network of trade agreements helps European businesses to access new export markets and creates a more predictable trade and investment environment, according to a report published today.",
-      "review_status": "원문 검토 필요",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
       "verification": "기관 공식 피드",
       "priority_score": 0,
       "priority": "참고",
       "priority_reasons": [],
-      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치"
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-10-13",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "기관 공개 미리보기 발췌",
+        "key_takeaways": [
+          "The EU's growing network of trade agreements helps European businesses to access new export markets and creates a more predictable trade and investment environment, according to a report published today."
+        ],
+        "research_ideas": [],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "The EU's growing network of trade agreements helps European businesses to access new export markets and creates a more predictable trade and investment environment, according to a report published today."
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
     },
     {
       "id": "93be487cbacc54",
