@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-10-13T00:38:43+00:00",
+  "updated_at": "2026-10-14T00:46:01+00:00",
   "collector": "GitHub Actions / official government sources + Crossref",
   "profile_version": "2026-10-10",
-  "new_items": 0,
+  "new_items": 4,
   "source_health": {
     "ok": [
       "기후에너지환경부",
@@ -19,23 +19,235 @@
       "프랑스 생태전환부",
       "Crossref: dynamic life cycle assessment",
       "Crossref: consequential life cycle assessment allocation",
-      "Crossref: extended producer responsibility life cycle",
-      "Crossref: product environmental footprint ecodesign regulation"
+      "Crossref: end of life vehicles environmental impact",
+      "Crossref: hydrogen life cycle assessment",
+      "Crossref: bioenergy avoided emissions carbon removals",
+      "Crossref: product environmental footprint ecodesign regulation",
+      "Crossref: mass balance recycling chain of custody"
     ],
     "errors": [
       "EU 집행위원회 역내시장·산업총국",
       "Crossref: prospective life cycle assessment",
       "Crossref: waste management life cycle assessment",
+      "Crossref: extended producer responsibility life cycle",
       "Crossref: recycling recycled plastics product carbon footprint",
-      "Crossref: end of life vehicles environmental impact",
       "Crossref: automotive parts product carbon footprint",
-      "Crossref: hydrogen well to wheel life cycle assessment",
-      "Crossref: hydrogen life cycle assessment",
-      "Crossref: bioenergy avoided emissions carbon removals",
-      "Crossref: mass balance recycling chain of custody"
+      "Crossref: hydrogen well to wheel life cycle assessment"
     ]
   },
   "articles": [
+    {
+      "id": "97f4b4d803947e",
+      "date": "2026-10-14",
+      "category": "국내 정책",
+      "region": "한국",
+      "title": "쓰레기도 에너지가 된다… 탄소중립 시대, 새로운 해법 찾는다",
+      "source": "기후에너지환경부",
+      "url": "https://mcee.go.kr/m/mob/board/read.do?pagerOffset=0&maxPageItems=10&maxIndexPages=5&searchKey=&searchValue=&menuId=156&orgCd=&boardMasterId=939&boardId=1899150",
+      "doi": "",
+      "tags": [
+        "탄소배출권·GHG"
+      ],
+      "document_type": "정책·발표",
+      "link_status": "원문 URL 제공 · 접근 여부 미검증",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "정부 공식 보도자료",
+      "priority_score": 12,
+      "priority": "우선 검토",
+      "priority_reasons": [
+        "탄소배출권·GHG"
+      ],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-10-14",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "첨부파일 쓰레기도 에너지가 된다… 탄소중립 시대 새로운 해법 찾는다(보도자료)(과학원 10.14).hwpx(1,022.9 KB) 쓰레기도 에너지가 된다… 탄소중립 시대 새로운 해법 찾는다(보도자료)(과학원 10.14).pdf(421 KB)",
+          "▷ 국내외 전문가 500여 명, 제12차 아이씨펙(i-CIPEC) 국제학술대회서 기술·정책 방향 논의",
+          "* i-CIPEC(International Conference on Combustion, Incineration/Pyrolysis, Emission and Climate Change), www.icipec.org"
+        ],
+        "research_ideas": [
+          {
+            "title": "온실가스 감축정책 지표와 LCA 환경편익 산정의 경계 정합성",
+            "research_question": "정책상 감축실적의 기준선과 제품 전과정 산정의 기준선 차이는 어떻게 비교가능성을 제한하는가?",
+            "methodology": "시스템경계·기준선·할당 및 불확실성에 관한 방법론 대조",
+            "novelty": "정책 지표와 제품 지표의 목적·범위 차이를 규명하는 연구 가설",
+            "data": "공개 규정·배출계수·LCI DB 및 제도 운영 자료"
+          }
+        ],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "첨부파일 쓰레기도 에너지가 된다… 탄소중립 시대 새로운 해법 찾는다(보도자료)(과학원 10.14).hwpx(1,022.9 KB) 쓰레기도 에너지가 된다… 탄소중립 시대 새로운 해법 찾는다(보도자료)(과학원 10.14).pdf(421 KB)",
+          "▷ 국내외 전문가 500여 명, 제12차 아이씨펙(i-CIPEC) 국제학술대회서 기술·정책 방향 논의",
+          "* i-CIPEC(International Conference on Combustion, Incineration/Pyrolysis, Emission and Climate Change), www.icipec.org",
+          "이번 학술대회에서는 ‘탄소중립 실현을 위한 지속가능한 에너지·환경 관리, 그리고 인공지능(AI)’을 주제로 10개국* 국내외 전문가와 기업 관계자 500여 명이 참석하여 폐기물 에너지화 기술의 국제적 동향과 향후 발전방향을 논의할 예정이다.",
+          "이에 국립환경과학원은 국제학술대회 첫날인 10월 14일 사전 토론회(포럼)를 개최하여 국내외 전문가들과 함께 가연성 및 유기성 폐기물의 에너지화 기술과 탄소중립 대응 방안을 집중적으로 논의할 예정이다."
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
+    {
+      "id": "bd5bd26911a52a",
+      "date": "2026-10-13",
+      "category": "국제 정책",
+      "region": "영국",
+      "title": "Guidance: Rabies quarantine: authorised premises and carriers",
+      "source": "영국 환경식품농촌부 (Defra)",
+      "url": "https://www.gov.uk/government/publications/rabies-quarantine-authorised-premises-and-carriers",
+      "doi": "",
+      "tags": [],
+      "document_type": "정책·발표",
+      "link_status": "원문 연결 확인",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "List of rabies quarantine premises and transporters authorised by the Department for Environment, Food and Rural Affairs.",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "기관 공식 피드",
+      "priority_score": 0,
+      "priority": "참고",
+      "priority_reasons": [],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-10-14",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "List of rabies quarantine premises and transporters authorised by the Department for Environment, Food and Rural Affairs.",
+          "Updated list of authorised premises and carriers.",
+          "Removed Dogs Kennels Trust from the list of authorised premises and carriers."
+        ],
+        "research_ideas": [],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "List of rabies quarantine premises and transporters authorised by the Department for Environment, Food and Rural Affairs.",
+          "Updated list of authorised premises and carriers.",
+          "Removed Dogs Kennels Trust from the list of authorised premises and carriers.",
+          "Removed St Helens Council from the list of authorised rabies quarantine premises and carriers.",
+          "Removed UK-wide Dogs Trust details, and added details for the Dogs Trust Canterbury and Cardiff locations to the list of authorised premises and carriers. Updated details for Ventura Wildlife and Oxfordshire County Council."
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
+    {
+      "id": "94369c218b24b6",
+      "date": "2026-10-13",
+      "category": "국제 정책",
+      "region": "영국",
+      "title": "Official Statistics: England's material footprint",
+      "source": "영국 환경식품농촌부 (Defra)",
+      "url": "https://www.gov.uk/government/statistics/englands-material-footprint",
+      "doi": "",
+      "tags": [],
+      "document_type": "정책·발표",
+      "link_status": "원문 연결 확인",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "Statistics on the material footprint, or raw material consumption, associated with final demand in England.",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "기관 공식 피드",
+      "priority_score": 0,
+      "priority": "참고",
+      "priority_reasons": [],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-10-14",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "Statistics on the material footprint, or raw material consumption, associated with final demand in England.",
+          "Correction to remove an internal note and highlighting from Table 3 of the 'Summary_2023' tab of the England material footprint 2001 to 2023 dataset and to correct the date range in the title of the 'Cover_sheet' tab of the England material footprint 2001 to 2023 figures and tables dataset.",
+          "England’s material footprint: Figures and tables dataset, 2001 to 2023"
+        ],
+        "research_ideas": [],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "Statistics on the material footprint, or raw material consumption, associated with final demand in England.",
+          "Correction to remove an internal note and highlighting from Table 3 of the 'Summary_2023' tab of the England material footprint 2001 to 2023 dataset and to correct the date range in the title of the 'Cover_sheet' tab of the England material footprint 2001 to 2023 figures and tables dataset.",
+          "England’s material footprint: Figures and tables dataset, 2001 to 2023",
+          "Material resources are an essential input into processes of production and consumption that underpin our wellbeing. When these resources are from primary rather than secondary or recycled sources, they must be extracted or harvested from the natural environment, which can often deplete the planet’s stock of natural capital.",
+          "The material footprint, or raw material consumption, is the allocation of global primary used raw material extraction to final domestic demand for goods and services, typically measured at the level of a country. The footprint takes a consumption-based perspective, reallocating environmental pressures or change linked to the production of goods and"
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
+    {
+      "id": "4c3a175db1785e",
+      "date": "2026-10-13",
+      "category": "저탄소 기술",
+      "region": "영국",
+      "title": "Research: Carbon capture, usage and storage (CCUS): business models",
+      "source": "영국 에너지안보·넷제로부 (DESNZ)",
+      "url": "https://www.gov.uk/government/publications/carbon-capture-usage-and-storage-ccus-business-models",
+      "doi": "",
+      "tags": [
+        "CCUS"
+      ],
+      "document_type": "기술",
+      "link_status": "원문 연결 확인",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "Updates on the proposed commercial frameworks for transport and storage, power, and industrial carbon capture business models.",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "기관 공식 피드",
+      "priority_score": 12,
+      "priority": "우선 검토",
+      "priority_reasons": [
+        "CCUS"
+      ],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-10-14",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "Updates on the proposed commercial frameworks for transport and storage, power, and industrial carbon capture business models.",
+          "Added April 2024 update on the industrial carbon capture business models for Track-1 Expansion and Track-2.",
+          "Draft carbon capture, usage and storage network code heads of terms and explanatory note added."
+        ],
+        "research_ideas": [
+          {
+            "title": "온실가스 감축정책 지표와 LCA 환경편익 산정의 경계 정합성",
+            "research_question": "정책상 감축실적의 기준선과 제품 전과정 산정의 기준선 차이는 어떻게 비교가능성을 제한하는가?",
+            "methodology": "시스템경계·기준선·할당 및 불확실성에 관한 방법론 대조",
+            "novelty": "정책 지표와 제품 지표의 목적·범위 차이를 규명하는 연구 가설",
+            "data": "공개 규정·배출계수·LCI DB 및 제도 운영 자료"
+          }
+        ],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "Updates on the proposed commercial frameworks for transport and storage, power, and industrial carbon capture business models.",
+          "Added April 2024 update on the industrial carbon capture business models for Track-1 Expansion and Track-2.",
+          "Draft carbon capture, usage and storage network code heads of terms and explanatory note added.",
+          "Added updated industrial carbon capture (ICC) and dispatchable power agreement (DPA) business models, including draft terms and conditions, front end agreements and gain share schedule and guidance for the DPA. Added links to consultations on both business models.",
+          "Carbon capture, usage and storage: an update on business models (December 2020)"
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
     {
       "id": "f963c7c61d4cb8",
       "date": "2026-10-12",
