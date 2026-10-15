@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-10-14T00:46:01+00:00",
+  "updated_at": "2026-10-15T00:45:12+00:00",
   "collector": "GitHub Actions / official government sources + Crossref",
   "profile_version": "2026-10-10",
-  "new_items": 4,
+  "new_items": 5,
   "source_health": {
     "ok": [
       "기후에너지환경부",
@@ -16,26 +16,76 @@
       "미국 Federal Register · carbon footprint",
       "일본 환경성",
       "독일 연방환경부",
-      "프랑스 생태전환부",
       "Crossref: dynamic life cycle assessment",
+      "Crossref: prospective life cycle assessment",
+      "Crossref: extended producer responsibility life cycle"
+    ],
+    "errors": [
+      "EU 집행위원회 역내시장·산업총국",
+      "France",
       "Crossref: consequential life cycle assessment allocation",
+      "Crossref: waste management life cycle assessment",
+      "Crossref: recycling recycled plastics product carbon footprint",
       "Crossref: end of life vehicles environmental impact",
+      "Crossref: automotive parts product carbon footprint",
+      "Crossref: hydrogen well to wheel life cycle assessment",
       "Crossref: hydrogen life cycle assessment",
       "Crossref: bioenergy avoided emissions carbon removals",
       "Crossref: product environmental footprint ecodesign regulation",
       "Crossref: mass balance recycling chain of custody"
-    ],
-    "errors": [
-      "EU 집행위원회 역내시장·산업총국",
-      "Crossref: prospective life cycle assessment",
-      "Crossref: waste management life cycle assessment",
-      "Crossref: extended producer responsibility life cycle",
-      "Crossref: recycling recycled plastics product carbon footprint",
-      "Crossref: automotive parts product carbon footprint",
-      "Crossref: hydrogen well to wheel life cycle assessment"
     ]
   },
   "articles": [
+    {
+      "id": "bfd736585a1f36",
+      "date": "2026-10-14",
+      "category": "국제 정책",
+      "region": "미국",
+      "title": "Notice of Intent To Prepare a Programmatic Environmental Impact Statement (PEIS), Open Public Scoping Period, and Hold Public Scoping Meetings on the Proposed SpaceX Starship-Super Heavy Launch and Landing Operations at the Boca Chica Launch Site at Starbase,",
+      "source": "미국 Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/10/14/2026-20963/notice-of-intent-to-prepare-a-programmatic-environmental-impact-statement-peis-open-public-scoping",
+      "doi": "",
+      "tags": [
+        "PEIS"
+      ],
+      "document_type": "정부 공고",
+      "link_status": "원문 연결 확인",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "In accordance with the National Environmental Policy Act of 1969, as amended (NEPA) and FAA Order 1050.1G, FAA National Environmental Policy Act Implementing Procedures, FAA is announcing its intent to prepare a PEIS analyzing Space Exploration Technologies Corp.'s (SpaceX) proposal to increase Starship-Super Heavy operations at the Boca Chica Launch Site at Starbase, TX and expand Starship landing and expenditure locations. Subsequent license modifications or renewals under 14 CFR part 400 are within the scope of the PEIS, and the issuance of",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "미국 연방 관보 공식 기록",
+      "regulatory_status": "Notice",
+      "priority_score": 0,
+      "priority": "참고",
+      "priority_reasons": [],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-10-15",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "Due to aggressive automated scraping of FederalRegister.gov and eCFR.gov, programmatic access to these sites is limited to access to our extensive developer APIs. Please visit FederalRegister.gov API documentation or eCFR.gov API documentation to learn more about how to access the API.",
+          "Your request has been flagged as potentially automated. If you are human user receiving this message, please complete the CAPTCHA (bot test) below and click \"Request Access\". You may occassionally be asked to complete the CAPTCHA again, this is normal and part of our security measures.",
+          "An official website of the United States government."
+        ],
+        "research_ideas": [],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "Due to aggressive automated scraping of FederalRegister.gov and eCFR.gov, programmatic access to these sites is limited to access to our extensive developer APIs. Please visit FederalRegister.gov API documentation or eCFR.gov API documentation to learn more about how to access the API.",
+          "Your request has been flagged as potentially automated. If you are human user receiving this message, please complete the CAPTCHA (bot test) below and click \"Request Access\". You may occassionally be asked to complete the CAPTCHA again, this is normal and part of our security measures.",
+          "An official website of the United States government.",
+          "If you experiencing issues with the CAPTCHA or want to request a wider IP range, you can use the \"Site Help\" button found in the lower, right of this page to make a request.",
+          "This contact form is only for IP Access help. Please do not provide confidential information or personal data."
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
     {
       "id": "97f4b4d803947e",
       "date": "2026-10-14",
@@ -87,6 +137,227 @@
           "* i-CIPEC(International Conference on Combustion, Incineration/Pyrolysis, Emission and Climate Change), www.icipec.org",
           "이번 학술대회에서는 ‘탄소중립 실현을 위한 지속가능한 에너지·환경 관리, 그리고 인공지능(AI)’을 주제로 10개국* 국내외 전문가와 기업 관계자 500여 명이 참석하여 폐기물 에너지화 기술의 국제적 동향과 향후 발전방향을 논의할 예정이다.",
           "이에 국립환경과학원은 국제학술대회 첫날인 10월 14일 사전 토론회(포럼)를 개최하여 국내외 전문가들과 함께 가연성 및 유기성 폐기물의 에너지화 기술과 탄소중립 대응 방안을 집중적으로 논의할 예정이다."
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
+    {
+      "id": "739ee18f1a3bdc",
+      "date": "2026-10-14",
+      "category": "국제 정책",
+      "region": "미국",
+      "title": "Extending the Reporting Deadline Under the Greenhouse Gas Reporting Rule for Reporting Year 2025 to March 10, 2027",
+      "source": "미국 Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/10/14/2026-20982/extending-the-reporting-deadline-under-the-greenhouse-gas-reporting-rule-for-reporting-year-2025-to",
+      "doi": "",
+      "tags": [
+        "탄소배출권·GHG"
+      ],
+      "document_type": "법령·규제",
+      "link_status": "원문 연결 확인",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "The Environmental Protection Agency (EPA) is taking interim final action to extend the reporting deadline under the Greenhouse Gas Reporting Rule for reporting year 2025 data from October 30, 2026, to March 10, 2027. This final action only changes the reporting deadline for annual greenhouse gas reports for reporting year 2025 and makes no other changes to the rule. The EPA is requesting comments on all aspects of this interim final rule.",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "미국 연방 관보 공식 기록",
+      "regulatory_status": "Rule",
+      "priority_score": 12,
+      "priority": "우선 검토",
+      "priority_reasons": [
+        "탄소배출권·GHG"
+      ],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-10-15",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "Due to aggressive automated scraping of FederalRegister.gov and eCFR.gov, programmatic access to these sites is limited to access to our extensive developer APIs. Please visit FederalRegister.gov API documentation or eCFR.gov API documentation to learn more about how to access the API.",
+          "Your request has been flagged as potentially automated. If you are human user receiving this message, please complete the CAPTCHA (bot test) below and click \"Request Access\". You may occassionally be asked to complete the CAPTCHA again, this is normal and part of our security measures.",
+          "An official website of the United States government."
+        ],
+        "research_ideas": [
+          {
+            "title": "온실가스 감축정책 지표와 LCA 환경편익 산정의 경계 정합성",
+            "research_question": "정책상 감축실적의 기준선과 제품 전과정 산정의 기준선 차이는 어떻게 비교가능성을 제한하는가?",
+            "methodology": "시스템경계·기준선·할당 및 불확실성에 관한 방법론 대조",
+            "novelty": "정책 지표와 제품 지표의 목적·범위 차이를 규명하는 연구 가설",
+            "data": "공개 규정·배출계수·LCI DB 및 제도 운영 자료"
+          }
+        ],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "Due to aggressive automated scraping of FederalRegister.gov and eCFR.gov, programmatic access to these sites is limited to access to our extensive developer APIs. Please visit FederalRegister.gov API documentation or eCFR.gov API documentation to learn more about how to access the API.",
+          "Your request has been flagged as potentially automated. If you are human user receiving this message, please complete the CAPTCHA (bot test) below and click \"Request Access\". You may occassionally be asked to complete the CAPTCHA again, this is normal and part of our security measures.",
+          "An official website of the United States government.",
+          "If you experiencing issues with the CAPTCHA or want to request a wider IP range, you can use the \"Site Help\" button found in the lower, right of this page to make a request.",
+          "This contact form is only for IP Access help. Please do not provide confidential information or personal data."
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
+    {
+      "id": "2b66beee8667fc",
+      "date": "2026-10-14",
+      "category": "국제 정책",
+      "region": "EU",
+      "title": "12.3 kg of e-waste collected per person in EU",
+      "source": "EU 집행위원회 환경총국",
+      "url": "https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20261014-1",
+      "doi": "",
+      "tags": [],
+      "document_type": "정책·발표",
+      "link_status": "원문 연결 확인",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "This compares with 32.4 kg of new electrical and electronic equipment per person put on the EU market during the same year.",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "기관 공식 피드",
+      "priority_score": 0,
+      "priority": "참고",
+      "priority_reasons": [],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-10-15",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "In 2024, 12.3 kg of electrical and electronic equipment waste (WEEE or e-waste) per person was collected in the EU . This compares to 32.4 kg of new electrical and electronic equipment (EEE; for example, household appliances, smartphones and computers) per person put on the EU market during the same year. This significant difference highlights an i",
+          "On the other hand, e-waste collection has grown more slowly, rising from 7.3 kg per person in 2015 to 12.3 kg. Compared with 2023, this amount increased by 0.7 kg per person.",
+          "In 2024, Bulgaria (18.9 kg per person), Czechia (17.8 kg), and France (17.7 kg) collected the most e-waste, while Cyprus (4.7 kg), Portugal (6.0 kg), and Malta (6.4 kg) recorded the lowest amounts."
+        ],
+        "research_ideas": [
+          {
+            "title": "재자원화 환경편익 산정에서 폐기물 지위와 환경부하 귀속의 영향",
+            "research_question": "폐기물의 원료 전환과 대체편익 반영 범위가 정책단위 감축실적과 제품단위 PCF 간 결과를 어떻게 변화시키는가?",
+            "methodology": "Attributional/Consequential LCA, cut-off·할당·회피배출 규칙을 결합한 시나리오",
+            "novelty": "정책 효과와 제품 탄소발자국의 산정목적·경계 차이에서 발생하는 연구 가설",
+            "data": "공식 정책 문서, 공개 재활용 통계와 공정 LCI. 민간 현장 수율은 확인 필요"
+          }
+        ],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "In 2024, 12.3 kg of electrical and electronic equipment waste (WEEE or e-waste) per person was collected in the EU . This compares to 32.4 kg of new electrical and electronic equipment (EEE; for example, household appliances, smartphones and computers) per person put on the EU market during the same year. This significant difference highlights an i",
+          "On the other hand, e-waste collection has grown more slowly, rising from 7.3 kg per person in 2015 to 12.3 kg. Compared with 2023, this amount increased by 0.7 kg per person.",
+          "In 2024, Bulgaria (18.9 kg per person), Czechia (17.8 kg), and France (17.7 kg) collected the most e-waste, while Cyprus (4.7 kg), Portugal (6.0 kg), and Malta (6.4 kg) recorded the lowest amounts.",
+          "Among all countries with available data, the weight of electronic products placed on the market in 2024 was higher than the weight of collected e-waste. Slovakia, however, registered the smallest difference per person (6.4 kg), while in Spain (36.0 kg vs 9.3 kg) and Germany (38.0 kg vs 11.0 kg) the weight of electronic products placed on the market",
+          "Data in this article were collected under Directive 2012/19/EU on waste electrical and electronic equipment (WEEE Directive). The WEEE Directive aims to promote the collection of waste electrical and electronic equipment and the recovery, recycling, and preparation for reuse of this waste to reduce the quantity disposed of."
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
+    {
+      "id": "28e084f120c977",
+      "date": "2026-10-14",
+      "category": "저탄소 기술",
+      "region": "영국",
+      "title": "Carbon capture and the renewal of British industry",
+      "source": "영국 에너지안보·넷제로부 (DESNZ)",
+      "url": "https://www.gov.uk/government/speeches/carbon-capture-and-the-renewal-of-british-industry",
+      "doi": "",
+      "tags": [
+        "CCUS"
+      ],
+      "document_type": "기술",
+      "link_status": "원문 연결 확인",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "Speech by Minister for Local Energy and Jobs, Martin McCluskey, at the Carbon Capture and Storage Association (CCSA) 2026 annual conference.",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "기관 공식 피드",
+      "priority_score": 12,
+      "priority": "우선 검토",
+      "priority_reasons": [
+        "CCUS"
+      ],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-10-15",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "Speech by Minister for Local Energy and Jobs, Martin McCluskey, at the Carbon Capture and Storage Association (CCSA) 2026 annual conference.",
+          "I’m really pleased to join you this afternoon as the new minister responsible for carbon capture, utilisation and storage.",
+          "The project at Padeswood is not simply carbon capture attached to a cement works. It will be the UK’s first carbon capture-enabled cement plant, securing the future of a vital foundation industry."
+        ],
+        "research_ideas": [
+          {
+            "title": "온실가스 감축정책 지표와 LCA 환경편익 산정의 경계 정합성",
+            "research_question": "정책상 감축실적의 기준선과 제품 전과정 산정의 기준선 차이는 어떻게 비교가능성을 제한하는가?",
+            "methodology": "시스템경계·기준선·할당 및 불확실성에 관한 방법론 대조",
+            "novelty": "정책 지표와 제품 지표의 목적·범위 차이를 규명하는 연구 가설",
+            "data": "공개 규정·배출계수·LCI DB 및 제도 운영 자료"
+          }
+        ],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "Speech by Minister for Local Energy and Jobs, Martin McCluskey, at the Carbon Capture and Storage Association (CCSA) 2026 annual conference.",
+          "I’m really pleased to join you this afternoon as the new minister responsible for carbon capture, utilisation and storage.",
+          "The project at Padeswood is not simply carbon capture attached to a cement works. It will be the UK’s first carbon capture-enabled cement plant, securing the future of a vital foundation industry.",
+          "Carbon capture offers a route to reduce their emissions while keeping production and skilled employment in Britain.",
+          "The alternative cannot be to close British industry, import the same products from elsewhere and pretend the emissions have disappeared."
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
+    {
+      "id": "0d7dbec7669ff7",
+      "date": "2026-10-14",
+      "category": "국제 정책",
+      "region": "UN",
+      "title": "Ministry of Environment, Government of Cambodia Tanzanian innovator wins UN Climate Change AI for Climate Action Award 2026 Article",
+      "source": "UNFCCC",
+      "url": "https://unfccc.int/news/tanzanian-innovator-wins-un-climate-change-ai-for-climate-action-award-2026",
+      "doi": "",
+      "tags": [],
+      "document_type": "정책·발표",
+      "link_status": "원문 URL 제공 · 접근 여부 미검증",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "UNFCCC 공식 뉴스",
+      "priority_score": 0,
+      "priority": "참고",
+      "priority_reasons": [],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-10-15",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "An AI-powered platform helping countries better understand climate risks, strengthen adaptation planning and respond to loss and damage has won the UN Climate Change Technology Mechanism AI for Climate Action Award 2026.",
+          "UN Climate Change News, Phnom Penh, Cambodia, 13 October 2026 – Upendo Ernest Lyimo from the United Republic of Tanzania has been named winner of the AI for Climate Action Award 2026 for CLIMAID, an innovative platform that brings together artificial intelligence, satellite observations and local vulnerability data to support climate risk managemen",
+          "ClimateVoice AI, led by Djeneba Doumbia (Mali)"
+        ],
+        "research_ideas": [],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "An AI-powered platform helping countries better understand climate risks, strengthen adaptation planning and respond to loss and damage has won the UN Climate Change Technology Mechanism AI for Climate Action Award 2026.",
+          "UN Climate Change News, Phnom Penh, Cambodia, 13 October 2026 – Upendo Ernest Lyimo from the United Republic of Tanzania has been named winner of the AI for Climate Action Award 2026 for CLIMAID, an innovative platform that brings together artificial intelligence, satellite observations and local vulnerability data to support climate risk managemen",
+          "ClimateVoice AI, led by Djeneba Doumbia (Mali)",
+          "Climate Action Copilot, led by Faria Islam Sara (Bangladesh)",
+          "The finalists presented their solutions to an expert judging panel in September and were invited to showcase their innovations at the Forum in Cambodia. “Used equitably and sustainably, AI can be a powerful tool for accelerating climate action” said Sophie De Coninck, Director, Means of Implementation Division, UN Climate Change. “CLIMAID shows how"
         ],
         "conclusion": "",
         "korea_implications": "",
@@ -2242,13 +2513,37 @@
       "summary": "",
       "insight": "",
       "source_excerpt": "",
-      "review_status": "원문 검토 필요",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
       "verification": "정부 공식 보도자료",
       "priority_score": 0,
       "priority": "참고",
       "priority_reasons": [],
       "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
-      "source_last_attempt": "2026-10-12"
+      "source_last_attempt": "2026-10-15",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "첨부파일 환경영향평가 공탁제 첫 시범사업 추진(보도자료)(국토환경 10.5).hwpx(1 MB) 환경영향평가 공탁제 첫 시범사업 추진(보도자료)(국토환경 10.5).pdf(317.6 KB)",
+          "기후에너지환경부(장관 김성환)는 환경영향평가의 거짓 부실을 방지하고 평가의 독립성과 신뢰성을 높이기 위한 ‘환경영향평가 공탁제’ 시범사업을 추진한다고 밝혔다.",
+          "이번 시범사업의 대상은 한국수자원공사가 발주하는 ‘대청댐 발전시설 현대화 사업에 대한 환경영향평가 대행사업’이며, 한국수자원공사는 10월 6일 자체 전자조달시스템( ebid.kwater.or.kr )을 통해 관련 시범사업을 공고할 계획이다."
+        ],
+        "research_ideas": [],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "첨부파일 환경영향평가 공탁제 첫 시범사업 추진(보도자료)(국토환경 10.5).hwpx(1 MB) 환경영향평가 공탁제 첫 시범사업 추진(보도자료)(국토환경 10.5).pdf(317.6 KB)",
+          "기후에너지환경부(장관 김성환)는 환경영향평가의 거짓 부실을 방지하고 평가의 독립성과 신뢰성을 높이기 위한 ‘환경영향평가 공탁제’ 시범사업을 추진한다고 밝혔다.",
+          "이번 시범사업의 대상은 한국수자원공사가 발주하는 ‘대청댐 발전시설 현대화 사업에 대한 환경영향평가 대행사업’이며, 한국수자원공사는 10월 6일 자체 전자조달시스템( ebid.kwater.or.kr )을 통해 관련 시범사업을 공고할 계획이다.",
+          "그간 환경영향평가 대행사업은 발주자가 대행업체를 직접 선정함에 따라 저가 계약 체결, 갑을 관계에 따른 부당한 요구 등이 발생되어 평가가 부실해질 수 있다는 우려가 제기되었다.",
+          "이에 따라, 제3의 기관이 객관적 기준에 따라 적정 대행업체를 선정하여 환경영향평가를 내실 있게 수행하는 공탁제 도입이 추진된다."
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
     },
     {
       "id": "2cf56d642159e6",
