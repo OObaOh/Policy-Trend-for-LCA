@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-15T00:45:12+00:00",
+  "updated_at": "2026-10-16T00:45:20+00:00",
   "collector": "GitHub Actions / official government sources + Crossref",
   "profile_version": "2026-10-10",
   "new_items": 5,
@@ -16,15 +16,15 @@
       "미국 Federal Register · carbon footprint",
       "일본 환경성",
       "독일 연방환경부",
+      "프랑스 생태전환부",
       "Crossref: dynamic life cycle assessment",
       "Crossref: prospective life cycle assessment",
-      "Crossref: extended producer responsibility life cycle"
+      "Crossref: consequential life cycle assessment allocation"
     ],
     "errors": [
       "EU 집행위원회 역내시장·산업총국",
-      "France",
-      "Crossref: consequential life cycle assessment allocation",
       "Crossref: waste management life cycle assessment",
+      "Crossref: extended producer responsibility life cycle",
       "Crossref: recycling recycled plastics product carbon footprint",
       "Crossref: end of life vehicles environmental impact",
       "Crossref: automotive parts product carbon footprint",
@@ -36,6 +36,253 @@
     ]
   },
   "articles": [
+    {
+      "id": "ebe87dd2440c14",
+      "date": "2026-10-15",
+      "category": "국내 정책",
+      "region": "한국",
+      "title": "친환경 가방 다시 쓰고, 잔반 줄이고… 미래세대의 탄소중립 제안 시범 적용",
+      "source": "기후에너지환경부",
+      "url": "https://mcee.go.kr/m/mob/board/read.do?pagerOffset=0&maxPageItems=10&maxIndexPages=5&searchKey=&searchValue=&menuId=156&orgCd=&boardMasterId=939&boardId=1899660",
+      "doi": "",
+      "tags": [
+        "탄소배출권·GHG"
+      ],
+      "document_type": "정책·발표",
+      "link_status": "원문 URL 제공 · 접근 여부 미검증",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "정부 공식 보도자료",
+      "priority_score": 12,
+      "priority": "우선 검토",
+      "priority_reasons": [
+        "탄소배출권·GHG"
+      ],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-10-16",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "첨부파일 친환경 가방 다시 쓰고 잔반 줄이고…미래세대의 탄소중립 제안 시범 적용(보도자료)(기후적응 10.15).hwpx(4.6 MB) 친환경 가방 다시 쓰고 잔반 줄이고…미래세대의 탄소중립 제안 시범 적용(보도자료)(기후적응 10.15).pdf(848.3 KB)",
+          "이번 사업은 미래세대가 기업의 실제 탄소중립 과제에 해결 방안을 제안하고, 이를 기업과 함께 현장에 적용하는 개방형 혁신(오픈 이노베이션)* 공모전이다. 기업은 과제를 내고 현장 견학과 실무자 조언을 지원하며, 참가자는 약 5개월간 해결 방안을 다듬어 실제 매장에 적용할 수 있는 기획안을 완성했다.",
+          "청년 팀은 씨제이프레시웨이와 함께 저탄소 식단(메뉴) 선택 확대, 일회용 포장재 사용 줄이기, 구내식당 잔반 줄이기를 주제로 활동했다."
+        ],
+        "research_ideas": [
+          {
+            "title": "온실가스 감축정책 지표와 LCA 환경편익 산정의 경계 정합성",
+            "research_question": "정책상 감축실적의 기준선과 제품 전과정 산정의 기준선 차이는 어떻게 비교가능성을 제한하는가?",
+            "methodology": "시스템경계·기준선·할당 및 불확실성에 관한 방법론 대조",
+            "novelty": "정책 지표와 제품 지표의 목적·범위 차이를 규명하는 연구 가설",
+            "data": "공개 규정·배출계수·LCI DB 및 제도 운영 자료"
+          }
+        ],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "첨부파일 친환경 가방 다시 쓰고 잔반 줄이고…미래세대의 탄소중립 제안 시범 적용(보도자료)(기후적응 10.15).hwpx(4.6 MB) 친환경 가방 다시 쓰고 잔반 줄이고…미래세대의 탄소중립 제안 시범 적용(보도자료)(기후적응 10.15).pdf(848.3 KB)",
+          "이번 사업은 미래세대가 기업의 실제 탄소중립 과제에 해결 방안을 제안하고, 이를 기업과 함께 현장에 적용하는 개방형 혁신(오픈 이노베이션)* 공모전이다. 기업은 과제를 내고 현장 견학과 실무자 조언을 지원하며, 참가자는 약 5개월간 해결 방안을 다듬어 실제 매장에 적용할 수 있는 기획안을 완성했다.",
+          "청년 팀은 씨제이프레시웨이와 함께 저탄소 식단(메뉴) 선택 확대, 일회용 포장재 사용 줄이기, 구내식당 잔반 줄이기를 주제로 활동했다.",
+          "청년 부문 대상(기후에너지환경부 장관상)은 가톨릭대학교 '플레트-오(Plate-O)' 팀이 받는다. 이 팀은 처음부터 먹을 만큼 선택하기 쉬운 환경을 만드는 ‘한입만’ 방안을 제안했다. 최우수상(CJ프레시웨이 대표이사상)은 자율 배식 식당에 배식 안내(배식 가이드)를 마련해 알맞은 양을 담도록 이끄는 홍보 활동(캠페인)을 제안한 충북대학교 '알맞담' 팀이, 우수상(한국환경보전원장상)은 모양이 고르지 않아 버려지는 '규격외 채소'로 저탄소 식단(메뉴)을 만들고 정보무늬(QR코드)를 통해 가상의 사과 모형(캐릭터) ‘큐리’ 키우기와 연계한 한동대학교 '무빙루프' 팀이 각각 받는다.",
+          "수상 제안(아이디어)은 실제 기업 현장에서 시범 운영된다. 씨제이프레시웨이는 10월 12일부터 23일까지 본사 사내식당과 간식 판매 공간에서 청년 부문 대상·최우수상·우수상 3개 팀의 잔반 줄이기와 저탄소 식단(메뉴) 기획안을 시범 운영한다."
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
+    {
+      "id": "b0121c68d81c5b",
+      "date": "2026-10-15",
+      "category": "국내 정책",
+      "region": "한국",
+      "title": "환경유전자 분석으로 희귀 수서곤충 ‘배물방개붙이’ 새 서식지 찾았다",
+      "source": "기후에너지환경부",
+      "url": "https://mcee.go.kr/m/mob/board/read.do?pagerOffset=0&maxPageItems=10&maxIndexPages=5&searchKey=&searchValue=&menuId=156&orgCd=&boardMasterId=939&boardId=1899650",
+      "doi": "",
+      "tags": [],
+      "document_type": "정책·발표",
+      "link_status": "원문 URL 제공 · 접근 여부 미검증",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "정부 공식 보도자료",
+      "priority_score": 0,
+      "priority": "참고",
+      "priority_reasons": [],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-10-16",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "첨부파일 환경유전자 분석으로 희귀 수서곤충 ‘배물방개붙이’ 새 서식지 찾았다(보도자료)(낙동강 10.15).pdf(872.2 KB) 환경유전자 분석으로 희귀 수서곤충 ‘배물방개붙이’ 새 서식지 찾았다(보도자료)(낙동강 10.15).hwpx(16 MB)",
+          "기후에너지환경부 산하 국립낙동강생물자원관(관장 용석원)은 환경유전자 분석 기법을 활용해 강원특별자치도 인제군 서화면 일대에서 수서곤충 ‘배물방개붙이’의 신규 서식지를 최근 확인했다고 밝혔다.",
+          "배물방개붙이는 국내에서 확인된 서식지가 적고 발견이 어려운 희귀 수서곤충으로, 국가생물적색목록에서 위기(EN) 등급에 해당한다."
+        ],
+        "research_ideas": [],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "첨부파일 환경유전자 분석으로 희귀 수서곤충 ‘배물방개붙이’ 새 서식지 찾았다(보도자료)(낙동강 10.15).pdf(872.2 KB) 환경유전자 분석으로 희귀 수서곤충 ‘배물방개붙이’ 새 서식지 찾았다(보도자료)(낙동강 10.15).hwpx(16 MB)",
+          "기후에너지환경부 산하 국립낙동강생물자원관(관장 용석원)은 환경유전자 분석 기법을 활용해 강원특별자치도 인제군 서화면 일대에서 수서곤충 ‘배물방개붙이’의 신규 서식지를 최근 확인했다고 밝혔다.",
+          "배물방개붙이는 국내에서 확인된 서식지가 적고 발견이 어려운 희귀 수서곤충으로, 국가생물적색목록에서 위기(EN) 등급에 해당한다.",
+          "국립낙동강생물자원관은 이처럼 직접 발견하기 어려운 희귀생물의 서식지를 탐색하기 위해 환경유전자(environmental DNA, eDNA) 분석 기법을 활용했다.",
+          "환경유전자 분석은 생물이 물이나 토양 등 주변 환경에 남긴 미량의 유전물질을 분석해 생물의 존재 여부를 확인하는 기법이다. 생물을 직접 포획하지 않고도 서식 여부를 파악할 수 있어 개체수가 적거나 발견하기 어려운 희귀생물의 서식지 탐색과 관찰에 유용하다."
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
+    {
+      "id": "99cc89c468071c",
+      "date": "2026-10-15",
+      "category": "국제 정책",
+      "region": "영국",
+      "title": "Statistics at Defra",
+      "source": "영국 환경식품농촌부 (Defra)",
+      "url": "https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs/about/statistics",
+      "doi": "",
+      "tags": [],
+      "document_type": "정책·발표",
+      "link_status": "원문 연결 확인",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "We publish Official Statistics relating to the environment, rural communities, food, and farming.",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "기관 공식 피드",
+      "priority_score": 0,
+      "priority": "참고",
+      "priority_reasons": [],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-10-16",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "Defra, in partnership with its arms’ length bodies, publish a broad range of statistics and data on the environment, food, farming and biosecurity and marine. We see our statistics as a valuable public asset. Through them we seek to provide a window on the world across the areas covered by Defra’s policy and delivery remits and to inform the judgem",
+          "Defra Group publish regular and ad hoc statistics which provide accurate and impartial information across four main themes. Browse our main portfolios:",
+          "A full list of Defra’s published and upcoming statistics can be found below:"
+        ],
+        "research_ideas": [],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "Defra, in partnership with its arms’ length bodies, publish a broad range of statistics and data on the environment, food, farming and biosecurity and marine. We see our statistics as a valuable public asset. Through them we seek to provide a window on the world across the areas covered by Defra’s policy and delivery remits and to inform the judgem",
+          "Defra Group publish regular and ad hoc statistics which provide accurate and impartial information across four main themes. Browse our main portfolios:",
+          "A full list of Defra’s published and upcoming statistics can be found below:",
+          "A separate calendar of release dates across the group for the year ahead, providing groupings by month, is available - Defra statistics release calendar, annual and monthly .",
+          "Defra group Pre-release Access to Official Statistics Compliance Statement"
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
+    {
+      "id": "839420d458d82b",
+      "date": "2026-10-15",
+      "category": "국제 정책",
+      "region": "영국",
+      "title": "How you'll be regulated: environmental permits",
+      "source": "영국 환경식품농촌부 (Defra)",
+      "url": "https://www.gov.uk/guidance/how-youll-be-regulated-environmental-permits",
+      "doi": "",
+      "tags": [],
+      "document_type": "정책·발표",
+      "link_status": "원문 연결 확인",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "How the Environment Agency checks you're complying with your permit through assessments, inspections and permit reviews, and what happens if you do not follow the rules.",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "기관 공식 피드",
+      "priority_score": 0,
+      "priority": "참고",
+      "priority_reasons": [],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-10-16",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "For more guidance on how to develop and maintain a management system, see Develop a management system: environmental permits .",
+          "For more information on appropriate measures, see Technical guidance for regulated industry sectors: environmental permitting .",
+          "For more information on water discharges, see Water discharge and groundwater activity environmental permits ."
+        ],
+        "research_ideas": [],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "For more guidance on how to develop and maintain a management system, see Develop a management system: environmental permits .",
+          "For more information on appropriate measures, see Technical guidance for regulated industry sectors: environmental permitting .",
+          "For more information on water discharges, see Water discharge and groundwater activity environmental permits .",
+          "These mandatory assessments and inspections are funded through annual subsistence fees. See Environmental permits: when and how you are charged for more information.",
+          "The Environment Agency periodically reviews all the permits granted for a particular sector, as set out in the Environmental Permitting Regulations 2016 . This is to check that they:"
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
+    {
+      "id": "3123e6375bb8f0",
+      "date": "2026-10-15",
+      "category": "국제 정책",
+      "region": "영국",
+      "title": "Guidance: Contracts for Difference, renewables obligation and small scale feed-in tariffs: companies awarded exemption or compensation",
+      "source": "영국 에너지안보·넷제로부 (DESNZ)",
+      "url": "https://www.gov.uk/government/publications/renewables-obligation-and-small-scale-feed-in-tariffs-companies-awarded-compensation",
+      "doi": "",
+      "tags": [],
+      "document_type": "정책·발표",
+      "link_status": "원문 연결 확인",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "Companies awarded relief for the indirect cost of Contracts for Difference (CfD), renewables obligation (RO) and small scale feed-in tariffs (FIT).",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "기관 공식 피드",
+      "priority_score": 0,
+      "priority": "참고",
+      "priority_reasons": [],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-10-16",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "Companies awarded relief for the indirect cost of Contracts for Difference (CfD), renewables obligation (RO) and small scale feed-in tariffs (FIT).",
+          "Contracts for Difference (CfD) and renewables obligation (RO): list of companies awarded an exemption updated. Renewables obligation and small scale feed-in tariffs: list of companies awarded compensation updated.",
+          "We have added details of companies awarded compensation for RO / FIT in 2017 and those awarded an exemption from CFD for 2018."
+        ],
+        "research_ideas": [],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "Companies awarded relief for the indirect cost of Contracts for Difference (CfD), renewables obligation (RO) and small scale feed-in tariffs (FIT).",
+          "Contracts for Difference (CfD) and renewables obligation (RO): list of companies awarded an exemption updated. Renewables obligation and small scale feed-in tariffs: list of companies awarded compensation updated.",
+          "We have added details of companies awarded compensation for RO / FIT in 2017 and those awarded an exemption from CFD for 2018.",
+          "Contracts for Difference (CfD) and renewables obligation (RO): list of companies awarded an exemption",
+          "Renewables obligation and small scale feed-in tariffs: list of companies awarded compensation"
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
     {
       "id": "bfd736585a1f36",
       "date": "2026-10-14",
