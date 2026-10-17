@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-10-16T00:45:20+00:00",
+  "updated_at": "2026-10-17T00:46:32+00:00",
   "collector": "GitHub Actions / official government sources + Crossref",
   "profile_version": "2026-10-10",
-  "new_items": 5,
+  "new_items": 8,
   "source_health": {
     "ok": [
       "기후에너지환경부",
@@ -19,23 +19,442 @@
       "프랑스 생태전환부",
       "Crossref: dynamic life cycle assessment",
       "Crossref: prospective life cycle assessment",
-      "Crossref: consequential life cycle assessment allocation"
+      "Crossref: automotive parts product carbon footprint",
+      "Crossref: hydrogen well to wheel life cycle assessment",
+      "Crossref: hydrogen life cycle assessment",
+      "Crossref: product environmental footprint ecodesign regulation",
+      "Crossref: mass balance recycling chain of custody"
     ],
     "errors": [
       "EU 집행위원회 역내시장·산업총국",
+      "Crossref: consequential life cycle assessment allocation",
       "Crossref: waste management life cycle assessment",
       "Crossref: extended producer responsibility life cycle",
       "Crossref: recycling recycled plastics product carbon footprint",
       "Crossref: end of life vehicles environmental impact",
-      "Crossref: automotive parts product carbon footprint",
-      "Crossref: hydrogen well to wheel life cycle assessment",
-      "Crossref: hydrogen life cycle assessment",
-      "Crossref: bioenergy avoided emissions carbon removals",
-      "Crossref: product environmental footprint ecodesign regulation",
-      "Crossref: mass balance recycling chain of custody"
+      "Crossref: bioenergy avoided emissions carbon removals"
     ]
   },
   "articles": [
+    {
+      "id": "d3c980a5bc464b",
+      "date": "2026-10-16",
+      "category": "국제 정책",
+      "region": "EU",
+      "title": "From plants and waste to everyday products: boosting Europe’s bioeconomy",
+      "source": "EU 집행위원회 환경총국",
+      "url": "https://projects.research-and-innovation.ec.europa.eu/en/horizon-magazine/plants-and-waste-everyday-products-boosting-europes-bioeconomy",
+      "doi": "",
+      "tags": [],
+      "document_type": "정책·발표",
+      "link_status": "원문 연결 확인",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "EU-funded researchers are developing alternatives to fossil-based materials, from packaging to fertilisers. Their work could cut Europe's reliance on oil and gas and inspire international cooperation.",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "기관 공식 피드",
+      "priority_score": 0,
+      "priority": "참고",
+      "priority_reasons": [],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-10-17",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "A biorefinery in Spain is turning household organic waste and sewage sludge into coatings, fertilisers and biodegradable bags. In the Netherlands, a company is producing a plant-based chemical building block for new bottles, films and fibres. Together, they show how Europe is exploring ways to rely less on fossil raw materials, an approach that cou",
+          "Some food products can be tasted at the stand of the Circular Bio-based Europe Joint Undertaking (CBE JU). This €2 billion public-private partnership supports Europe’s circular bioeconomy.",
+          "The two events will showcase bioeconomy innovations and launch two new initiatives: the Bio-based Europe Alliance, which aims to boost demand for bio-based products, and the International Bioeconomy Solutions Library, an online platform for sharing proven bioeconomy solutions."
+        ],
+        "research_ideas": [
+          {
+            "title": "포장재 재생원료 의무와 Circular Footprint Formula 간 정합성",
+            "research_question": "의무 재생함량과 회수·재활용 편익의 귀속을 동시에 적용할 때 이중계상을 피할 수 있는가?",
+            "methodology": "PEF/CFF·재생함량법·시스템 확장 비교와 재활용률·품질손실 민감도 평가",
+            "novelty": "포장재 적합성 지표와 PCF 결과가 충돌하는 조건 검증 가설. 중복 문헌 확인 필요",
+            "data": "PPWR 원문, 소재별 공개 LCI, 포장재 폐기물 및 재활용 통계"
+          }
+        ],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "A biorefinery in Spain is turning household organic waste and sewage sludge into coatings, fertilisers and biodegradable bags. In the Netherlands, a company is producing a plant-based chemical building block for new bottles, films and fibres. Together, they show how Europe is exploring ways to rely less on fossil raw materials, an approach that cou",
+          "Some food products can be tasted at the stand of the Circular Bio-based Europe Joint Undertaking (CBE JU). This €2 billion public-private partnership supports Europe’s circular bioeconomy.",
+          "The two events will showcase bioeconomy innovations and launch two new initiatives: the Bio-based Europe Alliance, which aims to boost demand for bio-based products, and the International Bioeconomy Solutions Library, an online platform for sharing proven bioeconomy solutions.",
+          "The new EU Bioeconomy Strategy calls for investment, stronger markets for bio-based products, sustainable supply of biomass and international engagement. But how this translates into practice will vary across Europe, because regions have different resources.",
+          "Some raw materials for bioeconomy plants across Europe will be waste, while others will come from newly grown agricultural crops, said O’Connor, who also chairs the Irish Bioeconomy Foundation."
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
+    {
+      "id": "a864afd1880ccc",
+      "date": "2026-10-16",
+      "category": "국제 정책",
+      "region": "독일",
+      "title": "Europas größte Klimakonferenz für junge Menschen startet heute in München",
+      "source": "독일 연방환경부(BMUKN)",
+      "url": "https://www.bundesumweltministerium.de/pressemitteilung/europas-groesste-klimakonferenz-fuer-junge-menschen-startet-heute-in-muenchen",
+      "doi": "",
+      "tags": [],
+      "document_type": "정책·발표",
+      "link_status": "원문 연결 확인",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "Rund 1.600 Jugendliche und junge Erwachsene aus ganz Deutschland kommen zusammen, um über Klimaschutz, Klimaanpassung, Biodiversität und die soziale Dimension der Energiewende zu diskutieren.",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "기관 공식 피드",
+      "priority_score": 0,
+      "priority": "참고",
+      "priority_reasons": [],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-10-17",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "Heute öffnet die dreitägige Jungendklimakonferenz in München, die Local Conference of Youth (LCOY), die mittlerweile jährlich zur Vorbereitung der Weltklimakonferenz stattfindet. Erwartet werden rund 1.600 Teilnehmer und Teilnehmerinnen im Alter von 14 bis 30 Jahren aus ganz Deutschland. Damit ist sie die größte Jugendklimakonferenz in Europa und g",
+          "Bundesumweltminister Carsten Schneider: \"Wir erleben gerade hautnah, dass entschlossener Klimaschutz und eine konsequente Klimaanpassung nicht bloß Kür sind, sondern das Fundament für unsere Zukunft. Wir haben die Verantwortung heute zu handeln, damit die kommenden Generationen mit einer lebenswerten Umwelt aufwachsen können. Gerade junge Menschen ",
+          "Die UN-Weltklimakonferenz (COP31) findet dieses Jahr unter Vorsitz der Türkei und Australiens vom 9. bis 20. November im türkischen Antalya statt."
+        ],
+        "research_ideas": [
+          {
+            "title": "온실가스 감축정책 지표와 LCA 환경편익 산정의 경계 정합성",
+            "research_question": "정책상 감축실적의 기준선과 제품 전과정 산정의 기준선 차이는 어떻게 비교가능성을 제한하는가?",
+            "methodology": "시스템경계·기준선·할당 및 불확실성에 관한 방법론 대조",
+            "novelty": "정책 지표와 제품 지표의 목적·범위 차이를 규명하는 연구 가설",
+            "data": "공개 규정·배출계수·LCI DB 및 제도 운영 자료"
+          }
+        ],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "Heute öffnet die dreitägige Jungendklimakonferenz in München, die Local Conference of Youth (LCOY), die mittlerweile jährlich zur Vorbereitung der Weltklimakonferenz stattfindet. Erwartet werden rund 1.600 Teilnehmer und Teilnehmerinnen im Alter von 14 bis 30 Jahren aus ganz Deutschland. Damit ist sie die größte Jugendklimakonferenz in Europa und g",
+          "Bundesumweltminister Carsten Schneider: \"Wir erleben gerade hautnah, dass entschlossener Klimaschutz und eine konsequente Klimaanpassung nicht bloß Kür sind, sondern das Fundament für unsere Zukunft. Wir haben die Verantwortung heute zu handeln, damit die kommenden Generationen mit einer lebenswerten Umwelt aufwachsen können. Gerade junge Menschen ",
+          "Die UN-Weltklimakonferenz (COP31) findet dieses Jahr unter Vorsitz der Türkei und Australiens vom 9. bis 20. November im türkischen Antalya statt.",
+          "Die Local Conference of Youth (LCOY) ist seit ihrer Gründung 2019 die größte Klimakonferenz für junge Menschen in Deutschland. Sie richtet sich an Jugendliche und junge Erwachsene im Alter von 14 bis 30 Jahren, bietet kostenfreie Teilhabe und schafft eine politisch neutrale Plattform, um Wissen zu Klimathemen zu vermitteln, den Dialog zwischen Gene",
+          "Die LCOY ist von YOUNGO, der offiziellen Jugendvertretung unter der Klimarahmenkonvention der UN, anerkannt und gibt als solche Ergebnisse an die globale Conference of Youth weiter, welche ihre Positionen und Forderungen wiederum an die Weltklimakonferenz (COP) kommuniziert."
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
+    {
+      "id": "a184cb66c0e6a4",
+      "date": "2026-10-16",
+      "category": "국제 정책",
+      "region": "영국",
+      "title": "£1.6m fine for Anglian Water's pollution of Essex river",
+      "source": "영국 환경식품농촌부 (Defra)",
+      "url": "https://www.gov.uk/government/news/16m-fine-for-anglian-waters-pollution-of-essex-river",
+      "doi": "",
+      "tags": [],
+      "document_type": "정책·발표",
+      "link_status": "원문 연결 확인",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "Anglian Water has been fined £1.6m after repeated sewage pollution of the River Brain over six weeks in 2022.",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "기관 공식 피드",
+      "priority_score": 0,
+      "priority": "참고",
+      "priority_reasons": [],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-10-17",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "Anglian Water has been fined £1.6m after repeated sewage pollution of the River Brain over six weeks in 2022.",
+          "Pollution of the River Brain. Copyright: Environment Agency",
+          "An Environment Agency investigation traced the source to Anglian Water’s water recycling centre in Braintree. A faulty valve, broken for a week before the first incident in April 2022, led to a semi-solid sludge, usually removed from sewage by water companies, causing high levels of ammonia to be released into the river."
+        ],
+        "research_ideas": [],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "Anglian Water has been fined £1.6m after repeated sewage pollution of the River Brain over six weeks in 2022.",
+          "Pollution of the River Brain. Copyright: Environment Agency",
+          "An Environment Agency investigation traced the source to Anglian Water’s water recycling centre in Braintree. A faulty valve, broken for a week before the first incident in April 2022, led to a semi-solid sludge, usually removed from sewage by water companies, causing high levels of ammonia to be released into the river.",
+          "These pollution incidents were the result of organisational failure by Anglian Water to recognise risk and act on the warning signs, resulting in them operating outside the law. They caused a significant impact on the quality of River Brain.",
+          "Anglian Water have clearly been too slow to act in this case and the environment has paid the price. They should, and must, do better to stop pollution before it happens."
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
+    {
+      "id": "895d562313f9ed",
+      "date": "2026-10-16",
+      "category": "국제 정책",
+      "region": "영국",
+      "title": "Guidance: Report receipt of waste: choose a software provider",
+      "source": "영국 환경식품농촌부 (Defra)",
+      "url": "https://www.gov.uk/government/publications/report-receipt-of-waste-choose-a-software-provider",
+      "doi": "",
+      "tags": [],
+      "document_type": "연구보고서",
+      "link_status": "원문 연결 확인",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "You can use software to automatically upload your waste records into the report receipt of waste service.",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "기관 공식 피드",
+      "priority_score": 0,
+      "priority": "참고",
+      "priority_reasons": [],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-10-17",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "You can use software to automatically upload your waste records into the report receipt of waste service.",
+          "Updated the list of compatible software providers.",
+          "The list of compatible software providers has been updated."
+        ],
+        "research_ideas": [
+          {
+            "title": "재자원화 환경편익 산정에서 폐기물 지위와 환경부하 귀속의 영향",
+            "research_question": "폐기물의 원료 전환과 대체편익 반영 범위가 정책단위 감축실적과 제품단위 PCF 간 결과를 어떻게 변화시키는가?",
+            "methodology": "Attributional/Consequential LCA, cut-off·할당·회피배출 규칙을 결합한 시나리오",
+            "novelty": "정책 효과와 제품 탄소발자국의 산정목적·경계 차이에서 발생하는 연구 가설",
+            "data": "공식 정책 문서, 공개 재활용 통계와 공정 LCI. 민간 현장 수율은 확인 필요"
+          }
+        ],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "You can use software to automatically upload your waste records into the report receipt of waste service.",
+          "Updated the list of compatible software providers.",
+          "The list of compatible software providers has been updated.",
+          "From 1 January 2027, permitted or licenced sites in Northern Ireland will need to report their waste digitally, using the report receipt of waste service. The list of compatible software providers has also been updated.",
+          "Report receipt of waste: choose a software provider"
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
+    {
+      "id": "5537d5d0a70429",
+      "date": "2026-10-16",
+      "category": "국제 정책",
+      "region": "영국",
+      "title": "Updating standards for standby, networked standby and off mode power consumption",
+      "source": "영국 에너지안보·넷제로부 (DESNZ)",
+      "url": "https://www.gov.uk/government/consultations/updating-standards-for-standby-networked-standby-and-off-mode-power-consumption",
+      "doi": "",
+      "tags": [],
+      "document_type": "정책·발표",
+      "link_status": "원문 연결 확인",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "We're seeking views on proposals to improve ecodesign standards for standby mode.",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "기관 공식 피드",
+      "priority_score": 0,
+      "priority": "참고",
+      "priority_reasons": [],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-10-17",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "We're seeking views on proposals to improve ecodesign standards for standby mode.",
+          "This consultation seeks views on proposed updates to the ecodesign regulations for standby in Great Britain.",
+          "The aim is to replace and update the current regulations (1275/2008 and 107/2009) with new standards aligned with the EU Regulation (EU) 2023/826, in order to:"
+        ],
+        "research_ideas": [],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "We're seeking views on proposals to improve ecodesign standards for standby mode.",
+          "This consultation seeks views on proposed updates to the ecodesign regulations for standby in Great Britain.",
+          "The aim is to replace and update the current regulations (1275/2008 and 107/2009) with new standards aligned with the EU Regulation (EU) 2023/826, in order to:",
+          "enhance energy consumption efficiency of electrical and electronic household and office equipment",
+          "Updating standards for standby, networked standby and off mode power consumption: consultation (PDF)"
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
+    {
+      "id": "4c641ec384f875",
+      "date": "2026-10-16",
+      "category": "국제 정책",
+      "region": "영국",
+      "title": "Notice: Green Gas Support Scheme (GGSS): open to applications",
+      "source": "영국 에너지안보·넷제로부 (DESNZ)",
+      "url": "https://www.gov.uk/government/publications/green-gas-support-scheme-ggss",
+      "doi": "",
+      "tags": [
+        "바이오에너지·유기성 폐자원",
+        "GGSS"
+      ],
+      "document_type": "정책·발표",
+      "link_status": "원문 연결 확인",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "This scheme provides tariff support for biomethane produced via anaerobic digestion which is injected into the gas grid.",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "기관 공식 피드",
+      "priority_score": 10,
+      "priority": "참고",
+      "priority_reasons": [
+        "바이오에너지·유기성 폐자원"
+      ],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-10-17",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "Updated to include new regulations on the Green Gas Support Scheme which come into effect on 16 October and extend the scheme’s commissioning deadline to 31 March 2030 (previously 31 March 2028).",
+          "New regulations are expected to come into effect in early 2026 to extend the commissioning window of the Green Gas Support Scheme (GGSS) to 31 March 2030. Subject to parliamentary scrutiny, applicants have an additional two years to commission plants and begin injecting biomethane into the gas grid.",
+          "New regulations on the Green Gas Support Scheme which come into effect today (4 June) extend the scheme to 31 March 2028 (previously 30 November 2025)."
+        ],
+        "research_ideas": [],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "Updated to include new regulations on the Green Gas Support Scheme which come into effect on 16 October and extend the scheme’s commissioning deadline to 31 March 2030 (previously 31 March 2028).",
+          "New regulations are expected to come into effect in early 2026 to extend the commissioning window of the Green Gas Support Scheme (GGSS) to 31 March 2030. Subject to parliamentary scrutiny, applicants have an additional two years to commission plants and begin injecting biomethane into the gas grid.",
+          "New regulations on the Green Gas Support Scheme which come into effect today (4 June) extend the scheme to 31 March 2028 (previously 30 November 2025).",
+          "We are extending the Green Gas Support Scheme to 31 March 2028.",
+          "The Green Gas Support Scheme (GGSS) is now open to applications."
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
+    {
+      "id": "452ee9bfd58b40",
+      "date": "2026-10-16",
+      "category": "국제 정책",
+      "region": "영국",
+      "title": "Guidance: Public register of reprocessors and exporters of UK packaging waste",
+      "source": "영국 환경식품농촌부 (Defra)",
+      "url": "https://www.gov.uk/government/publications/public-register-of-reprocessors-and-exporters-of-uk-packaging-waste",
+      "doi": "",
+      "tags": [
+        "EPR",
+        "PPWR·포장재"
+      ],
+      "document_type": "정책·발표",
+      "link_status": "원문 연결 확인",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "List of all operators registered and accredited under extended producer responsibility (EPR) for packaging.",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "기관 공식 피드",
+      "priority_score": 32,
+      "priority": "필독",
+      "priority_reasons": [
+        "PPWR·포장재",
+        "EPR"
+      ],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-10-17",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "List of all operators registered and accredited under extended producer responsibility (EPR) for packaging.",
+          "Replaced the interim lists of operators with the public register of all registered and accredited reprocessors and exporters.",
+          "Public register of reprocessors and exporters"
+        ],
+        "research_ideas": [
+          {
+            "title": "포장재 재생원료 의무와 Circular Footprint Formula 간 정합성",
+            "research_question": "의무 재생함량과 회수·재활용 편익의 귀속을 동시에 적용할 때 이중계상을 피할 수 있는가?",
+            "methodology": "PEF/CFF·재생함량법·시스템 확장 비교와 재활용률·품질손실 민감도 평가",
+            "novelty": "포장재 적합성 지표와 PCF 결과가 충돌하는 조건 검증 가설. 중복 문헌 확인 필요",
+            "data": "PPWR 원문, 소재별 공개 LCI, 포장재 폐기물 및 재활용 통계"
+          }
+        ],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "List of all operators registered and accredited under extended producer responsibility (EPR) for packaging.",
+          "Replaced the interim lists of operators with the public register of all registered and accredited reprocessors and exporters.",
+          "Public register of reprocessors and exporters",
+          "The public register sets out details of reprocessors and exporters registered and accredited by:",
+          "Environment Agency packaging@environment-agency.gov.uk Telephone: 03708 506 506"
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
+    {
+      "id": "32b6fb1369b961",
+      "date": "2026-10-16",
+      "category": "국제 정책",
+      "region": "영국",
+      "title": "Improving standards for industrial fans",
+      "source": "영국 에너지안보·넷제로부 (DESNZ)",
+      "url": "https://www.gov.uk/government/consultations/improving-standards-for-industrial-fans",
+      "doi": "",
+      "tags": [],
+      "document_type": "정책·발표",
+      "link_status": "원문 연결 확인",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "We're seeking views on proposals to improve ecodesign standards for industrial fans.",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "기관 공식 피드",
+      "priority_score": 0,
+      "priority": "참고",
+      "priority_reasons": [],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-10-17",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "We're seeking views on proposals to improve ecodesign standards for industrial fans.",
+          "This consultation seeks views on proposed updates to the ecodesign requirements for industrial fans in Great Britain. The aim is to update the current requirements (Commission Regulation (EU) 327/2011) with new standards aligned with the EU Regulation (EU) 2024/1834, as amended by Regulation (EU) 2025/2481, in order to:",
+          "increase minimum energy performance standards for industrial fans"
+        ],
+        "research_ideas": [],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "We're seeking views on proposals to improve ecodesign standards for industrial fans.",
+          "This consultation seeks views on proposed updates to the ecodesign requirements for industrial fans in Great Britain. The aim is to update the current requirements (Commission Regulation (EU) 327/2011) with new standards aligned with the EU Regulation (EU) 2024/1834, as amended by Regulation (EU) 2025/2481, in order to:",
+          "increase minimum energy performance standards for industrial fans",
+          "revise the definitions of industrial fans in scope of the regulations",
+          "Improving standards for industrial fans: consultation (PDF)"
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
     {
       "id": "ebe87dd2440c14",
       "date": "2026-10-15",
