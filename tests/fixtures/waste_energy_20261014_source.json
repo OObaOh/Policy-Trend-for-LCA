@@ -1,0 +1,8 @@
+{
+  "article_id": "97f4b4d803947e",
+  "url": "https://mcee.go.kr/m/mob/board/read.do?pagerOffset=0&maxPageItems=10&maxIndexPages=5&searchKey=&searchValue=&menuId=156&orgCd=&boardMasterId=939&boardId=1899150",
+  "published_at": "2026-10-14",
+  "captured_at": "2026-10-14T07:51:29.019127+00:00",
+  "live_html_sha256": "6d803c781181cf548f57374852c1fc3bcd0d69bce0622b7190129ef3a3b612bc",
+  "fixture_note": "실제 공식 모바일 페이지의 .articleInfo와 .articleDetail DOM 발췌. 문구·링크 유지. 주변 메뉴만 생략."
+}
