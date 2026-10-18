@@ -1,11 +1,10 @@
 {
-  "updated_at": "2026-10-17T00:46:32+00:00",
+  "updated_at": "2026-10-18T00:46:21+00:00",
   "collector": "GitHub Actions / official government sources + Crossref",
   "profile_version": "2026-10-10",
-  "new_items": 8,
+  "new_items": 0,
   "source_health": {
     "ok": [
-      "기후에너지환경부",
       "UNFCCC",
       "영국 에너지안보·넷제로부 (DESNZ)",
       "영국 환경식품농촌부 (Defra)",
@@ -19,20 +18,21 @@
       "프랑스 생태전환부",
       "Crossref: dynamic life cycle assessment",
       "Crossref: prospective life cycle assessment",
-      "Crossref: automotive parts product carbon footprint",
-      "Crossref: hydrogen well to wheel life cycle assessment",
-      "Crossref: hydrogen life cycle assessment",
-      "Crossref: product environmental footprint ecodesign regulation",
-      "Crossref: mass balance recycling chain of custody"
+      "Crossref: automotive parts product carbon footprint"
     ],
     "errors": [
+      "MCEE",
       "EU 집행위원회 역내시장·산업총국",
       "Crossref: consequential life cycle assessment allocation",
       "Crossref: waste management life cycle assessment",
       "Crossref: extended producer responsibility life cycle",
       "Crossref: recycling recycled plastics product carbon footprint",
       "Crossref: end of life vehicles environmental impact",
-      "Crossref: bioenergy avoided emissions carbon removals"
+      "Crossref: hydrogen well to wheel life cycle assessment",
+      "Crossref: hydrogen life cycle assessment",
+      "Crossref: bioenergy avoided emissions carbon removals",
+      "Crossref: product environmental footprint ecodesign regulation",
+      "Crossref: mass balance recycling chain of custody"
     ]
   },
   "articles": [
