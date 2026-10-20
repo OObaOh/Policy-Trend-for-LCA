@@ -1,11 +1,10 @@
 {
-  "updated_at": "2026-10-19T00:46:55+00:00",
+  "updated_at": "2026-10-20T00:47:56+00:00",
   "collector": "GitHub Actions / official government sources + Crossref",
   "profile_version": "2026-10-10",
-  "new_items": 2,
+  "new_items": 7,
   "source_health": {
     "ok": [
-      "기후에너지환경부",
       "UNFCCC",
       "영국 에너지안보·넷제로부 (DESNZ)",
       "영국 환경식품농촌부 (Defra)",
@@ -18,24 +17,229 @@
       "독일 연방환경부",
       "프랑스 생태전환부",
       "Crossref: dynamic life cycle assessment",
-      "Crossref: prospective life cycle assessment",
-      "Crossref: recycling recycled plastics product carbon footprint",
+      "Crossref: consequential life cycle assessment allocation",
+      "Crossref: extended producer responsibility life cycle",
       "Crossref: end of life vehicles environmental impact",
-      "Crossref: automotive parts product carbon footprint",
-      "Crossref: hydrogen well to wheel life cycle assessment",
-      "Crossref: hydrogen life cycle assessment"
+      "Crossref: hydrogen life cycle assessment",
+      "Crossref: product environmental footprint ecodesign regulation"
     ],
     "errors": [
+      "MCEE",
       "EU 집행위원회 역내시장·산업총국",
-      "Crossref: consequential life cycle assessment allocation",
+      "Crossref: prospective life cycle assessment",
       "Crossref: waste management life cycle assessment",
-      "Crossref: extended producer responsibility life cycle",
+      "Crossref: recycling recycled plastics product carbon footprint",
+      "Crossref: automotive parts product carbon footprint",
+      "Crossref: hydrogen well to wheel life cycle assessment",
       "Crossref: bioenergy avoided emissions carbon removals",
-      "Crossref: product environmental footprint ecodesign regulation",
       "Crossref: mass balance recycling chain of custody"
     ]
   },
   "articles": [
+    {
+      "id": "ff2fd9703f0d26",
+      "date": "2026-10-19",
+      "category": "국제 정책",
+      "region": "영국",
+      "title": "Report receipt of waste",
+      "source": "영국 환경식품농촌부 (Defra)",
+      "url": "https://www.gov.uk/guidance/report-receipt-of-waste",
+      "doi": "",
+      "tags": [],
+      "document_type": "연구보고서",
+      "link_status": "원문 연결 확인",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "From October 2026 (January 2027 in Northern Ireland and Scotland), all organisations that are licensed or permitted to receive waste must use the new report receipt of waste service.",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "기관 공식 피드",
+      "priority_score": 0,
+      "priority": "참고",
+      "priority_reasons": [],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-10-20",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "From October 2026 (January 2027 in Northern Ireland and Scotland), all organisations that are licensed or permitted to receive waste must use the new report receipt of waste service.",
+          "Added a link to guidance on checking if you need to use the 'Report receipt of waste' service. Removed the instruction that local authorities should not register for the service – they can now use the service. Under 'Sending your data', clarified you can add multiple movements to one spreadsheet, but you need to start a new spreadsheet once you hav",
+          "A link to the receipt of waste spreadsheet has been added."
+        ],
+        "research_ideas": [
+          {
+            "title": "재자원화 환경편익 산정에서 폐기물 지위와 환경부하 귀속의 영향",
+            "research_question": "폐기물의 원료 전환과 대체편익 반영 범위가 정책단위 감축실적과 제품단위 PCF 간 결과를 어떻게 변화시키는가?",
+            "methodology": "Attributional/Consequential LCA, cut-off·할당·회피배출 규칙을 결합한 시나리오",
+            "novelty": "정책 효과와 제품 탄소발자국의 산정목적·경계 차이에서 발생하는 연구 가설",
+            "data": "공식 정책 문서, 공개 재활용 통계와 공정 LCI. 민간 현장 수율은 확인 필요"
+          }
+        ],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "From October 2026 (January 2027 in Northern Ireland and Scotland), all organisations that are licensed or permitted to receive waste must use the new report receipt of waste service.",
+          "Added a link to guidance on checking if you need to use the 'Report receipt of waste' service. Removed the instruction that local authorities should not register for the service – they can now use the service. Under 'Sending your data', clarified you can add multiple movements to one spreadsheet, but you need to start a new spreadsheet once you hav",
+          "A link to the receipt of waste spreadsheet has been added.",
+          "Before you start, you should check if you need to report the waste you receive through this service. This outlines:",
+          "There are 2 ways you can report your receipt of waste:"
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
+    {
+      "id": "f943e0327b8fe5",
+      "date": "2026-10-19",
+      "category": "국제 정책",
+      "region": "영국",
+      "title": "Correspondence: Ministerial direction to protect public water supplies in areas affected by severe drought",
+      "source": "영국 환경식품농촌부 (Defra)",
+      "url": "https://www.gov.uk/government/publications/ministerial-direction-to-protect-public-water-supplies-in-areas-affected-by-severe-drought",
+      "doi": "",
+      "tags": [],
+      "document_type": "정책·발표",
+      "link_status": "원문 연결 확인",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "Ministerial direction to the Environment Agency about protecting public water supplies in water resource zones affected by severe drought.",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "기관 공식 피드",
+      "priority_score": 0,
+      "priority": "참고",
+      "priority_reasons": [],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-10-20",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "Ministerial direction to the Environment Agency about protecting public water supplies in water resource zones affected by severe drought.",
+          "A Direction given by: The Secretary of State under section 40 of the Environment Act 1995",
+          "A ministerial direction to the Environment Agency has been issued in relation to protecting public water supplies in water resource zones affected by severe drought."
+        ],
+        "research_ideas": [],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "Ministerial direction to the Environment Agency about protecting public water supplies in water resource zones affected by severe drought.",
+          "A Direction given by: The Secretary of State under section 40 of the Environment Act 1995",
+          "A ministerial direction to the Environment Agency has been issued in relation to protecting public water supplies in water resource zones affected by severe drought."
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
+    {
+      "id": "4c04fdd54721f2",
+      "date": "2026-10-19",
+      "category": "국제 정책",
+      "region": "영국",
+      "title": "Research: UK Eutrophying and Acidifying Atmospheric Pollutants (UKEAP) Network technical reports",
+      "source": "영국 환경식품농촌부 (Defra)",
+      "url": "https://www.gov.uk/government/publications/uk-eutrophying-and-acidifying-atmospheric-pollutants-ukeap-network-technical-reports",
+      "doi": "",
+      "tags": [
+        "UKEAP"
+      ],
+      "document_type": "연구보고서",
+      "link_status": "원문 연결 확인",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "Annual technical reports from the UK Eutrophying and Acidifying Atmospheric Pollutants (UKEAP) Network, part of the UK's air pollution monitoring regime.",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "기관 공식 피드",
+      "priority_score": 0,
+      "priority": "참고",
+      "priority_reasons": [],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-10-20",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "Annual technical reports from the UK Eutrophying and Acidifying Atmospheric Pollutants (UKEAP) Network, part of the UK's air pollution monitoring regime.",
+          "This file may not be suitable for users of assistive technology.",
+          "The UK Eutrophying and Acidifying Atmospheric Pollutants ( UKEAP ) Network is part of the UK’s air pollution monitoring regime ."
+        ],
+        "research_ideas": [],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "Annual technical reports from the UK Eutrophying and Acidifying Atmospheric Pollutants (UKEAP) Network, part of the UK's air pollution monitoring regime.",
+          "This file may not be suitable for users of assistive technology.",
+          "The UK Eutrophying and Acidifying Atmospheric Pollutants ( UKEAP ) Network is part of the UK’s air pollution monitoring regime .",
+          "Annual technical reports provide information on the activities undertaken and data collected by the UKEAP Network in each reporting year.",
+          "The 2025 report is prepared the UK Centre for Ecology & Hydrology (UKCEH) and WSP UK on behalf of the Environment Agency and the Department for Environment, Food and Rural Affairs."
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
+    {
+      "id": "44c3229b08e801",
+      "date": "2026-10-19",
+      "category": "국제 정책",
+      "region": "영국",
+      "title": "Digital waste tracking: check if you need to report the waste you receive",
+      "source": "영국 환경식품농촌부 (Defra)",
+      "url": "https://www.gov.uk/guidance/digital-waste-tracking-check-if-you-need-to-report-the-waste-you-receive",
+      "doi": "",
+      "tags": [],
+      "document_type": "연구보고서",
+      "link_status": "원문 연결 확인",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "When permitted or licensed organisations must report controlled waste using the ‘Report receipt of waste’ service.",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "기관 공식 피드",
+      "priority_score": 0,
+      "priority": "참고",
+      "priority_reasons": [],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-10-20",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "Clarified which contact details to use to get help with technical issues and meeting digital waste tracking requirements.",
+          "If you are licensed or permitted to receive controlled waste, you will need to enter details of every load you receive using the ‘Report receipt of waste’ service.",
+          "This is a legal requirement under The Digital Waste Tracking (England) Regulations 2026 and The Digital Waste Tracking (Wales) Regulations 2026 ."
+        ],
+        "research_ideas": [
+          {
+            "title": "재자원화 환경편익 산정에서 폐기물 지위와 환경부하 귀속의 영향",
+            "research_question": "폐기물의 원료 전환과 대체편익 반영 범위가 정책단위 감축실적과 제품단위 PCF 간 결과를 어떻게 변화시키는가?",
+            "methodology": "Attributional/Consequential LCA, cut-off·할당·회피배출 규칙을 결합한 시나리오",
+            "novelty": "정책 효과와 제품 탄소발자국의 산정목적·경계 차이에서 발생하는 연구 가설",
+            "data": "공식 정책 문서, 공개 재활용 통계와 공정 LCI. 민간 현장 수율은 확인 필요"
+          }
+        ],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "Clarified which contact details to use to get help with technical issues and meeting digital waste tracking requirements.",
+          "If you are licensed or permitted to receive controlled waste, you will need to enter details of every load you receive using the ‘Report receipt of waste’ service.",
+          "This is a legal requirement under The Digital Waste Tracking (England) Regulations 2026 and The Digital Waste Tracking (Wales) Regulations 2026 .",
+          "Before you register, check the type of waste you receive. If you are unsure, check the Controlled Waste (England and Wales) Regulations 2012 for more information.",
+          "it is not practical to use digital tools to report your waste due to your age, disability or location"
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
     {
       "id": "1bab6a8ff947f0",
       "date": "2026-10-19",
@@ -136,6 +340,149 @@
           "An official website of the United States government.",
           "If you experiencing issues with the CAPTCHA or want to request a wider IP range, you can use the \"Site Help\" button found in the lower, right of this page to make a request.",
           "This contact form is only for IP Access help. Please do not provide confidential information or personal data."
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
+    {
+      "id": "0d778a8bf63d1b",
+      "date": "2026-10-19",
+      "category": "국제 정책",
+      "region": "EU",
+      "title": "Commission proposes more flexibility for liquid digestates",
+      "source": "EU 집행위원회 환경총국",
+      "url": "https://environment.ec.europa.eu/news/commission-proposes-more-flexibility-liquid-digestates-2026-10-19_en",
+      "doi": "",
+      "tags": [],
+      "document_type": "정책·발표",
+      "link_status": "원문 연결 확인",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "The aim is to facilitate the use of certain liquid digestates as an alternative to chemical fertilisers while ensuring environmental risks are managed.",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "기관 공식 피드",
+      "priority_score": 0,
+      "priority": "참고",
+      "priority_reasons": [],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-10-20",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "The European Commission has launched a public consultation to gather feedback on a draft proposal to help farmers reduce costs and rely less on chemical fertilisers.",
+          "The proposed targeted amendment of the Nitrates Directive would give Member States greater flexibility to allow farmers to use certain liquid digestates derived from livestock manure.",
+          "The proposal, announced in the EU Fertiliser Action Plan and the Livestock Strategy , aims to facilitate the use of certain liquid digestates as an alternative to chemical fertilisers while ensuring that environmental risks are managed."
+        ],
+        "research_ideas": [],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "The European Commission has launched a public consultation to gather feedback on a draft proposal to help farmers reduce costs and rely less on chemical fertilisers.",
+          "The proposed targeted amendment of the Nitrates Directive would give Member States greater flexibility to allow farmers to use certain liquid digestates derived from livestock manure.",
+          "The proposal, announced in the EU Fertiliser Action Plan and the Livestock Strategy , aims to facilitate the use of certain liquid digestates as an alternative to chemical fertilisers while ensuring that environmental risks are managed.",
+          "The initiative is supported by a new report by the Commission’s Joint Research Centre assessing the potential for the safe use of agricultural digestates as fertilising materials.",
+          "The EU Fertiliser Action Plan , adopted in May 2026, and the Livestock Strategy , adopted in July 2026, announced that the Commission would explore extending the RENURE rules under the Nitrates Directive to certain manure-based liquid digestates. This would help farmers use digestates as an alternative to chemical fertilisers amid ongoing geopoliti"
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
+    {
+      "id": "0d30d85d3561aa",
+      "date": "2026-10-19",
+      "category": "국제 정책",
+      "region": "영국",
+      "title": "Form: Young Voices for Climate and Nature",
+      "source": "영국 에너지안보·넷제로부 (DESNZ)",
+      "url": "https://www.gov.uk/government/publications/young-voices-for-climate-and-nature",
+      "doi": "",
+      "tags": [],
+      "document_type": "정책·발표",
+      "link_status": "원문 연결 확인",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "We're asking young people from across the UK to share their ideas about climate and nature action.",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "기관 공식 피드",
+      "priority_score": 0,
+      "priority": "참고",
+      "priority_reasons": [],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-10-20",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "We're asking young people from across the UK to share their ideas about climate and nature action.",
+          "Young Voices for Climate and Nature - share your ideas",
+          "https://submit.forms.service.gov.uk/form/266263/young-voices-for-climate-and-nature-share-your-ideas"
+        ],
+        "research_ideas": [],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "We're asking young people from across the UK to share their ideas about climate and nature action.",
+          "Young Voices for Climate and Nature - share your ideas",
+          "https://submit.forms.service.gov.uk/form/266263/young-voices-for-climate-and-nature-share-your-ideas",
+          "Young Voices for Climate and Nature: privacy notice",
+          "https://www.gov.uk/government/publications/young-voices-for-climate-and-nature-privacy-notice/young-voices-for-climate-and-nature-privacy-notice"
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
+    {
+      "id": "01e15a622ce3e2",
+      "date": "2026-10-19",
+      "category": "국제 정책",
+      "region": "영국",
+      "title": "Official Statistics: The carbon impact of waste from households managed by local authorities in England",
+      "source": "영국 환경식품농촌부 (Defra)",
+      "url": "https://www.gov.uk/government/statistics/announcements/experimental-statistics-on-the-carbon-impact-of-waste-from-households-managed-by-local-authorities-in-england",
+      "doi": "",
+      "tags": [],
+      "document_type": "법령·규제",
+      "link_status": "원문 연결 확인",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "We have paused any updates to these official statistics in development (published once previously as experimental statistics in 2022) while we continue to review the suitability of the data and methodology used to produce them. Following this review, we will decide about whether, and if so, when and how to publish an update. In the meantime, we would still welcome users’ views on the value of and uses for these statistics, and on how they could better meet user needs, to WasteStatistics@defra.gov.uk",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "기관 공식 피드",
+      "priority_score": 0,
+      "priority": "참고",
+      "priority_reasons": [],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-10-20",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "We have paused any updates to these official statistics in development (published once previously as experimental statistics in 2022) while we continue to review the suitability of the data and methodology used to produce them. Following this review, we will decide about whether, and if so, when and how to publish an update. In the meantime, we wou"
+        ],
+        "research_ideas": [
+          {
+            "title": "온실가스 감축정책 지표와 LCA 환경편익 산정의 경계 정합성",
+            "research_question": "정책상 감축실적의 기준선과 제품 전과정 산정의 기준선 차이는 어떻게 비교가능성을 제한하는가?",
+            "methodology": "시스템경계·기준선·할당 및 불확실성에 관한 방법론 대조",
+            "novelty": "정책 지표와 제품 지표의 목적·범위 차이를 규명하는 연구 가설",
+            "data": "공개 규정·배출계수·LCI DB 및 제도 운영 자료"
+          }
+        ],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "We have paused any updates to these official statistics in development (published once previously as experimental statistics in 2022) while we continue to review the suitability of the data and methodology used to produce them. Following this review, we will decide about whether, and if so, when and how to publish an update. In the meantime, we wou"
         ],
         "conclusion": "",
         "korea_implications": "",
