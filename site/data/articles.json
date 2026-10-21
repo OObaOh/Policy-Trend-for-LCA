@@ -1,10 +1,11 @@
 {
-  "updated_at": "2026-10-20T00:47:56+00:00",
+  "updated_at": "2026-10-21T00:45:41+00:00",
   "collector": "GitHub Actions / official government sources + Crossref",
   "profile_version": "2026-10-10",
-  "new_items": 7,
+  "new_items": 3,
   "source_health": {
     "ok": [
+      "기후에너지환경부",
       "UNFCCC",
       "영국 에너지안보·넷제로부 (DESNZ)",
       "영국 환경식품농촌부 (Defra)",
@@ -17,25 +18,182 @@
       "독일 연방환경부",
       "프랑스 생태전환부",
       "Crossref: dynamic life cycle assessment",
-      "Crossref: consequential life cycle assessment allocation",
-      "Crossref: extended producer responsibility life cycle",
-      "Crossref: end of life vehicles environmental impact",
-      "Crossref: hydrogen life cycle assessment",
-      "Crossref: product environmental footprint ecodesign regulation"
+      "Crossref: prospective life cycle assessment",
+      "Crossref: waste management life cycle assessment"
     ],
     "errors": [
-      "MCEE",
       "EU 집행위원회 역내시장·산업총국",
-      "Crossref: prospective life cycle assessment",
-      "Crossref: waste management life cycle assessment",
+      "Crossref: consequential life cycle assessment allocation",
+      "Crossref: extended producer responsibility life cycle",
       "Crossref: recycling recycled plastics product carbon footprint",
+      "Crossref: end of life vehicles environmental impact",
       "Crossref: automotive parts product carbon footprint",
       "Crossref: hydrogen well to wheel life cycle assessment",
+      "Crossref: hydrogen life cycle assessment",
       "Crossref: bioenergy avoided emissions carbon removals",
+      "Crossref: product environmental footprint ecodesign regulation",
       "Crossref: mass balance recycling chain of custody"
     ]
   },
   "articles": [
+    {
+      "id": "871b38c226c01a",
+      "date": "2026-10-20",
+      "category": "국제 정책",
+      "region": "영국",
+      "title": "Statutory guidance: Bird flu: licence to move eggs (and egg waste) to a protection or surveillance zone for disposal at an approved animal by-product plant (EXD653(HPAI)(EW))",
+      "source": "영국 환경식품농촌부 (Defra)",
+      "url": "https://www.gov.uk/government/publications/bird-flu-licence-to-move-eggs-and-egg-waste-to-a-protection-or-surveillance-zone-for-disposal-at-an-approved-animal-by-product-plant",
+      "doi": "",
+      "tags": [
+        "EXD653",
+        "HPAI"
+      ],
+      "document_type": "정책·발표",
+      "link_status": "원문 연결 확인",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "General licence to move eggs (and egg waste) from premises outside a protection or surveillance zone to an approved animal by-product plant in a protection or surveillance zone in England or Wales for disposal.",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "기관 공식 피드",
+      "priority_score": 0,
+      "priority": "참고",
+      "priority_reasons": [],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-10-21",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "General licence to move eggs (and egg waste) from premises outside a protection or surveillance zone to an approved animal by-product plant in a protection or surveillance zone in England or Wales for disposal.",
+          "Updated (EXD653) license with new valid time/date and veterinary inspector.",
+          "Licence updated as it now covers Wales and England."
+        ],
+        "research_ideas": [
+          {
+            "title": "재자원화 환경편익 산정에서 폐기물 지위와 환경부하 귀속의 영향",
+            "research_question": "폐기물의 원료 전환과 대체편익 반영 범위가 정책단위 감축실적과 제품단위 PCF 간 결과를 어떻게 변화시키는가?",
+            "methodology": "Attributional/Consequential LCA, cut-off·할당·회피배출 규칙을 결합한 시나리오",
+            "novelty": "정책 효과와 제품 탄소발자국의 산정목적·경계 차이에서 발생하는 연구 가설",
+            "data": "공식 정책 문서, 공개 재활용 통계와 공정 LCI. 민간 현장 수율은 확인 필요"
+          }
+        ],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "General licence to move eggs (and egg waste) from premises outside a protection or surveillance zone to an approved animal by-product plant in a protection or surveillance zone in England or Wales for disposal.",
+          "Updated (EXD653) license with new valid time/date and veterinary inspector.",
+          "Licence updated as it now covers Wales and England.",
+          "General licence for the movement of eggs (including egg waste) from premises outside a protection zone or surveillance zone to an approved animal by-product plant in a protection or surveillance zone for disposal (EXD653(HPAI)(EW))",
+          "Use this licence to move eggs (and egg waste) from premises outside a protection zone or surveillance zone to an approved animal by-product plant in a protection zone or surveillance zone in England or Wales for disposal."
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
+    {
+      "id": "6a162a26a42521",
+      "date": "2026-10-20",
+      "category": "국제 정책",
+      "region": "독일",
+      "title": "Bundesumweltministerium fördert umweltfreundliche Biogasanlage mit innovativer Phosphatrückgewinnungstechnologie",
+      "source": "독일 연방환경부(BMUKN)",
+      "url": "https://www.bundesumweltministerium.de/pressemitteilung/bundesumweltministerium-foerdert-umweltfreundliche-biogasanlage-mit-innovativer-phosphatrueckgewinnungstechnologie",
+      "doi": "",
+      "tags": [
+        "바이오에너지·유기성 폐자원"
+      ],
+      "document_type": "정책·발표",
+      "link_status": "원문 연결 확인",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "MEGGLE erhält 7,5 Millionen Euro für eine innovative Biogasanlage in Wasserburg. Sie verarbeitet Molkerei-Nebenprodukte, erzeugt Energie und gewinnt wertvolles Calciumphosphat zurück.",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "기관 공식 피드",
+      "priority_score": 20,
+      "priority": "우선 검토",
+      "priority_reasons": [
+        "바이오에너지·유기성 폐자원"
+      ],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-10-21",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "MEGGLE GmbH & Co. KG in Bayern erhält 7,5 Millionen Euro aus dem Umweltinnovationsprogramm",
+          "Die MEGGLE GmbH & Co. KG im bayerischen Wasserburg am Inn plant den Bau einer neuen Biogasanlage, die phosphathaltige Nebenprodukte aus der Molkeverarbeitung umweltfreundlich verarbeiten kann. Aufgrund des Modellcharakters des neuartigen Verfahrens erhält das Unternehmen 7,5 Millionen Euro aus dem Umweltinnovationsprogramm des Bundesumweltministeri",
+          "Parlamentarische Staatssekretärin Rita Schwarzelühr-Sutter: \"Phosphat ist in der Lebensmittelerzeugung ein essentieller Nährstoff. Da Deutschland bislang hier stark auf Importe angewiesen ist, müssen wir unsere Versorgungssicherheit stärken. Deshalb unterstützen wir mit dem Umweltinnovationsprogramm dieses neuartige Projekt, bei dem eine innovative"
+        ],
+        "research_ideas": [],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "MEGGLE GmbH & Co. KG in Bayern erhält 7,5 Millionen Euro aus dem Umweltinnovationsprogramm",
+          "Die MEGGLE GmbH & Co. KG im bayerischen Wasserburg am Inn plant den Bau einer neuen Biogasanlage, die phosphathaltige Nebenprodukte aus der Molkeverarbeitung umweltfreundlich verarbeiten kann. Aufgrund des Modellcharakters des neuartigen Verfahrens erhält das Unternehmen 7,5 Millionen Euro aus dem Umweltinnovationsprogramm des Bundesumweltministeri",
+          "Parlamentarische Staatssekretärin Rita Schwarzelühr-Sutter: \"Phosphat ist in der Lebensmittelerzeugung ein essentieller Nährstoff. Da Deutschland bislang hier stark auf Importe angewiesen ist, müssen wir unsere Versorgungssicherheit stärken. Deshalb unterstützen wir mit dem Umweltinnovationsprogramm dieses neuartige Projekt, bei dem eine innovative",
+          "Die MEGGLE GmbH & Co. KG mit Sitz in Bayern investiert in eine neue Milchprotein-Produktionsanlage. Dadurch entstehen als Molke-Nebenprodukt zusätzliche große Mengen De-Laktose-Permeat (DLP), die in einer spezialisierten Biogasanlage mit neuartiger Phosphatrückgewinnung weiterverarbeitet werden. So werden Kreislaufwirtschaft und nachhaltige Energie",
+          "Die MEGGLE Group stellt Milcherzeugnisse in ganz Europa her. Darüber hinaus produziert das Unternehmen am Standort Wasserburg Milchtrockenprodukte als Spezialerzeugnisse für die weiterverarbeitende Pharma-, Lebensmittel- und Tierfutterindustrie."
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
+    {
+      "id": "4412de4f49278e",
+      "date": "2026-10-20",
+      "category": "국제 정책",
+      "region": "영국",
+      "title": "FOI release: SFI 2026 Window 2 demand forecasting - EIR2026/21680",
+      "source": "영국 환경식품농촌부 (Defra)",
+      "url": "https://www.gov.uk/government/publications/sfi-2026-window-2-demand-forecasting-eir202621680",
+      "doi": "",
+      "tags": [
+        "FOI",
+        "SFI",
+        "EIR2026"
+      ],
+      "document_type": "정책·발표",
+      "link_status": "원문 연결 확인",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "Sustainable Farming Incentive 2026 Window 2 demand forecasting.",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "기관 공식 피드",
+      "priority_score": 0,
+      "priority": "참고",
+      "priority_reasons": [],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-10-21",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "Sustainable Farming Incentive 2026 Window 2 demand forecasting.",
+          "Response: SFI 2026 Window 2 demand forecasting - EIR2026/21680",
+          "Sustainable Farming Incentive 2026 Window 2 demand forecasting. EIR2026/21680."
+        ],
+        "research_ideas": [],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "Sustainable Farming Incentive 2026 Window 2 demand forecasting.",
+          "Response: SFI 2026 Window 2 demand forecasting - EIR2026/21680",
+          "Sustainable Farming Incentive 2026 Window 2 demand forecasting. EIR2026/21680."
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
     {
       "id": "ff2fd9703f0d26",
       "date": "2026-10-19",
