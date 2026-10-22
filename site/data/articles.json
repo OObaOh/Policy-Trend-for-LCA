@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-10-21T00:45:41+00:00",
+  "updated_at": "2026-10-22T00:46:39+00:00",
   "collector": "GitHub Actions / official government sources + Crossref",
   "profile_version": "2026-10-10",
-  "new_items": 3,
+  "new_items": 6,
   "source_health": {
     "ok": [
       "기후에너지환경부",
@@ -19,23 +19,354 @@
       "프랑스 생태전환부",
       "Crossref: dynamic life cycle assessment",
       "Crossref: prospective life cycle assessment",
-      "Crossref: waste management life cycle assessment"
+      "Crossref: end of life vehicles environmental impact",
+      "Crossref: hydrogen well to wheel life cycle assessment",
+      "Crossref: hydrogen life cycle assessment"
     ],
     "errors": [
       "EU 집행위원회 역내시장·산업총국",
       "Crossref: consequential life cycle assessment allocation",
+      "Crossref: waste management life cycle assessment",
       "Crossref: extended producer responsibility life cycle",
       "Crossref: recycling recycled plastics product carbon footprint",
-      "Crossref: end of life vehicles environmental impact",
       "Crossref: automotive parts product carbon footprint",
-      "Crossref: hydrogen well to wheel life cycle assessment",
-      "Crossref: hydrogen life cycle assessment",
       "Crossref: bioenergy avoided emissions carbon removals",
       "Crossref: product environmental footprint ecodesign regulation",
       "Crossref: mass balance recycling chain of custody"
     ]
   },
   "articles": [
+    {
+      "id": "e85b058ab82dd4",
+      "date": "2026-10-21",
+      "category": "국제 정책",
+      "region": "EU",
+      "title": "Commission opens consultation on bio-based plastic packaging",
+      "source": "EU 집행위원회 환경총국",
+      "url": "https://environment.ec.europa.eu/news/commission-opens-consultation-bio-based-plastic-packaging-2026-10-21_en",
+      "doi": "",
+      "tags": [
+        "플라스틱·재생원료"
+      ],
+      "document_type": "정책·발표",
+      "link_status": "원문 연결 확인",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "The results will inform an assessment of the technological development and environmental performance of bio-based plastic packaging.",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "기관 공식 피드",
+      "priority_score": 20,
+      "priority": "우선 검토",
+      "priority_reasons": [
+        "플라스틱·재생원료"
+      ],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-10-22",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "The European Commission is launching an open public consultation today (21 Oct) to gather views and evidence on the role of bio-based plastics in packaging policy. The consultation will remain open until 13 January 2027.",
+          "The consultation is part of the review under Article 8 of the Packaging and Packaging Waste Regulation (PPWR) and the Strategic Framework on a Competitive and Sustainable EU Bioeconomy . The results will support the Commission’s assessment of the technological development and environmental performance of bio-based plastic packaging to support the b",
+          "In this context, the consultation will help assess possible market demand measures and targets to increase the use of bio-based feedstock in plastic packaging, which could be linked with possible sustainability requirements for bio-based feedstock."
+        ],
+        "research_ideas": [
+          {
+            "title": "포장재 재생원료 의무와 Circular Footprint Formula 간 정합성",
+            "research_question": "의무 재생함량과 회수·재활용 편익의 귀속을 동시에 적용할 때 이중계상을 피할 수 있는가?",
+            "methodology": "PEF/CFF·재생함량법·시스템 확장 비교와 재활용률·품질손실 민감도 평가",
+            "novelty": "포장재 적합성 지표와 PCF 결과가 충돌하는 조건 검증 가설. 중복 문헌 확인 필요",
+            "data": "PPWR 원문, 소재별 공개 LCI, 포장재 폐기물 및 재활용 통계"
+          }
+        ],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "The European Commission is launching an open public consultation today (21 Oct) to gather views and evidence on the role of bio-based plastics in packaging policy. The consultation will remain open until 13 January 2027.",
+          "The consultation is part of the review under Article 8 of the Packaging and Packaging Waste Regulation (PPWR) and the Strategic Framework on a Competitive and Sustainable EU Bioeconomy . The results will support the Commission’s assessment of the technological development and environmental performance of bio-based plastic packaging to support the b",
+          "In this context, the consultation will help assess possible market demand measures and targets to increase the use of bio-based feedstock in plastic packaging, which could be linked with possible sustainability requirements for bio-based feedstock.",
+          "The consultation is open to all interested parties, including citizens, consumer organisations, environmental NGOs, public authorities, packaging manufacturers and converters, raw-material suppliers, bio-based plastics producers, recyclers, food-contact packaging businesses, brand owners, retailers, research organisations, and other interested stak",
+          "This input will help the Commission assess the opportunities, limitations and trade-offs associated with bio-based plastic packaging, including suitable recycling technologies."
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
+    {
+      "id": "b7cba801b59b26",
+      "date": "2026-10-21",
+      "category": "국제 정책",
+      "region": "영국",
+      "title": "Policy paper: UK Emissions Trading Scheme (UK ETS): policy overview",
+      "source": "영국 에너지안보·넷제로부 (DESNZ)",
+      "url": "https://www.gov.uk/government/publications/uk-emissions-trading-scheme-uk-ets-policy-overview",
+      "doi": "",
+      "tags": [
+        "탄소배출권·GHG",
+        "ETS"
+      ],
+      "document_type": "정책·발표",
+      "link_status": "원문 연결 확인",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "The role of the UK Emissions Trading Scheme in UK decarbonisation and how the UK ETS Authority is developing the scheme.",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "기관 공식 피드",
+      "priority_score": 12,
+      "priority": "우선 검토",
+      "priority_reasons": [
+        "탄소배출권·GHG"
+      ],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-10-22",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "The role of the UK Emissions Trading Scheme in UK decarbonisation and how the UK ETS Authority is developing the scheme.",
+          "Text has been updated to reflect the inflation-based adjustment of the Auction Reserve Price (ARP) in the UK Emissions Trading System (ETS) from £28 currently to £29.01 for 2027.",
+          "Added links to a new consultation on UK ETS scope expansion: emissions from international maritime voyages, and to the Authority's main response to the UK ETS scope expansion: maritime sector consultation."
+        ],
+        "research_ideas": [
+          {
+            "title": "온실가스 감축정책 지표와 LCA 환경편익 산정의 경계 정합성",
+            "research_question": "정책상 감축실적의 기준선과 제품 전과정 산정의 기준선 차이는 어떻게 비교가능성을 제한하는가?",
+            "methodology": "시스템경계·기준선·할당 및 불확실성에 관한 방법론 대조",
+            "novelty": "정책 지표와 제품 지표의 목적·범위 차이를 규명하는 연구 가설",
+            "data": "공개 규정·배출계수·LCI DB 및 제도 운영 자료"
+          }
+        ],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "The role of the UK Emissions Trading Scheme in UK decarbonisation and how the UK ETS Authority is developing the scheme.",
+          "Text has been updated to reflect the inflation-based adjustment of the Auction Reserve Price (ARP) in the UK Emissions Trading System (ETS) from £28 currently to £29.01 for 2027.",
+          "Added links to a new consultation on UK ETS scope expansion: emissions from international maritime voyages, and to the Authority's main response to the UK ETS scope expansion: maritime sector consultation.",
+          "UK Emissions Trading Scheme (UK ETS): a policy overview",
+          "The UK Emissions Trading Scheme ( UK ETS ) currently covers the heavy industry, power and aviation sectors – approximately 25% of UK territorial emissions."
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
+    {
+      "id": "b204ce3981d1aa",
+      "date": "2026-10-21",
+      "category": "국제 정책",
+      "region": "영국",
+      "title": "Transparency data: Packaging waste data reported by reprocessors and exporters",
+      "source": "영국 환경식품농촌부 (Defra)",
+      "url": "https://www.gov.uk/government/publications/packaging-waste-data-reported-by-reprocessors-and-exporters",
+      "doi": "",
+      "tags": [
+        "EPR",
+        "PPWR·포장재"
+      ],
+      "document_type": "연구보고서",
+      "link_status": "원문 연결 확인",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "Aggregated packaging waste data from reports by accredited reprocessors and exporters under extended producer responsibility (EPR) for packaging.",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "기관 공식 피드",
+      "priority_score": 32,
+      "priority": "필독",
+      "priority_reasons": [
+        "PPWR·포장재",
+        "EPR"
+      ],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-10-22",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "Aggregated packaging waste data from reports by accredited reprocessors and exporters under extended producer responsibility (EPR) for packaging.",
+          "The data was extracted from the 'Record reprocessed or exported packaging waste' service on 21 October 2026.",
+          "Accredited reprocessors and exporters must submit monthly reports to show how much waste packaging they have reprocessed or exported."
+        ],
+        "research_ideas": [
+          {
+            "title": "포장재 재생원료 의무와 Circular Footprint Formula 간 정합성",
+            "research_question": "의무 재생함량과 회수·재활용 편익의 귀속을 동시에 적용할 때 이중계상을 피할 수 있는가?",
+            "methodology": "PEF/CFF·재생함량법·시스템 확장 비교와 재활용률·품질손실 민감도 평가",
+            "novelty": "포장재 적합성 지표와 PCF 결과가 충돌하는 조건 검증 가설. 중복 문헌 확인 필요",
+            "data": "PPWR 원문, 소재별 공개 LCI, 포장재 폐기물 및 재활용 통계"
+          }
+        ],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "Aggregated packaging waste data from reports by accredited reprocessors and exporters under extended producer responsibility (EPR) for packaging.",
+          "The data was extracted from the 'Record reprocessed or exported packaging waste' service on 21 October 2026.",
+          "Accredited reprocessors and exporters must submit monthly reports to show how much waste packaging they have reprocessed or exported.",
+          "This data includes packaging waste data submitted by accredited UK reprocessors and exporters.",
+          "reprocessors issuing PRNs based on the tonnage of packaging waste received for recycling (inputs) – this reported data forms the credited waste balance"
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
+    {
+      "id": "a4029a844b52f5",
+      "date": "2026-10-21",
+      "category": "국내 정책",
+      "region": "한국",
+      "title": "한국형 녹색 대전환(K-GX), 새로운 사업기회 연다… 대한민국 친환경대전 개최",
+      "source": "기후에너지환경부",
+      "url": "https://mcee.go.kr/m/mob/board/read.do?pagerOffset=0&maxPageItems=10&maxIndexPages=5&searchKey=&searchValue=&menuId=156&orgCd=&boardMasterId=939&boardId=1901210",
+      "doi": "",
+      "tags": [
+        "K-GX"
+      ],
+      "document_type": "정책·발표",
+      "link_status": "원문 URL 제공 · 접근 여부 미검증",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "정부 공식 보도자료",
+      "priority_score": 0,
+      "priority": "참고",
+      "priority_reasons": [],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-10-22",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "첨부파일 한국형 녹색 대전환(K-GX) 새로운 사업기회 연다… 대한민국 친환경대전 개최(보도자료)(환경교육 10.21).hwpx(1.3 MB) 한국형 녹색 대전환(K-GX) 새로운 사업기회 연다… 대한민국 친환경대전 개최(보도자료)(환경교육 10.21).pdf(655.6 KB)",
+          "▷ 녹색제품, 전력·에너지, 순환자원, 탄소중립, 친환경 경영까지 ‘한국형 녹색 대전환’의 해법을 한자리에, 국민 참여 기후행동 전시공간도 마련",
+          "기후에너지환경부(장관 김성환)와 한국환경산업기술원(원장 남광우)은 ‘2026 대한민국 이에스지(ESG) 친환경대전’을 10월 21일부터 23일까지 코엑스(서울 강남구 소재)에서 개최한다고 밝혔다."
+        ],
+        "research_ideas": [],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "첨부파일 한국형 녹색 대전환(K-GX) 새로운 사업기회 연다… 대한민국 친환경대전 개최(보도자료)(환경교육 10.21).hwpx(1.3 MB) 한국형 녹색 대전환(K-GX) 새로운 사업기회 연다… 대한민국 친환경대전 개최(보도자료)(환경교육 10.21).pdf(655.6 KB)",
+          "▷ 녹색제품, 전력·에너지, 순환자원, 탄소중립, 친환경 경영까지 ‘한국형 녹색 대전환’의 해법을 한자리에, 국민 참여 기후행동 전시공간도 마련",
+          "기후에너지환경부(장관 김성환)와 한국환경산업기술원(원장 남광우)은 ‘2026 대한민국 이에스지(ESG) 친환경대전’을 10월 21일부터 23일까지 코엑스(서울 강남구 소재)에서 개최한다고 밝혔다.",
+          "2005년부터 시작된 친환경대전은 올해로 22회를 맞은 국내 최대 환경전시회로 그간 환경 기술과 환경 산업의 미래 청사진을 선보이고 국민의 녹색소비 생활을 촉진해 오면서 명성을 쌓아왔다.",
+          "올해 대한민국 친환경대전의 보다 자세한 내용은 관련 누리집( k-eco.or.kr )에서 확인할 수 있다."
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
+    {
+      "id": "9d9865288e2d97",
+      "date": "2026-10-21",
+      "category": "국제 정책",
+      "region": "영국",
+      "title": "Guidance: Public sector emissions measurement and reporting guidance",
+      "source": "영국 에너지안보·넷제로부 (DESNZ)",
+      "url": "https://www.gov.uk/government/publications/public-sector-emissions-measurement-and-reporting-guidance",
+      "doi": "",
+      "tags": [],
+      "document_type": "연구보고서",
+      "link_status": "원문 연결 확인",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "Guidance for the public sector in England to help them to reduce their energy use and emissions.",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "기관 공식 피드",
+      "priority_score": 0,
+      "priority": "참고",
+      "priority_reasons": [],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-10-22",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "Guidance for the public sector in England to help them to reduce their energy use and emissions.",
+          "Emissions measurement and reporting: Technical report and insights for the public sector in England (PDF)",
+          "Emissions measurement and reporting: Technical report and insights for the public sector in England (HTML)"
+        ],
+        "research_ideas": [
+          {
+            "title": "온실가스 감축정책 지표와 LCA 환경편익 산정의 경계 정합성",
+            "research_question": "정책상 감축실적의 기준선과 제품 전과정 산정의 기준선 차이는 어떻게 비교가능성을 제한하는가?",
+            "methodology": "시스템경계·기준선·할당 및 불확실성에 관한 방법론 대조",
+            "novelty": "정책 지표와 제품 지표의 목적·범위 차이를 규명하는 연구 가설",
+            "data": "공개 규정·배출계수·LCI DB 및 제도 운영 자료"
+          }
+        ],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "Guidance for the public sector in England to help them to reduce their energy use and emissions.",
+          "Emissions measurement and reporting: Technical report and insights for the public sector in England (PDF)",
+          "Emissions measurement and reporting: Technical report and insights for the public sector in England (HTML)",
+          "This report provides insights on the approaches public sector organisations can take to measure and report their emissions.",
+          "challenges of existing emissions measurement and reporting ( EMR ) methodologies"
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
+    {
+      "id": "0003f3498b54c0",
+      "date": "2026-10-21",
+      "category": "국제 정책",
+      "region": "영국",
+      "title": "World-first taskforce to protect communities from climate change",
+      "source": "영국 에너지안보·넷제로부 (DESNZ)",
+      "url": "https://www.gov.uk/government/news/world-first-taskforce-to-protect-communities-from-climate-change",
+      "doi": "",
+      "tags": [],
+      "document_type": "정책·발표",
+      "link_status": "원문 연결 확인",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "Communities across the UK will be better protected against the growing threats of climate change and nature loss.",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "기관 공식 피드",
+      "priority_score": 0,
+      "priority": "참고",
+      "priority_reasons": [],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-10-22",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "Communities across the UK will be better protected against the growing threats of climate change and nature loss.",
+          "Government holds a world-first Climate and Nature Security Taskforce meeting to better prepare for the impacts of climate change and nature loss",
+          "Following the UK’s hottest summer on record, and the world bracing for the impacts of a super El Niño, government takes action to protect communities and families"
+        ],
+        "research_ideas": [],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "Communities across the UK will be better protected against the growing threats of climate change and nature loss.",
+          "Government holds a world-first Climate and Nature Security Taskforce meeting to better prepare for the impacts of climate change and nature loss",
+          "Following the UK’s hottest summer on record, and the world bracing for the impacts of a super El Niño, government takes action to protect communities and families",
+          "Communities across the UK will be better protected against the growing threats of climate change, as the world’s first Climate and Nature Security Taskforce met for the first time this week.",
+          "The Minister for Climate Transition, Katie White, will chair the inaugural meeting, alongside Baroness Fiona Twycross. The taskforce brings together experts from across the fields of climate, nature and security to assess the UK’s readiness for security challenges created by climate change and nature loss – including General Richard Nugee, Comfort "
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
     {
       "id": "871b38c226c01a",
       "date": "2026-10-20",
