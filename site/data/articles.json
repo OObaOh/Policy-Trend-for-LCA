@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-10-22T00:46:39+00:00",
+  "updated_at": "2026-10-23T00:48:41+00:00",
   "collector": "GitHub Actions / official government sources + Crossref",
   "profile_version": "2026-10-10",
-  "new_items": 6,
+  "new_items": 8,
   "source_health": {
     "ok": [
       "기후에너지환경부",
@@ -18,24 +18,390 @@
       "독일 연방환경부",
       "프랑스 생태전환부",
       "Crossref: dynamic life cycle assessment",
-      "Crossref: prospective life cycle assessment",
-      "Crossref: end of life vehicles environmental impact",
-      "Crossref: hydrogen well to wheel life cycle assessment",
-      "Crossref: hydrogen life cycle assessment"
+      "Crossref: consequential life cycle assessment allocation",
+      "Crossref: recycling recycled plastics product carbon footprint",
+      "Crossref: product environmental footprint ecodesign regulation"
     ],
     "errors": [
       "EU 집행위원회 역내시장·산업총국",
-      "Crossref: consequential life cycle assessment allocation",
+      "Crossref: prospective life cycle assessment",
       "Crossref: waste management life cycle assessment",
       "Crossref: extended producer responsibility life cycle",
-      "Crossref: recycling recycled plastics product carbon footprint",
+      "Crossref: end of life vehicles environmental impact",
       "Crossref: automotive parts product carbon footprint",
+      "Crossref: hydrogen well to wheel life cycle assessment",
+      "Crossref: hydrogen life cycle assessment",
       "Crossref: bioenergy avoided emissions carbon removals",
-      "Crossref: product environmental footprint ecodesign regulation",
       "Crossref: mass balance recycling chain of custody"
     ]
   },
   "articles": [
+    {
+      "id": "e4dd2dcfc83808",
+      "date": "2026-10-22",
+      "category": "국제 정책",
+      "region": "영국",
+      "title": "Research: Particle Concentrations and Numbers (PCN) Network and Black Carbon Network technical reports",
+      "source": "영국 환경식품농촌부 (Defra)",
+      "url": "https://www.gov.uk/government/publications/particle-concentrations-and-numbers-pcn-network-and-black-carbon-network-technical-reports",
+      "doi": "",
+      "tags": [
+        "PCN"
+      ],
+      "document_type": "연구보고서",
+      "link_status": "원문 연결 확인",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "Annual technical reports for the Particle Concentrations and Numbers (PCN) Network and the Black Carbon Network, part of the UK's air pollution monitoring regime.",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "기관 공식 피드",
+      "priority_score": 0,
+      "priority": "참고",
+      "priority_reasons": [],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-10-23",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "Annual technical reports for the Particle Concentrations and Numbers (PCN) Network and the Black Carbon Network, part of the UK's air pollution monitoring regime.",
+          "UK Particle Concentrations and Numbers and Black Carbon Networks: annual report 2025",
+          "UK Particle Concentrations and Numbers and Black Carbon Networks: annual report 2024"
+        ],
+        "research_ideas": [
+          {
+            "title": "온실가스 감축정책 지표와 LCA 환경편익 산정의 경계 정합성",
+            "research_question": "정책상 감축실적의 기준선과 제품 전과정 산정의 기준선 차이는 어떻게 비교가능성을 제한하는가?",
+            "methodology": "시스템경계·기준선·할당 및 불확실성에 관한 방법론 대조",
+            "novelty": "정책 지표와 제품 지표의 목적·범위 차이를 규명하는 연구 가설",
+            "data": "공개 규정·배출계수·LCI DB 및 제도 운영 자료"
+          }
+        ],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "Annual technical reports for the Particle Concentrations and Numbers (PCN) Network and the Black Carbon Network, part of the UK's air pollution monitoring regime.",
+          "UK Particle Concentrations and Numbers and Black Carbon Networks: annual report 2025",
+          "UK Particle Concentrations and Numbers and Black Carbon Networks: annual report 2024",
+          "The Particle Concentrations and Numbers (PCN) Network and the Black Carbon Network are part of the UK’s air pollution monitoring regime .",
+          "Annual technical reports provide information on the activities undertaken and data collected by the network in each reporting year."
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
+    {
+      "id": "be7ef510df0f45",
+      "date": "2026-10-22",
+      "category": "국제 정책",
+      "region": "영국",
+      "title": "EPR for packaging: what you must do as a ‘small producer’",
+      "source": "영국 환경식품농촌부 (Defra)",
+      "url": "https://www.gov.uk/guidance/epr-for-packaging-what-you-must-do-as-a-small-producer",
+      "doi": "",
+      "tags": [
+        "EPR",
+        "PPWR·포장재"
+      ],
+      "document_type": "정책·발표",
+      "link_status": "원문 연결 확인",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "How small producers register and what they must collect, report and pay under the extended producer responsibility (EPR) for packaging regulations.",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "기관 공식 피드",
+      "priority_score": 34,
+      "priority": "필독",
+      "priority_reasons": [
+        "EPR",
+        "PPWR·포장재"
+      ],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-10-23",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "How small producers register and what they must collect, report and pay under the extended producer responsibility (EPR) for packaging regulations.",
+          "Updating to explain that all drinks containers must be recorded as 'household drink containers', and adding details about packaging types to use, to match the information given in the 'Packaging data: what to collect for extended producer responsibility'.",
+          "As a small organisation (also referred to as ‘small producer’ under EPR for packaging) who supplies packaging, you may need to:"
+        ],
+        "research_ideas": [
+          {
+            "title": "포장재 재생원료 의무와 Circular Footprint Formula 간 정합성",
+            "research_question": "의무 재생함량과 회수·재활용 편익의 귀속을 동시에 적용할 때 이중계상을 피할 수 있는가?",
+            "methodology": "PEF/CFF·재생함량법·시스템 확장 비교와 재활용률·품질손실 민감도 평가",
+            "novelty": "포장재 적합성 지표와 PCF 결과가 충돌하는 조건 검증 가설. 중복 문헌 확인 필요",
+            "data": "PPWR 원문, 소재별 공개 LCI, 포장재 폐기물 및 재활용 통계"
+          }
+        ],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "How small producers register and what they must collect, report and pay under the extended producer responsibility (EPR) for packaging regulations.",
+          "Updating to explain that all drinks containers must be recorded as 'household drink containers', and adding details about packaging types to use, to match the information given in the 'Packaging data: what to collect for extended producer responsibility'.",
+          "As a small organisation (also referred to as ‘small producer’ under EPR for packaging) who supplies packaging, you may need to:",
+          "Read more information in Check what packaging to report as a large producer as the guidance for large producers on packaging activities, classes and materials is helpful for small producers as well.",
+          "The responsibility for a piece of packaging may change depending on whether you sell it to a large producer or another small producer. Check the guidance then contact the helpdesk if you are unsure about what to report."
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
+    {
+      "id": "bbe732c32ff4a1",
+      "date": "2026-10-22",
+      "category": "국제 정책",
+      "region": "영국",
+      "title": "Research: Farming Sector Environmental Objectives",
+      "source": "영국 환경식품농촌부 (Defra)",
+      "url": "https://www.gov.uk/government/publications/farming-sector-environmental-objectives",
+      "doi": "",
+      "tags": [],
+      "document_type": "정책·발표",
+      "link_status": "원문 연결 확인",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "This release contains all summary background and objective-level information for the farming sector environmental objectives.",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "기관 공식 피드",
+      "priority_score": 0,
+      "priority": "참고",
+      "priority_reasons": [],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-10-23",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "This release contains all summary background and objective-level information for the farming sector environmental objectives.",
+          "Farming Sector Environmental Objectives: summary",
+          "Farming Sector Environmental Objectives: objective titles"
+        ],
+        "research_ideas": [],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "This release contains all summary background and objective-level information for the farming sector environmental objectives.",
+          "Farming Sector Environmental Objectives: summary",
+          "Farming Sector Environmental Objectives: objective titles",
+          "Farming Sector Environmental Objectives: objective reporting status",
+          "Farming Sector Environmental Objectives: targets"
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
+    {
+      "id": "96df3860ee6f39",
+      "date": "2026-10-22",
+      "category": "국제 정책",
+      "region": "EU",
+      "title": "EU plastic packaging waste hits 35.9 kg per capita",
+      "source": "EU 집행위원회 환경총국",
+      "url": "https://ec.europa.eu/eurostat/en/web/products-eurostat-news/w/ddn-20261022-1",
+      "doi": "",
+      "tags": [
+        "PPWR·포장재",
+        "플라스틱·재생원료"
+      ],
+      "document_type": "정책·발표",
+      "link_status": "원문 연결 확인",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "Packaging waste per capita increased by 3.2 kg compared with 2023, and by 19.6 kg compared with 2014.",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "기관 공식 피드",
+      "priority_score": 40,
+      "priority": "필독",
+      "priority_reasons": [
+        "플라스틱·재생원료",
+        "PPWR·포장재"
+      ],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-10-23",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "In 2024, 81.5 million tonnes of packaging waste were generated in the EU , or 181.0 kg per inhabitant . Packaging waste per capita increased by 3.2 kg compared with 2023, and by 19.6 kg compared with 2014.",
+          "Of all the packaging waste generated, 40.8% was paper and cardboard, 19.9% plastic, 18.1% glass, 16.2% wood, 4.8% metal and 0.2% other materials.",
+          "In 2024, an average of 35.9 kg of plastic packaging waste was generated per person in the EU, of which 15.3 kg was recycled . Both the plastic packaging waste that was generated and the amount recycled increased by 0.6 kg compared to 2023."
+        ],
+        "research_ideas": [
+          {
+            "title": "포장재 재생원료 의무와 Circular Footprint Formula 간 정합성",
+            "research_question": "의무 재생함량과 회수·재활용 편익의 귀속을 동시에 적용할 때 이중계상을 피할 수 있는가?",
+            "methodology": "PEF/CFF·재생함량법·시스템 확장 비교와 재활용률·품질손실 민감도 평가",
+            "novelty": "포장재 적합성 지표와 PCF 결과가 충돌하는 조건 검증 가설. 중복 문헌 확인 필요",
+            "data": "PPWR 원문, 소재별 공개 LCI, 포장재 폐기물 및 재활용 통계"
+          }
+        ],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "In 2024, 81.5 million tonnes of packaging waste were generated in the EU , or 181.0 kg per inhabitant . Packaging waste per capita increased by 3.2 kg compared with 2023, and by 19.6 kg compared with 2014.",
+          "Of all the packaging waste generated, 40.8% was paper and cardboard, 19.9% plastic, 18.1% glass, 16.2% wood, 4.8% metal and 0.2% other materials.",
+          "In 2024, an average of 35.9 kg of plastic packaging waste was generated per person in the EU, of which 15.3 kg was recycled . Both the plastic packaging waste that was generated and the amount recycled increased by 0.6 kg compared to 2023.",
+          "Between 2014 and 2024, the amount of total generated plastic packaging waste increased by 6.1 kg per capita, while the amount of recycled waste grew by 3.4 kg.",
+          "In 2024, the EU recycled 42.4% of all the generated plastic packaging waste, indicating a small increase in the recycling rate compared with 2023 (41.6%)."
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
+    {
+      "id": "93fe06e1e9af26",
+      "date": "2026-10-22",
+      "category": "국제 정책",
+      "region": "영국",
+      "title": "Research: Toxic Organic Micro Pollutants (TOMPs) Network technical reports",
+      "source": "영국 환경식품농촌부 (Defra)",
+      "url": "https://www.gov.uk/government/publications/toxic-organic-micro-pollutants-tomps-network-technical-reports",
+      "doi": "",
+      "tags": [],
+      "document_type": "연구보고서",
+      "link_status": "원문 연결 확인",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "Annual technical reports for the UK's Toxic Organic Micro Pollutants (TOMPs) Network, part of the UK's air pollution monitoring regime.",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "기관 공식 피드",
+      "priority_score": 0,
+      "priority": "참고",
+      "priority_reasons": [],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-10-23",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "Annual technical reports for the UK's Toxic Organic Micro Pollutants (TOMPs) Network, part of the UK's air pollution monitoring regime.",
+          "Annual report for 2025 on the UK Toxic Organic Micro-pollutants (TOMPs) Air Monitoring and Analysis Network",
+          "Annual report for 2023 on the UK Toxic Organic Micro-pollutants (TOMPs) Air Monitoring and Analysis Network"
+        ],
+        "research_ideas": [],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "Annual technical reports for the UK's Toxic Organic Micro Pollutants (TOMPs) Network, part of the UK's air pollution monitoring regime.",
+          "Annual report for 2025 on the UK Toxic Organic Micro-pollutants (TOMPs) Air Monitoring and Analysis Network",
+          "Annual report for 2023 on the UK Toxic Organic Micro-pollutants (TOMPs) Air Monitoring and Analysis Network",
+          "https://webarchive.nationalarchives.gov.uk/ukgwa/20260720130441/https://uk-air.defra.gov.uk/assets/documents/reports/cat05/2509300441_2023_Annual_Report_for_the_UK_Toxic_Organic_Micro-Pollutants_(TOMPS)_Network.pdf",
+          "https://webarchive.nationalarchives.gov.uk/ukgwa/20260720130440/https://uk-air.defra.gov.uk/assets/documents/reports/cat05/2509300441_2022_Annual_Report_for_the_UK_Toxic_Organic_Micro-Pollutants_(TOMPS)_Network.pdf"
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
+    {
+      "id": "80b48a06ad1054",
+      "date": "2026-10-22",
+      "category": "국제 정책",
+      "region": "EU",
+      "title": "Bio-based Alliance launches to drive sustainable solutions",
+      "source": "EU 집행위원회 환경총국",
+      "url": "https://environment.ec.europa.eu/news/bio-based-alliance-launches-drive-sustainable-solutions-2026-10-22_en",
+      "doi": "",
+      "tags": [],
+      "document_type": "정책·발표",
+      "link_status": "원문 연결 확인",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "The Alliance aims to provide clearer market signals, reduce investment uncertainty, and unlock the potential of Europe’s bioeconomy.",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "기관 공식 피드",
+      "priority_score": 0,
+      "priority": "참고",
+      "priority_reasons": [],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-10-23",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "European Commissioner Jessika Roswall launched the Bio-based Europe Alliance (BEA) at the Global Bioeconomy Summit in Dublin on Wednesday (21 Oct).",
+          "By connecting actors of the bio-based value chain, the Alliance aims to provide clearer market signals, reduce investment uncertainty and unlock Europe’s bioeconomy potential.",
+          "The Alliance is a voluntary initiative that brings together European buyers of bio-based materials and products, primary producers, suppliers, and national and regional authorities committed to accelerating the uptake of European bio-based solutions."
+        ],
+        "research_ideas": [],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "European Commissioner Jessika Roswall launched the Bio-based Europe Alliance (BEA) at the Global Bioeconomy Summit in Dublin on Wednesday (21 Oct).",
+          "By connecting actors of the bio-based value chain, the Alliance aims to provide clearer market signals, reduce investment uncertainty and unlock Europe’s bioeconomy potential.",
+          "The Alliance is a voluntary initiative that brings together European buyers of bio-based materials and products, primary producers, suppliers, and national and regional authorities committed to accelerating the uptake of European bio-based solutions.",
+          "“ Bioeconomy represents a strategic opportunity that Europe has the talent and innovative capacity to seize. The Bio-based Europe Alliance will turn this potential into real market impact by bringing together buyers and suppliers, and giving visibility to demand.",
+          "The Alliance will complement upcoming EU regulatory measures to support the production and market uptake of bio-based solutions, as well as parallel initiatives to improve access to finance."
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
+    {
+      "id": "11f3341d32d32a",
+      "date": "2026-10-22",
+      "category": "국제 정책",
+      "region": "영국",
+      "title": "Corporate report: The Renewables Obligation to Exchequer Scheme Expenditure: 1 July to 30 September 2026",
+      "source": "영국 에너지안보·넷제로부 (DESNZ)",
+      "url": "https://www.gov.uk/government/publications/the-renewables-obligation-to-exchequer-scheme-expenditure-1-july-to-30-september-2026",
+      "doi": "",
+      "tags": [],
+      "document_type": "연구보고서",
+      "link_status": "원문 연결 확인",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "To update the House, in accordance with the requirements of the Energy Prices Act 2022, on expenditure incurred under Section 13 of the Act through the quarterly report to Parliament.",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "기관 공식 피드",
+      "priority_score": 0,
+      "priority": "참고",
+      "priority_reasons": [],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-10-23",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "To update the House, in accordance with the requirements of the Energy Prices Act 2022, on expenditure incurred under Section 13 of the Act through the quarterly report to Parliament.",
+          "The Renewables Obligation to Exchequer Scheme Expenditure: 1 July to 30 September 2026",
+          "This publication provides Parliament and the public with a quarterly update on government expenditure under the Renewables Obligation to Exchequer scheme and previous energy affordability schemes."
+        ],
+        "research_ideas": [],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "To update the House, in accordance with the requirements of the Energy Prices Act 2022, on expenditure incurred under Section 13 of the Act through the quarterly report to Parliament.",
+          "The Renewables Obligation to Exchequer Scheme Expenditure: 1 July to 30 September 2026",
+          "This publication provides Parliament and the public with a quarterly update on government expenditure under the Renewables Obligation to Exchequer scheme and previous energy affordability schemes.",
+          "It is primarily a financial accountability and transparency document, setting out the amount spent during the reporting periods."
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
     {
       "id": "e85b058ab82dd4",
       "date": "2026-10-21",
@@ -87,6 +453,63 @@
           "In this context, the consultation will help assess possible market demand measures and targets to increase the use of bio-based feedstock in plastic packaging, which could be linked with possible sustainability requirements for bio-based feedstock.",
           "The consultation is open to all interested parties, including citizens, consumer organisations, environmental NGOs, public authorities, packaging manufacturers and converters, raw-material suppliers, bio-based plastics producers, recyclers, food-contact packaging businesses, brand owners, retailers, research organisations, and other interested stak",
           "This input will help the Commission assess the opportunities, limitations and trade-offs associated with bio-based plastic packaging, including suitable recycling technologies."
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
+    {
+      "id": "c92886e2796ba6",
+      "date": "2026-10-21",
+      "category": "국제 정책",
+      "region": "독일",
+      "title": "Bundesumweltminister Carsten Schneider zum aktuellen UN-Emissions-GAP-Report 2026",
+      "source": "독일 연방환경부(BMUKN)",
+      "url": "https://www.bundesumweltministerium.de/pressemitteilung/bundesumweltminister-carsten-schneider-zum-aktuellen-un-emissions-gap-report-2026",
+      "doi": "",
+      "tags": [
+        "GAP"
+      ],
+      "document_type": "연구보고서",
+      "link_status": "원문 연결 확인",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "Der \"Emissions Gap Report 2026: The Point of Return\" des UNEP kommt zu dem Schluss, dass die globale Erwärmung derzeit nicht auf unter 1,5 Grad begrenzt werden kann. Dazu nahm Bundesumweltminister Carsten Schneider Stellung.",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "기관 공식 피드",
+      "priority_score": 0,
+      "priority": "참고",
+      "priority_reasons": [],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-10-23",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "\"Jedes weitere Zehntelgrad Erderwärmung verschärft die Folgen für Menschen, Natur und Wirtschaft. Und jedes Jahr, in dem die Erderwärmung zunimmt, macht die Folgen schwerwiegender. Deshalb zählt jede vermiedene Tonne CO₂. Zugleich zeigt der Bericht: Klimaschutz wirkt. Der weltweite Aufschwung der erneuerbaren Energien macht deutlich: wir können die",
+          "Für die Weltklimakonferenz in Antalya ist das ein klarer Auftrag: Aus Zusagen müssen schnellere Emissionssenkungen werden. Wir setzen uns dafür ein, die Elektrifizierung der Weltwirtschaft mit erneuerbarem Strom voranzubringen. Die COP31 muss sich daran messen lassen: ob sie die Lücke zwischen Versprechen und Handeln verkleinert. Deutschland hat mi",
+          "Hintergrundinformation zum Emissions-GAP-Report 2026"
+        ],
+        "research_ideas": [
+          {
+            "title": "온실가스 감축정책 지표와 LCA 환경편익 산정의 경계 정합성",
+            "research_question": "정책상 감축실적의 기준선과 제품 전과정 산정의 기준선 차이는 어떻게 비교가능성을 제한하는가?",
+            "methodology": "시스템경계·기준선·할당 및 불확실성에 관한 방법론 대조",
+            "novelty": "정책 지표와 제품 지표의 목적·범위 차이를 규명하는 연구 가설",
+            "data": "공개 규정·배출계수·LCI DB 및 제도 운영 자료"
+          }
+        ],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "\"Jedes weitere Zehntelgrad Erderwärmung verschärft die Folgen für Menschen, Natur und Wirtschaft. Und jedes Jahr, in dem die Erderwärmung zunimmt, macht die Folgen schwerwiegender. Deshalb zählt jede vermiedene Tonne CO₂. Zugleich zeigt der Bericht: Klimaschutz wirkt. Der weltweite Aufschwung der erneuerbaren Energien macht deutlich: wir können die",
+          "Für die Weltklimakonferenz in Antalya ist das ein klarer Auftrag: Aus Zusagen müssen schnellere Emissionssenkungen werden. Wir setzen uns dafür ein, die Elektrifizierung der Weltwirtschaft mit erneuerbarem Strom voranzubringen. Die COP31 muss sich daran messen lassen: ob sie die Lücke zwischen Versprechen und Handeln verkleinert. Deutschland hat mi",
+          "Hintergrundinformation zum Emissions-GAP-Report 2026",
+          "Der \"Emissions Gap Report 2026: The Point of Return\" des UNEP kommt zu dem Schluss, dass die globale Erwärmung derzeit nicht auf unter 1,5 Grad begrenzt werden kann. Die Aufgabe besteht nun darin, die Dauer und das Ausmaß der Überschreitung zu minimieren und bis zum Ende des Jahrhunderts wieder auf 1,5 Grad Celsius zurückzukehren.",
+          "Die Studie benennt zahlreiche Möglichkeiten, die Maßnahmen zu beschleunigen. Seit der Verabschiedung des Pariser Abkommens haben erneuerbare Energien einen Boom erlebt, die Gesamtenergieversorgung aus Kohle und Öl ist langsamer gewachsen als prognostiziert, und klimapolitische Maßnahmen haben sich als wirksam bei der Emissionsminderung erwiesen. Di"
         ],
         "conclusion": "",
         "korea_implications": "",
