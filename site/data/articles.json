@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-10-23T00:48:41+00:00",
+  "updated_at": "2026-10-24T00:51:28+00:00",
   "collector": "GitHub Actions / official government sources + Crossref",
   "profile_version": "2026-10-10",
-  "new_items": 8,
+  "new_items": 3,
   "source_health": {
     "ok": [
       "기후에너지환경부",
@@ -18,24 +18,167 @@
       "독일 연방환경부",
       "프랑스 생태전환부",
       "Crossref: dynamic life cycle assessment",
-      "Crossref: consequential life cycle assessment allocation",
-      "Crossref: recycling recycled plastics product carbon footprint",
-      "Crossref: product environmental footprint ecodesign regulation"
+      "Crossref: prospective life cycle assessment",
+      "Crossref: waste management life cycle assessment",
+      "Crossref: end of life vehicles environmental impact",
+      "Crossref: mass balance recycling chain of custody"
     ],
     "errors": [
       "EU 집행위원회 역내시장·산업총국",
-      "Crossref: prospective life cycle assessment",
-      "Crossref: waste management life cycle assessment",
+      "Crossref: consequential life cycle assessment allocation",
       "Crossref: extended producer responsibility life cycle",
-      "Crossref: end of life vehicles environmental impact",
+      "Crossref: recycling recycled plastics product carbon footprint",
       "Crossref: automotive parts product carbon footprint",
       "Crossref: hydrogen well to wheel life cycle assessment",
       "Crossref: hydrogen life cycle assessment",
       "Crossref: bioenergy avoided emissions carbon removals",
-      "Crossref: mass balance recycling chain of custody"
+      "Crossref: product environmental footprint ecodesign regulation"
     ]
   },
   "articles": [
+    {
+      "id": "f63c00030b3394",
+      "date": "2026-10-23",
+      "category": "국제 정책",
+      "region": "UN",
+      "title": "Anastasiia Tiurmenko | CTCN Shaping the next phase of climate technology action Article",
+      "source": "UNFCCC",
+      "url": "https://unfccc.int/news/shaping-the-next-phase-of-climate-technology-action",
+      "doi": "",
+      "tags": [
+        "CTCN"
+      ],
+      "document_type": "정책·발표",
+      "link_status": "원문 URL 제공 · 접근 여부 미검증",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "UNFCCC 공식 뉴스",
+      "priority_score": 0,
+      "priority": "참고",
+      "priority_reasons": [],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-10-24",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "UN Climate Change News, 23 October 2026 - The Technology Executive Committee (TEC) concluded its 33rd meeting in Bonn with progress on key priorities, including shaping its future work and strengthening the Technology Mechanism’s role in accelerating climate technology action in developing countries. TEC33 advanced policy briefs on early warning sy",
+          "Tanzanian innovator wins UN Climate Change AI for Climate Action Award 2026",
+          "Technology Mechanism showcases partnerships to deliver climate action at scale"
+        ],
+        "research_ideas": [],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "UN Climate Change News, 23 October 2026 - The Technology Executive Committee (TEC) concluded its 33rd meeting in Bonn with progress on key priorities, including shaping its future work and strengthening the Technology Mechanism’s role in accelerating climate technology action in developing countries. TEC33 advanced policy briefs on early warning sy",
+          "Tanzanian innovator wins UN Climate Change AI for Climate Action Award 2026",
+          "Technology Mechanism showcases partnerships to deliver climate action at scale",
+          "UN Climate Chief: \"Digital public infrastructure for climate action is a critical part of the solution\"",
+          "UNFCCC Technology Mechanism joins the Digital Public Goods Alliance to scale open climate solutions"
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
+    {
+      "id": "d79903989a014a",
+      "date": "2026-10-23",
+      "category": "국제 정책",
+      "region": "영국",
+      "title": "Policy paper: Fisheries management plans: policy information",
+      "source": "영국 환경식품농촌부 (Defra)",
+      "url": "https://www.gov.uk/government/publications/fisheries-management-plans-policy-information",
+      "doi": "",
+      "tags": [],
+      "document_type": "정책·발표",
+      "link_status": "원문 연결 확인",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "How fisheries management plans will be used to create a more vibrant, profitable, and sustainable fishing industry.",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "기관 공식 피드",
+      "priority_score": 0,
+      "priority": "참고",
+      "priority_reasons": [],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-10-24",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "How fisheries management plans will be used to create a more vibrant, profitable, and sustainable fishing industry.",
+          "A section has been added called 'Devolved government FMPs'. This includes information on joint UK fisheries management plans (FMPs).",
+          "The Southern North Sea and Eastern Channel mixed flatfish fisheries management plan (FMP) has been published. Consultations on the next 5 FMPs have opened. A consultation on proposed amendments to Annex A of the Joint Fisheries Statement has opened. Updated the policy document to reflect these changes."
+        ],
+        "research_ideas": [],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "How fisheries management plans will be used to create a more vibrant, profitable, and sustainable fishing industry.",
+          "A section has been added called 'Devolved government FMPs'. This includes information on joint UK fisheries management plans (FMPs).",
+          "The Southern North Sea and Eastern Channel mixed flatfish fisheries management plan (FMP) has been published. Consultations on the next 5 FMPs have opened. A consultation on proposed amendments to Annex A of the Joint Fisheries Statement has opened. Updated the policy document to reflect these changes.",
+          "Removed detailed information about individual fisheries management plans (FMPs) from the sections 'Recent FMPs' and 'FMPs in development'. Replaced this information with links to separate webpages covering each of the plans.",
+          "Fisheries management plans: policy information"
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
+    {
+      "id": "3f75d4cd854fa3",
+      "date": "2026-10-23",
+      "category": "국내 정책",
+      "region": "한국",
+      "title": "에너지·환경분야 창업기업 행정 부담 경감을 위한 행정서류 간소화 추진",
+      "source": "기후에너지환경부",
+      "url": "https://mcee.go.kr/m/mob/board/read.do?pagerOffset=0&maxPageItems=10&maxIndexPages=5&searchKey=&searchValue=&menuId=156&orgCd=&boardMasterId=939&boardId=1901900",
+      "doi": "",
+      "tags": [],
+      "document_type": "정책·발표",
+      "link_status": "원문 URL 제공 · 접근 여부 미검증",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "정부 공식 보도자료",
+      "priority_score": 0,
+      "priority": "참고",
+      "priority_reasons": [],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-10-24",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "첨부파일 에너지·환경분야 창업기업 행정 부담 경감을 위한 행정서류 간소화 추진(보도자료)(규제개혁 10.23).hwpx(1 MB) 에너지·환경분야 창업기업 행정 부담 경감을 위한 행정서류 간소화 추진(보도자료)(규제개혁 10.23).pdf(323.6 KB)",
+          "▷ 4대 재설계 방향(①공공자료로 대체 ②신청서류 면제 ③서류 통폐합 ④제출정보 재활용)에 맞춰 창업기업의 규제부담 완화",
+          "▷ 정책지원 등 주요 행정서비스 부문 사업당 평균 제출서류 가짓수 50.4% 및 서류 분량 37.4% 감소 예정"
+        ],
+        "research_ideas": [],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "첨부파일 에너지·환경분야 창업기업 행정 부담 경감을 위한 행정서류 간소화 추진(보도자료)(규제개혁 10.23).hwpx(1 MB) 에너지·환경분야 창업기업 행정 부담 경감을 위한 행정서류 간소화 추진(보도자료)(규제개혁 10.23).pdf(323.6 KB)",
+          "▷ 4대 재설계 방향(①공공자료로 대체 ②신청서류 면제 ③서류 통폐합 ④제출정보 재활용)에 맞춰 창업기업의 규제부담 완화",
+          "▷ 정책지원 등 주요 행정서비스 부문 사업당 평균 제출서류 가짓수 50.4% 및 서류 분량 37.4% 감소 예정",
+          "기후에너지환경부(장관 김성환)는 10월 23일 오후 청와대에서 열리는 제2차 규제합리화위원회 전체회의에서 에너지·환경분야 창업기업 지원을 위한 행정서류 재설계 추진방안을 발표한다.",
+          "상대적으로 인력과 행정역량이 부족한 창업기업에게는 인·허가 뿐만 아니라 정책 지원을 위한 서비스를 신청하기 위한 서류 작성도 큰 부담이 될 수 있다. 기후에너지환경부는 창업 기업의 부담을 완화하고 에너지·환경 분야의 신기술 개발 및 사업화를 지원하기 위해 다음과 같은 4대 재설계 방향에 맞춰 행정서류를 간소화할 예정이다."
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
     {
       "id": "e4dd2dcfc83808",
       "date": "2026-10-22",
