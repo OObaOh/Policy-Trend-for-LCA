@@ -46,3 +46,10 @@
 .article-card h3 a:hover,.spot-primary h3 a:hover,.spot-small h3 a:hover{color:#356c58}
 @media(max-width:860px){.detail-container{padding:19px 16px}.report-layout{display:block}.report-toc{display:none}.report-hero{padding:28px 23px}.report-section{padding:23px 20px}}
 @media(max-width:500px){.detail-top-nav>a:last-child{display:none}.report-navigation>span{display:none}.report-hero h1{font-size:24px}.report-action-row>*{width:100%;text-align:center}.report-section h2{font-size:19px}.research-card dl{display:block}.research-card dt{margin-top:12px}.detail-footer{display:block}.detail-footer>*{display:block;margin:10px 0}}
+.evidence-ref { display:inline-block; margin-left:.5em; font-size:.8rem; color:#126d65; text-decoration:underline; }
+.claim-label { color:#90642a; font-size:.85rem; font-weight:700; }
+.evidence-quote { scroll-margin-top:6rem; border-left:3px solid #bdd6d2; padding:.7rem 1rem; margin:1rem 0; background:#f4f8f7; }
+.evidence-quote blockquote { margin:.5rem 0; white-space:pre-line; line-height:1.8; }
+.template-suggestions { margin-top:1.3rem; padding:1rem; border:1px solid #d8dedb; border-radius:.6rem; }
+.template-suggestions summary { cursor:pointer; font-weight:700; }
+#background-content>p,#purpose-content>p,#conclusion-content>p { white-space:pre-line; }
