@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-10-24T00:51:28+00:00",
+  "updated_at": "2026-10-25T00:43:27+00:00",
   "collector": "GitHub Actions / official government sources + Crossref",
   "profile_version": "2026-10-10",
-  "new_items": 3,
+  "new_items": 0,
   "source_health": {
     "ok": [
       "기후에너지환경부",
@@ -16,23 +16,23 @@
       "미국 Federal Register · carbon footprint",
       "일본 환경성",
       "독일 연방환경부",
-      "프랑스 생태전환부",
       "Crossref: dynamic life cycle assessment",
       "Crossref: prospective life cycle assessment",
+      "Crossref: consequential life cycle assessment allocation",
       "Crossref: waste management life cycle assessment",
-      "Crossref: end of life vehicles environmental impact",
-      "Crossref: mass balance recycling chain of custody"
+      "Crossref: recycling recycled plastics product carbon footprint",
+      "Crossref: hydrogen well to wheel life cycle assessment",
+      "Crossref: hydrogen life cycle assessment",
+      "Crossref: product environmental footprint ecodesign regulation"
     ],
     "errors": [
       "EU 집행위원회 역내시장·산업총국",
-      "Crossref: consequential life cycle assessment allocation",
+      "France",
       "Crossref: extended producer responsibility life cycle",
-      "Crossref: recycling recycled plastics product carbon footprint",
+      "Crossref: end of life vehicles environmental impact",
       "Crossref: automotive parts product carbon footprint",
-      "Crossref: hydrogen well to wheel life cycle assessment",
-      "Crossref: hydrogen life cycle assessment",
       "Crossref: bioenergy avoided emissions carbon removals",
-      "Crossref: product environmental footprint ecodesign regulation"
+      "Crossref: mass balance recycling chain of custody"
     ]
   },
   "articles": [
