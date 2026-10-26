@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-10-25T00:43:27+00:00",
+  "updated_at": "2026-10-26T00:57:32+00:00",
   "collector": "GitHub Actions / official government sources + Crossref",
   "profile_version": "2026-10-10",
-  "new_items": 0,
+  "new_items": 1,
   "source_health": {
     "ok": [
       "기후에너지환경부",
@@ -16,26 +16,81 @@
       "미국 Federal Register · carbon footprint",
       "일본 환경성",
       "독일 연방환경부",
+      "프랑스 생태전환부",
       "Crossref: dynamic life cycle assessment",
       "Crossref: prospective life cycle assessment",
       "Crossref: consequential life cycle assessment allocation",
       "Crossref: waste management life cycle assessment",
-      "Crossref: recycling recycled plastics product carbon footprint",
-      "Crossref: hydrogen well to wheel life cycle assessment",
       "Crossref: hydrogen life cycle assessment",
       "Crossref: product environmental footprint ecodesign regulation"
     ],
     "errors": [
       "EU 집행위원회 역내시장·산업총국",
-      "France",
       "Crossref: extended producer responsibility life cycle",
+      "Crossref: recycling recycled plastics product carbon footprint",
       "Crossref: end of life vehicles environmental impact",
       "Crossref: automotive parts product carbon footprint",
+      "Crossref: hydrogen well to wheel life cycle assessment",
       "Crossref: bioenergy avoided emissions carbon removals",
       "Crossref: mass balance recycling chain of custody"
     ]
   },
   "articles": [
+    {
+      "id": "4720c0a2a4df15",
+      "date": "2026-10-26",
+      "category": "국제 정책",
+      "region": "영국",
+      "title": "New plans to end carbon dioxide stunning of pigs to prevent suffering",
+      "source": "영국 환경식품농촌부 (Defra)",
+      "url": "https://www.gov.uk/government/news/new-plans-to-end-carbon-dioxide-stunning-of-pigs-to-prevent-suffering",
+      "doi": "",
+      "tags": [],
+      "document_type": "정책·발표",
+      "link_status": "원문 연결 확인",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "Carbon dioxide stunning to be replaced with more available humane alternatives",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "기관 공식 피드",
+      "priority_score": 0,
+      "priority": "참고",
+      "priority_reasons": [],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-10-26",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "Carbon dioxide stunning to be replaced with more available humane alternatives",
+          "Pigs will be spared unnecessary pain and distress before slaughter under new government plans to phase out the use of high-concentration carbon dioxide stunning.",
+          "New proposals set out today (26 October 2026) would see the pork industry move towards more humane methods of stunning pigs, helping to prevent animals experiencing panic and breathing difficulties before losing consciousness."
+        ],
+        "research_ideas": [
+          {
+            "title": "온실가스 감축정책 지표와 LCA 환경편익 산정의 경계 정합성",
+            "research_question": "정책상 감축실적의 기준선과 제품 전과정 산정의 기준선 차이는 어떻게 비교가능성을 제한하는가?",
+            "methodology": "시스템경계·기준선·할당 및 불확실성에 관한 방법론 대조",
+            "novelty": "정책 지표와 제품 지표의 목적·범위 차이를 규명하는 연구 가설",
+            "data": "공개 규정·배출계수·LCI DB 및 제도 운영 자료"
+          }
+        ],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "Carbon dioxide stunning to be replaced with more available humane alternatives",
+          "Pigs will be spared unnecessary pain and distress before slaughter under new government plans to phase out the use of high-concentration carbon dioxide stunning.",
+          "New proposals set out today (26 October 2026) would see the pork industry move towards more humane methods of stunning pigs, helping to prevent animals experiencing panic and breathing difficulties before losing consciousness.",
+          "High concentration carbon dioxide is widely used to stun pigs in British slaughterhouses, but independent evidence has highlighted serious concerns about the suffering it causes animals.",
+          "The consultation launched today will seek views on the proposals, including the welfare benefits, costs, feasibility and potential timescales for moving away from carbon dioxide, recognising businesses will need time to adapt."
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
     {
       "id": "f63c00030b3394",
       "date": "2026-10-23",
