@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-10-26T00:57:32+00:00",
+  "updated_at": "2026-10-27T00:47:26+00:00",
   "collector": "GitHub Actions / official government sources + Crossref",
   "profile_version": "2026-10-10",
-  "new_items": 1,
+  "new_items": 5,
   "source_health": {
     "ok": [
       "기후에너지환경부",
@@ -20,22 +20,173 @@
       "Crossref: dynamic life cycle assessment",
       "Crossref: prospective life cycle assessment",
       "Crossref: consequential life cycle assessment allocation",
-      "Crossref: waste management life cycle assessment",
-      "Crossref: hydrogen life cycle assessment",
-      "Crossref: product environmental footprint ecodesign regulation"
+      "Crossref: extended producer responsibility life cycle"
     ],
     "errors": [
       "EU 집행위원회 역내시장·산업총국",
-      "Crossref: extended producer responsibility life cycle",
+      "Crossref: waste management life cycle assessment",
       "Crossref: recycling recycled plastics product carbon footprint",
       "Crossref: end of life vehicles environmental impact",
       "Crossref: automotive parts product carbon footprint",
       "Crossref: hydrogen well to wheel life cycle assessment",
+      "Crossref: hydrogen life cycle assessment",
       "Crossref: bioenergy avoided emissions carbon removals",
+      "Crossref: product environmental footprint ecodesign regulation",
       "Crossref: mass balance recycling chain of custody"
     ]
   },
   "articles": [
+    {
+      "id": "a6c93c5111148b",
+      "date": "2026-10-26",
+      "category": "국제 정책",
+      "region": "UN",
+      "title": "UNDP Malawi Malawi puts delivery at the heart of its new climate plan Article",
+      "source": "UNFCCC",
+      "url": "https://unfccc.int/news/malawi-puts-delivery-at-the-heart-of-its-new-climate-plan",
+      "doi": "",
+      "tags": [
+        "UNDP"
+      ],
+      "document_type": "정책·발표",
+      "link_status": "원문 URL 제공 · 접근 여부 미검증",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "UNFCCC 공식 뉴스",
+      "priority_score": 0,
+      "priority": "참고",
+      "priority_reasons": [],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-10-27",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "UN Climate Change News, 26 October 2026 – Malawi has made getting ready for action a central part of its new national climate plan. Government institutions, all 28 district councils, civil society, the private sector and local communities helped shape it, and the Government's priority now is to turn its commitments into clearly assigned, financed a",
+          "Tanzanian innovator wins UN Climate Change AI for Climate Action Award 2026",
+          "COP31 Host Country Agreement enters into force"
+        ],
+        "research_ideas": [],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "UN Climate Change News, 26 October 2026 – Malawi has made getting ready for action a central part of its new national climate plan. Government institutions, all 28 district councils, civil society, the private sector and local communities helped shape it, and the Government's priority now is to turn its commitments into clearly assigned, financed a",
+          "Tanzanian innovator wins UN Climate Change AI for Climate Action Award 2026",
+          "COP31 Host Country Agreement enters into force",
+          "\"Limiting the rise in global temperature to 1.5 degrees Celsius is demanded by science, agreed by nations, and essential for the survival of small islands\": UN Climate Chief in Fiji"
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
+    {
+      "id": "9a38ced3e86a9d",
+      "date": "2026-10-26",
+      "category": "국제 정책",
+      "region": "영국",
+      "title": "Official Statistics: DESNZ Public Attitudes Tracker: Summer 2026",
+      "source": "영국 에너지안보·넷제로부 (DESNZ)",
+      "url": "https://www.gov.uk/government/statistics/announcements/desnz-public-attitudes-tracker-summer-2026",
+      "doi": "",
+      "tags": [
+        "탄소배출권·GHG",
+        "DESNZ"
+      ],
+      "document_type": "정책·발표",
+      "link_status": "원문 연결 확인",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "This regular survey collects data on public awareness, behaviours and attitudes relating to the department’s policy areas. These include Net Zero and climate change, different types of energy infrastructure, energy use in the home and energy bills.",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "기관 공식 피드",
+      "priority_score": 6,
+      "priority": "참고",
+      "priority_reasons": [
+        "탄소배출권·GHG"
+      ],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-10-27",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "This regular survey collects data on public awareness, behaviours and attitudes relating to the department’s policy areas. These include Net Zero and climate change, different types of energy infrastructure, energy use in the home and energy bills."
+        ],
+        "research_ideas": [],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "This regular survey collects data on public awareness, behaviours and attitudes relating to the department’s policy areas. These include Net Zero and climate change, different types of energy infrastructure, energy use in the home and energy bills."
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
+    {
+      "id": "4b251e0e10f872",
+      "date": "2026-10-26",
+      "category": "국제 정책",
+      "region": "영국",
+      "title": "Research: 2026 post-implementation review of the SECR regulations 2018",
+      "source": "영국 에너지안보·넷제로부 (DESNZ)",
+      "url": "https://www.gov.uk/government/publications/2026-post-implementation-review-of-the-secr-regulations-2018",
+      "doi": "",
+      "tags": [
+        "SECR"
+      ],
+      "document_type": "법령·규제",
+      "link_status": "원문 연결 확인",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "This research examines how effective the Streamlined Energy and Carbon Reporting (SECR) regulations have been in increasing transparency on organisational energy use and emissions.",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "기관 공식 피드",
+      "priority_score": 0,
+      "priority": "참고",
+      "priority_reasons": [],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-10-27",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "This research examines how effective the Streamlined Energy and Carbon Reporting (SECR) regulations have been in increasing transparency on organisational energy use and emissions.",
+          "Two corrections have been made to this publication. Neither of these impacts any of the conclusions or other findings in the post-implementation review.",
+          "2026 post-implementation review of the SECR regulations 2018"
+        ],
+        "research_ideas": [
+          {
+            "title": "온실가스 감축정책 지표와 LCA 환경편익 산정의 경계 정합성",
+            "research_question": "정책상 감축실적의 기준선과 제품 전과정 산정의 기준선 차이는 어떻게 비교가능성을 제한하는가?",
+            "methodology": "시스템경계·기준선·할당 및 불확실성에 관한 방법론 대조",
+            "novelty": "정책 지표와 제품 지표의 목적·범위 차이를 규명하는 연구 가설",
+            "data": "공개 규정·배출계수·LCI DB 및 제도 운영 자료"
+          }
+        ],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "This research examines how effective the Streamlined Energy and Carbon Reporting (SECR) regulations have been in increasing transparency on organisational energy use and emissions.",
+          "Two corrections have been made to this publication. Neither of these impacts any of the conclusions or other findings in the post-implementation review.",
+          "2026 post-implementation review of the SECR regulations 2018",
+          "Two corrections have been made to this publication. Neither of these corrections impacts any of the conclusions or other findings in the post-implementation review ( PIR ):",
+          "This post-implementation review report describes how the requirements of the SECR framework have been implemented since its introduction. The report has been published to establish whether and to what extent the SECR requirements have achieved their original objectives, to assess whether those objectives remain appropriate and the extent to which t"
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
     {
       "id": "4720c0a2a4df15",
       "date": "2026-10-26",
@@ -83,6 +234,116 @@
           "New proposals set out today (26 October 2026) would see the pork industry move towards more humane methods of stunning pigs, helping to prevent animals experiencing panic and breathing difficulties before losing consciousness.",
           "High concentration carbon dioxide is widely used to stun pigs in British slaughterhouses, but independent evidence has highlighted serious concerns about the suffering it causes animals.",
           "The consultation launched today will seek views on the proposals, including the welfare benefits, costs, feasibility and potential timescales for moving away from carbon dioxide, recognising businesses will need time to adapt."
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
+    {
+      "id": "0da12d44499d03",
+      "date": "2026-10-26",
+      "category": "국제 정책",
+      "region": "영국",
+      "title": "Phasing out carbon dioxide stunning of pigs",
+      "source": "영국 환경식품농촌부 (Defra)",
+      "url": "https://www.gov.uk/government/consultations/phasing-out-carbon-dioxide-stunning-of-pigs",
+      "doi": "",
+      "tags": [],
+      "document_type": "정책·발표",
+      "link_status": "원문 연결 확인",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "Seeking views on phasing out carbon dioxide stunning of pigs.",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "기관 공식 피드",
+      "priority_score": 0,
+      "priority": "참고",
+      "priority_reasons": [],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-10-27",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "Seeking views on phasing out carbon dioxide stunning of pigs. This consultation is being held on another website .",
+          "This consultation closes at 11:59pm on 21 December 2026",
+          "We want to know what you think about a proposal to phase out carbon dioxide stunning of pigs."
+        ],
+        "research_ideas": [
+          {
+            "title": "온실가스 감축정책 지표와 LCA 환경편익 산정의 경계 정합성",
+            "research_question": "정책상 감축실적의 기준선과 제품 전과정 산정의 기준선 차이는 어떻게 비교가능성을 제한하는가?",
+            "methodology": "시스템경계·기준선·할당 및 불확실성에 관한 방법론 대조",
+            "novelty": "정책 지표와 제품 지표의 목적·범위 차이를 규명하는 연구 가설",
+            "data": "공개 규정·배출계수·LCI DB 및 제도 운영 자료"
+          }
+        ],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "Seeking views on phasing out carbon dioxide stunning of pigs. This consultation is being held on another website .",
+          "This consultation closes at 11:59pm on 21 December 2026",
+          "We want to know what you think about a proposal to phase out carbon dioxide stunning of pigs.",
+          "We are asking for views on a proposal to ban the use of carbon dioxide for stunning of pigs in slaughterhouses and knackers yards. We are also asking for views on the transition period before any proposed ban might come into force.",
+          "We also want to gather more information on the impacts on industry."
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
+    {
+      "id": "07dd0d6b211428",
+      "date": "2026-10-26",
+      "category": "국제 정책",
+      "region": "영국",
+      "title": "Policy paper: Mobilising private finance for local nature recovery",
+      "source": "영국 환경식품농촌부 (Defra)",
+      "url": "https://www.gov.uk/government/publications/mobilising-private-finance-for-local-nature-recovery",
+      "doi": "",
+      "tags": [],
+      "document_type": "정책·발표",
+      "link_status": "원문 연결 확인",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "The government’s approach to attracting private investment for local nature recovery and sustainable growth.",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "기관 공식 피드",
+      "priority_score": 0,
+      "priority": "참고",
+      "priority_reasons": [],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-10-27",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "The government’s approach to attracting private investment for local nature recovery and sustainable growth.",
+          "Growing Places: Mobilising private finance for local nature recovery",
+          "This document explains the government’s approach to attracting private investment for nature recovery and sustainable growth. It sets out existing and emerging policy on nature markets, nature finance and place-based delivery."
+        ],
+        "research_ideas": [
+          {
+            "title": "폐자동차 규제의 재생원료 인정방식과 자동차부품 PCF 간 정합성",
+            "research_question": "재생원료 함량·CoC 증빙 방식이 다른 경우 자동차부품의 환경부하를 어떤 규칙으로 귀속해야 하는가?",
+            "methodology": "재생함량법과 cut-off·시스템 확장에 따른 할당 규칙 및 이중계상 위험 검토",
+            "novelty": "규제 목표와 제품단위 PCF 산정기준의 연결이라는 방법론적 연구 가설. 선행연구 검증 필요",
+            "data": "ELV 규정·PCR·재생원료 공개 통계와 소재별 LCI. 실제 공급망 물량 자료는 제약"
+          }
+        ],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "The government’s approach to attracting private investment for local nature recovery and sustainable growth.",
+          "Growing Places: Mobilising private finance for local nature recovery",
+          "This document explains the government’s approach to attracting private investment for nature recovery and sustainable growth. It sets out existing and emerging policy on nature markets, nature finance and place-based delivery.",
+          "increase investment in nature and climate resilience by creating demand across the built environment, water sector and agri-food supply chain",
+          "strengthen confidence in nature markets through clearer standards, rules and market oversight"
         ],
         "conclusion": "",
         "korea_implications": "",
