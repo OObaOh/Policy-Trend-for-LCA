@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-10-27T00:47:26+00:00",
+  "updated_at": "2026-10-28T00:57:25+00:00",
   "collector": "GitHub Actions / official government sources + Crossref",
   "profile_version": "2026-10-10",
-  "new_items": 5,
+  "new_items": 7,
   "source_health": {
     "ok": [
       "기후에너지환경부",
@@ -18,14 +18,14 @@
       "독일 연방환경부",
       "프랑스 생태전환부",
       "Crossref: dynamic life cycle assessment",
-      "Crossref: prospective life cycle assessment",
-      "Crossref: consequential life cycle assessment allocation",
-      "Crossref: extended producer responsibility life cycle"
+      "Crossref: waste management life cycle assessment",
+      "Crossref: recycling recycled plastics product carbon footprint"
     ],
     "errors": [
       "EU 집행위원회 역내시장·산업총국",
-      "Crossref: waste management life cycle assessment",
-      "Crossref: recycling recycled plastics product carbon footprint",
+      "Crossref: prospective life cycle assessment",
+      "Crossref: consequential life cycle assessment allocation",
+      "Crossref: extended producer responsibility life cycle",
       "Crossref: end of life vehicles environmental impact",
       "Crossref: automotive parts product carbon footprint",
       "Crossref: hydrogen well to wheel life cycle assessment",
@@ -36,6 +36,372 @@
     ]
   },
   "articles": [
+    {
+      "id": "fcb4453147e949",
+      "date": "2026-10-27",
+      "category": "국제 정책",
+      "region": "EU",
+      "title": "Environmental protection in upcoming pharmaceutical legislation could enhance risk assessments and support implementation",
+      "source": "EU 집행위원회 환경총국",
+      "url": "https://environment.ec.europa.eu/news/environmental-protection-upcoming-pharmaceutical-legislation-could-enhance-risk-assessments-and-2026-10-27_en",
+      "doi": "",
+      "tags": [],
+      "document_type": "연구보고서",
+      "link_status": "원문 연결 확인",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "Pharmaceuticals entering the natural environment may harm ecosystems and human health. This review assesses current and future legislation designed to mitigate this risk, in light of current science.",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "기관 공식 피드",
+      "priority_score": 0,
+      "priority": "참고",
+      "priority_reasons": [],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-10-28",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "Potentially harmful chemicals can enter the environment at the production, use and disposal stages of the pharmaceutical lifecycle. These pollute rivers and other parts of the natural world, and may harm ecosystems and humans alike. Consequently, most new antimicrobial pharmaceutical products are required to undergo an environmental risk assessment",
+          "In 2020 the European Commission launched its Pharmaceutical Strategy for Europe , aimed at “creating a future proof regulatory framework and at supporting the industry in promoting research and technologies that reach patients to fulfil their therapeutic needs while addressing market failures”, according to the European Commission. This strategy le",
+          "To better understand the implications of the proposed legislation for environmental protection, experts from the UK and Portugal, supported by the EU Horizon programme, conducted a review of the draft instruments. While acknowledging the progress these represent, the authors also highlight topics that require further attention."
+        ],
+        "research_ideas": [],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "Potentially harmful chemicals can enter the environment at the production, use and disposal stages of the pharmaceutical lifecycle. These pollute rivers and other parts of the natural world, and may harm ecosystems and humans alike. Consequently, most new antimicrobial pharmaceutical products are required to undergo an environmental risk assessment",
+          "In 2020 the European Commission launched its Pharmaceutical Strategy for Europe , aimed at “creating a future proof regulatory framework and at supporting the industry in promoting research and technologies that reach patients to fulfil their therapeutic needs while addressing market failures”, according to the European Commission. This strategy le",
+          "To better understand the implications of the proposed legislation for environmental protection, experts from the UK and Portugal, supported by the EU Horizon programme, conducted a review of the draft instruments. While acknowledging the progress these represent, the authors also highlight topics that require further attention.",
+          "One of these is the impact of mixtures, where different pharmaceuticals, agricultural chemicals, consumer products or other chemicals are mix together when released into watercourses. The combined effects of chemical mixtures can enhance the damaging effects on the environment. For example, the combination of the two distinct antibiotics sulfametho",
+          "The authors also suggest that screening of environmental impacts could use a broader range of approaches, such as computer modelling, which can analyse similarities between chemicals to better understand likely environmental risks."
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
+    {
+      "id": "a7ac68e4531518",
+      "date": "2026-10-27",
+      "category": "국제 정책",
+      "region": "UN",
+      "title": "Lamine Coulibaly | CIF Action UN Climate Change reports show Paris Agreement supporting whole-of-economy approaches, but progress still clearly insufficient; more implementation and acceleration needed UN Climate Press Release",
+      "source": "UNFCCC",
+      "url": "https://unfccc.int/news/un-climate-change-reports-show-paris-agreement-supporting-whole-of-economy-approaches-but-progress",
+      "doi": "",
+      "tags": [
+        "CIF"
+      ],
+      "document_type": "연구보고서",
+      "link_status": "원문 URL 제공 · 접근 여부 미검증",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "UNFCCC 공식 뉴스",
+      "priority_score": 0,
+      "priority": "참고",
+      "priority_reasons": [],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-10-28",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "UN Climate Change News, 27 October 2026 – Three reports published by UN Climate Change show governments increasingly taking whole-of-economy, whole-of-society approaches to climate policy-making. However, the reports again show overall progress remains substantially insufficient, and highlight key barriers to further acceleration and implementation",
+          "Malawi puts delivery at the heart of its new climate plan",
+          "Tanzanian innovator wins UN Climate Change AI for Climate Action Award 2026"
+        ],
+        "research_ideas": [],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "UN Climate Change News, 27 October 2026 – Three reports published by UN Climate Change show governments increasingly taking whole-of-economy, whole-of-society approaches to climate policy-making. However, the reports again show overall progress remains substantially insufficient, and highlight key barriers to further acceleration and implementation",
+          "Malawi puts delivery at the heart of its new climate plan",
+          "Tanzanian innovator wins UN Climate Change AI for Climate Action Award 2026",
+          "COP31 Host Country Agreement enters into force"
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
+    {
+      "id": "9f98329ec82635",
+      "date": "2026-10-27",
+      "category": "국제 정책",
+      "region": "미국",
+      "title": "Official Release of the MOVES6 Motor Vehicle Emissions Model for SIPs and Transportation Conformity",
+      "source": "미국 Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/10/27/2026-21843/official-release-of-the-moves6-motor-vehicle-emissions-model-for-sips-and-transportation-conformity",
+      "doi": "",
+      "tags": [
+        "MOVES6"
+      ],
+      "document_type": "정부 공고",
+      "link_status": "원문 연결 확인",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "The U.S. Environmental Protection Agency (EPA) is announcing the availability of the latest major release of the MOtor Vehicle Emission Simulator (MOVES) model, MOVES6. MOVES6 is the latest version of the EPA's state-of-the-science modeling tool for estimating emissions from cars, trucks, buses, and motorcycles based on the latest data and regulations. MOVES6 is available for use in State Implementation Plans (SIPs) and transportation conformity analyses. This notice starts a two-year grace period before MOVES6 will be required for use in trans",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "미국 연방 관보 공식 기록",
+      "regulatory_status": "Notice",
+      "priority_score": 0,
+      "priority": "참고",
+      "priority_reasons": [],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-10-28",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "Due to aggressive automated scraping of FederalRegister.gov and eCFR.gov, programmatic access to these sites is limited to access to our extensive developer APIs. Please visit FederalRegister.gov API documentation or eCFR.gov API documentation to learn more about how to access the API.",
+          "Your request has been flagged as potentially automated. If you are human user receiving this message, please complete the CAPTCHA (bot test) below and click \"Request Access\". You may occassionally be asked to complete the CAPTCHA again, this is normal and part of our security measures.",
+          "An official website of the United States government."
+        ],
+        "research_ideas": [
+          {
+            "title": "온실가스 감축정책 지표와 LCA 환경편익 산정의 경계 정합성",
+            "research_question": "정책상 감축실적의 기준선과 제품 전과정 산정의 기준선 차이는 어떻게 비교가능성을 제한하는가?",
+            "methodology": "시스템경계·기준선·할당 및 불확실성에 관한 방법론 대조",
+            "novelty": "정책 지표와 제품 지표의 목적·범위 차이를 규명하는 연구 가설",
+            "data": "공개 규정·배출계수·LCI DB 및 제도 운영 자료"
+          }
+        ],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "Due to aggressive automated scraping of FederalRegister.gov and eCFR.gov, programmatic access to these sites is limited to access to our extensive developer APIs. Please visit FederalRegister.gov API documentation or eCFR.gov API documentation to learn more about how to access the API.",
+          "Your request has been flagged as potentially automated. If you are human user receiving this message, please complete the CAPTCHA (bot test) below and click \"Request Access\". You may occassionally be asked to complete the CAPTCHA again, this is normal and part of our security measures.",
+          "An official website of the United States government.",
+          "If you experiencing issues with the CAPTCHA or want to request a wider IP range, you can use the \"Site Help\" button found in the lower, right of this page to make a request.",
+          "This contact form is only for IP Access help. Please do not provide confidential information or personal data."
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
+    {
+      "id": "681b0491618f84",
+      "date": "2026-10-27",
+      "category": "국제 정책",
+      "region": "EU",
+      "title": "Commission & UNEP pledge continued environmental action",
+      "source": "EU 집행위원회 환경총국",
+      "url": "https://environment.ec.europa.eu/news/commission-unep-pledge-continued-environmental-action-2026-10-27_en",
+      "doi": "",
+      "tags": [
+        "UNEP"
+      ],
+      "document_type": "정책·발표",
+      "link_status": "원문 연결 확인",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "An amendment to a Memorandum of Understanding between the two sides was signed at the biennial UN Biodiversity Conference in Armenia.",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "기관 공식 피드",
+      "priority_score": 0,
+      "priority": "참고",
+      "priority_reasons": [],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-10-28",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "The European Commission and the United Nations Environment Programme (UNEP) renewed their strategic partnership today (27 Oct), after signing an amendment to the Memorandum of Understanding (MoU).",
+          "The MoU anchors mutual cooperation on the environment in response to today’s global challenges, as the world faces increasing geopolitical fragmentation and mounting environmental challenges.",
+          "This renewed partnership recognises the central importance of environmental action for competitiveness, public health, resilience of socio-economic systems, and security, peace and stability worldwide."
+        ],
+        "research_ideas": [],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "The European Commission and the United Nations Environment Programme (UNEP) renewed their strategic partnership today (27 Oct), after signing an amendment to the Memorandum of Understanding (MoU).",
+          "The MoU anchors mutual cooperation on the environment in response to today’s global challenges, as the world faces increasing geopolitical fragmentation and mounting environmental challenges.",
+          "This renewed partnership recognises the central importance of environmental action for competitiveness, public health, resilience of socio-economic systems, and security, peace and stability worldwide.",
+          "It reaffirms a shared commitment to science-based policymaking, strengthened environmental multilateralism and collective action to address the triple planetary crisis of climate change, biodiversity loss and pollution, and waste.",
+          "“ The renewed strategic partnership between the European Commission and UNEP reflects our shared determination to strengthen science-based environmental governance and support the implementation of global commitments on climate, land and biodiversity loss and pollution."
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
+    {
+      "id": "2324e762533a44",
+      "date": "2026-10-27",
+      "category": "국제 정책",
+      "region": "EU",
+      "title": "Plants and microbes pair up to remove pollutants from wastewater in human-made wetlands",
+      "source": "EU 집행위원회 환경총국",
+      "url": "https://environment.ec.europa.eu/news/plants-and-microbes-pair-remove-pollutants-wastewater-human-made-wetlands-2026-10-27_en",
+      "doi": "",
+      "tags": [],
+      "document_type": "정책·발표",
+      "link_status": "원문 연결 확인",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "Microbes work to break down pollutants in constructed wetlands: a sustainable, nature-based solution for wastewater treatment. Enhancing these mechanisms to increase efficiency is possible, finds a new review, further research is needed.",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "기관 공식 피드",
+      "priority_score": 0,
+      "priority": "참고",
+      "priority_reasons": [],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-10-28",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "As global water resources come under increasing pressure, more efficient and sustainable ways of treating wastewater are needed. Constructed wetlands (CWs) offer a nature-based solution (NBS) that benefits biodiversity. These engineered ecosystems use vegetation, soil and microbes to remove pollutants from wastewater, while also providing habitats,",
+          "CWs remove pollutants including nitrogen, phosphorus, heavy metals and medications through a variety of physical, chemical, and biological mechanisms. One key biological process is microbial remediation, in which microorganisms (e.g. bacteria) break down or transform pollutants into less harmful substances. Research has explored the best ways to op",
+          "The review highlights that CWs have proven effective at removing pollutants from wastewater across a variety of wastewater types (aquaculture, rural, industrial, sewage), with average removal efficiencies ranging from 76.9 to 91.9% for pollutants such as nitrogen, phosphorus, heavy metals, antibiotics and PAH . Microbial remediation plays a crucial"
+        ],
+        "research_ideas": [
+          {
+            "title": "재자원화 환경편익 산정에서 폐기물 지위와 환경부하 귀속의 영향",
+            "research_question": "폐기물의 원료 전환과 대체편익 반영 범위가 정책단위 감축실적과 제품단위 PCF 간 결과를 어떻게 변화시키는가?",
+            "methodology": "Attributional/Consequential LCA, cut-off·할당·회피배출 규칙을 결합한 시나리오",
+            "novelty": "정책 효과와 제품 탄소발자국의 산정목적·경계 차이에서 발생하는 연구 가설",
+            "data": "공식 정책 문서, 공개 재활용 통계와 공정 LCI. 민간 현장 수율은 확인 필요"
+          }
+        ],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "As global water resources come under increasing pressure, more efficient and sustainable ways of treating wastewater are needed. Constructed wetlands (CWs) offer a nature-based solution (NBS) that benefits biodiversity. These engineered ecosystems use vegetation, soil and microbes to remove pollutants from wastewater, while also providing habitats,",
+          "CWs remove pollutants including nitrogen, phosphorus, heavy metals and medications through a variety of physical, chemical, and biological mechanisms. One key biological process is microbial remediation, in which microorganisms (e.g. bacteria) break down or transform pollutants into less harmful substances. Research has explored the best ways to op",
+          "The review highlights that CWs have proven effective at removing pollutants from wastewater across a variety of wastewater types (aquaculture, rural, industrial, sewage), with average removal efficiencies ranging from 76.9 to 91.9% for pollutants such as nitrogen, phosphorus, heavy metals, antibiotics and PAH . Microbial remediation plays a crucial",
+          "The presence of plants in CWs increases average pollutant removal efficiency by up to 11.3%. However, plants’ direct uptake of pollutants is relatively low; their impact lies in how they interact with relevant microbes and enhance their activity, say the researchers. This happens because plant roots release oxygen, enhancing microbial action, but a",
+          "The latter process is driven by plant stress: plants emit useful metabolites as a signal or ‘cry for help’ in order to recruit beneficial microorganisms. For example, microbes can fix nitrogen from the atmosphere to feed the plant, produce antifungal compounds to ward off plant pathogens, or form protective biofilms on roots. However, while well-do"
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
+    {
+      "id": "0953b394e1d495",
+      "date": "2026-10-27",
+      "category": "국제 정책",
+      "region": "미국",
+      "title": "Notice of Publication of U.S. Resources Management Industry Listing and Opportunity To Apply for the Listing",
+      "source": "미국 Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/10/27/2026-21896/notice-of-publication-of-us-resources-management-industry-listing-and-opportunity-to-apply-for-the",
+      "doi": "",
+      "tags": [
+        "폐기물관리·처리",
+        "순환경제·재활용"
+      ],
+      "document_type": "정부 공고",
+      "link_status": "원문 연결 확인",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "The International Trade Administration (ITA) announces the launch of the U.S. Resources Management Industry Listing (RMIL), or \"industry listing.\" The RMIL is intended to identify U.S. companies operating in water and wastewater treatment; waste management and recycling, including critical minerals recycling; air quality measuring, monitoring and control; monitoring and instrumentation; weather and forecasting; and other resources management sectors for informational, engagement, and policy support purposes. The RMIL will provide a platform for",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "미국 연방 관보 공식 기록",
+      "regulatory_status": "Notice",
+      "priority_score": 21,
+      "priority": "우선 검토",
+      "priority_reasons": [
+        "폐기물관리·처리",
+        "순환경제·재활용"
+      ],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-10-28",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "Due to aggressive automated scraping of FederalRegister.gov and eCFR.gov, programmatic access to these sites is limited to access to our extensive developer APIs. Please visit FederalRegister.gov API documentation or eCFR.gov API documentation to learn more about how to access the API.",
+          "Your request has been flagged as potentially automated. If you are human user receiving this message, please complete the CAPTCHA (bot test) below and click \"Request Access\". You may occassionally be asked to complete the CAPTCHA again, this is normal and part of our security measures.",
+          "An official website of the United States government."
+        ],
+        "research_ideas": [
+          {
+            "title": "재자원화 환경편익 산정에서 폐기물 지위와 환경부하 귀속의 영향",
+            "research_question": "폐기물의 원료 전환과 대체편익 반영 범위가 정책단위 감축실적과 제품단위 PCF 간 결과를 어떻게 변화시키는가?",
+            "methodology": "Attributional/Consequential LCA, cut-off·할당·회피배출 규칙을 결합한 시나리오",
+            "novelty": "정책 효과와 제품 탄소발자국의 산정목적·경계 차이에서 발생하는 연구 가설",
+            "data": "공식 정책 문서, 공개 재활용 통계와 공정 LCI. 민간 현장 수율은 확인 필요"
+          }
+        ],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "Due to aggressive automated scraping of FederalRegister.gov and eCFR.gov, programmatic access to these sites is limited to access to our extensive developer APIs. Please visit FederalRegister.gov API documentation or eCFR.gov API documentation to learn more about how to access the API.",
+          "Your request has been flagged as potentially automated. If you are human user receiving this message, please complete the CAPTCHA (bot test) below and click \"Request Access\". You may occassionally be asked to complete the CAPTCHA again, this is normal and part of our security measures.",
+          "An official website of the United States government.",
+          "If you experiencing issues with the CAPTCHA or want to request a wider IP range, you can use the \"Site Help\" button found in the lower, right of this page to make a request.",
+          "This contact form is only for IP Access help. Please do not provide confidential information or personal data."
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
+    {
+      "id": "08d2278c32a1d8",
+      "date": "2026-10-27",
+      "category": "국제 정책",
+      "region": "영국",
+      "title": "Research: Air pollution in the UK 2025",
+      "source": "영국 환경식품농촌부 (Defra)",
+      "url": "https://www.gov.uk/government/publications/air-pollution-in-the-uk-2025",
+      "doi": "",
+      "tags": [],
+      "document_type": "정책·발표",
+      "link_status": "원문 연결 확인",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "The UK’s annual compliance assessment for 2025 against the Air Quality Standards Regulations (2010).",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "기관 공식 피드",
+      "priority_score": 0,
+      "priority": "참고",
+      "priority_reasons": [],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-10-28",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "The UK’s annual compliance assessment for 2025 against the Air Quality Standards Regulations (2010).",
+          "Corrected the section on ozone in the compliance results summary 2025: In 2025, 21 public pollution alerts were issued following short-term exceedances of the ozone information threshold.",
+          "Methods for compliance assessment against the Air Quality Standards Regulations (2010)"
+        ],
+        "research_ideas": [],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "The UK’s annual compliance assessment for 2025 against the Air Quality Standards Regulations (2010).",
+          "Corrected the section on ozone in the compliance results summary 2025: In 2025, 21 public pollution alerts were issued following short-term exceedances of the ozone information threshold.",
+          "Methods for compliance assessment against the Air Quality Standards Regulations (2010)",
+          "Nitrogen oxides (NOx) compliance assessment 2025",
+          "Improving air quality is a priority for the UK , it is therefore important to assess levels of air pollution."
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
     {
       "id": "a6c93c5111148b",
       "date": "2026-10-26",
