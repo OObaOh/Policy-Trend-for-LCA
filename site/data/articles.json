@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-10-28T00:57:25+00:00",
+  "updated_at": "2026-10-29T00:56:31+00:00",
   "collector": "GitHub Actions / official government sources + Crossref",
   "profile_version": "2026-10-10",
-  "new_items": 7,
+  "new_items": 16,
   "source_health": {
     "ok": [
       "기후에너지환경부",
@@ -19,13 +19,13 @@
       "프랑스 생태전환부",
       "Crossref: dynamic life cycle assessment",
       "Crossref: waste management life cycle assessment",
-      "Crossref: recycling recycled plastics product carbon footprint"
+      "Crossref: extended producer responsibility life cycle"
     ],
     "errors": [
       "EU 집행위원회 역내시장·산업총국",
       "Crossref: prospective life cycle assessment",
       "Crossref: consequential life cycle assessment allocation",
-      "Crossref: extended producer responsibility life cycle",
+      "Crossref: recycling recycled plastics product carbon footprint",
       "Crossref: end of life vehicles environmental impact",
       "Crossref: automotive parts product carbon footprint",
       "Crossref: hydrogen well to wheel life cycle assessment",
@@ -36,6 +36,718 @@
     ]
   },
   "articles": [
+    {
+      "id": "eed67db97c5024",
+      "date": "2026-10-28",
+      "category": "국제 정책",
+      "region": "영국",
+      "title": "Wholesale Contracts for Difference",
+      "source": "영국 에너지안보·넷제로부 (DESNZ)",
+      "url": "https://www.gov.uk/government/consultations/wholesale-contracts-for-difference",
+      "doi": "",
+      "tags": [],
+      "document_type": "정책·발표",
+      "link_status": "원문 연결 확인",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "We are seeking views on a proposed Wholesale Contracts for Difference scheme for existing low carbon electricity generators.",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "기관 공식 피드",
+      "priority_score": 0,
+      "priority": "참고",
+      "priority_reasons": [],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-10-29",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "We are seeking views on a proposed Wholesale Contracts for Difference scheme for existing low carbon electricity generators.",
+          "This consultation closes at 11:59pm on 9 December 2026",
+          "This consultation seeks views on the proposed design of a Wholesale Contracts for Difference (WCfD) scheme for existing low carbon electricity generators in Great Britain. It covers the case for intervention, scheme eligibility, allocation and auction design, commercial arrangements, potential electricity market impacts, and required legislative ch"
+        ],
+        "research_ideas": [
+          {
+            "title": "온실가스 감축정책 지표와 LCA 환경편익 산정의 경계 정합성",
+            "research_question": "정책상 감축실적의 기준선과 제품 전과정 산정의 기준선 차이는 어떻게 비교가능성을 제한하는가?",
+            "methodology": "시스템경계·기준선·할당 및 불확실성에 관한 방법론 대조",
+            "novelty": "정책 지표와 제품 지표의 목적·범위 차이를 규명하는 연구 가설",
+            "data": "공개 규정·배출계수·LCI DB 및 제도 운영 자료"
+          }
+        ],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "We are seeking views on a proposed Wholesale Contracts for Difference scheme for existing low carbon electricity generators.",
+          "This consultation closes at 11:59pm on 9 December 2026",
+          "This consultation seeks views on the proposed design of a Wholesale Contracts for Difference (WCfD) scheme for existing low carbon electricity generators in Great Britain. It covers the case for intervention, scheme eligibility, allocation and auction design, commercial arrangements, potential electricity market impacts, and required legislative ch",
+          "It also seeks views on a possible hybrid model for generators accredited under the Renewables Obligation. Responses are welcomed from electricity generators, suppliers, industry bodies, consumer groups, investors, regulators and any other interested stakeholders.",
+          "This file may not be suitable for users of assistive technology."
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
+    {
+      "id": "cabdc0adfb0ddd",
+      "date": "2026-10-28",
+      "category": "국내 정책",
+      "region": "한국",
+      "title": "기후대응위, 민관 협력으로 철강산업 저탄소 전환 해법 모색",
+      "source": "기후에너지환경부",
+      "url": "https://mcee.go.kr/m/mob/board/read.do?pagerOffset=0&maxPageItems=10&maxIndexPages=5&searchKey=&searchValue=&menuId=156&orgCd=&boardMasterId=939&boardId=1902690",
+      "doi": "",
+      "tags": [],
+      "document_type": "정책·발표",
+      "link_status": "원문 URL 제공 · 접근 여부 미검증",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "정부 공식 보도자료",
+      "priority_score": 0,
+      "priority": "참고",
+      "priority_reasons": [],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-10-29",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "첨부파일 기후대응위 민관 협력으로 철강산업 저탄소 전환 해법 모색(보도자료)(국가기후대응 10.28).hwpx(136 KB) 기후대응위 민관 협력으로 철강산업 저탄소 전환 해법 모색(보도자료)(국가기후대응 10.28).pdf(251.5 KB)",
+          "▷ 「산업부문 저탄소 전환정책 포럼(제2차)」개최, 철강산업 현장의 전환과제와 이를 뒷받침할 투자·금융 연계방안 논의",
+          "□ 국가기후위기대응위원회(공동위원장: 한성숙 국무총리, 이창훈 민간위원장, 이하 ‘기후대응위’)는 10월 28일(수) 서울 피스앤파크컨벤션에서 정부, 철강산업계, 학계 및 금융권 관계자 등 100여 명이 참석한 가운데 「산업부문 저탄소 전환정책 포럼(제2차)」을 개최하였다."
+        ],
+        "research_ideas": [
+          {
+            "title": "온실가스 감축정책 지표와 LCA 환경편익 산정의 경계 정합성",
+            "research_question": "정책상 감축실적의 기준선과 제품 전과정 산정의 기준선 차이는 어떻게 비교가능성을 제한하는가?",
+            "methodology": "시스템경계·기준선·할당 및 불확실성에 관한 방법론 대조",
+            "novelty": "정책 지표와 제품 지표의 목적·범위 차이를 규명하는 연구 가설",
+            "data": "공개 규정·배출계수·LCI DB 및 제도 운영 자료"
+          }
+        ],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "첨부파일 기후대응위 민관 협력으로 철강산업 저탄소 전환 해법 모색(보도자료)(국가기후대응 10.28).hwpx(136 KB) 기후대응위 민관 협력으로 철강산업 저탄소 전환 해법 모색(보도자료)(국가기후대응 10.28).pdf(251.5 KB)",
+          "▷ 「산업부문 저탄소 전환정책 포럼(제2차)」개최, 철강산업 현장의 전환과제와 이를 뒷받침할 투자·금융 연계방안 논의",
+          "□ 국가기후위기대응위원회(공동위원장: 한성숙 국무총리, 이창훈 민간위원장, 이하 ‘기후대응위’)는 10월 28일(수) 서울 피스앤파크컨벤션에서 정부, 철강산업계, 학계 및 금융권 관계자 등 100여 명이 참석한 가운데 「산업부문 저탄소 전환정책 포럼(제2차)」을 개최하였다.",
+          "□ 이번 포럼은 기후대응위가「탄소중립 그랜드 얼라이언스*」활동의 일환으로, 철강산업 현장의 탄소중립 전환과제와 이를 뒷받침할 투자·금융 연계방안 논의하고 관련 업계의 의견을 청취하기 위해 마련하였다.",
+          "* 온실가스 다배출 산업계, 금융계 및 관계 부처 간 협력을 위해 출범(‘24.12.), 제1차 포럼(’26.7.)에서는 산업 녹색전환(GX), 넷제로 산업, 자발적 탄소시장 간 연계방안 등을 논의"
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
+    {
+      "id": "c1c65424a46080",
+      "date": "2026-10-28",
+      "category": "국제 정책",
+      "region": "영국",
+      "title": "Research: Environmental Indicator Framework: recent updates",
+      "source": "영국 환경식품농촌부 (Defra)",
+      "url": "https://www.gov.uk/government/publications/environmental-indicator-framework-recent-updates",
+      "doi": "",
+      "tags": [],
+      "document_type": "정책·발표",
+      "link_status": "원문 링크 제공 · 접근 여부 미검증",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "Recent updates to the Environmental Indicator Framework.",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "기관 공식 피드",
+      "priority_score": 0,
+      "priority": "참고",
+      "priority_reasons": [],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-10-29",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "Recent updates to the Environmental Indicator Framework.",
+          "Environmental Indicator Framework: recent updates",
+          "Description of recent updates to the Environmental Indicator Framework , including changes to the framework or new data for indicators."
+        ],
+        "research_ideas": [],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "Recent updates to the Environmental Indicator Framework.",
+          "Environmental Indicator Framework: recent updates",
+          "Description of recent updates to the Environmental Indicator Framework , including changes to the framework or new data for indicators."
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
+    {
+      "id": "bfeb4c7fd06eff",
+      "date": "2026-10-28",
+      "category": "국제 정책",
+      "region": "미국",
+      "title": "Voluntary Consensus Standards Update; Formaldehyde Emission Standards for Composite Wood Products",
+      "source": "미국 Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/10/28/2026-21963/voluntary-consensus-standards-update-formaldehyde-emission-standards-for-composite-wood-products",
+      "doi": "",
+      "tags": [],
+      "document_type": "법령·규제",
+      "link_status": "원문 링크 제공 · 접근 여부 미검증",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "The Environmental Protection Agency (EPA) is publishing a final rule to update the incorporation by reference of several voluntary consensus standards in the Agency's formaldehyde standards for composite wood products regulations under the Toxic Substances Control Act (TSCA) due to the standards having been updated or superseded by the issuing organizations. These new standards primarily update test methods and product standards concerning composite wood products that use formaldehyde. EPA is also conforming these updated standards in the scope",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "미국 연방 관보 공식 기록",
+      "regulatory_status": "Rule",
+      "priority_score": 0,
+      "priority": "참고",
+      "priority_reasons": [],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-10-29",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "Due to aggressive automated scraping of FederalRegister.gov and eCFR.gov, programmatic access to these sites is limited to access to our extensive developer APIs. Please visit FederalRegister.gov API documentation or eCFR.gov API documentation to learn more about how to access the API.",
+          "Your request has been flagged as potentially automated. If you are human user receiving this message, please complete the CAPTCHA (bot test) below and click \"Request Access\". You may occassionally be asked to complete the CAPTCHA again, this is normal and part of our security measures.",
+          "An official website of the United States government."
+        ],
+        "research_ideas": [
+          {
+            "title": "온실가스 감축정책 지표와 LCA 환경편익 산정의 경계 정합성",
+            "research_question": "정책상 감축실적의 기준선과 제품 전과정 산정의 기준선 차이는 어떻게 비교가능성을 제한하는가?",
+            "methodology": "시스템경계·기준선·할당 및 불확실성에 관한 방법론 대조",
+            "novelty": "정책 지표와 제품 지표의 목적·범위 차이를 규명하는 연구 가설",
+            "data": "공개 규정·배출계수·LCI DB 및 제도 운영 자료"
+          }
+        ],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "Due to aggressive automated scraping of FederalRegister.gov and eCFR.gov, programmatic access to these sites is limited to access to our extensive developer APIs. Please visit FederalRegister.gov API documentation or eCFR.gov API documentation to learn more about how to access the API.",
+          "Your request has been flagged as potentially automated. If you are human user receiving this message, please complete the CAPTCHA (bot test) below and click \"Request Access\". You may occassionally be asked to complete the CAPTCHA again, this is normal and part of our security measures.",
+          "An official website of the United States government.",
+          "If you experiencing issues with the CAPTCHA or want to request a wider IP range, you can use the \"Site Help\" button found in the lower, right of this page to make a request.",
+          "This contact form is only for IP Access help. Please do not provide confidential information or personal data."
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
+    {
+      "id": "b3152c9857caf6",
+      "date": "2026-10-28",
+      "category": "국제 정책",
+      "region": "영국",
+      "title": "Accredited official statistics: Household Energy Efficiency Statistics, headline release November 2026",
+      "source": "영국 에너지안보·넷제로부 (DESNZ)",
+      "url": "https://www.gov.uk/government/statistics/announcements/household-energy-efficiency-statistics-headline-release-november-2026",
+      "doi": "",
+      "tags": [],
+      "document_type": "정책·발표",
+      "link_status": "원문 연결 확인",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "This release includes measures installed under the Energy Company Obligation (ECO) and the Green Deal schemes. It also includes further analysis and geographical breakdowns of ECO measures, ECO delivery costs, estimated carbon and energy savings from measures installed and the supply chain. These statistics are provisional and are subject to future revisions.",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "기관 공식 피드",
+      "priority_score": 0,
+      "priority": "참고",
+      "priority_reasons": [],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-10-29",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "This release includes measures installed under the Energy Company Obligation (ECO) and the Green Deal schemes. It also includes further analysis and geographical breakdowns of ECO measures, ECO delivery costs, estimated carbon and energy savings from measures installed and the supply chain. These statistics are provisional and are subject to future"
+        ],
+        "research_ideas": [
+          {
+            "title": "온실가스 감축정책 지표와 LCA 환경편익 산정의 경계 정합성",
+            "research_question": "정책상 감축실적의 기준선과 제품 전과정 산정의 기준선 차이는 어떻게 비교가능성을 제한하는가?",
+            "methodology": "시스템경계·기준선·할당 및 불확실성에 관한 방법론 대조",
+            "novelty": "정책 지표와 제품 지표의 목적·범위 차이를 규명하는 연구 가설",
+            "data": "공개 규정·배출계수·LCI DB 및 제도 운영 자료"
+          }
+        ],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "This release includes measures installed under the Energy Company Obligation (ECO) and the Green Deal schemes. It also includes further analysis and geographical breakdowns of ECO measures, ECO delivery costs, estimated carbon and energy savings from measures installed and the supply chain. These statistics are provisional and are subject to future"
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
+    {
+      "id": "9ee4c190673fd7",
+      "date": "2026-10-28",
+      "category": "국제 정책",
+      "region": "영국",
+      "title": "Research: UK Offshore Energy Strategic Environmental Assessment: research",
+      "source": "영국 에너지안보·넷제로부 (DESNZ)",
+      "url": "https://www.gov.uk/government/publications/uk-offshore-energy-strategic-environmental-assessment-research-projects",
+      "doi": "",
+      "tags": [],
+      "document_type": "연구보고서",
+      "link_status": "원문 연결 확인",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "Final reports for research projects commissioned as part of the UK Offshore Energy Strategic Environmental Assessment programme.",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "기관 공식 피드",
+      "priority_score": 0,
+      "priority": "참고",
+      "priority_reasons": [],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-10-29",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "Final reports for research projects commissioned as part of the UK Offshore Energy Strategic Environmental Assessment programme.",
+          "Uploaded research reports, Carter & Russell (2026) Southeast England Harbour Seal Decline: Investigating the Role of Natural and Anthropogenic Factors and, Wood et al (2020) Representative UKCS Seismic Survey Modelling",
+          "Addition of research report, O'Hanlon et al 2024, Trial of the use of silicone cord leg-loop harnesses on Black-legged Kittiwake during the 2023 breeding season"
+        ],
+        "research_ideas": [],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "Final reports for research projects commissioned as part of the UK Offshore Energy Strategic Environmental Assessment programme.",
+          "Uploaded research reports, Carter & Russell (2026) Southeast England Harbour Seal Decline: Investigating the Role of Natural and Anthropogenic Factors and, Wood et al (2020) Representative UKCS Seismic Survey Modelling",
+          "Addition of research report, O'Hanlon et al 2024, Trial of the use of silicone cord leg-loop harnesses on Black-legged Kittiwake during the 2023 breeding season",
+          "Addition of, Blake S, Moran C, Perry J and Phillips C (2022). Use of chemicals in Offshore Wind Farm Construction and Operation.",
+          "Addition of the BTO report on the tracking of migratory Shelduck movements to inform understanding of offshore wind farm interactions"
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
+    {
+      "id": "863f009dde8f90",
+      "date": "2026-10-28",
+      "category": "국제 정책",
+      "region": "영국",
+      "title": "Research: Biodiversity finance trends 2026",
+      "source": "영국 환경식품농촌부 (Defra)",
+      "url": "https://www.gov.uk/government/publications/biodiversity-finance-trends-2026",
+      "doi": "",
+      "tags": [],
+      "document_type": "정책·발표",
+      "link_status": "원문 링크 제공 · 접근 여부 미검증",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "The Biodiversity Finance Trends Dashboard tracks international trends in biodiversity finance – in particular nature finance to developing countries and co-benefits with climate finance.",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "기관 공식 피드",
+      "priority_score": 0,
+      "priority": "참고",
+      "priority_reasons": [],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-10-29",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "The Biodiversity Finance Trends Dashboard tracks international trends in biodiversity finance – in particular nature finance to developing countries and co-benefits with climate finance.",
+          "https://www.financebiodiversity.org/2026trends",
+          "Biodiversity Finance Trends Dashboard 2026 (accessible version)"
+        ],
+        "research_ideas": [],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "The Biodiversity Finance Trends Dashboard tracks international trends in biodiversity finance – in particular nature finance to developing countries and co-benefits with climate finance.",
+          "https://www.financebiodiversity.org/2026trends",
+          "Biodiversity Finance Trends Dashboard 2026 (accessible version)",
+          "In December 2022, at the 15th UN Convention on Biological Diversity ( CBD ) Conference of the Parties ( COP ) in Montreal, Canada, the Kunming Montreal Global Biodiversity Framework ( KMGBF ) was agreed by 196 countries. This landmark deal set a global commitment to halt and reverse biodiversity loss by 2030.",
+          "To deliver this ambition, we must mobilise more finance from all sources to bridge the US $700 billion annual biodiversity funding gap, as agreed under the KMGBF ."
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
+    {
+      "id": "8596b176bce7ee",
+      "date": "2026-10-28",
+      "category": "국제 정책",
+      "region": "영국",
+      "title": "Research: Environmental Indicator Framework Theme G (Natural Beauty and Engagement)",
+      "source": "영국 환경식품농촌부 (Defra)",
+      "url": "https://www.gov.uk/government/publications/environmental-indicator-framework-theme-g-natural-beauty-and-engagement",
+      "doi": "",
+      "tags": [],
+      "document_type": "정책·발표",
+      "link_status": "원문 링크 제공 · 접근 여부 미검증",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "This release contains all indicators which fall under Theme G (Natural Beauty and Engagement) of the Environmental Indicator Framework.",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "기관 공식 피드",
+      "priority_score": 0,
+      "priority": "참고",
+      "priority_reasons": [],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-10-29",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "This release contains all indicators which fall under Theme G (Natural Beauty and Engagement) of the Environmental Indicator Framework.",
+          "Environmental Indicator Framework Theme G (Natural Beauty and Engagement)",
+          "This document contains the Environmental Indicator Framework indicators falling under Theme G (Natural Beauty and Engagement). Each indicator includes a short description, readiness and links to data, notes on figures, and insights, visualisations, and trend descriptions for each component, as well as associated assessment results."
+        ],
+        "research_ideas": [],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "This release contains all indicators which fall under Theme G (Natural Beauty and Engagement) of the Environmental Indicator Framework.",
+          "Environmental Indicator Framework Theme G (Natural Beauty and Engagement)",
+          "This document contains the Environmental Indicator Framework indicators falling under Theme G (Natural Beauty and Engagement). Each indicator includes a short description, readiness and links to data, notes on figures, and insights, visualisations, and trend descriptions for each component, as well as associated assessment results."
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
+    {
+      "id": "76c5963cdc2d51",
+      "date": "2026-10-28",
+      "category": "국제 정책",
+      "region": "영국",
+      "title": "Official Statistics: Boiler Upgrade Scheme: September 2026",
+      "source": "영국 에너지안보·넷제로부 (DESNZ)",
+      "url": "https://www.gov.uk/government/statistics/announcements/boiler-upgrade-scheme-september-2026",
+      "doi": "",
+      "tags": [
+        "바이오에너지·유기성 폐자원"
+      ],
+      "document_type": "정책·발표",
+      "link_status": "원문 연결 확인",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "Data monitoring the uptake of low carbon technologies on the Boiler Upgrade Scheme (BUS), including the installation of air source heat pumps, ground source heat pumps and biomass boilers.",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "기관 공식 피드",
+      "priority_score": 10,
+      "priority": "참고",
+      "priority_reasons": [
+        "바이오에너지·유기성 폐자원"
+      ],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-10-29",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "Data monitoring the uptake of low carbon technologies on the Boiler Upgrade Scheme (BUS), including the installation of air source heat pumps, ground source heat pumps and biomass boilers."
+        ],
+        "research_ideas": [
+          {
+            "title": "온실가스 감축정책 지표와 LCA 환경편익 산정의 경계 정합성",
+            "research_question": "정책상 감축실적의 기준선과 제품 전과정 산정의 기준선 차이는 어떻게 비교가능성을 제한하는가?",
+            "methodology": "시스템경계·기준선·할당 및 불확실성에 관한 방법론 대조",
+            "novelty": "정책 지표와 제품 지표의 목적·범위 차이를 규명하는 연구 가설",
+            "data": "공개 규정·배출계수·LCI DB 및 제도 운영 자료"
+          }
+        ],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "Data monitoring the uptake of low carbon technologies on the Boiler Upgrade Scheme (BUS), including the installation of air source heat pumps, ground source heat pumps and biomass boilers."
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
+    {
+      "id": "67ad485f3b2fed",
+      "date": "2026-10-28",
+      "category": "국제 정책",
+      "region": "영국",
+      "title": "Research: Environmental Indicator Framework Theme K (International)",
+      "source": "영국 환경식품농촌부 (Defra)",
+      "url": "https://www.gov.uk/government/publications/environmental-indicator-framework-theme-k-international",
+      "doi": "",
+      "tags": [],
+      "document_type": "정책·발표",
+      "link_status": "원문 링크 제공 · 접근 여부 미검증",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "This release contains all indicators which fall under Theme K (International) of the Environmental Indicator Framework.",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "기관 공식 피드",
+      "priority_score": 0,
+      "priority": "참고",
+      "priority_reasons": [],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-10-29",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "This release contains all indicators which fall under Theme K (International) of the Environmental Indicator Framework.",
+          "Update to Indicator K1 - correction will be applied as soon as available",
+          "Environmental Indicator Framework Theme K (International)"
+        ],
+        "research_ideas": [],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "This release contains all indicators which fall under Theme K (International) of the Environmental Indicator Framework.",
+          "Update to Indicator K1 - correction will be applied as soon as available",
+          "Environmental Indicator Framework Theme K (International)",
+          "This document contains the Environmental Indicator Framework indicators falling under Theme K (International). Each indicator includes a short description, readiness and links to data, notes on figures, and insights, visualisations, and trend descriptions for each component, as well as associated assessment results."
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
+    {
+      "id": "45bea9440c3b9a",
+      "date": "2026-10-28",
+      "category": "국제 정책",
+      "region": "영국",
+      "title": "Waste disposal fees for large producers under EPR for packaging",
+      "source": "영국 환경식품농촌부 (Defra)",
+      "url": "https://www.gov.uk/guidance/waste-disposal-fees-for-large-producers-under-epr-for-packaging",
+      "doi": "",
+      "tags": [
+        "EPR",
+        "PPWR·포장재",
+        "폐기물관리·처리"
+      ],
+      "document_type": "정책·발표",
+      "link_status": "원문 연결 확인",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "Find out how packaging waste disposal fees are calculated, when and how to pay them, and what to do if you think your fee is wrong.",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "기관 공식 피드",
+      "priority_score": 54,
+      "priority": "필독",
+      "priority_reasons": [
+        "EPR",
+        "폐기물관리·처리",
+        "PPWR·포장재"
+      ],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-10-29",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "Find out how packaging waste disposal fees are calculated, when and how to pay them, and what to do if you think your fee is wrong.",
+          "Additional information has been added to the notice of liability guidance to include a small section on how fees are calculated and the difference between illustrative and confirmed fees. As such, the title of this guidance has also been updated from 'EPR for packaging: Notice of liability' to 'Waste disposal fees for large producers under EPR for ",
+          "As a large producer under extended producer responsibility ( EPR ) for packaging, you must pay a yearly packaging waste disposal fee if you report data for any of these 3 packaging types:"
+        ],
+        "research_ideas": [
+          {
+            "title": "포장재 재생원료 의무와 Circular Footprint Formula 간 정합성",
+            "research_question": "의무 재생함량과 회수·재활용 편익의 귀속을 동시에 적용할 때 이중계상을 피할 수 있는가?",
+            "methodology": "PEF/CFF·재생함량법·시스템 확장 비교와 재활용률·품질손실 민감도 평가",
+            "novelty": "포장재 적합성 지표와 PCF 결과가 충돌하는 조건 검증 가설. 중복 문헌 확인 필요",
+            "data": "PPWR 원문, 소재별 공개 LCI, 포장재 폐기물 및 재활용 통계"
+          }
+        ],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "Find out how packaging waste disposal fees are calculated, when and how to pay them, and what to do if you think your fee is wrong.",
+          "Additional information has been added to the notice of liability guidance to include a small section on how fees are calculated and the difference between illustrative and confirmed fees. As such, the title of this guidance has also been updated from 'EPR for packaging: Notice of liability' to 'Waste disposal fees for large producers under EPR for ",
+          "As a large producer under extended producer responsibility ( EPR ) for packaging, you must pay a yearly packaging waste disposal fee if you report data for any of these 3 packaging types:",
+          "Packaging waste disposal fees support local authorities with the cost of managing those 3 packaging types.",
+          "You may also need to pay other fees under EPR for packaging. Find out what large producers must do ."
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
+    {
+      "id": "3c700791baa40d",
+      "date": "2026-10-28",
+      "category": "국제 정책",
+      "region": "영국",
+      "title": "Research: Data for Theme G: Natural Beauty and Engagement",
+      "source": "영국 환경식품농촌부 (Defra)",
+      "url": "https://www.gov.uk/government/publications/data-for-theme-g-natural-beauty-and-engagement",
+      "doi": "",
+      "tags": [],
+      "document_type": "정책·발표",
+      "link_status": "원문 링크 제공 · 접근 여부 미검증",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "Data for 'Theme G: Natural Beauty and Engagement' indicators of the Environmental Indicator Framework.",
+      "review_status": "원문 검토 필요",
+      "verification": "기관 공식 피드",
+      "priority_score": 0,
+      "priority": "참고",
+      "priority_reasons": [],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치"
+    },
+    {
+      "id": "2458a7b65adcd8",
+      "date": "2026-10-28",
+      "category": "국제 정책",
+      "region": "영국",
+      "title": "Research: Data for Theme K: International",
+      "source": "영국 환경식품농촌부 (Defra)",
+      "url": "https://www.gov.uk/government/publications/data-for-theme-k-international",
+      "doi": "",
+      "tags": [],
+      "document_type": "정책·발표",
+      "link_status": "원문 링크 제공 · 접근 여부 미검증",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "Data for 'Theme K: International' indicators of the Environmental Indicator Framework.",
+      "review_status": "원문 검토 필요",
+      "verification": "기관 공식 피드",
+      "priority_score": 0,
+      "priority": "참고",
+      "priority_reasons": [],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치"
+    },
+    {
+      "id": "204419b05be94a",
+      "date": "2026-10-28",
+      "category": "국제 정책",
+      "region": "영국",
+      "title": "Independent report: Cost of public electric vehicle charging review",
+      "source": "영국 에너지안보·넷제로부 (DESNZ)",
+      "url": "https://www.gov.uk/government/publications/cost-of-public-electric-vehicle-charging-review",
+      "doi": "",
+      "tags": [],
+      "document_type": "연구보고서",
+      "link_status": "원문 연결 확인",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "Reviews the cost of charging electric vehicles on the UK public charging network and provides recommendations to reduce charging prices.",
+      "review_status": "원문 검토 필요",
+      "verification": "기관 공식 피드",
+      "priority_score": 0,
+      "priority": "참고",
+      "priority_reasons": [],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치"
+    },
+    {
+      "id": "0d72b2d6288cf6",
+      "date": "2026-10-28",
+      "category": "국제 정책",
+      "region": "영국",
+      "title": "How to comply with packaging recycling obligations as a large producer",
+      "source": "영국 환경식품농촌부 (Defra)",
+      "url": "https://www.gov.uk/guidance/how-to-comply-with-packaging-recycling-obligations-as-a-large-producer",
+      "doi": "",
+      "tags": [
+        "EPR",
+        "PPWR·포장재",
+        "순환경제·재활용"
+      ],
+      "document_type": "정책·발표",
+      "link_status": "원문 연결 확인",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "Learn about recycling obligations under extended producer responsibility (EPR) for packaging, including how to acquire packaging waste recycling notes (PRNs) and packaging waste export recycling notes (PERNs), and how to submit a certificate or statement of compliance.",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "기관 공식 피드",
+      "priority_score": 38,
+      "priority": "필독",
+      "priority_reasons": [
+        "순환경제·재활용",
+        "EPR",
+        "PPWR·포장재"
+      ],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-10-29",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "Learn about recycling obligations under extended producer responsibility (EPR) for packaging, including how to acquire packaging waste recycling notes (PRNs) and packaging waste export recycling notes (PERNs), and how to submit a certificate or statement of compliance.",
+          "Information has been added to clarify the process for acquiring packaging waste recycling notes (PRNs) and packaging waste export recycling notes (PERNs). Examples have been provided around how to use PRNs and PERNs, including December waste PRNs and PERNs. The 31 January deadline for meeting recycling obligations, including submitting a certificat",
+          "You can now accept 2025 December waste PRNs and PERNs to meet your 2026 recycling obligations in the Report Packaging Data service. We have removed a section of this guidance that said this functionality was not available yet."
+        ],
+        "research_ideas": [
+          {
+            "title": "포장재 재생원료 의무와 Circular Footprint Formula 간 정합성",
+            "research_question": "의무 재생함량과 회수·재활용 편익의 귀속을 동시에 적용할 때 이중계상을 피할 수 있는가?",
+            "methodology": "PEF/CFF·재생함량법·시스템 확장 비교와 재활용률·품질손실 민감도 평가",
+            "novelty": "포장재 적합성 지표와 PCF 결과가 충돌하는 조건 검증 가설. 중복 문헌 확인 필요",
+            "data": "PPWR 원문, 소재별 공개 LCI, 포장재 폐기물 및 재활용 통계"
+          }
+        ],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "Learn about recycling obligations under extended producer responsibility (EPR) for packaging, including how to acquire packaging waste recycling notes (PRNs) and packaging waste export recycling notes (PERNs), and how to submit a certificate or statement of compliance.",
+          "Information has been added to clarify the process for acquiring packaging waste recycling notes (PRNs) and packaging waste export recycling notes (PERNs). Examples have been provided around how to use PRNs and PERNs, including December waste PRNs and PERNs. The 31 January deadline for meeting recycling obligations, including submitting a certificat",
+          "You can now accept 2025 December waste PRNs and PERNs to meet your 2026 recycling obligations in the Report Packaging Data service. We have removed a section of this guidance that said this functionality was not available yet.",
+          "If you’re a large producer of packaging, you have a recycling obligation for each packaging material that you supply or import. As part of your recycling obligations, you must acquire PRNs or PERNs , or both, and submit a certificate of compliance.",
+          "Small producers do not have to meet recycling obligations or pay waste disposal fees under EPR for packaging."
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
+    {
+      "id": "00dbbc826d5d20",
+      "date": "2026-10-28",
+      "category": "국제 정책",
+      "region": "영국",
+      "title": "Guidance: Funding maintenance of sustainable drainage systems (SuDS) in new developments",
+      "source": "영국 환경식품농촌부 (Defra)",
+      "url": "https://www.gov.uk/government/publications/funding-maintenance-of-sustainable-drainage-systems-suds-in-new-developments",
+      "doi": "",
+      "tags": [],
+      "document_type": "정책·발표",
+      "link_status": "원문 링크 제공 · 접근 여부 미검증",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "Guidance for developers and maintaining bodies on agreeing commuted sums to fund the maintenance of communal SuDS in new developments in England.",
+      "review_status": "원문 검토 필요",
+      "verification": "기관 공식 피드",
+      "priority_score": 0,
+      "priority": "참고",
+      "priority_reasons": [],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치"
+    },
     {
       "id": "fcb4453147e949",
       "date": "2026-10-27",
