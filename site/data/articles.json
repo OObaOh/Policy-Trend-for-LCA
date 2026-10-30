@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-10-29T00:56:31+00:00",
+  "updated_at": "2026-10-30T00:58:09+00:00",
   "collector": "GitHub Actions / official government sources + Crossref",
   "profile_version": "2026-10-10",
-  "new_items": 16,
+  "new_items": 7,
   "source_health": {
     "ok": [
       "기후에너지환경부",
@@ -18,16 +18,16 @@
       "독일 연방환경부",
       "프랑스 생태전환부",
       "Crossref: dynamic life cycle assessment",
-      "Crossref: waste management life cycle assessment",
-      "Crossref: extended producer responsibility life cycle"
+      "Crossref: prospective life cycle assessment",
+      "Crossref: automotive parts product carbon footprint"
     ],
     "errors": [
       "EU 집행위원회 역내시장·산업총국",
-      "Crossref: prospective life cycle assessment",
       "Crossref: consequential life cycle assessment allocation",
+      "Crossref: waste management life cycle assessment",
+      "Crossref: extended producer responsibility life cycle",
       "Crossref: recycling recycled plastics product carbon footprint",
       "Crossref: end of life vehicles environmental impact",
-      "Crossref: automotive parts product carbon footprint",
       "Crossref: hydrogen well to wheel life cycle assessment",
       "Crossref: hydrogen life cycle assessment",
       "Crossref: bioenergy avoided emissions carbon removals",
@@ -36,6 +36,382 @@
     ]
   },
   "articles": [
+    {
+      "id": "fc87f974601b65",
+      "date": "2026-10-29",
+      "category": "국제 정책",
+      "region": "미국",
+      "title": "Air Plan Approval and Air Quality Designation; TN; Attainment Plan and Redesignation of the Sullivan County Nonattainment Area for the 2010 1-Hour Primary SO2 NAAQS",
+      "source": "미국 Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/10/29/2026-22063/air-plan-approval-and-air-quality-designation-tn-attainment-plan-and-redesignation-of-the-sullivan",
+      "doi": "",
+      "tags": [
+        "SO2",
+        "NAAQS"
+      ],
+      "document_type": "법령·규제",
+      "link_status": "원문 연결 확인",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "The U.S. Environmental Protection Agency (EPA or Agency) is proposing to approve the State of Tennessee's attainment plan for the Sullivan County Nonattainment Area (Sullivan County Area or Area) for the 2010 Sulfur Dioxide (SO 2 ) National Ambient Air Quality Standards (NAAQS). Additionally, the EPA is proposing to determine that the Area has attained the 2010 SO 2 NAAQS and to approve Tennessee's maintenance plan for continued attainment. With these approvals, the EPA is proposing to approve Tennessee's comprehensive source-specific SO 2 perm",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "미국 연방 관보 공식 기록",
+      "regulatory_status": "Proposed Rule",
+      "priority_score": 0,
+      "priority": "참고",
+      "priority_reasons": [],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-10-30",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "Due to aggressive automated scraping of FederalRegister.gov and eCFR.gov, programmatic access to these sites is limited to access to our extensive developer APIs. Please visit FederalRegister.gov API documentation or eCFR.gov API documentation to learn more about how to access the API.",
+          "Your request has been flagged as potentially automated. If you are human user receiving this message, please complete the CAPTCHA (bot test) below and click \"Request Access\". You may occassionally be asked to complete the CAPTCHA again, this is normal and part of our security measures.",
+          "An official website of the United States government."
+        ],
+        "research_ideas": [],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "Due to aggressive automated scraping of FederalRegister.gov and eCFR.gov, programmatic access to these sites is limited to access to our extensive developer APIs. Please visit FederalRegister.gov API documentation or eCFR.gov API documentation to learn more about how to access the API.",
+          "Your request has been flagged as potentially automated. If you are human user receiving this message, please complete the CAPTCHA (bot test) below and click \"Request Access\". You may occassionally be asked to complete the CAPTCHA again, this is normal and part of our security measures.",
+          "An official website of the United States government.",
+          "If you experiencing issues with the CAPTCHA or want to request a wider IP range, you can use the \"Site Help\" button found in the lower, right of this page to make a request.",
+          "This contact form is only for IP Access help. Please do not provide confidential information or personal data."
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
+    {
+      "id": "be1faeb5ebfd8d",
+      "date": "2026-10-29",
+      "category": "국제 정책",
+      "region": "영국",
+      "title": "UK ETS: Hospital and Small Emitter status",
+      "source": "영국 에너지안보·넷제로부 (DESNZ)",
+      "url": "https://www.gov.uk/guidance/opt-out-of-the-uk-ets-if-your-installation-is-a-hospital-or-small-emitter",
+      "doi": "",
+      "tags": [
+        "탄소배출권·GHG",
+        "ETS"
+      ],
+      "document_type": "정책·발표",
+      "link_status": "원문 연결 확인",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "Information for Hospitals and Small Emitters (HSEs) on eligibility and compliance.",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "기관 공식 피드",
+      "priority_score": 12,
+      "priority": "우선 검토",
+      "priority_reasons": [
+        "탄소배출권·GHG"
+      ],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-10-30",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "Information for Hospitals and Small Emitters (HSEs) on eligibility and compliance.",
+          "Updated the hospital and small emitters for the 2026 to 2030 allocation period targets list.",
+          "Installations that provide services to hospitals or meet the criteria to be classed as a small emitter can qualify for Hospital and Small Emitter ( HSE ) status under the UK ETS . HSEs do not need to surrender allowances to cover their emissions and are not entitled to receive any free allocation. They are instead set annual emissions targets for e"
+        ],
+        "research_ideas": [],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "Information for Hospitals and Small Emitters (HSEs) on eligibility and compliance.",
+          "Updated the hospital and small emitters for the 2026 to 2030 allocation period targets list.",
+          "Installations that provide services to hospitals or meet the criteria to be classed as a small emitter can qualify for Hospital and Small Emitter ( HSE ) status under the UK ETS . HSEs do not need to surrender allowances to cover their emissions and are not entitled to receive any free allocation. They are instead set annual emissions targets for e",
+          "Hospital and small emitters for the 2021 to 2025 allocation period ( ODS , 28.3 KB )",
+          "Hospital and small emitters for the 2026 to 2030 allocation period ( ODS , 25.2 KB )"
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
+    {
+      "id": "b1818ed06b53f9",
+      "date": "2026-10-29",
+      "category": "국제 정책",
+      "region": "영국",
+      "title": "Official Statistics: Boiler Upgrade Scheme statistics: September 2026",
+      "source": "영국 에너지안보·넷제로부 (DESNZ)",
+      "url": "https://www.gov.uk/government/statistics/boiler-upgrade-scheme-statistics-september-2026",
+      "doi": "",
+      "tags": [],
+      "document_type": "정책·발표",
+      "link_status": "원문 연결 확인",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "Statistical release on Boiler Upgrade Scheme statistics for the estimation of capital grant uptake to support the installations of low carbon technologies in domestic and non-domestic buildings.",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "기관 공식 피드",
+      "priority_score": 0,
+      "priority": "참고",
+      "priority_reasons": [],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-10-30",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "Statistical release on Boiler Upgrade Scheme statistics for the estimation of capital grant uptake to support the installations of low carbon technologies in domestic and non-domestic buildings.",
+          "Boiler Upgrade Scheme Statistics: September 2026 (Excel)",
+          "This file may not be suitable for users of assistive technology."
+        ],
+        "research_ideas": [
+          {
+            "title": "온실가스 감축정책 지표와 LCA 환경편익 산정의 경계 정합성",
+            "research_question": "정책상 감축실적의 기준선과 제품 전과정 산정의 기준선 차이는 어떻게 비교가능성을 제한하는가?",
+            "methodology": "시스템경계·기준선·할당 및 불확실성에 관한 방법론 대조",
+            "novelty": "정책 지표와 제품 지표의 목적·범위 차이를 규명하는 연구 가설",
+            "data": "공개 규정·배출계수·LCI DB 및 제도 운영 자료"
+          }
+        ],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "Statistical release on Boiler Upgrade Scheme statistics for the estimation of capital grant uptake to support the installations of low carbon technologies in domestic and non-domestic buildings.",
+          "Boiler Upgrade Scheme Statistics: September 2026 (Excel)",
+          "This file may not be suitable for users of assistive technology.",
+          "Boiler Upgrade Scheme Statistics: September 2026 (ODS)",
+          "These statistics show the uptake of the Boiler Upgrade Scheme to date including the number of vouchers applications and redemptions, as well as the costs of installation."
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
+    {
+      "id": "7c1da1e6bc7ab5",
+      "date": "2026-10-29",
+      "category": "국내 정책",
+      "region": "한국",
+      "title": "산업용 히트펌프 기술개발 및 실증 확대… 산업부문 탄소중립 앞당긴다",
+      "source": "기후에너지환경부",
+      "url": "https://mcee.go.kr/m/mob/board/read.do?pagerOffset=0&maxPageItems=10&maxIndexPages=5&searchKey=&searchValue=&menuId=156&orgCd=&boardMasterId=939&boardId=1902850",
+      "doi": "",
+      "tags": [
+        "탄소배출권·GHG"
+      ],
+      "document_type": "정책·발표",
+      "link_status": "원문 URL 제공 · 접근 여부 미검증",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "정부 공식 보도자료",
+      "priority_score": 12,
+      "priority": "우선 검토",
+      "priority_reasons": [
+        "탄소배출권·GHG"
+      ],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-10-30",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "첨부파일 산업용 히트펌프 기술개발 및 실증 확대… 산업부문 탄소중립 앞당긴다(보도자료)(열산업혁신 10.29).hwpx(1,010.6 KB) 산업용 히트펌프 기술개발 및 실증 확대… 산업부문 탄소중립 앞당긴다(보도자료)(열산업혁신 10.29).pdf(244.5 KB)",
+          "기후에너지환경부(장관 김성환)는 10월 29일 오전 한강홍수통제소(서울 서초구 소재)에서 산업계, 연구기관 및 에너지 전문가들과 함께 ‘산업계 열에너지 탈탄소 전환을 위한 산업용 히트펌프 기술개발 및 활용 토론회’를 개최한다고 밝혔다.",
+          "이번 토론회는 전 세계적 과제인 산업부문 탈탄소화의 핵심 수단으로 주목받고 있는 ‘산업용 히트펌프’의 국내외 기술 동향을 살펴보고, 국내 산업 현장으로의 보급 확산과 정책적 지원 방안을 모색하기 위해 마련됐다."
+        ],
+        "research_ideas": [
+          {
+            "title": "온실가스 감축정책 지표와 LCA 환경편익 산정의 경계 정합성",
+            "research_question": "정책상 감축실적의 기준선과 제품 전과정 산정의 기준선 차이는 어떻게 비교가능성을 제한하는가?",
+            "methodology": "시스템경계·기준선·할당 및 불확실성에 관한 방법론 대조",
+            "novelty": "정책 지표와 제품 지표의 목적·범위 차이를 규명하는 연구 가설",
+            "data": "공개 규정·배출계수·LCI DB 및 제도 운영 자료"
+          }
+        ],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "첨부파일 산업용 히트펌프 기술개발 및 실증 확대… 산업부문 탄소중립 앞당긴다(보도자료)(열산업혁신 10.29).hwpx(1,010.6 KB) 산업용 히트펌프 기술개발 및 실증 확대… 산업부문 탄소중립 앞당긴다(보도자료)(열산업혁신 10.29).pdf(244.5 KB)",
+          "기후에너지환경부(장관 김성환)는 10월 29일 오전 한강홍수통제소(서울 서초구 소재)에서 산업계, 연구기관 및 에너지 전문가들과 함께 ‘산업계 열에너지 탈탄소 전환을 위한 산업용 히트펌프 기술개발 및 활용 토론회’를 개최한다고 밝혔다.",
+          "이번 토론회는 전 세계적 과제인 산업부문 탈탄소화의 핵심 수단으로 주목받고 있는 ‘산업용 히트펌프’의 국내외 기술 동향을 살펴보고, 국내 산업 현장으로의 보급 확산과 정책적 지원 방안을 모색하기 위해 마련됐다.",
+          "2024년 기준으로 산업부문이 국가 온실가스 배출량의 약 38%를 차지하고 있으며, 산업부문 에너지소비량 중 70% 이상은 열에너지 생산에 사용된다.",
+          "이에 산업부문 온실가스 감축을 위해서는 화석연료 보일러를 산업용 히트펌프 등으로 교체하는 산업공정의 전기화가 반드시 필요하다."
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
+    {
+      "id": "22801daa29b64d",
+      "date": "2026-10-29",
+      "category": "국제 정책",
+      "region": "미국",
+      "title": "Additional Reconsideration Standards of Performance for New, Reconstructed, and Modified Sources and Emissions Guidelines for Existing Sources: Oil and Natural Gas Sector Climate Review",
+      "source": "미국 Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/10/29/2026-22082/additional-reconsideration-standards-of-performance-for-new-reconstructed-and-modified-sources-and",
+      "doi": "",
+      "tags": [],
+      "document_type": "법령·규제",
+      "link_status": "원문 연결 확인",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "The U.S. Environmental Protection Agency (EPA) is proposing amendments to the New Source Performance Standards and Emission Guidelines for the Crude Oil and Natural Gas Source Category to address additional concerns raised with prior regulatory amendments finalized in March 2024. Specifically, the EPA is proposing changes in response to certain petitions for reconsideration of the March 2024 amendments, changes based on policy decisions and supporting legal interpretations, and changes that correct and clarify the regulatory text of the new sou",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "미국 연방 관보 공식 기록",
+      "regulatory_status": "Proposed Rule",
+      "priority_score": 0,
+      "priority": "참고",
+      "priority_reasons": [],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-10-30",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "Due to aggressive automated scraping of FederalRegister.gov and eCFR.gov, programmatic access to these sites is limited to access to our extensive developer APIs. Please visit FederalRegister.gov API documentation or eCFR.gov API documentation to learn more about how to access the API.",
+          "Your request has been flagged as potentially automated. If you are human user receiving this message, please complete the CAPTCHA (bot test) below and click \"Request Access\". You may occassionally be asked to complete the CAPTCHA again, this is normal and part of our security measures.",
+          "An official website of the United States government."
+        ],
+        "research_ideas": [
+          {
+            "title": "온실가스 감축정책 지표와 LCA 환경편익 산정의 경계 정합성",
+            "research_question": "정책상 감축실적의 기준선과 제품 전과정 산정의 기준선 차이는 어떻게 비교가능성을 제한하는가?",
+            "methodology": "시스템경계·기준선·할당 및 불확실성에 관한 방법론 대조",
+            "novelty": "정책 지표와 제품 지표의 목적·범위 차이를 규명하는 연구 가설",
+            "data": "공개 규정·배출계수·LCI DB 및 제도 운영 자료"
+          }
+        ],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "Due to aggressive automated scraping of FederalRegister.gov and eCFR.gov, programmatic access to these sites is limited to access to our extensive developer APIs. Please visit FederalRegister.gov API documentation or eCFR.gov API documentation to learn more about how to access the API.",
+          "Your request has been flagged as potentially automated. If you are human user receiving this message, please complete the CAPTCHA (bot test) below and click \"Request Access\". You may occassionally be asked to complete the CAPTCHA again, this is normal and part of our security measures.",
+          "An official website of the United States government.",
+          "If you experiencing issues with the CAPTCHA or want to request a wider IP range, you can use the \"Site Help\" button found in the lower, right of this page to make a request.",
+          "This contact form is only for IP Access help. Please do not provide confidential information or personal data."
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
+    {
+      "id": "1db2bd2d3ebb7e",
+      "date": "2026-10-29",
+      "category": "국제 정책",
+      "region": "영국",
+      "title": "Environment Secretary commits to take further action against water bosses over pollution",
+      "source": "영국 환경식품농촌부 (Defra)",
+      "url": "https://www.gov.uk/government/news/environment-secretary-commits-to-take-further-action-against-water-bosses-over-pollution",
+      "doi": "",
+      "tags": [],
+      "document_type": "정책·발표",
+      "link_status": "원문 연결 확인",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "Government’s first ever joint regulator report leaves nowhere to hide for water companies.",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "기관 공식 피드",
+      "priority_score": 0,
+      "priority": "참고",
+      "priority_reasons": [],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-10-30",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "The Environment Secretary is set to take further action against failing water companies, with tougher consequences for executives at persistently underperforming firms, and demanding action on the worst pollution incidents.",
+          "It follows the first ever joint report from the Environment Agency, Natural Resources Wales, the Drinking Water Inspectorate and Ofwat, which leaves nowhere for underperforming companies to hide.",
+          "There were six Category 1 incidents during 2025, each representing an unacceptable failure by water companies to protect people and the environment. These sites will be prioritised for visits by the Environment Secretary."
+        ],
+        "research_ideas": [],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "The Environment Secretary is set to take further action against failing water companies, with tougher consequences for executives at persistently underperforming firms, and demanding action on the worst pollution incidents.",
+          "It follows the first ever joint report from the Environment Agency, Natural Resources Wales, the Drinking Water Inspectorate and Ofwat, which leaves nowhere for underperforming companies to hide.",
+          "There were six Category 1 incidents during 2025, each representing an unacceptable failure by water companies to protect people and the environment. These sites will be prioritised for visits by the Environment Secretary.",
+          "In addition, the Environment Secretary will set out a clear set of improvement actions for each water company. These will include tackling leakage from pipes, delivering sustained reductions in pollution incidents, and improving customer satisfaction scores.",
+          "The same applies to any water company with a Category 1 pollution incident – these are incidents which have a major, serious, persistent and/or extensive impact or effect on the environment, people and/or property."
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
+    {
+      "id": "0d701de5ac51df",
+      "date": "2026-10-29",
+      "category": "국제 정책",
+      "region": "미국",
+      "title": "Air Plan Approval; California; Reasonable Further Progress Plan for the Coachella Valley Ozone Nonattainment Area",
+      "source": "미국 Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/10/29/2026-22055/air-plan-approval-california-reasonable-further-progress-plan-for-the-coachella-valley-ozone",
+      "doi": "",
+      "tags": [],
+      "document_type": "법령·규제",
+      "link_status": "원문 연결 확인",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "The U.S. Environmental Protection Agency (EPA or \"the Agency\") is proposing to approve a state implementation plan (SIP) revision from the State of California to meet the Clean Air Act (CAA) \"Extreme\" nonattainment area requirements for the Riverside County (Coachella Valley), California ozone nonattainment area (\"Coachella Valley\") for the 2008 8-hour ozone national ambient air quality standards (NAAQS or \"standards\"). Specifically, the Agency is proposing to approve the reasonable further progress (RFP) demonstration and associated emissions",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "미국 연방 관보 공식 기록",
+      "regulatory_status": "Proposed Rule",
+      "priority_score": 0,
+      "priority": "참고",
+      "priority_reasons": [],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-10-30",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "Due to aggressive automated scraping of FederalRegister.gov and eCFR.gov, programmatic access to these sites is limited to access to our extensive developer APIs. Please visit FederalRegister.gov API documentation or eCFR.gov API documentation to learn more about how to access the API.",
+          "Your request has been flagged as potentially automated. If you are human user receiving this message, please complete the CAPTCHA (bot test) below and click \"Request Access\". You may occassionally be asked to complete the CAPTCHA again, this is normal and part of our security measures.",
+          "An official website of the United States government."
+        ],
+        "research_ideas": [
+          {
+            "title": "온실가스 감축정책 지표와 LCA 환경편익 산정의 경계 정합성",
+            "research_question": "정책상 감축실적의 기준선과 제품 전과정 산정의 기준선 차이는 어떻게 비교가능성을 제한하는가?",
+            "methodology": "시스템경계·기준선·할당 및 불확실성에 관한 방법론 대조",
+            "novelty": "정책 지표와 제품 지표의 목적·범위 차이를 규명하는 연구 가설",
+            "data": "공개 규정·배출계수·LCI DB 및 제도 운영 자료"
+          }
+        ],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "Due to aggressive automated scraping of FederalRegister.gov and eCFR.gov, programmatic access to these sites is limited to access to our extensive developer APIs. Please visit FederalRegister.gov API documentation or eCFR.gov API documentation to learn more about how to access the API.",
+          "Your request has been flagged as potentially automated. If you are human user receiving this message, please complete the CAPTCHA (bot test) below and click \"Request Access\". You may occassionally be asked to complete the CAPTCHA again, this is normal and part of our security measures.",
+          "An official website of the United States government.",
+          "If you experiencing issues with the CAPTCHA or want to request a wider IP range, you can use the \"Site Help\" button found in the lower, right of this page to make a request.",
+          "This contact form is only for IP Access help. Please do not provide confidential information or personal data."
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
     {
       "id": "eed67db97c5024",
       "date": "2026-10-28",
@@ -612,12 +988,37 @@
       "summary": "",
       "insight": "",
       "source_excerpt": "Data for 'Theme G: Natural Beauty and Engagement' indicators of the Environmental Indicator Framework.",
-      "review_status": "원문 검토 필요",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
       "verification": "기관 공식 피드",
       "priority_score": 0,
       "priority": "참고",
       "priority_reasons": [],
-      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치"
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-10-30",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "Data for 'Theme G: Natural Beauty and Engagement' indicators of the Environmental Indicator Framework.",
+          "G3bi: Comparing Perceptions of Green and Natural Spaces Close to Where People Live with Expectations of Green and Natural Spaces More Generally, Survey Years 2020/2021 to 2024/2025",
+          "G3bii: Comparing Perceptions of Green and Natural Spaces Close to Where People Live with Expectations of Green and Natural Spaces More Generally, Broken Down by Individual Measures of Quality of Provision, Survey Year 2024/2025"
+        ],
+        "research_ideas": [],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "Data for 'Theme G: Natural Beauty and Engagement' indicators of the Environmental Indicator Framework.",
+          "G3bi: Comparing Perceptions of Green and Natural Spaces Close to Where People Live with Expectations of Green and Natural Spaces More Generally, Survey Years 2020/2021 to 2024/2025",
+          "G3bii: Comparing Perceptions of Green and Natural Spaces Close to Where People Live with Expectations of Green and Natural Spaces More Generally, Broken Down by Individual Measures of Quality of Provision, Survey Year 2024/2025",
+          "G4a: Proportion of adults in England visiting green and natural spaces in the past 14 days, survey years 2020/2021 to 2024/2025",
+          "G4b: Gross annual number of visits to green and natural spaces by adults in England, survey years 2020/2021 to 2024/2025"
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
     },
     {
       "id": "2458a7b65adcd8",
@@ -634,12 +1035,37 @@
       "summary": "",
       "insight": "",
       "source_excerpt": "Data for 'Theme K: International' indicators of the Environmental Indicator Framework.",
-      "review_status": "원문 검토 필요",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
       "verification": "기관 공식 피드",
       "priority_score": 0,
       "priority": "참고",
       "priority_reasons": [],
-      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치"
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-10-30",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "Data for 'Theme K: International' indicators of the Environmental Indicator Framework.",
+          "Updates to underlying data for EIF Indicators K1 and K2.",
+          "K1a: Area of deforestation associated with UK consumption, 2005 to 2023"
+        ],
+        "research_ideas": [],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "Data for 'Theme K: International' indicators of the Environmental Indicator Framework.",
+          "Updates to underlying data for EIF Indicators K1 and K2.",
+          "K1a: Area of deforestation associated with UK consumption, 2005 to 2023",
+          "K2a: Area of ecosystem loss avoided due to International Climate Finance programmes, 2011/2012 to 2024/2025",
+          "K2b: Cumulative area under sustainable management practices due to International Climate Finance programmes, 2015/2016 to 2024/2025"
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
     },
     {
       "id": "204419b05be94a",
@@ -656,12 +1082,45 @@
       "summary": "",
       "insight": "",
       "source_excerpt": "Reviews the cost of charging electric vehicles on the UK public charging network and provides recommendations to reduce charging prices.",
-      "review_status": "원문 검토 필요",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
       "verification": "기관 공식 피드",
       "priority_score": 0,
       "priority": "참고",
       "priority_reasons": [],
-      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치"
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-10-30",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "Reviews the cost of charging electric vehicles on the UK public charging network and provides recommendations to reduce charging prices.",
+          "Cost of public electric vehicle charging review",
+          "This file may not be suitable for users of assistive technology."
+        ],
+        "research_ideas": [
+          {
+            "title": "자동차 공급망 제품단위 탄소발자국의 데이터 품질과 배분규칙 연구",
+            "research_question": "품목별 원재료 구성과 공정 할당·데이터 품질 차이가 자동차부품 PCF 불확실성을 얼마나 설명하는가?",
+            "methodology": "Catena-X·ISO 14067·DQR 요구사항 및 할당법 비교·민감도 분석",
+            "novelty": "제품 PCF의 데이터 출처·검증체계와 방법론의 연결을 탐색하는 가설",
+            "data": "공개 IMDS 예시, 소재별 LCI, 공급망 양식, 국가별 전력배출계수"
+          }
+        ],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "Reviews the cost of charging electric vehicles on the UK public charging network and provides recommendations to reduce charging prices.",
+          "Cost of public electric vehicle charging review",
+          "This file may not be suitable for users of assistive technology.",
+          "This independent review examines the cost of public electric vehicle ( EV ) charging and factors that influence the prices drivers pay.",
+          "The review identifies actions that could help reduce the cost of public charging. It draws on evidence from industry, consumer groups, local government and other stakeholders."
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
     },
     {
       "id": "0d72b2d6288cf6",
@@ -741,12 +1200,37 @@
       "summary": "",
       "insight": "",
       "source_excerpt": "Guidance for developers and maintaining bodies on agreeing commuted sums to fund the maintenance of communal SuDS in new developments in England.",
-      "review_status": "원문 검토 필요",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
       "verification": "기관 공식 피드",
       "priority_score": 0,
       "priority": "참고",
       "priority_reasons": [],
-      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치"
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-10-30",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "Guidance for developers and maintaining bodies on agreeing commuted sums to fund the maintenance of communal SuDS in new developments in England.",
+          "Guidance for funding the maintenance of sustainable drainage systems (SuDS) in new developments in England",
+          "This file may not be suitable for users of assistive technology."
+        ],
+        "research_ideas": [],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "Guidance for developers and maintaining bodies on agreeing commuted sums to fund the maintenance of communal SuDS in new developments in England.",
+          "Guidance for funding the maintenance of sustainable drainage systems (SuDS) in new developments in England",
+          "This file may not be suitable for users of assistive technology.",
+          "This guidance helps developers and maintaining bodies take a consistent and transparent approach to funding the long-term maintenance of communal SuDS in new developments.",
+          "It explains how to agree responsibilities and how to calculate commuted sums. It covers whole-life costs, phased planning, risk management and long-term monitoring."
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
     },
     {
       "id": "fcb4453147e949",
