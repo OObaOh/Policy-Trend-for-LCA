@@ -4157,7 +4157,7 @@
       "summary": "",
       "insight": "",
       "source_excerpt": "",
-      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "review_status": "원문 구절 분류 · 한국어 심층 분석 미실행",
       "verification": "정부 공식 보도자료",
       "priority_score": 12,
       "priority": "우선 검토",
@@ -4168,36 +4168,153 @@
       "source_last_attempt": "2026-10-14",
       "analysis": {
         "status": "source_extract",
+        "analysis_version": 2,
+        "method": "rule_extract",
         "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "source_provenance": {
+          "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+          "coverage": "official_html",
+          "source_url": "https://mcee.go.kr/m/mob/board/read.do?pagerOffset=0&maxPageItems=10&maxIndexPages=5&searchKey=&searchValue=&menuId=156&orgCd=&boardMasterId=939&boardId=1899150",
+          "retrieved_at": "2026-10-14T07:59:57+00:00",
+          "content_sha256": "b6aeb093bcec8149cebb5085911c8d4d31bedbeb4e5d5d111d0db49ca2de5b3f"
+        },
         "key_takeaways": [
-          "첨부파일 쓰레기도 에너지가 된다… 탄소중립 시대 새로운 해법 찾는다(보도자료)(과학원 10.14).hwpx(1,022.9 KB) 쓰레기도 에너지가 된다… 탄소중립 시대 새로운 해법 찾는다(보도자료)(과학원 10.14).pdf(421 KB)",
-          "▷ 국내외 전문가 500여 명, 제12차 아이씨펙(i-CIPEC) 국제학술대회서 기술·정책 방향 논의",
-          "* i-CIPEC(International Conference on Combustion, Incineration/Pyrolysis, Emission and Climate Change), www.icipec.org"
+          "특히 우리나라는 올해(2026년) 1월 1일부터 수도권 생활폐기물의 직매립이 금지되었고 하수찌꺼기, 음식물류폐기물, 분뇨, 가축분뇨 등 유기성 폐자원을 활용한 바이오가스 생산목표제를 민간 부문까지 확대하여 시행하고 있다.",
+          "이에 국립환경과학원은 국제학술대회 첫날인 10월 14일 사전 토론회(포럼)를 개최하여 국내외 전문가들과 함께 가연성 및 유기성 폐기물의 에너지화 기술과 탄소중립 대응 방안을 집중적으로 논의할 예정이다.",
+          "이후 본회의가 열리는 15일과 16일에는 국내외 연사들과 폐기물 처리기술을 중심으로 폐자원의 에너지·물질 회수와 환경안전성을 함께 고려하는 기후·에너지·환경 분야의 융합적 발전방향을 모색한다."
+        ],
+        "main_points": [
+          "기후에너지환경부 소속 국립환경과학원(원장 김영우)은 10월 14일부터 16일까지 포항 라한호텔(포항시 북구 소재)에서 한국에너지기후환경협의회와 공동으로 자원과 에너지 회수를 위한 미래형 폐기물 관리체계의 발전방향을 논의하는 국제학술대회(제12차 아이씨펙*)를 개최한다고 밝혔다.",
+          "특히 우리나라는 올해(2026년) 1월 1일부터 수도권 생활폐기물의 직매립이 금지되었고 하수찌꺼기, 음식물류폐기물, 분뇨, 가축분뇨 등 유기성 폐자원을 활용한 바이오가스 생산목표제를 민간 부문까지 확대하여 시행하고 있다.",
+          "이에 국립환경과학원은 국제학술대회 첫날인 10월 14일 사전 토론회(포럼)를 개최하여 국내외 전문가들과 함께 가연성 및 유기성 폐기물의 에너지화 기술과 탄소중립 대응 방안을 집중적으로 논의할 예정이다.",
+          "이후 본회의가 열리는 15일과 16일에는 국내외 연사들과 폐기물 처리기술을 중심으로 폐자원의 에너지·물질 회수와 환경안전성을 함께 고려하는 기후·에너지·환경 분야의 융합적 발전방향을 모색한다.",
+          "국립환경과학원은 주요국의 폐기물 에너지화 기술 및 제도 동향을 비교·검토하고 폐기물의 안정적인 처리와 에너지·자원 회수 확대를 뒷받침할 수 있는 과학적 근거 마련을 위해 향후 관련 연구를 지속할 계획이다."
         ],
         "research_ideas": [
+          {
+            "origin": "rule_based_hypothesis",
+            "title": "가연성·유기성 폐기물 에너지화의 회수편익 귀속과 환경안전성 평가",
+            "research_question": "가연성·유기성 폐기물의 에너지·물질 회수편익을 산정할 때 대체 에너지 기준선과 다기능 공정의 할당 선택이 기후변화 및 환경안전성 관련 영향범주의 상충관계를 어떻게 바꾸는가?",
+            "methodology": "폐기물 처리 기능과 에너지·물질 생산 기능의 기능단위·시스템경계 설정, 할당/시스템 확장 및 대체 에너지 기준선에 대한 민감도 분석.",
+            "source_connection": "원문의 가연성·유기성 폐기물 에너지화 논의와 에너지·물질 회수·환경안전성의 통합 검토를 연결한 규칙 기반 가설. 원문이 LCA 또는 특정 공정 성능을 검증한 것은 아님.",
+            "evidence_ids": [
+              "p-e01b16be4caf",
+              "p-95242545a060"
+            ],
+            "source_terms": [
+              "가연성",
+              "유기성",
+              "환경안전성"
+            ],
+            "novelty": "신규성 미검증. 폐기물 에너지화의 다기능성·대체편익·다중 영향범주 선행연구 조사 필요.",
+            "data": "이 발췌만으로 공정별 수율·배출량·LCI의 충분성을 확인하지 못함. 처리 공정, 회수 에너지·물질, 대체 계통, 배출물 자료의 공개 여부를 별도로 조사해야 함."
+          }
+        ],
+        "template_suggestions": [
           {
             "title": "온실가스 감축정책 지표와 LCA 환경편익 산정의 경계 정합성",
             "research_question": "정책상 감축실적의 기준선과 제품 전과정 산정의 기준선 차이는 어떻게 비교가능성을 제한하는가?",
             "methodology": "시스템경계·기준선·할당 및 불확실성에 관한 방법론 대조",
             "novelty": "정책 지표와 제품 지표의 목적·범위 차이를 규명하는 연구 가설",
-            "data": "공개 규정·배출계수·LCI DB 및 제도 운영 자료"
+            "data": "공개 규정·배출계수·LCI DB 및 제도 운영 자료",
+            "origin": "topic_template",
+            "evidence_ids": [],
+            "source_connection": "제목·태그 기반 고정 템플릿. 해당 자료에서 도출·검증한 연구 질문 아님."
           }
         ],
-        "background": "",
-        "purpose": "",
-        "main_points": [
-          "첨부파일 쓰레기도 에너지가 된다… 탄소중립 시대 새로운 해법 찾는다(보도자료)(과학원 10.14).hwpx(1,022.9 KB) 쓰레기도 에너지가 된다… 탄소중립 시대 새로운 해법 찾는다(보도자료)(과학원 10.14).pdf(421 KB)",
-          "▷ 국내외 전문가 500여 명, 제12차 아이씨펙(i-CIPEC) 국제학술대회서 기술·정책 방향 논의",
-          "* i-CIPEC(International Conference on Combustion, Incineration/Pyrolysis, Emission and Climate Change), www.icipec.org",
-          "이번 학술대회에서는 ‘탄소중립 실현을 위한 지속가능한 에너지·환경 관리, 그리고 인공지능(AI)’을 주제로 10개국* 국내외 전문가와 기업 관계자 500여 명이 참석하여 폐기물 에너지화 기술의 국제적 동향과 향후 발전방향을 논의할 예정이다.",
-          "이에 국립환경과학원은 국제학술대회 첫날인 10월 14일 사전 토론회(포럼)를 개최하여 국내외 전문가들과 함께 가연성 및 유기성 폐기물의 에너지화 기술과 탄소중립 대응 방안을 집중적으로 논의할 예정이다."
-        ],
-        "conclusion": "",
         "korea_implications": "",
         "industry_implications": "",
-        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
-        "evidence_sections": "발표기관 공개 본문/초록"
-      }
+        "limitations": "원문 구절을 규칙으로 분류한 비번역 발췌. 한국어 심층 해석·법령 교차검증 미실행. 결론은 원문에 명시된 결론·후속 계획만 표시하며 연구 제안의 신규성·실현 가능성은 미검증.",
+        "field_evidence": {
+          "background": [
+            "p-b29ca026048b",
+            "p-3d1248bc2434"
+          ],
+          "purpose": [
+            "p-e01b16be4caf"
+          ],
+          "conclusion": [
+            "p-30a2ae7fc30c"
+          ],
+          "key_takeaways.0": [
+            "p-3d1248bc2434"
+          ],
+          "key_takeaways.1": [
+            "p-e01b16be4caf"
+          ],
+          "key_takeaways.2": [
+            "p-95242545a060"
+          ],
+          "main_points.0": [
+            "p-9e0a31b367bb"
+          ],
+          "main_points.1": [
+            "p-3d1248bc2434"
+          ],
+          "main_points.2": [
+            "p-e01b16be4caf"
+          ],
+          "main_points.3": [
+            "p-95242545a060"
+          ],
+          "main_points.4": [
+            "p-30a2ae7fc30c"
+          ]
+        },
+        "section_status": {
+          "background": "extracted",
+          "purpose": "extracted",
+          "conclusion": "extracted"
+        },
+        "background": "최근 폐기물 관리는 단순한 처분을 넘어 폐기물에 포함된 자원과 에너지를 회수하고 이를 다시 사회·경제적 자원으로 활용하는 방향으로 전환되고 있다.\n특히 우리나라는 올해(2026년) 1월 1일부터 수도권 생활폐기물의 직매립이 금지되었고 하수찌꺼기, 음식물류폐기물, 분뇨, 가축분뇨 등 유기성 폐자원을 활용한 바이오가스 생산목표제를 민간 부문까지 확대하여 시행하고 있다.",
+        "purpose": "이에 국립환경과학원은 국제학술대회 첫날인 10월 14일 사전 토론회(포럼)를 개최하여 국내외 전문가들과 함께 가연성 및 유기성 폐기물의 에너지화 기술과 탄소중립 대응 방안을 집중적으로 논의할 예정이다.",
+        "conclusion": "국립환경과학원은 주요국의 폐기물 에너지화 기술 및 제도 동향을 비교·검토하고 폐기물의 안정적인 처리와 에너지·자원 회수 확대를 뒷받침할 수 있는 과학적 근거 마련을 위해 향후 관련 연구를 지속할 계획이다.",
+        "evidence": [
+          {
+            "id": "p-9e0a31b367bb",
+            "quote": "기후에너지환경부 소속 국립환경과학원(원장 김영우)은 10월 14일부터 16일까지 포항 라한호텔(포항시 북구 소재)에서 한국에너지기후환경협의회와 공동으로 자원과 에너지 회수를 위한 미래형 폐기물 관리체계의 발전방향을 논의하는 국제학술대회(제12차 아이씨펙*)를 개최한다고 밝혔다.",
+            "url": "https://mcee.go.kr/m/mob/board/read.do?pagerOffset=0&maxPageItems=10&maxIndexPages=5&searchKey=&searchValue=&menuId=156&orgCd=&boardMasterId=939&boardId=1899150",
+            "locator": "정제 본문 문단 1",
+            "coverage": "official_html"
+          },
+          {
+            "id": "p-b29ca026048b",
+            "quote": "최근 폐기물 관리는 단순한 처분을 넘어 폐기물에 포함된 자원과 에너지를 회수하고 이를 다시 사회·경제적 자원으로 활용하는 방향으로 전환되고 있다.",
+            "url": "https://mcee.go.kr/m/mob/board/read.do?pagerOffset=0&maxPageItems=10&maxIndexPages=5&searchKey=&searchValue=&menuId=156&orgCd=&boardMasterId=939&boardId=1899150",
+            "locator": "정제 본문 문단 3",
+            "coverage": "official_html"
+          },
+          {
+            "id": "p-3d1248bc2434",
+            "quote": "특히 우리나라는 올해(2026년) 1월 1일부터 수도권 생활폐기물의 직매립이 금지되었고 하수찌꺼기, 음식물류폐기물, 분뇨, 가축분뇨 등 유기성 폐자원을 활용한 바이오가스 생산목표제를 민간 부문까지 확대하여 시행하고 있다.",
+            "url": "https://mcee.go.kr/m/mob/board/read.do?pagerOffset=0&maxPageItems=10&maxIndexPages=5&searchKey=&searchValue=&menuId=156&orgCd=&boardMasterId=939&boardId=1899150",
+            "locator": "정제 본문 문단 4",
+            "coverage": "official_html"
+          },
+          {
+            "id": "p-e01b16be4caf",
+            "quote": "이에 국립환경과학원은 국제학술대회 첫날인 10월 14일 사전 토론회(포럼)를 개최하여 국내외 전문가들과 함께 가연성 및 유기성 폐기물의 에너지화 기술과 탄소중립 대응 방안을 집중적으로 논의할 예정이다.",
+            "url": "https://mcee.go.kr/m/mob/board/read.do?pagerOffset=0&maxPageItems=10&maxIndexPages=5&searchKey=&searchValue=&menuId=156&orgCd=&boardMasterId=939&boardId=1899150",
+            "locator": "정제 본문 문단 5",
+            "coverage": "official_html"
+          },
+          {
+            "id": "p-95242545a060",
+            "quote": "이후 본회의가 열리는 15일과 16일에는 국내외 연사들과 폐기물 처리기술을 중심으로 폐자원의 에너지·물질 회수와 환경안전성을 함께 고려하는 기후·에너지·환경 분야의 융합적 발전방향을 모색한다.",
+            "url": "https://mcee.go.kr/m/mob/board/read.do?pagerOffset=0&maxPageItems=10&maxIndexPages=5&searchKey=&searchValue=&menuId=156&orgCd=&boardMasterId=939&boardId=1899150",
+            "locator": "정제 본문 문단 6",
+            "coverage": "official_html"
+          },
+          {
+            "id": "p-30a2ae7fc30c",
+            "quote": "국립환경과학원은 주요국의 폐기물 에너지화 기술 및 제도 동향을 비교·검토하고 폐기물의 안정적인 처리와 에너지·자원 회수 확대를 뒷받침할 수 있는 과학적 근거 마련을 위해 향후 관련 연구를 지속할 계획이다.",
+            "url": "https://mcee.go.kr/m/mob/board/read.do?pagerOffset=0&maxPageItems=10&maxIndexPages=5&searchKey=&searchValue=&menuId=156&orgCd=&boardMasterId=939&boardId=1899150",
+            "locator": "정제 본문 문단 8",
+            "coverage": "official_html"
+          }
+        ]
+      },
+      "source_attempt_version": 2
     },
     {
       "id": "739ee18f1a3bdc",
@@ -7297,5 +7414,15 @@
         "limitations": "유럽연합 집행위원회 2026-07-17 설명을 기반으로 정리. 구체적 적용대상·면제 조항은 관련 위임/이행 규정 대조 필요."
       }
     }
-  ]
+  ],
+  "analysis_runtime": {
+    "brief_version": 2,
+    "ai": {
+      "status": "disabled_no_key",
+      "attempted": 0,
+      "accepted": 0,
+      "rejected": 0
+    },
+    "scope": "97f4b4d803947e targeted source re-extraction; other archive records preserved"
+  }
 }
