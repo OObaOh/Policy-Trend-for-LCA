@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T00:58:09+00:00",
+  "updated_at": "2026-10-31T00:59:32+00:00",
   "collector": "GitHub Actions / official government sources + Crossref",
   "profile_version": "2026-10-10",
   "new_items": 7,
@@ -18,16 +18,16 @@
       "독일 연방환경부",
       "프랑스 생태전환부",
       "Crossref: dynamic life cycle assessment",
-      "Crossref: prospective life cycle assessment",
-      "Crossref: automotive parts product carbon footprint"
-    ],
-    "errors": [
-      "EU 집행위원회 역내시장·산업총국",
       "Crossref: consequential life cycle assessment allocation",
       "Crossref: waste management life cycle assessment",
       "Crossref: extended producer responsibility life cycle",
+      "Crossref: end of life vehicles environmental impact"
+    ],
+    "errors": [
+      "EU 집행위원회 역내시장·산업총국",
+      "Crossref: prospective life cycle assessment",
       "Crossref: recycling recycled plastics product carbon footprint",
-      "Crossref: end of life vehicles environmental impact",
+      "Crossref: automotive parts product carbon footprint",
       "Crossref: hydrogen well to wheel life cycle assessment",
       "Crossref: hydrogen life cycle assessment",
       "Crossref: bioenergy avoided emissions carbon removals",
@@ -36,6 +36,318 @@
     ]
   },
   "articles": [
+    {
+      "id": "d3cacce8fcea76",
+      "date": "2026-10-30",
+      "category": "국제 정책",
+      "region": "영국",
+      "title": "Preferred candidate for Environment Agency Chair announced",
+      "source": "영국 환경식품농촌부 (Defra)",
+      "url": "https://www.gov.uk/government/news/preferred-candidate-for-environment-agency-chair-announced",
+      "doi": "",
+      "tags": [],
+      "document_type": "정책·발표",
+      "link_status": "원문 연결 확인",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "The Environment Secretary has selected Lisa Tennant as the Government’s preferred candidate for the Chair of the Environment Agency.",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "기관 공식 피드",
+      "priority_score": 0,
+      "priority": "참고",
+      "priority_reasons": [],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-10-31",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "The Environment Secretary has selected Lisa Tennant as the Government’s preferred candidate for the Chair of the Environment Agency.",
+          "Environment Secretary Dame Angela Eagle has selected Lisa Tennant as the Government’s preferred candidate to succeed Alan Lovell as the Chair of the Environment Agency.",
+          "Lisa Tennant is an experienced Chair and Board member of environmental and other organisations, including currently serving as Chair of the Scottish Environment Protection Agency."
+        ],
+        "research_ideas": [],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "The Environment Secretary has selected Lisa Tennant as the Government’s preferred candidate for the Chair of the Environment Agency.",
+          "Environment Secretary Dame Angela Eagle has selected Lisa Tennant as the Government’s preferred candidate to succeed Alan Lovell as the Chair of the Environment Agency.",
+          "Lisa Tennant is an experienced Chair and Board member of environmental and other organisations, including currently serving as Chair of the Scottish Environment Protection Agency.",
+          "Subject to the EFRA and EAC Select Committees’ report and the final decision being made by the Environment Secretary, Lisa Tennant will take up the post on 1 January 2027 for a four-year term. Alan Lovell’s term as Environment Agency Chair will end on 31 December 2026.",
+          "Lisa Tennant is Chair of the Scottish Environment Protection Agency, Scotland’s principal environmental regulator. She also chairs the NHS Pension Board for England and Wales and is the Regional Energy Strategic Plan Chair for Scotland at the National Energy System Operator."
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
+    {
+      "id": "ac698cc2c53923",
+      "date": "2026-10-30",
+      "category": "국제 정책",
+      "region": "미국",
+      "title": "Agency Information Collection Activities; Proposed Information Collection Request; Comment Request; Motor Vehicle and Engine Compliance Program Fees (Renewal), EPA ICR 2080.09, OMB Control No. 2060-0545",
+      "source": "미국 Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/10/30/2026-22209/agency-information-collection-activities-proposed-information-collection-request-comment-request",
+      "doi": "",
+      "tags": [
+        "ICR",
+        "OMB"
+      ],
+      "document_type": "정부 공고",
+      "link_status": "원문 연결 확인",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "The Environmental Protection Agency (EPA) is planning to submit an information collection request (ICR), \"Motor Vehicle and Engine Compliance Program Fees (Renewal)\" (EPA ICR No. 2080.09, OMB Control No. 2060-0545) to the Office of Management and Budget (OMB) for review and approval in accordance with the Paperwork Reduction Act Before doing so, EPA is soliciting public comments on specific aspects of the proposed information collection as described below. This is a proposed extension of the ICR, which is currently approved through July 31, 202",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "미국 연방 관보 공식 기록",
+      "regulatory_status": "Notice",
+      "priority_score": 0,
+      "priority": "참고",
+      "priority_reasons": [],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-10-31",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "Due to aggressive automated scraping of FederalRegister.gov and eCFR.gov, programmatic access to these sites is limited to access to our extensive developer APIs. Please visit FederalRegister.gov API documentation or eCFR.gov API documentation to learn more about how to access the API.",
+          "Your request has been flagged as potentially automated. If you are human user receiving this message, please complete the CAPTCHA (bot test) below and click \"Request Access\". You may occassionally be asked to complete the CAPTCHA again, this is normal and part of our security measures.",
+          "An official website of the United States government."
+        ],
+        "research_ideas": [
+          {
+            "title": "자동차 공급망 제품단위 탄소발자국의 데이터 품질과 배분규칙 연구",
+            "research_question": "품목별 원재료 구성과 공정 할당·데이터 품질 차이가 자동차부품 PCF 불확실성을 얼마나 설명하는가?",
+            "methodology": "Catena-X·ISO 14067·DQR 요구사항 및 할당법 비교·민감도 분석",
+            "novelty": "제품 PCF의 데이터 출처·검증체계와 방법론의 연결을 탐색하는 가설",
+            "data": "공개 IMDS 예시, 소재별 LCI, 공급망 양식, 국가별 전력배출계수"
+          }
+        ],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "Due to aggressive automated scraping of FederalRegister.gov and eCFR.gov, programmatic access to these sites is limited to access to our extensive developer APIs. Please visit FederalRegister.gov API documentation or eCFR.gov API documentation to learn more about how to access the API.",
+          "Your request has been flagged as potentially automated. If you are human user receiving this message, please complete the CAPTCHA (bot test) below and click \"Request Access\". You may occassionally be asked to complete the CAPTCHA again, this is normal and part of our security measures.",
+          "An official website of the United States government.",
+          "If you experiencing issues with the CAPTCHA or want to request a wider IP range, you can use the \"Site Help\" button found in the lower, right of this page to make a request.",
+          "This contact form is only for IP Access help. Please do not provide confidential information or personal data."
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
+    {
+      "id": "73b2588422a155",
+      "date": "2026-10-30",
+      "category": "국내 정책",
+      "region": "한국",
+      "title": "2026년 수소발전 입찰시장 개설",
+      "source": "기후에너지환경부",
+      "url": "https://mcee.go.kr/m/mob/board/read.do?pagerOffset=0&maxPageItems=10&maxIndexPages=5&searchKey=&searchValue=&menuId=156&orgCd=&boardMasterId=939&boardId=1903400",
+      "doi": "",
+      "tags": [],
+      "document_type": "정책·발표",
+      "link_status": "원문 URL 제공 · 접근 여부 미검증",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "",
+      "review_status": "원문 검토 필요",
+      "verification": "정부 공식 보도자료",
+      "priority_score": 0,
+      "priority": "참고",
+      "priority_reasons": [],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-10-31"
+    },
+    {
+      "id": "5e8d95d078ce87",
+      "date": "2026-10-30",
+      "category": "국제 정책",
+      "region": "영국",
+      "title": "Research: Air Pollution Trends Reports",
+      "source": "영국 환경식품농촌부 (Defra)",
+      "url": "https://www.gov.uk/government/publications/air-pollution-trends-reports",
+      "doi": "",
+      "tags": [],
+      "document_type": "연구보고서",
+      "link_status": "원문 연결 확인",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "Air Pollutions Trends Reports track how air pollution policies have reduced the risk of damage to UK habitats.",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "기관 공식 피드",
+      "priority_score": 0,
+      "priority": "참고",
+      "priority_reasons": [],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-10-31",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "Air Pollutions Trends Reports track how air pollution policies have reduced the risk of damage to UK habitats.",
+          "Air pollution can harm habitats and reduce biodiversity. This affects the ability of habitats to:",
+          "In the annual Air Pollution Trends Report, Defra uses models to show the impact of ammonia, oxides of nitrogen and sulphur dioxide on UK habitats."
+        ],
+        "research_ideas": [],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "Air Pollutions Trends Reports track how air pollution policies have reduced the risk of damage to UK habitats.",
+          "Air pollution can harm habitats and reduce biodiversity. This affects the ability of habitats to:",
+          "In the annual Air Pollution Trends Report, Defra uses models to show the impact of ammonia, oxides of nitrogen and sulphur dioxide on UK habitats.",
+          "The EMEP4UK model is used to convert official UK air pollution emissions (published in the National Atmospheric Emissions Inventory) into concentrations.",
+          "The Air Pollution Trends Reports track how policies implemented to meet these targets are reducing pressures on ecosystems. Data helps identify the most effective ways to improve air quality and reduce impacts on UK habitats."
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
+    {
+      "id": "55a159352b4ab3",
+      "date": "2026-10-30",
+      "category": "국제 정책",
+      "region": "영국",
+      "title": "Notice: UK ETS Allocation Table for operators of installations",
+      "source": "영국 에너지안보·넷제로부 (DESNZ)",
+      "url": "https://www.gov.uk/government/publications/uk-ets-allocation-table-for-operators-of-installations",
+      "doi": "",
+      "tags": [
+        "할당·시스템경계",
+        "탄소배출권·GHG",
+        "ETS"
+      ],
+      "document_type": "정책·발표",
+      "link_status": "원문 연결 확인",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "This table contains a list of each installation’s free allocation for the 2021 to 2026 allocation period.",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "기관 공식 피드",
+      "priority_score": 36,
+      "priority": "필독",
+      "priority_reasons": [
+        "할당·시스템경계",
+        "탄소배출권·GHG"
+      ],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-10-31",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "The allocation table has been updated with amendments to operators’ allowances as a result of Activity Level Changes.",
+          "The allocation table has been updated with amendments to operators' allowances as a result of Activity Level Changes.",
+          "The allocation table has been updated with amendments to operators allowances as a result of Activity Level Changes."
+        ],
+        "research_ideas": [],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "The allocation table has been updated with amendments to operators’ allowances as a result of Activity Level Changes.",
+          "The allocation table has been updated with amendments to operators' allowances as a result of Activity Level Changes.",
+          "The allocation table has been updated with amendments to operators allowances as a result of Activity Level Changes.",
+          "Allocation Table updated with amendments to operators’ allowances as a result of Activity Level Changes.",
+          "Allocation Table has been updated with amendments to operators allowances as a result of Activity Level Changes"
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
+    {
+      "id": "24683cf2f6d8f7",
+      "date": "2026-10-30",
+      "category": "국내 정책",
+      "region": "한국",
+      "title": "고준위위원회, 고준위 방사성폐기물 관리시설 부적합지역 배제기준 확정",
+      "source": "기후에너지환경부",
+      "url": "https://mcee.go.kr/m/mob/board/read.do?pagerOffset=0&maxPageItems=10&maxIndexPages=5&searchKey=&searchValue=&menuId=156&orgCd=&boardMasterId=939&boardId=1903320",
+      "doi": "",
+      "tags": [
+        "폐기물관리·처리"
+      ],
+      "document_type": "정책·발표",
+      "link_status": "원문 URL 제공 · 접근 여부 미검증",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "",
+      "review_status": "원문 검토 필요",
+      "verification": "정부 공식 보도자료",
+      "priority_score": 23,
+      "priority": "우선 검토",
+      "priority_reasons": [
+        "폐기물관리·처리"
+      ],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-10-31"
+    },
+    {
+      "id": "1735ee93d39e34",
+      "date": "2026-10-30",
+      "category": "국제 정책",
+      "region": "UN",
+      "title": "UN Climate Change Panama consolidates national roadmap for carbon markets after years of building the foundations Article",
+      "source": "UNFCCC",
+      "url": "https://unfccc.int/news/panama-consolidates-national-roadmap-for-carbon-markets-after-years-of-building-the-foundations",
+      "doi": "",
+      "tags": [],
+      "document_type": "정책·발표",
+      "link_status": "원문 URL 제공 · 접근 여부 미검증",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "UNFCCC 공식 뉴스",
+      "priority_score": 0,
+      "priority": "참고",
+      "priority_reasons": [],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-10-31",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "UN Climate Change News, 30 October 2026 – Panama has consolidated a national roadmap for carbon markets, bringing years of technical groundwork, private sector engagement and public dialogue into a single pathway for market-based climate action. The milestone comes as countries prepare for COP 31 in Türkiye , where cooperation on carbon markets und",
+          "UN Climate Change reports show Paris Agreement supporting whole-of-economy approaches, but progress still clearly insufficient; more implementation and acceleration needed",
+          "Malawi puts delivery at the heart of its new climate plan"
+        ],
+        "research_ideas": [
+          {
+            "title": "온실가스 감축정책 지표와 LCA 환경편익 산정의 경계 정합성",
+            "research_question": "정책상 감축실적의 기준선과 제품 전과정 산정의 기준선 차이는 어떻게 비교가능성을 제한하는가?",
+            "methodology": "시스템경계·기준선·할당 및 불확실성에 관한 방법론 대조",
+            "novelty": "정책 지표와 제품 지표의 목적·범위 차이를 규명하는 연구 가설",
+            "data": "공개 규정·배출계수·LCI DB 및 제도 운영 자료"
+          }
+        ],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "UN Climate Change News, 30 October 2026 – Panama has consolidated a national roadmap for carbon markets, bringing years of technical groundwork, private sector engagement and public dialogue into a single pathway for market-based climate action. The milestone comes as countries prepare for COP 31 in Türkiye , where cooperation on carbon markets und",
+          "UN Climate Change reports show Paris Agreement supporting whole-of-economy approaches, but progress still clearly insufficient; more implementation and acceleration needed",
+          "Malawi puts delivery at the heart of its new climate plan",
+          "Tanzanian innovator wins UN Climate Change AI for Climate Action Award 2026",
+          "Clean cooking projects gain access to UN carbon market"
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
     {
       "id": "fc87f974601b65",
       "date": "2026-10-29",
