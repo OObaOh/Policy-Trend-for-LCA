@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-11-02T01:04:02+00:00",
+  "updated_at": "2026-11-03T01:00:50+00:00",
   "collector": "GitHub Actions / official government sources + Crossref",
   "profile_version": "2026-10-10",
-  "new_items": 0,
+  "new_items": 3,
   "source_health": {
     "ok": [
       "기후에너지환경부",
@@ -19,23 +19,200 @@
       "프랑스 생태전환부",
       "Crossref: dynamic life cycle assessment",
       "Crossref: prospective life cycle assessment",
-      "Crossref: waste management life cycle assessment",
-      "Crossref: recycling recycled plastics product carbon footprint"
-    ],
-    "errors": [
-      "EU 집행위원회 역내시장·산업총국",
       "Crossref: consequential life cycle assessment allocation",
+      "Crossref: waste management life cycle assessment",
       "Crossref: extended producer responsibility life cycle",
+      "Crossref: recycling recycled plastics product carbon footprint",
       "Crossref: end of life vehicles environmental impact",
       "Crossref: automotive parts product carbon footprint",
       "Crossref: hydrogen well to wheel life cycle assessment",
       "Crossref: hydrogen life cycle assessment",
-      "Crossref: bioenergy avoided emissions carbon removals",
+      "Crossref: bioenergy avoided emissions carbon removals"
+    ],
+    "errors": [
+      "EU 집행위원회 역내시장·산업총국",
       "Crossref: product environmental footprint ecodesign regulation",
       "Crossref: mass balance recycling chain of custody"
     ]
   },
   "articles": [
+    {
+      "id": "80437594867132",
+      "date": "2026-11-02",
+      "category": "국제 정책",
+      "region": "영국",
+      "title": "Guidance: Green Book supplementary guidance: valuation of energy use and greenhouse gas emissions for appraisal",
+      "source": "영국 에너지안보·넷제로부 (DESNZ)",
+      "url": "https://www.gov.uk/government/publications/valuation-of-energy-use-and-greenhouse-gas-emissions-for-appraisal",
+      "doi": "",
+      "tags": [
+        "탄소배출권·GHG"
+      ],
+      "document_type": "정책·발표",
+      "link_status": "원문 연결 확인",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "Supplementary guidance to Treasury’s Green Book providing government analysts with rules for valuing energy usage and greenhouse gas emissions.",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "기관 공식 피드",
+      "priority_score": 12,
+      "priority": "우선 검토",
+      "priority_reasons": [
+        "탄소배출권·GHG"
+      ],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-11-03",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "Supplementary guidance to Treasury’s Green Book providing government analysts with rules for valuing energy usage and greenhouse gas emissions.",
+          "Updated CO2-equivalence (Global Warming Potentials) values of non-CO2 greenhouse gases to align them with IPCC fifth assessment report (AR5). Wording changes re. traded sector applications. Republication of GDP deflator.",
+          "Valuation of energy use and greenhouse gas emissions for appraisal"
+        ],
+        "research_ideas": [
+          {
+            "title": "온실가스 감축정책 지표와 LCA 환경편익 산정의 경계 정합성",
+            "research_question": "정책상 감축실적의 기준선과 제품 전과정 산정의 기준선 차이는 어떻게 비교가능성을 제한하는가?",
+            "methodology": "시스템경계·기준선·할당 및 불확실성에 관한 방법론 대조",
+            "novelty": "정책 지표와 제품 지표의 목적·범위 차이를 규명하는 연구 가설",
+            "data": "공개 규정·배출계수·LCI DB 및 제도 운영 자료"
+          }
+        ],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "Supplementary guidance to Treasury’s Green Book providing government analysts with rules for valuing energy usage and greenhouse gas emissions.",
+          "Updated CO2-equivalence (Global Warming Potentials) values of non-CO2 greenhouse gases to align them with IPCC fifth assessment report (AR5). Wording changes re. traded sector applications. Republication of GDP deflator.",
+          "Valuation of energy use and greenhouse gas emissions for appraisal",
+          "Background documentation for guidance on valuation of energy use and greenhouse gas emissions",
+          "Toolkit spreadsheet for valuing changes in greenhouse gas emissions"
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
+    {
+      "id": "5c183b8acd627d",
+      "date": "2026-11-02",
+      "category": "국제 정책",
+      "region": "영국",
+      "title": "Check what to report for EPR for packaging as a large producer",
+      "source": "영국 환경식품농촌부 (Defra)",
+      "url": "https://www.gov.uk/guidance/check-what-to-report-for-epr-for-packaging-as-a-large-producer",
+      "doi": "",
+      "tags": [
+        "EPR"
+      ],
+      "document_type": "연구보고서",
+      "link_status": "원문 연결 확인",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "Understand your reporting responsibilities as a large producer under extended producer responsibility (EPR) for packaging, including how to identify what data you must report and which obligations do not apply to you.",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "기관 공식 피드",
+      "priority_score": 24,
+      "priority": "필독",
+      "priority_reasons": [
+        "EPR"
+      ],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-11-03",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "Understand your reporting responsibilities as a large producer under extended producer responsibility (EPR) for packaging, including how to identify what data you must report and which obligations do not apply to you.",
+          "In the section called 'Examples of how to collect and report data', we've clarified that organisations should collect and report the weight of packaging materials in kilograms (kg). We've also explained that, for plastics, large organisations should report the 'packaging subtype' as 'flexible'.",
+          "An update collecting several minor fixes for accuracy. The reusable packaging section now explicitly states that reusable packaging must be reported twice. The hired or loaned section clarifies that it is the service provider who must report, not the person hiring or borrowing. The plastic subtypes section adds household drinks containers to the li"
+        ],
+        "research_ideas": [
+          {
+            "title": "포장재 재생원료 의무와 Circular Footprint Formula 간 정합성",
+            "research_question": "의무 재생함량과 회수·재활용 편익의 귀속을 동시에 적용할 때 이중계상을 피할 수 있는가?",
+            "methodology": "PEF/CFF·재생함량법·시스템 확장 비교와 재활용률·품질손실 민감도 평가",
+            "novelty": "포장재 적합성 지표와 PCF 결과가 충돌하는 조건 검증 가설. 중복 문헌 확인 필요",
+            "data": "PPWR 원문, 소재별 공개 LCI, 포장재 폐기물 및 재활용 통계"
+          }
+        ],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "Understand your reporting responsibilities as a large producer under extended producer responsibility (EPR) for packaging, including how to identify what data you must report and which obligations do not apply to you.",
+          "In the section called 'Examples of how to collect and report data', we've clarified that organisations should collect and report the weight of packaging materials in kilograms (kg). We've also explained that, for plastics, large organisations should report the 'packaging subtype' as 'flexible'.",
+          "An update collecting several minor fixes for accuracy. The reusable packaging section now explicitly states that reusable packaging must be reported twice. The hired or loaned section clarifies that it is the service provider who must report, not the person hiring or borrowing. The plastic subtypes section adds household drinks containers to the li",
+          "This update aligns the guidance with the Producer Responsibility Obligations (Packaging and Packaging Waste) (Amendment) Regulations 2025, covering multi-brand packaging, adding components to packaging, closed-loop packaging waste, fibre-based composite and evidence requirements. It also adds information on enforcement powers, record-keeping, resub",
+          "Adding link to the newly published list of large producers on the report packaging data service."
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
+    {
+      "id": "36289c82e62281",
+      "date": "2026-11-02",
+      "category": "국내 정책",
+      "region": "한국",
+      "title": "지방정부 10곳 2026년도 환경교육도시로 선정… 지역 중심 탄소중립 사회 실현에 기여",
+      "source": "기후에너지환경부",
+      "url": "https://mcee.go.kr/m/mob/board/read.do?pagerOffset=0&maxPageItems=10&maxIndexPages=5&searchKey=&searchValue=&menuId=156&orgCd=&boardMasterId=939&boardId=1903390",
+      "doi": "",
+      "tags": [
+        "탄소배출권·GHG"
+      ],
+      "document_type": "정책·발표",
+      "link_status": "원문 URL 제공 · 접근 여부 미검증",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "정부 공식 보도자료",
+      "priority_score": 12,
+      "priority": "우선 검토",
+      "priority_reasons": [
+        "탄소배출권·GHG"
+      ],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-11-03",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "첨부파일 지방정부 10곳 2026년도 환경교육도시로 선정… 지역 중심 탄소중립 사회 실현에 기여(보도자료)(환경교육 11.2).hwpx(327.5 KB) 지방정부 10곳 2026년도 환경교육도시로 선정… 지역 중심 탄소중립 사회 실현에 기여(보도자료)(환경교육 11.2).pdf(397.5 KB)",
+          "기후에너지환경부(장관 김성환)는 ‘2026년도 환경교육도시’ 공모를 통해 광역지방정부 3곳(부산광역시, 세종특별자치시, 제주특별자치도)과 기초지방정부 7곳(노원구, 수원시, 안산시, 시흥시, 광명시, 천안시, 통영시) 등 총 10곳*을 선정했다고 밝혔다.",
+          "이번에 선정된 10곳의 지방정부는 환경교육 활성화 조례와 자체 환경교육 계획 수립 및 이행, 지역환경교육센터 운영을 활성화하는 등 전반적인 추진 기반이 우수했으며, 기후위기 대응과 탄소중립 사회 실현을 위한 시도지사 및 시장·구청장의 의지도 높게 평가됐다."
+        ],
+        "research_ideas": [
+          {
+            "title": "온실가스 감축정책 지표와 LCA 환경편익 산정의 경계 정합성",
+            "research_question": "정책상 감축실적의 기준선과 제품 전과정 산정의 기준선 차이는 어떻게 비교가능성을 제한하는가?",
+            "methodology": "시스템경계·기준선·할당 및 불확실성에 관한 방법론 대조",
+            "novelty": "정책 지표와 제품 지표의 목적·범위 차이를 규명하는 연구 가설",
+            "data": "공개 규정·배출계수·LCI DB 및 제도 운영 자료"
+          }
+        ],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "첨부파일 지방정부 10곳 2026년도 환경교육도시로 선정… 지역 중심 탄소중립 사회 실현에 기여(보도자료)(환경교육 11.2).hwpx(327.5 KB) 지방정부 10곳 2026년도 환경교육도시로 선정… 지역 중심 탄소중립 사회 실현에 기여(보도자료)(환경교육 11.2).pdf(397.5 KB)",
+          "기후에너지환경부(장관 김성환)는 ‘2026년도 환경교육도시’ 공모를 통해 광역지방정부 3곳(부산광역시, 세종특별자치시, 제주특별자치도)과 기초지방정부 7곳(노원구, 수원시, 안산시, 시흥시, 광명시, 천안시, 통영시) 등 총 10곳*을 선정했다고 밝혔다.",
+          "이번에 선정된 10곳의 지방정부는 환경교육 활성화 조례와 자체 환경교육 계획 수립 및 이행, 지역환경교육센터 운영을 활성화하는 등 전반적인 추진 기반이 우수했으며, 기후위기 대응과 탄소중립 사회 실현을 위한 시도지사 및 시장·구청장의 의지도 높게 평가됐다.",
+          "지방정부별로는 △부산이 해양 특화 교육과 체험·탐방 과정, △세종이 공무원 환경교육과 시민과학자 양성, △제주가 곶자왈·오름 등 지역 자원을 활용한 환경교육을 추진한다. △노원은 지역 시설을 연계한 통합교육, △수원은 민·관·산·학 협력과 지역의 환경·역사 자원 활용, △안산은 산업단지 기후환경교육과 시민주도형 순환경제를 강점으로 인정받았다. △시흥은 시화호 특화 교육과 탄소중립 실천 기반, △광명은 시민참여형 환경학습, △천안은 지역기관·생태체험공간 연계 교육, △통영은 어촌·해양환경교육의 특화성이 우수한 것으로 평가됐다.",
+          "기후에너지환경부는 ‘2026년도 환경교육도시’ 지정 기간(’27.1.1.~’29.12.31.) 동안 전문가 상담(컨설팅)과 환경교육도시 간 상호 협력 기회를 제공하고, 토론회 등을 통해 우수 사례를 전국에 확산할 계획이다. 아울러 국비 지원을 위한 예산 확보에도 적극적으로 노력할 계획이다."
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
     {
       "id": "6c850ad7e83d8c",
       "date": "2026-11-01",
@@ -204,13 +381,45 @@
       "summary": "",
       "insight": "",
       "source_excerpt": "",
-      "review_status": "원문 검토 필요",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
       "verification": "정부 공식 보도자료",
       "priority_score": 0,
       "priority": "참고",
       "priority_reasons": [],
       "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
-      "source_last_attempt": "2026-10-31"
+      "source_last_attempt": "2026-11-03",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "첨부파일 2026년 수소발전 입찰시장 개설(보도자료)(수소경제 10.30).hwpx(231.7 KB) 2026년 수소발전 입찰시장 개설(보도자료)(수소경제 10.30).pdf(283 KB)",
+          "기후에너지환경부(장관 김성환)는 10월 30일 오후 7시부터 2026년 수소발전 입찰시장을 개설한다고 밝혔다.",
+          "수소발전 입찰시장은 수소 또는 수소화합물을 발전 연료로 사용하여 생산된 전기를 구매·공급하는 제도로, 사용 연료에 따라 청정수소발전과 일반수소발전으로 구분되며, 청정수소발전 입찰시장에는 국내 청정수소 인증기준(수소 1㎏당 온실가스 배출량 4㎏CO2e 이하)을 충족한 연료를 사용하는 발전설비만 참여 가능하다."
+        ],
+        "research_ideas": [
+          {
+            "title": "수소 공급경로의 시간적 대표성과 시스템경계가 PCF에 미치는 영향",
+            "research_question": "동일 수소 공급경로의 월별·시간별 전력 계수 적용이 탄소강도 및 인증경계의 일관성을 어떻게 바꾸는가?",
+            "methodology": "시간별 전력믹스·전력 매칭·WTW/WtG 경계 및 DQR 비교",
+            "novelty": "시간해상도와 인증경계의 결합 효과 검증 가설. 선행연구·제도 정합성 추가 확인",
+            "data": "KPX 전력믹스, 수전해 LCI, 공개 연료전지·수소기술 기술문헌"
+          }
+        ],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "첨부파일 2026년 수소발전 입찰시장 개설(보도자료)(수소경제 10.30).hwpx(231.7 KB) 2026년 수소발전 입찰시장 개설(보도자료)(수소경제 10.30).pdf(283 KB)",
+          "기후에너지환경부(장관 김성환)는 10월 30일 오후 7시부터 2026년 수소발전 입찰시장을 개설한다고 밝혔다.",
+          "수소발전 입찰시장은 수소 또는 수소화합물을 발전 연료로 사용하여 생산된 전기를 구매·공급하는 제도로, 사용 연료에 따라 청정수소발전과 일반수소발전으로 구분되며, 청정수소발전 입찰시장에는 국내 청정수소 인증기준(수소 1㎏당 온실가스 배출량 4㎏CO2e 이하)을 충족한 연료를 사용하는 발전설비만 참여 가능하다.",
+          "청정수소발전 입찰시장은 무탄소연료인 청정수소 활용 발전을 통한 온실가스 감축을 목적으로 하고 있으며, 올해 개설물량은 500GWh/연(年), 거래기간은 15년이다. 실제 발전은 사업 준비기간(3년)을 거쳐 2030년까지 개시해야 하며, 수소 혼·전소 발전설비의 건설기간 등을 고려하여 최대 3년간의 사업지연 제재(페널티) 유예기간을 부여한다. 우선협상대상자는 가격 지표와 청정수소 활용 등급, 연료도입 안정성, 산업·경제 기여도 등 비가격 지표를 종합적으로 평가하여 내년(2027년) 6월 경에 선정할 계획이다.",
+          "특히, 정부의 2040년 석탄발전 폐지 정책에 발맞추어 올해부터 석탄-암모니아 혼소발전은 청정수소발전 입찰시장 지원 대상에서 제외된다. 또한, 비가격 지표만을 평가하여 선정하는 1차 평가를 신설*하고, 비가격 평가 비중을 기존 40%에서 50%로 확대한다. 이에 따라 비가격 지표(산업경제 기여도, 온실가스 감축 기여도 등)가 평가에서 더욱 중요하게 작용할 전망이다."
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
     },
     {
       "id": "5e8d95d078ce87",
@@ -330,7 +539,7 @@
       "summary": "",
       "insight": "",
       "source_excerpt": "",
-      "review_status": "원문 검토 필요",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
       "verification": "정부 공식 보도자료",
       "priority_score": 23,
       "priority": "우선 검토",
@@ -338,7 +547,39 @@
         "폐기물관리·처리"
       ],
       "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
-      "source_last_attempt": "2026-10-31"
+      "source_last_attempt": "2026-11-03",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "첨부파일 고준위위원회 고준위 방사성폐기물 관리시설 부적합지역 배제기준 확정(보도자료)(고준위 10.30).hwpx(206.9 KB) 고준위위원회 고준위 방사성폐기물 관리시설 부적합지역 배제기준 확정(보도자료)(고준위 10.30).pdf(285.3 KB)",
+          "고준위방사성폐기물관리위원회(위원장 김현권, 이하 고준위위원회)는 10월 30일 오후 석탄회관(서울 종로구 소재)에서 제9차 위원회 회의를 개최하여 ‘고준위 방사성폐기물 관리시설 부적합지역 배제기준(안)’을 의결하고, ‘관리시설 유치지역 등 지원방향(안)’과 ‘기본조사 대상부지 공모방안 검토계획(안)’을 논의했다고 밝혔다.",
+          "첫 번째 안건인 ‘관리시설 부적합지역 배제기준’은 고준위 방사성폐기물을 장기간 안전하게 관리하기에 적합하지 않은 지질학적으로 불안정한 지역이나, 규제·인허가 등으로 부지적합성조사(기본·심층)를 수행하기 곤란한 지역 등을 사전에 배제하기 위한 요건으로, 고준위위원회는 그간 위원회('26.8~9, 2회) 논의, 전문위원회('26.9~10, 4회) 검토 등을 거쳐 12개 부적합지역 배제기준을 도출했다."
+        ],
+        "research_ideas": [
+          {
+            "title": "재자원화 환경편익 산정에서 폐기물 지위와 환경부하 귀속의 영향",
+            "research_question": "폐기물의 원료 전환과 대체편익 반영 범위가 정책단위 감축실적과 제품단위 PCF 간 결과를 어떻게 변화시키는가?",
+            "methodology": "Attributional/Consequential LCA, cut-off·할당·회피배출 규칙을 결합한 시나리오",
+            "novelty": "정책 효과와 제품 탄소발자국의 산정목적·경계 차이에서 발생하는 연구 가설",
+            "data": "공식 정책 문서, 공개 재활용 통계와 공정 LCI. 민간 현장 수율은 확인 필요"
+          }
+        ],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "첨부파일 고준위위원회 고준위 방사성폐기물 관리시설 부적합지역 배제기준 확정(보도자료)(고준위 10.30).hwpx(206.9 KB) 고준위위원회 고준위 방사성폐기물 관리시설 부적합지역 배제기준 확정(보도자료)(고준위 10.30).pdf(285.3 KB)",
+          "고준위방사성폐기물관리위원회(위원장 김현권, 이하 고준위위원회)는 10월 30일 오후 석탄회관(서울 종로구 소재)에서 제9차 위원회 회의를 개최하여 ‘고준위 방사성폐기물 관리시설 부적합지역 배제기준(안)’을 의결하고, ‘관리시설 유치지역 등 지원방향(안)’과 ‘기본조사 대상부지 공모방안 검토계획(안)’을 논의했다고 밝혔다.",
+          "첫 번째 안건인 ‘관리시설 부적합지역 배제기준’은 고준위 방사성폐기물을 장기간 안전하게 관리하기에 적합하지 않은 지질학적으로 불안정한 지역이나, 규제·인허가 등으로 부지적합성조사(기본·심층)를 수행하기 곤란한 지역 등을 사전에 배제하기 위한 요건으로, 고준위위원회는 그간 위원회('26.8~9, 2회) 논의, 전문위원회('26.9~10, 4회) 검토 등을 거쳐 12개 부적합지역 배제기준을 도출했다.",
+          "이에 따라, 관리사업자인 한국원자력환경공단은 올해말까지 문헌조사·현장확인 등을 통해 부적합지역 배제 작업을 완료하고 기본조사 후보부지(부적합지역 배제기준 미해당 부지) 지도 데이터를 공개할 계획이며, 내년에는 기본조사 후보부지 관할 지방정부(시·군·구)를 대상으로 민주적이고 투명한 공모 절차를 통해 기본조사 대상부지를 선정해 나갈 계획이다.",
+          "아울러, 고준위위원회는 내년 기본조사 대상부지 공모에 대비하여 주민 수용성을 제고하고, 지방정부들의 공모 참여를 활성화하기 위한 지원방안도 논의하였다. 세부적으로는 부지적합성조사(기본·심층) 대상지역에는 최종 부지 선정까지 장기간이 소요됨을 감안하여 관계부처 협의를 통해 일정규모의 지원금을 지원할 계획이며, 관리시설 유치·주변지역에는 내년 부지 공모시 특별지원금·반입수수료 등 잠정 지원규모를 제시하되, 최종 지원방안은 ‘고준위 방사성폐기물 관리에 관한 특별법’에 따라 심층조사 대상부지 선정 이후 국무총리 주재 유치지역 지원위원회를 구성하여 결정·지원해 나갈 계획이다."
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
     },
     {
       "id": "1735ee93d39e34",
