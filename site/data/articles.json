@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-11-03T01:00:50+00:00",
+  "updated_at": "2026-11-04T01:04:03+00:00",
   "collector": "GitHub Actions / official government sources + Crossref",
   "profile_version": "2026-10-10",
-  "new_items": 3,
+  "new_items": 8,
   "source_health": {
     "ok": [
       "기후에너지환경부",
@@ -27,15 +27,424 @@
       "Crossref: automotive parts product carbon footprint",
       "Crossref: hydrogen well to wheel life cycle assessment",
       "Crossref: hydrogen life cycle assessment",
-      "Crossref: bioenergy avoided emissions carbon removals"
-    ],
-    "errors": [
-      "EU 집행위원회 역내시장·산업총국",
+      "Crossref: bioenergy avoided emissions carbon removals",
       "Crossref: product environmental footprint ecodesign regulation",
       "Crossref: mass balance recycling chain of custody"
+    ],
+    "errors": [
+      "EU 집행위원회 역내시장·산업총국"
     ]
   },
   "articles": [
+    {
+      "id": "59118a0d9fa6d6",
+      "date": "2026-11-04",
+      "category": "국제 정책",
+      "region": "영국",
+      "title": "“We must keep up the pressure”: Environment Secretary forms new Waste Crime Crackdown Group",
+      "source": "영국 환경식품농촌부 (Defra)",
+      "url": "https://www.gov.uk/government/news/we-must-keep-up-the-pressure-environment-secretary-forms-new-waste-crime-crackdown-group",
+      "doi": "",
+      "tags": [],
+      "document_type": "정책·발표",
+      "link_status": "원문 연결 확인",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "Ministers, police, Mayors and local authorities join forces to target organised waste crime",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "기관 공식 피드",
+      "priority_score": 0,
+      "priority": "참고",
+      "priority_reasons": [],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-11-04",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "Ministers, police, Mayors and local authorities join forces to target organised waste crime",
+          "The net is closing on the criminal gangs behind illegal dumping, as Environment Secretary Dame Angela Eagle today (4 November 2026) brings police, regulators and local leaders together to step up enforcement against waste crime.",
+          "The new Waste Crime Crackdown Group will drive forward action by identifying the weaknesses in the waste system that criminals exploit and removing blockers for change. They share one aim: to shut down the organised waste gangs."
+        ],
+        "research_ideas": [
+          {
+            "title": "재자원화 환경편익 산정에서 폐기물 지위와 환경부하 귀속의 영향",
+            "research_question": "폐기물의 원료 전환과 대체편익 반영 범위가 정책단위 감축실적과 제품단위 PCF 간 결과를 어떻게 변화시키는가?",
+            "methodology": "Attributional/Consequential LCA, cut-off·할당·회피배출 규칙을 결합한 시나리오",
+            "novelty": "정책 효과와 제품 탄소발자국의 산정목적·경계 차이에서 발생하는 연구 가설",
+            "data": "공식 정책 문서, 공개 재활용 통계와 공정 LCI. 민간 현장 수율은 확인 필요"
+          }
+        ],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "Ministers, police, Mayors and local authorities join forces to target organised waste crime",
+          "The net is closing on the criminal gangs behind illegal dumping, as Environment Secretary Dame Angela Eagle today (4 November 2026) brings police, regulators and local leaders together to step up enforcement against waste crime.",
+          "The new Waste Crime Crackdown Group will drive forward action by identifying the weaknesses in the waste system that criminals exploit and removing blockers for change. They share one aim: to shut down the organised waste gangs.",
+          "The new Waste Crime Crackdown Group brings police and industry leaders together to share intelligence and close every loophole. Our message to criminals is clear: we’re closing in.",
+          "With loopholes tightened, new powers and financial support from the Government, we are working closely through this Group to make a real difference to communities affected by waste crime."
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
+    {
+      "id": "f193c10f055d69",
+      "date": "2026-11-03",
+      "category": "국내 정책",
+      "region": "한국",
+      "title": "제3차 고준위 방사성폐기물 관리 기본계획 수립을 위한 국민 의견수렴 추진",
+      "source": "기후에너지환경부",
+      "url": "https://mcee.go.kr/m/mob/board/read.do?pagerOffset=0&maxPageItems=10&maxIndexPages=5&searchKey=&searchValue=&menuId=156&orgCd=&boardMasterId=939&boardId=1903710",
+      "doi": "",
+      "tags": [
+        "폐기물관리·처리"
+      ],
+      "document_type": "정책·발표",
+      "link_status": "원문 URL 제공 · 접근 여부 미검증",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "정부 공식 보도자료",
+      "priority_score": 20,
+      "priority": "우선 검토",
+      "priority_reasons": [
+        "폐기물관리·처리"
+      ],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-11-04",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "첨부파일 제3차 고준위 방사성폐기물 관리 기본계획 수립을 위한 국민 의견수렴 추진(보도자료)(고준위 11.3).hwpx(194.4 KB) 제3차 고준위 방사성폐기물 관리 기본계획 수립을 위한 국민 의견수렴 추진(보도자료)(고준위 11.3).pdf(231.2 KB) 별첨파일_★제3차 고준위 방사성폐기물 관리 기본계획(안).pdf(1.7 MB)",
+          "고준위방사성폐기물관리위원회(위원장 김현권, 이하 위원회)는 ‘제3차 고준위 방사성폐기물 관리 기본계획’ 초안에 대한 국민 의견을 폭넓게 수렴하기 위해 11월 4일부터 23일까지 20일간 공람을 실시*한다고 밝혔다.",
+          "* 대한민국 전자관보( www.gwanbo.go.kr ) 및 위원회 누리집( www.hrwc.go.kr ) 게재"
+        ],
+        "research_ideas": [
+          {
+            "title": "재자원화 환경편익 산정에서 폐기물 지위와 환경부하 귀속의 영향",
+            "research_question": "폐기물의 원료 전환과 대체편익 반영 범위가 정책단위 감축실적과 제품단위 PCF 간 결과를 어떻게 변화시키는가?",
+            "methodology": "Attributional/Consequential LCA, cut-off·할당·회피배출 규칙을 결합한 시나리오",
+            "novelty": "정책 효과와 제품 탄소발자국의 산정목적·경계 차이에서 발생하는 연구 가설",
+            "data": "공식 정책 문서, 공개 재활용 통계와 공정 LCI. 민간 현장 수율은 확인 필요"
+          }
+        ],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "첨부파일 제3차 고준위 방사성폐기물 관리 기본계획 수립을 위한 국민 의견수렴 추진(보도자료)(고준위 11.3).hwpx(194.4 KB) 제3차 고준위 방사성폐기물 관리 기본계획 수립을 위한 국민 의견수렴 추진(보도자료)(고준위 11.3).pdf(231.2 KB) 별첨파일_★제3차 고준위 방사성폐기물 관리 기본계획(안).pdf(1.7 MB)",
+          "고준위방사성폐기물관리위원회(위원장 김현권, 이하 위원회)는 ‘제3차 고준위 방사성폐기물 관리 기본계획’ 초안에 대한 국민 의견을 폭넓게 수렴하기 위해 11월 4일부터 23일까지 20일간 공람을 실시*한다고 밝혔다.",
+          "* 대한민국 전자관보( www.gwanbo.go.kr ) 및 위원회 누리집( www.hrwc.go.kr ) 게재",
+          "제3차 고준위 방사성폐기물 관리 기본계획은 ‘고준위 방사성폐기물 관리에 관한 특별법’ 제17조에 따라 수립하는 법정계획으로, 2027년부터 2056년까지 30년간의 고준위 방사성폐기물 관리에 관한 국가정책 방향을 담고 있다.",
+          "설명회에서는 고준위 방사성폐기물 관리사업의 개요와 관리시설 부지선정 절차 및 추진현황, 제3차 기본계획(안)의 주요 내용을 설명하고, 질의응답과 자유토론을 통해 참석자들의 다양한 의견을 청취할 예정이다. 특히 국민과 원전 소재 지역주민을 비롯해 학계 및 전문가 등이 폭넓게 참여하여 자유로운 의견을 교환할 예정이다. 또한, 직접 참석하기 어려운 국민도 관련 내용을 확인할 수 있도록 설명회 영상은 추후 위원회 공식 유튜브 채널에도 게시할 계획이다."
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
+    {
+      "id": "c80621f18da42c",
+      "date": "2026-11-03",
+      "category": "국제 정책",
+      "region": "영국",
+      "title": "Proposed implementation of Fixed Price Certificates into the UK-wide RO schemes",
+      "source": "영국 에너지안보·넷제로부 (DESNZ)",
+      "url": "https://www.gov.uk/government/consultations/proposed-implementation-of-fixed-price-certificates-into-the-uk-wide-ro-schemes",
+      "doi": "",
+      "tags": [],
+      "document_type": "정책·발표",
+      "link_status": "원문 연결 확인",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "We're seeking views on the proposed implementation of Fixed Price Certificates into the UK-wide Renewables Obligation (RO) schemes.",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "기관 공식 피드",
+      "priority_score": 0,
+      "priority": "참고",
+      "priority_reasons": [],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-11-04",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "We're seeking views on the proposed implementation of Fixed Price Certificates into the UK-wide Renewables Obligation (RO) schemes.",
+          "This consultation closes at 11:59pm on 12 January 2027",
+          "This consultation seeks views on the proposed introduction of a Fixed Price Certificate ( FPC ) system to replace the current tradable certificate arrangements under the Renewables Obligation. It asks stakeholders for input on key aspects of the proposed design, including how certificates would be priced and paid, how supplier levies would be set a"
+        ],
+        "research_ideas": [],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "We're seeking views on the proposed implementation of Fixed Price Certificates into the UK-wide Renewables Obligation (RO) schemes.",
+          "This consultation closes at 11:59pm on 12 January 2027",
+          "This consultation seeks views on the proposed introduction of a Fixed Price Certificate ( FPC ) system to replace the current tradable certificate arrangements under the Renewables Obligation. It asks stakeholders for input on key aspects of the proposed design, including how certificates would be priced and paid, how supplier levies would be set a",
+          "The consultation is aimed at a wide range of stakeholders, particularly:",
+          "renewable electricity generators currently supported under the RO"
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
+    {
+      "id": "b71c12632041fc",
+      "date": "2026-11-03",
+      "category": "국제 정책",
+      "region": "영국",
+      "title": "Official Statistics: CS, ES and SFI option uptake data 2026",
+      "source": "영국 환경식품농촌부 (Defra)",
+      "url": "https://www.gov.uk/government/statistics/announcements/cs-es-and-sfi-option-uptake-data-2026",
+      "doi": "",
+      "tags": [
+        "SFI"
+      ],
+      "document_type": "정책·발표",
+      "link_status": "원문 연결 확인",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "Countryside Stewardship, Environmental Stewardship and Sustainable Farming Incentive option uptake data as of 1st October 2026",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "기관 공식 피드",
+      "priority_score": 0,
+      "priority": "참고",
+      "priority_reasons": [],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-11-04",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "Countryside Stewardship, Environmental Stewardship and Sustainable Farming Incentive option uptake data as of 1st October 2026"
+        ],
+        "research_ideas": [],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "Countryside Stewardship, Environmental Stewardship and Sustainable Farming Incentive option uptake data as of 1st October 2026"
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
+    {
+      "id": "52ce1ee93ee9c3",
+      "date": "2026-11-03",
+      "category": "국제 정책",
+      "region": "영국",
+      "title": "Record allocation of off-site biodiversity gains to a development",
+      "source": "영국 환경식품농촌부 (Defra)",
+      "url": "https://www.gov.uk/guidance/record-allocation-of-off-site-biodiversity-gains-to-a-development",
+      "doi": "",
+      "tags": [
+        "할당·시스템경계"
+      ],
+      "document_type": "정책·발표",
+      "link_status": "원문 연결 확인",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "Find out what to do and how much it costs to record allocation of off-site biodiversity gains to a development.",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "기관 공식 피드",
+      "priority_score": 24,
+      "priority": "필독",
+      "priority_reasons": [
+        "할당·시스템경계"
+      ],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-11-04",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "Find out what to do and how much it costs to record allocation of off-site biodiversity gains to a development.",
+          "You can apply to record allocation of off-site biodiversity gains to a development if you’re:",
+          "You must be authorised by the applicant which is either the landowner, leaseholder or another person, to record allocation of off-site biodiversity gains to a development on their behalf. They must complete an ‘authorise an agent to act on your behalf’ form . You must include this with your application."
+        ],
+        "research_ideas": [],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "Find out what to do and how much it costs to record allocation of off-site biodiversity gains to a development.",
+          "You can apply to record allocation of off-site biodiversity gains to a development if you’re:",
+          "You must be authorised by the applicant which is either the landowner, leaseholder or another person, to record allocation of off-site biodiversity gains to a development on their behalf. They must complete an ‘authorise an agent to act on your behalf’ form . You must include this with your application.",
+          "It costs £45 to record the allocation of off-site gains to a development.",
+          "your application to record the allocation of off-site gains to a development has been accepted or rejected"
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
+    {
+      "id": "4bf6cc7f7eb36b",
+      "date": "2026-11-03",
+      "category": "국제 정책",
+      "region": "영국",
+      "title": "Guidance: UK ETS technical guidance: Monitoring and Reporting Regulation (MRR) 2018",
+      "source": "영국 에너지안보·넷제로부 (DESNZ)",
+      "url": "https://www.gov.uk/government/publications/uk-ets-technical-guidance-monitoring-and-reporting-regulation-mrr-2018",
+      "doi": "",
+      "tags": [
+        "탄소배출권·GHG",
+        "ETS",
+        "MRR"
+      ],
+      "document_type": "법령·규제",
+      "link_status": "원문 연결 확인",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "Technical guidance to assist UK ETS installation operators in complying with the requirements that relate to the Monitoring and Reporting Regulation (MRR) 2018.",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "기관 공식 피드",
+      "priority_score": 15,
+      "priority": "우선 검토",
+      "priority_reasons": [
+        "탄소배출권·GHG"
+      ],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-11-04",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "Technical guidance to assist UK ETS installation operators in complying with the requirements that relate to the Monitoring and Reporting Regulation (MRR) 2018.",
+          "Technical guidance to assist UK ETS installation operators in complying with the requirements that relate to the Monitoring and Reporting Regulation 2018 ( MRR ).",
+          "Provides guidance to operators of installations on understanding the key concepts and requirements of the Monitoring and Reporting Regulation ( MRR )."
+        ],
+        "research_ideas": [],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "Technical guidance to assist UK ETS installation operators in complying with the requirements that relate to the Monitoring and Reporting Regulation (MRR) 2018.",
+          "Technical guidance to assist UK ETS installation operators in complying with the requirements that relate to the Monitoring and Reporting Regulation 2018 ( MRR ).",
+          "Provides guidance to operators of installations on understanding the key concepts and requirements of the Monitoring and Reporting Regulation ( MRR ).",
+          "Assists operators of stationary installations understand the requirements for monitoring and reporting biomass in the UK ETS .",
+          "This guidance is for operators of installations and aircraft operators and covers the options for describing data flow activities for monitoring in the UK ETS , the risk assessment as part of the control system, and examples of control activities."
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
+    {
+      "id": "33c576d3322491",
+      "date": "2026-11-03",
+      "category": "국제 정책",
+      "region": "영국",
+      "title": "Guidance: UK ETS technical guidance: Free Allocation Regulation (FAR)",
+      "source": "영국 에너지안보·넷제로부 (DESNZ)",
+      "url": "https://www.gov.uk/government/publications/uk-ets-technical-guidance-free-allocation-regulation-far",
+      "doi": "",
+      "tags": [
+        "할당·시스템경계",
+        "탄소배출권·GHG",
+        "ETS",
+        "FAR"
+      ],
+      "document_type": "법령·규제",
+      "link_status": "원문 연결 확인",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "Technical guidance to assist UK ETS installation operators in complying with the requirements that relate to the Free Allocation Regulation (FAR).",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "기관 공식 피드",
+      "priority_score": 39,
+      "priority": "필독",
+      "priority_reasons": [
+        "할당·시스템경계",
+        "탄소배출권·GHG"
+      ],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-11-04",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "Technical guidance to assist UK ETS installation operators in complying with the requirements that relate to the Free Allocation Regulation (FAR).",
+          "Guidance related to the 2025 baseline data collection has been removed as it no longer applies.",
+          "These guidance documents are for operators and explain the different elements of free allocation applications and calculations:"
+        ],
+        "research_ideas": [],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "Technical guidance to assist UK ETS installation operators in complying with the requirements that relate to the Free Allocation Regulation (FAR).",
+          "Guidance related to the 2025 baseline data collection has been removed as it no longer applies.",
+          "These guidance documents are for operators and explain the different elements of free allocation applications and calculations:",
+          "UK ETS 14 FAR : Verification of FAR baseline data reports, annual activity level data, and validation of MMPs provides guidance on the verification of data relevant to the free allocation of allowances (baseline data and activity level data) as well as the accreditation of verifiers that conduct verification activities under the UK ETS .",
+          "UK ETS 16A FAR : Reporting on cessation of operations provides guidance to operators for when an installation or sub-installation has ceased operation, the impact on permit surrender and free allocation and the circumstances in which a decarbonisation exemption may apply."
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
+    {
+      "id": "1ae0d8e98b994b",
+      "date": "2026-11-03",
+      "category": "국제 정책",
+      "region": "영국",
+      "title": "Policy paper: Environment Act 2021: Post Legislative Scrutiny Memorandum",
+      "source": "영국 환경식품농촌부 (Defra)",
+      "url": "https://www.gov.uk/government/publications/environment-act-2021-post-legislative-scrutiny-memorandum",
+      "doi": "",
+      "tags": [],
+      "document_type": "법령·규제",
+      "link_status": "원문 연결 확인",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "Post-legislative scrutiny of the Environment Act 2021, assessing its implementation, achievements and challenges.",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "기관 공식 피드",
+      "priority_score": 0,
+      "priority": "참고",
+      "priority_reasons": [],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-11-04",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "Post-legislative scrutiny of the Environment Act 2021, assessing its implementation, achievements and challenges.",
+          "Environment Act 2021: Post Legislative Scrutiny Memorandum",
+          "This file may not be suitable for users of assistive technology."
+        ],
+        "research_ideas": [],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "Post-legislative scrutiny of the Environment Act 2021, assessing its implementation, achievements and challenges.",
+          "Environment Act 2021: Post Legislative Scrutiny Memorandum",
+          "This file may not be suitable for users of assistive technology.",
+          "This post-legislative scrutiny considers how the Environment Act 2021 has worked in practice since it received Royal Assent 5 years ago. The memorandum reviews how the legislation has been implemented and whether it is working as intended."
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
     {
       "id": "80437594867132",
       "date": "2026-11-02",
