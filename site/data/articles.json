@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-11-06T01:08:34+00:00",
+  "updated_at": "2026-11-07T00:59:15+00:00",
   "collector": "GitHub Actions / official government sources + Crossref",
   "profile_version": "2026-10-10",
-  "new_items": 4,
+  "new_items": 2,
   "source_health": {
     "ok": [
       "기후에너지환경부",
@@ -19,23 +19,124 @@
       "프랑스 생태전환부",
       "Crossref: dynamic life cycle assessment",
       "Crossref: prospective life cycle assessment",
-      "Crossref: consequential life cycle assessment allocation",
-      "Crossref: waste management life cycle assessment",
-      "Crossref: end of life vehicles environmental impact",
-      "Crossref: bioenergy avoided emissions carbon removals"
+      "Crossref: end of life vehicles environmental impact"
     ],
     "errors": [
       "EU 집행위원회 역내시장·산업총국",
+      "Crossref: consequential life cycle assessment allocation",
+      "Crossref: waste management life cycle assessment",
       "Crossref: extended producer responsibility life cycle",
       "Crossref: recycling recycled plastics product carbon footprint",
       "Crossref: automotive parts product carbon footprint",
       "Crossref: hydrogen well to wheel life cycle assessment",
       "Crossref: hydrogen life cycle assessment",
+      "Crossref: bioenergy avoided emissions carbon removals",
       "Crossref: product environmental footprint ecodesign regulation",
       "Crossref: mass balance recycling chain of custody"
     ]
   },
   "articles": [
+    {
+      "id": "589887c734e1e8",
+      "date": "2026-11-06",
+      "category": "국제 정책",
+      "region": "미국",
+      "title": "Air Plan Approval; California; Revised Format for Materials Incorporated by Reference",
+      "source": "미국 Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/11/06/2026-22671/air-plan-approval-california-revised-format-for-materials-incorporated-by-reference",
+      "doi": "",
+      "tags": [],
+      "document_type": "법령·규제",
+      "link_status": "원문 연결 확인",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "The U.S. Environmental Protection Agency (EPA) is revising the format for materials submitted by the State of California that are incorporated by reference into the California State Implementation Plan (SIP). The regulations and other materials affected by this format change have all been previously submitted by the State of California and approved by the EPA. This format revision will primarily affect the \"Identification of plan--in part\" sections, as well as the format of the SIP materials that will be available for public inspection at the E",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "미국 연방 관보 공식 기록",
+      "regulatory_status": "Rule",
+      "priority_score": 0,
+      "priority": "참고",
+      "priority_reasons": [],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-11-07",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "Due to aggressive automated scraping of FederalRegister.gov and eCFR.gov, programmatic access to these sites is limited to access to our extensive developer APIs. Please visit FederalRegister.gov API documentation or eCFR.gov API documentation to learn more about how to access the API.",
+          "Your request has been flagged as potentially automated. If you are human user receiving this message, please complete the CAPTCHA (bot test) below and click \"Request Access\". You may occassionally be asked to complete the CAPTCHA again, this is normal and part of our security measures.",
+          "An official website of the United States government."
+        ],
+        "research_ideas": [],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "Due to aggressive automated scraping of FederalRegister.gov and eCFR.gov, programmatic access to these sites is limited to access to our extensive developer APIs. Please visit FederalRegister.gov API documentation or eCFR.gov API documentation to learn more about how to access the API.",
+          "Your request has been flagged as potentially automated. If you are human user receiving this message, please complete the CAPTCHA (bot test) below and click \"Request Access\". You may occassionally be asked to complete the CAPTCHA again, this is normal and part of our security measures.",
+          "An official website of the United States government.",
+          "If you experiencing issues with the CAPTCHA or want to request a wider IP range, you can use the \"Site Help\" button found in the lower, right of this page to make a request.",
+          "This contact form is only for IP Access help. Please do not provide confidential information or personal data."
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
+    {
+      "id": "44a6747bf1883e",
+      "date": "2026-11-06",
+      "category": "국제 정책",
+      "region": "영국",
+      "title": "Official Statistics: Boiler Upgrade Scheme: November 2026",
+      "source": "영국 에너지안보·넷제로부 (DESNZ)",
+      "url": "https://www.gov.uk/government/statistics/announcements/boiler-upgrade-scheme-november-2026",
+      "doi": "",
+      "tags": [
+        "바이오에너지·유기성 폐자원"
+      ],
+      "document_type": "정책·발표",
+      "link_status": "원문 연결 확인",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "Data monitoring the uptake of low carbon technologies on the Boiler Upgrade Scheme (BUS), including the installation of air source heat pumps, ground source heat pumps and biomass boilers.",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "기관 공식 피드",
+      "priority_score": 10,
+      "priority": "참고",
+      "priority_reasons": [
+        "바이오에너지·유기성 폐자원"
+      ],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-11-07",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "Data monitoring the uptake of low carbon technologies on the Boiler Upgrade Scheme (BUS), including the installation of air source heat pumps, ground source heat pumps and biomass boilers."
+        ],
+        "research_ideas": [
+          {
+            "title": "온실가스 감축정책 지표와 LCA 환경편익 산정의 경계 정합성",
+            "research_question": "정책상 감축실적의 기준선과 제품 전과정 산정의 기준선 차이는 어떻게 비교가능성을 제한하는가?",
+            "methodology": "시스템경계·기준선·할당 및 불확실성에 관한 방법론 대조",
+            "novelty": "정책 지표와 제품 지표의 목적·범위 차이를 규명하는 연구 가설",
+            "data": "공개 규정·배출계수·LCI DB 및 제도 운영 자료"
+          }
+        ],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "Data monitoring the uptake of low carbon technologies on the Boiler Upgrade Scheme (BUS), including the installation of air source heat pumps, ground source heat pumps and biomass boilers."
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
     {
       "id": "76960e49448961",
       "date": "2026-11-05",
