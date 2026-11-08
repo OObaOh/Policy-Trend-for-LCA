@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-11-07T00:59:15+00:00",
+  "updated_at": "2026-11-08T01:04:10+00:00",
   "collector": "GitHub Actions / official government sources + Crossref",
   "profile_version": "2026-10-10",
-  "new_items": 2,
+  "new_items": 0,
   "source_health": {
     "ok": [
       "기후에너지환경부",
@@ -19,11 +19,12 @@
       "프랑스 생태전환부",
       "Crossref: dynamic life cycle assessment",
       "Crossref: prospective life cycle assessment",
-      "Crossref: end of life vehicles environmental impact"
+      "Crossref: consequential life cycle assessment allocation",
+      "Crossref: end of life vehicles environmental impact",
+      "Crossref: product environmental footprint ecodesign regulation"
     ],
     "errors": [
       "EU 집행위원회 역내시장·산업총국",
-      "Crossref: consequential life cycle assessment allocation",
       "Crossref: waste management life cycle assessment",
       "Crossref: extended producer responsibility life cycle",
       "Crossref: recycling recycled plastics product carbon footprint",
@@ -31,7 +32,6 @@
       "Crossref: hydrogen well to wheel life cycle assessment",
       "Crossref: hydrogen life cycle assessment",
       "Crossref: bioenergy avoided emissions carbon removals",
-      "Crossref: product environmental footprint ecodesign regulation",
       "Crossref: mass balance recycling chain of custody"
     ]
   },
@@ -625,13 +625,37 @@
       "summary": "",
       "insight": "",
       "source_excerpt": "",
-      "review_status": "원문 검토 필요",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
       "verification": "정부 공식 보도자료",
       "priority_score": 0,
       "priority": "참고",
       "priority_reasons": [],
       "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
-      "source_last_attempt": "2026-11-05"
+      "source_last_attempt": "2026-11-08",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "첨부파일 기후에너지환경부 경제협력개발기구 화학·생명공학위원회 의장단으로 활동(보도자료)(화학물질정책 11.4).hwpx(1.2 MB) 기후에너지환경부 경제협력개발기구 화학·생명공학위원회 의장단으로 활동(보도자료)(화학물질정책 11.4).pdf(340.1 KB)",
+          "기후에너지환경부(장관 김성환)는 정경화 기후에너지환경부 화학물질정책과장이 10월 29일(프랑스 현지 기준)부터 경제협력개발기구(OECD) 화학·생명공학위원회(Chemicals and Biotechnology Committee) 부의장(임기 3년)으로 활동할 예정이라고 밝혔다.",
+          "화학·생명공학위원회는 경제협력개발기구 산하 33개 부문별 전문위원회 중 하나이며, △회원국과 비회원국의 화학물질 관리 제도 수립·운영 지원, △국가 간 규제·관리 방법 조화, △산하 작업반 활동 점검·승인 등을 진행하고 있다."
+        ],
+        "research_ideas": [],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "첨부파일 기후에너지환경부 경제협력개발기구 화학·생명공학위원회 의장단으로 활동(보도자료)(화학물질정책 11.4).hwpx(1.2 MB) 기후에너지환경부 경제협력개발기구 화학·생명공학위원회 의장단으로 활동(보도자료)(화학물질정책 11.4).pdf(340.1 KB)",
+          "기후에너지환경부(장관 김성환)는 정경화 기후에너지환경부 화학물질정책과장이 10월 29일(프랑스 현지 기준)부터 경제협력개발기구(OECD) 화학·생명공학위원회(Chemicals and Biotechnology Committee) 부의장(임기 3년)으로 활동할 예정이라고 밝혔다.",
+          "화학·생명공학위원회는 경제협력개발기구 산하 33개 부문별 전문위원회 중 하나이며, △회원국과 비회원국의 화학물질 관리 제도 수립·운영 지원, △국가 간 규제·관리 방법 조화, △산하 작업반 활동 점검·승인 등을 진행하고 있다.",
+          "이번에 부의장으로 선출된 정경화 화학물질정책과장은 국제협력과장, 화학안전과장, 혁신행정담당관 등을 역임했고, 경제협력개발기구 사무국에서 정책분석관으로 근무하는 등 환경·화학 분야에 대한 전문 지식과 풍부한 실무 경험을 갖춘 전문가다.",
+          "기후에너지환경부는 이번 화학·생명공학위원회 의장단 활동을 계기로 경제협력개발기구를 비롯한 화학물질 안전관리와 관련 국제기구 활동에 적극적으로 참여하여 이 분야에서 국제적인 위상을 높이고, 국제 논의에서 우리나라의 입장이 반영될 수 있도록 노력해 나갈 계획이다."
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
     },
     {
       "id": "22ccfa2a1f2a79",
@@ -648,13 +672,45 @@
       "summary": "",
       "insight": "",
       "source_excerpt": "",
-      "review_status": "원문 검토 필요",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
       "verification": "정부 공식 보도자료",
       "priority_score": 0,
       "priority": "참고",
       "priority_reasons": [],
       "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
-      "source_last_attempt": "2026-11-05"
+      "source_last_attempt": "2026-11-08",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "첨부파일 ‘녹조 예측력 향상’ 위한 담수 조류 탄소량 산정기법 개발(보도자료)(과학원 11.4).hwpx(2.6 MB) ‘녹조 예측력 향상’ 위한 담수 조류 탄소량 산정기법 개발(보도자료)(과학원 11.4).pdf(455.3 KB)",
+          "기후에너지환경부 소속 국립환경과학원(원장 김영우)은 녹조 발생 예측력 향상을 위해 국내 담수 식물플랑크톤 36종을 대상으로 탄소량을 정밀 분석하고, 생물 특성을 반영한 분류군별 탄소 산정식을 국내 최초로 개발했다고 밝혔다.",
+          "그동안 학계와 현장 연구에서는 국내 담수 생태계의 환경 및 조류 특성과 차이가 있는 해양 생물 자료를 바탕으로 국외에서 개발된 탄소 산정식*을 활용해 왔다. 이로 인해 유해남조류 등 녹조를 구성하는 주요 식물플랑크톤의 탄소 생물량을 산정하는 과정에서 상당한 오차가 발생했다."
+        ],
+        "research_ideas": [
+          {
+            "title": "온실가스 감축정책 지표와 LCA 환경편익 산정의 경계 정합성",
+            "research_question": "정책상 감축실적의 기준선과 제품 전과정 산정의 기준선 차이는 어떻게 비교가능성을 제한하는가?",
+            "methodology": "시스템경계·기준선·할당 및 불확실성에 관한 방법론 대조",
+            "novelty": "정책 지표와 제품 지표의 목적·범위 차이를 규명하는 연구 가설",
+            "data": "공개 규정·배출계수·LCI DB 및 제도 운영 자료"
+          }
+        ],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "첨부파일 ‘녹조 예측력 향상’ 위한 담수 조류 탄소량 산정기법 개발(보도자료)(과학원 11.4).hwpx(2.6 MB) ‘녹조 예측력 향상’ 위한 담수 조류 탄소량 산정기법 개발(보도자료)(과학원 11.4).pdf(455.3 KB)",
+          "기후에너지환경부 소속 국립환경과학원(원장 김영우)은 녹조 발생 예측력 향상을 위해 국내 담수 식물플랑크톤 36종을 대상으로 탄소량을 정밀 분석하고, 생물 특성을 반영한 분류군별 탄소 산정식을 국내 최초로 개발했다고 밝혔다.",
+          "그동안 학계와 현장 연구에서는 국내 담수 생태계의 환경 및 조류 특성과 차이가 있는 해양 생물 자료를 바탕으로 국외에서 개발된 탄소 산정식*을 활용해 왔다. 이로 인해 유해남조류 등 녹조를 구성하는 주요 식물플랑크톤의 탄소 생물량을 산정하는 과정에서 상당한 오차가 발생했다.",
+          "* 해양 식물플랑크톤·원생생물 기반 생물체적-탄소량 관계식(Menden-Deuer & Lessard, 2000)",
+          "이에 국립환경과학원은 2025년 ‘낙동강 녹조 대발생의 기원 추적 및 기후변화에 따른 발생량 예측 연구’ 사업을 통해 국내 하천 및 호소에 서식하는 주요 식물플랑크톤 36종에 맞는 탄소 산정식을 개발했다."
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
     },
     {
       "id": "161f3860f50c89",
