@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-11-08T01:04:10+00:00",
+  "updated_at": "2026-11-09T01:08:07+00:00",
   "collector": "GitHub Actions / official government sources + Crossref",
   "profile_version": "2026-10-10",
-  "new_items": 0,
+  "new_items": 2,
   "source_health": {
     "ok": [
       "기후에너지환경부",
@@ -18,24 +18,135 @@
       "독일 연방환경부",
       "프랑스 생태전환부",
       "Crossref: dynamic life cycle assessment",
-      "Crossref: prospective life cycle assessment",
       "Crossref: consequential life cycle assessment allocation",
-      "Crossref: end of life vehicles environmental impact",
-      "Crossref: product environmental footprint ecodesign regulation"
-    ],
-    "errors": [
-      "EU 집행위원회 역내시장·산업총국",
-      "Crossref: waste management life cycle assessment",
       "Crossref: extended producer responsibility life cycle",
-      "Crossref: recycling recycled plastics product carbon footprint",
+      "Crossref: end of life vehicles environmental impact",
       "Crossref: automotive parts product carbon footprint",
       "Crossref: hydrogen well to wheel life cycle assessment",
       "Crossref: hydrogen life cycle assessment",
       "Crossref: bioenergy avoided emissions carbon removals",
+      "Crossref: product environmental footprint ecodesign regulation"
+    ],
+    "errors": [
+      "EU 집행위원회 역내시장·산업총국",
+      "Crossref: prospective life cycle assessment",
+      "Crossref: waste management life cycle assessment",
+      "Crossref: recycling recycled plastics product carbon footprint",
       "Crossref: mass balance recycling chain of custody"
     ]
   },
   "articles": [
+    {
+      "id": "0d3edfc3f3977c",
+      "date": "2026-11-09",
+      "category": "국제 정책",
+      "region": "미국",
+      "title": "National Emission Standards for Hazardous Air Pollutants: Polyvinyl Chloride and Copolymer Production Reconsideration; New Major Source Process Wastewater Standards",
+      "source": "미국 Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/11/09/2026-22788/national-emission-standards-for-hazardous-air-pollutants-polyvinyl-chloride-and-copolymer-production",
+      "doi": "",
+      "tags": [],
+      "document_type": "법령·규제",
+      "link_status": "원문 연결 확인",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "The U.S. Environmental Protection Agency (EPA) is finalizing amendments to the national emission standards for hazardous air pollutants (NESHAP) for the Polyvinyl Chloride (PVC) and Copolymer Production source category (\"PVC NESHAP\") under Clean Air Act (CAA) section 112. For new major sources, the EPA is finalizing the removal of the total non-vinyl chloride organic hazardous air pollutant (HAP) process wastewater emission limit and the associated testing, monitoring, recordkeeping, and reporting requirements. The EPA is also finalizing that t",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "미국 연방 관보 공식 기록",
+      "regulatory_status": "Rule",
+      "priority_score": 0,
+      "priority": "참고",
+      "priority_reasons": [],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-11-09",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "Due to aggressive automated scraping of FederalRegister.gov and eCFR.gov, programmatic access to these sites is limited to access to our extensive developer APIs. Please visit FederalRegister.gov API documentation or eCFR.gov API documentation to learn more about how to access the API.",
+          "Your request has been flagged as potentially automated. If you are human user receiving this message, please complete the CAPTCHA (bot test) below and click \"Request Access\". You may occassionally be asked to complete the CAPTCHA again, this is normal and part of our security measures.",
+          "An official website of the United States government."
+        ],
+        "research_ideas": [
+          {
+            "title": "온실가스 감축정책 지표와 LCA 환경편익 산정의 경계 정합성",
+            "research_question": "정책상 감축실적의 기준선과 제품 전과정 산정의 기준선 차이는 어떻게 비교가능성을 제한하는가?",
+            "methodology": "시스템경계·기준선·할당 및 불확실성에 관한 방법론 대조",
+            "novelty": "정책 지표와 제품 지표의 목적·범위 차이를 규명하는 연구 가설",
+            "data": "공개 규정·배출계수·LCI DB 및 제도 운영 자료"
+          }
+        ],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "Due to aggressive automated scraping of FederalRegister.gov and eCFR.gov, programmatic access to these sites is limited to access to our extensive developer APIs. Please visit FederalRegister.gov API documentation or eCFR.gov API documentation to learn more about how to access the API.",
+          "Your request has been flagged as potentially automated. If you are human user receiving this message, please complete the CAPTCHA (bot test) below and click \"Request Access\". You may occassionally be asked to complete the CAPTCHA again, this is normal and part of our security measures.",
+          "An official website of the United States government.",
+          "If you experiencing issues with the CAPTCHA or want to request a wider IP range, you can use the \"Site Help\" button found in the lower, right of this page to make a request.",
+          "This contact form is only for IP Access help. Please do not provide confidential information or personal data."
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
+    {
+      "id": "79b726becb2426",
+      "date": "2026-11-08",
+      "category": "국제 정책",
+      "region": "독일",
+      "title": "Deutschland auf der Weltklimakonferenz in Antalya: Pariser Klimaabkommen schneller umsetzen",
+      "source": "독일 연방환경부(BMUKN)",
+      "url": "https://www.bundesumweltministerium.de/pressemitteilung/deutschland-auf-der-weltklimakonferenz-in-antalya-pariser-klimaabkommen-schneller-umsetzen",
+      "doi": "",
+      "tags": [],
+      "document_type": "정책·발표",
+      "link_status": "원문 연결 확인",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "Am 9. November 2026 beginnt im türkischen Antalya die 31. Weltklimakonferenz der Vereinten Nationen (COP31). Bundesumweltminister Carsten Schneider steigt in der zweiten Konferenzwoche vor Ort in die Verhandlungen ein.",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "기관 공식 피드",
+      "priority_score": 0,
+      "priority": "참고",
+      "priority_reasons": [],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-11-09",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "Am Montag, dem 9. November 2026, beginnt im türkischen Antalya die 31. Weltklimakonferenz der Vereinten Nationen (COP31). Bis zum 20. November beraten die Vertragsstaaten darüber, wie sie das Pariser Klimaabkommen schneller umsetzen können. Die bisherigen nationalen Klimaschutzbeiträge für 2035 reichen in der Summe nicht aus, um die Erderwärmung au",
+          "Bundesumweltminister Carsten Schneider: \"Je schneller die weltweiten Emissionen sinken, desto schneller können wir die Temperaturkurve wieder auf 1,5 Grad drücken. Zugleich müssen wir die Menschen besser vor den Folgen von Hitze, Dürren und Überschwemmungen schützen. In Antalya wollen wir dabei so konkret wie möglich werden. Die geoökonomische Lage",
+          "Bundesaußenminister Dr. Johann Wadephul: \"Die Lage der kleinen Inselstaaten zeigt uns sehr konkret, wie existenziell die Folgen des Klimawandels schon heute sind: Viele drohen buchstäblich im Meer zu versinken. Ihre Stimme muss bei der Weltklimakonferenz deshalb gehört werden. Denn für sie ist der Klimawandel eine ganz akute Sicherheitsbedrohung, d"
+        ],
+        "research_ideas": [
+          {
+            "title": "온실가스 감축정책 지표와 LCA 환경편익 산정의 경계 정합성",
+            "research_question": "정책상 감축실적의 기준선과 제품 전과정 산정의 기준선 차이는 어떻게 비교가능성을 제한하는가?",
+            "methodology": "시스템경계·기준선·할당 및 불확실성에 관한 방법론 대조",
+            "novelty": "정책 지표와 제품 지표의 목적·범위 차이를 규명하는 연구 가설",
+            "data": "공개 규정·배출계수·LCI DB 및 제도 운영 자료"
+          }
+        ],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "Am Montag, dem 9. November 2026, beginnt im türkischen Antalya die 31. Weltklimakonferenz der Vereinten Nationen (COP31). Bis zum 20. November beraten die Vertragsstaaten darüber, wie sie das Pariser Klimaabkommen schneller umsetzen können. Die bisherigen nationalen Klimaschutzbeiträge für 2035 reichen in der Summe nicht aus, um die Erderwärmung au",
+          "Bundesumweltminister Carsten Schneider: \"Je schneller die weltweiten Emissionen sinken, desto schneller können wir die Temperaturkurve wieder auf 1,5 Grad drücken. Zugleich müssen wir die Menschen besser vor den Folgen von Hitze, Dürren und Überschwemmungen schützen. In Antalya wollen wir dabei so konkret wie möglich werden. Die geoökonomische Lage",
+          "Bundesaußenminister Dr. Johann Wadephul: \"Die Lage der kleinen Inselstaaten zeigt uns sehr konkret, wie existenziell die Folgen des Klimawandels schon heute sind: Viele drohen buchstäblich im Meer zu versinken. Ihre Stimme muss bei der Weltklimakonferenz deshalb gehört werden. Denn für sie ist der Klimawandel eine ganz akute Sicherheitsbedrohung, d",
+          "Die 31. Weltklimakonferenz wird erstmals von zwei Präsidentschaften geleitet: Die Türkei ist als COP-Präsidentschaft unter anderem für die Ausrichtung sowie Organisation und für die sogenannte Action Agenda (zur Umsetzung des Pariser Abkommens) verantwortlich. Australien firmiert als Verhandlungs-Präsidentschaft. Zu Australiens Aufgaben gehören die",
+          "Grundlage für das gemeinsame Auftreten der Europäischen Union sind die Schlussfolgerungen des EU-Umweltrats vom 12. Oktober. Zu den Prioritäten gehören der Ausbau erneuerbarer Energien, mehr Energieeffizienz und die schrittweise Abkehr von fossilen Brennstoffen. Deutschland hat dazu einen nationalen Fahrplan vorgelegt. In Antalya setzt sich die Bun"
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
     {
       "id": "589887c734e1e8",
       "date": "2026-11-06",
