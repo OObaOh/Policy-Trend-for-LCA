@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-11-09T01:08:07+00:00",
+  "updated_at": "2026-11-10T01:02:47+00:00",
   "collector": "GitHub Actions / official government sources + Crossref",
   "profile_version": "2026-10-10",
-  "new_items": 2,
+  "new_items": 7,
   "source_health": {
     "ok": [
       "기후에너지환경부",
@@ -18,24 +18,330 @@
       "독일 연방환경부",
       "프랑스 생태전환부",
       "Crossref: dynamic life cycle assessment",
+      "Crossref: prospective life cycle assessment",
       "Crossref: consequential life cycle assessment allocation",
+      "Crossref: waste management life cycle assessment",
       "Crossref: extended producer responsibility life cycle",
+      "Crossref: recycling recycled plastics product carbon footprint",
       "Crossref: end of life vehicles environmental impact",
       "Crossref: automotive parts product carbon footprint",
-      "Crossref: hydrogen well to wheel life cycle assessment",
-      "Crossref: hydrogen life cycle assessment",
       "Crossref: bioenergy avoided emissions carbon removals",
-      "Crossref: product environmental footprint ecodesign regulation"
+      "Crossref: product environmental footprint ecodesign regulation",
+      "Crossref: mass balance recycling chain of custody"
     ],
     "errors": [
       "EU 집행위원회 역내시장·산업총국",
-      "Crossref: prospective life cycle assessment",
-      "Crossref: waste management life cycle assessment",
-      "Crossref: recycling recycled plastics product carbon footprint",
-      "Crossref: mass balance recycling chain of custody"
+      "Crossref: hydrogen well to wheel life cycle assessment",
+      "Crossref: hydrogen life cycle assessment"
     ]
   },
   "articles": [
+    {
+      "id": "73c14bab8ca6ca",
+      "date": "2026-11-10",
+      "category": "국제 정책",
+      "region": "영국",
+      "title": "Major clean-up begins at notorious illegal waste site in Wigan",
+      "source": "영국 환경식품농촌부 (Defra)",
+      "url": "https://www.gov.uk/government/news/major-clean-up-begins-at-notorious-illegal-waste-site-in-wigan",
+      "doi": "",
+      "tags": [],
+      "document_type": "정책·발표",
+      "link_status": "원문 연결 확인",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "Government-funded operation to remove 18,000 tonnes of waste from illegal site",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "기관 공식 피드",
+      "priority_score": 0,
+      "priority": "참고",
+      "priority_reasons": [],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-11-10",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "Government-funded operation to remove 18,000 tonnes of waste from illegal site",
+          "Work has begun to clear the Bolton House Road illegal waste site, the Government has announced today (Tuesday 10 November), bringing relief to a community that has endured major disruption from the notorious site.",
+          "The operation will see an estimated 18,000 tonnes of commercial and household waste dug up and removed from the site in Wigan."
+        ],
+        "research_ideas": [
+          {
+            "title": "재자원화 환경편익 산정에서 폐기물 지위와 환경부하 귀속의 영향",
+            "research_question": "폐기물의 원료 전환과 대체편익 반영 범위가 정책단위 감축실적과 제품단위 PCF 간 결과를 어떻게 변화시키는가?",
+            "methodology": "Attributional/Consequential LCA, cut-off·할당·회피배출 규칙을 결합한 시나리오",
+            "novelty": "정책 효과와 제품 탄소발자국의 산정목적·경계 차이에서 발생하는 연구 가설",
+            "data": "공식 정책 문서, 공개 재활용 통계와 공정 LCI. 민간 현장 수율은 확인 필요"
+          }
+        ],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "Government-funded operation to remove 18,000 tonnes of waste from illegal site",
+          "Work has begun to clear the Bolton House Road illegal waste site, the Government has announced today (Tuesday 10 November), bringing relief to a community that has endured major disruption from the notorious site.",
+          "The operation will see an estimated 18,000 tonnes of commercial and household waste dug up and removed from the site in Wigan.",
+          "No community should have to live with the misery that illegal waste sites like this in Wigan inflict on their everyday lives.",
+          "This government is taking decisive action to put an end to waste crime, and this major clean-up is an important step in putting things right for local people."
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
+    {
+      "id": "fc5f27a53b6b0d",
+      "date": "2026-11-09",
+      "category": "국제 정책",
+      "region": "UN",
+      "title": "Kiara Worth | UN Climate Change UN Climate Chief: \"climate crisis is now a global health crisis of pandemic proportions\" UN Climate Speech",
+      "source": "UNFCCC",
+      "url": "https://unfccc.int/news/un-climate-chief-climate-crisis-is-now-a-global-health-crisis-of-pandemic-proportions",
+      "doi": "",
+      "tags": [],
+      "document_type": "정책·발표",
+      "link_status": "원문 연결 확인",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "UNFCCC 공식 뉴스",
+      "priority_score": 0,
+      "priority": "참고",
+      "priority_reasons": [],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-11-10",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "Please find below a transcript of the opening remarks of UN Climate Change Executive Secretary Simon Stiell at a press conference at COP31 hosted by WMO on the release of its State of the Climate Update 2026, Also below are the press conference opening remarks of WMO Secretary-General Celeste Saulo, and Alan Dangour, Director of Climate and Health ",
+          "UN Climate Change Executive Secretary Simon Stiell WMO Press Conference Statement, 9 November 2026, Antalya, Türkiye As today’s important data from the WMO shows: the world is getting dangerously hot. Hundreds of millions of people exposed to extreme heat across southern Asia. Heatwaves in the northern summer smashed temperature records, and killed",
+          "We need decisions at COP31 that are made with urgency and that deliver the funding that backs up this existential threat before us all. I thank you. Wellcome Director of Climate and Health Alan Dangour WMO Press Conference Statement, 9 November 2026, Antalya, Türkiye The World Meteorological Organization State of the Climate Report makes sombre rea"
+        ],
+        "research_ideas": [],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "Please find below a transcript of the opening remarks of UN Climate Change Executive Secretary Simon Stiell at a press conference at COP31 hosted by WMO on the release of its State of the Climate Update 2026, Also below are the press conference opening remarks of WMO Secretary-General Celeste Saulo, and Alan Dangour, Director of Climate and Health ",
+          "UN Climate Change Executive Secretary Simon Stiell WMO Press Conference Statement, 9 November 2026, Antalya, Türkiye As today’s important data from the WMO shows: the world is getting dangerously hot. Hundreds of millions of people exposed to extreme heat across southern Asia. Heatwaves in the northern summer smashed temperature records, and killed",
+          "We need decisions at COP31 that are made with urgency and that deliver the funding that backs up this existential threat before us all. I thank you. Wellcome Director of Climate and Health Alan Dangour WMO Press Conference Statement, 9 November 2026, Antalya, Türkiye The World Meteorological Organization State of the Climate Report makes sombre rea",
+          "At Wellcome we are playing our part. We’ve joined forces with over 35 other philanthropies to accelerate climate and health solutions to form the Climate & Health Funders Coalition at COP30 in Belém with an initial joint commitment of $300 million. I am very pleased to announce that the Coalition has awarded more than $225 million in its first year",
+          "\"Health belongs at the heart of climate action\" UN Climate Chief at COP31 health day ministerial"
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
+    {
+      "id": "f48f24c4f463aa",
+      "date": "2026-11-09",
+      "category": "국제 정책",
+      "region": "영국",
+      "title": "COP31: what it is and the UK’s priorities",
+      "source": "영국 에너지안보·넷제로부 (DESNZ)",
+      "url": "https://www.gov.uk/government/news/cop31-what-it-is-and-the-uks-priorities",
+      "doi": "",
+      "tags": [
+        "COP31"
+      ],
+      "document_type": "정책·발표",
+      "link_status": "원문 연결 확인",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "An explainer on the UN's annual climate conference and the government's priorities for COP31.",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "기관 공식 피드",
+      "priority_score": 0,
+      "priority": "참고",
+      "priority_reasons": [],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-11-10",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "An explainer on the UN's annual climate conference and the government's priorities for COP31.",
+          "COP31 is the United Nations’ annual climate change conference.",
+          "COP31 gives countries the chance to work together to agree ways to cut greenhouse gas emissions and prepare for the effects of a changing climate."
+        ],
+        "research_ideas": [],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "An explainer on the UN's annual climate conference and the government's priorities for COP31.",
+          "COP31 is the United Nations’ annual climate change conference.",
+          "COP31 gives countries the chance to work together to agree ways to cut greenhouse gas emissions and prepare for the effects of a changing climate.",
+          "Decisions made at COP31 this year will help the UK and other countries to:",
+          "The UK set out its broader priorities for COP31 in Parliament ."
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
+    {
+      "id": "dbfcbbfd62ef24",
+      "date": "2026-11-09",
+      "category": "국제 정책",
+      "region": "UN",
+      "title": "lefteye81 | Pixabay Yearbook of Global Climate Action 2026 provides new evidence that climate action is delivering results and driving implementation Article",
+      "source": "UNFCCC",
+      "url": "https://unfccc.int/news/yearbook-of-global-climate-action-2026-provides-new-evidence-that-climate-action-is-delivering",
+      "doi": "",
+      "tags": [],
+      "document_type": "정책·발표",
+      "link_status": "원문 연결 확인",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "UNFCCC 공식 뉴스",
+      "priority_score": 0,
+      "priority": "참고",
+      "priority_reasons": [],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-11-10",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "UN Climate Change News, 9 November 2026 – Climate action by cities, regions, businesses and civil society continues to drive implementation, with progress made on 44 global indicators aligned with the first global stocktake. This is one of the key findings of the 2026 Yearbook of Global Climate Action , launched by UN Climate Change today. “This Ye",
+          "\"Health belongs at the heart of climate action\" UN Climate Chief at COP31 health day ministerial",
+          "“COP31 must supercharge solutions” UN Climate Chief on opening day of COP31"
+        ],
+        "research_ideas": [],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "UN Climate Change News, 9 November 2026 – Climate action by cities, regions, businesses and civil society continues to drive implementation, with progress made on 44 global indicators aligned with the first global stocktake. This is one of the key findings of the 2026 Yearbook of Global Climate Action , launched by UN Climate Change today. “This Ye",
+          "\"Health belongs at the heart of climate action\" UN Climate Chief at COP31 health day ministerial",
+          "“COP31 must supercharge solutions” UN Climate Chief on opening day of COP31",
+          "UN Climate Chief: \"climate crisis is now a global health crisis of pandemic proportions\"",
+          "COP31 preview - comments from UN Climate Change Executive Secretary Simon Stiell, COP31 President Designate Murat Kurum, President of COP31 Negotiations Chris Bowen"
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
+    {
+      "id": "cce3d478ef81ca",
+      "date": "2026-11-09",
+      "category": "국제 정책",
+      "region": "UN",
+      "title": "Kiara Worth | UN Climate Change \"Health belongs at the heart of climate action\" UN Climate Chief at COP31 health day ministerial UN Climate Speech",
+      "source": "UNFCCC",
+      "url": "https://unfccc.int/news/health-belongs-at-the-heart-of-climate-action-un-climate-chief-at-cop31-health-day-ministerial",
+      "doi": "",
+      "tags": [
+        "COP31"
+      ],
+      "document_type": "정책·발표",
+      "link_status": "원문 연결 확인",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "UNFCCC 공식 뉴스",
+      "priority_score": 0,
+      "priority": "참고",
+      "priority_reasons": [],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-11-10",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "The following is a transcript of remarks delivered by UN Climate Change Executive Secretary Simon Stiell during the Health Day Ministerial Roundtable Meeting at COP31 in Antalya, Türkiye, on 9 November 2026. Excellencies, Honourable Ministers, Colleagues and friends, A health system can falter by degrees. A ward grows hotter. The power flickers. A ",
+          "“COP31 must supercharge solutions” UN Climate Chief on opening day of COP31",
+          "Yearbook of Global Climate Action 2026 provides new evidence that climate action is delivering results and driving implementation"
+        ],
+        "research_ideas": [],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "The following is a transcript of remarks delivered by UN Climate Change Executive Secretary Simon Stiell during the Health Day Ministerial Roundtable Meeting at COP31 in Antalya, Türkiye, on 9 November 2026. Excellencies, Honourable Ministers, Colleagues and friends, A health system can falter by degrees. A ward grows hotter. The power flickers. A ",
+          "“COP31 must supercharge solutions” UN Climate Chief on opening day of COP31",
+          "Yearbook of Global Climate Action 2026 provides new evidence that climate action is delivering results and driving implementation",
+          "UN Climate Chief: \"climate crisis is now a global health crisis of pandemic proportions\"",
+          "COP31 preview - comments from UN Climate Change Executive Secretary Simon Stiell, COP31 President Designate Murat Kurum, President of COP31 Negotiations Chris Bowen"
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
+    {
+      "id": "4f0f947cd57ab2",
+      "date": "2026-11-09",
+      "category": "국제 정책",
+      "region": "EU",
+      "title": "Commissioner Roswall discusses action plan to digitalise European water sector",
+      "source": "EU 집행위원회 환경총국",
+      "url": "https://environment.ec.europa.eu/news/commissioner-roswall-discusses-action-plan-digitalise-european-water-sector-2026-11-09_en",
+      "doi": "",
+      "tags": [
+        "순환경제·재활용"
+      ],
+      "document_type": "정책·발표",
+      "link_status": "원문 연결 확인",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "Jessika Roswall, Commissioner for Environment, Water Resilience and a Competitive Circular Economy, will host a stakeholder roundtable on Monday (9 November) to discuss the draft action plan on digitalisation in the water sector.",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "기관 공식 피드",
+      "priority_score": 8,
+      "priority": "참고",
+      "priority_reasons": [
+        "순환경제·재활용"
+      ],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-11-10",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "Jessika Roswall, Commissioner for Environment, Water Resilience and a Competitive Circular Economy, will host a stakeholder roundtable on Monday (9 November) to discuss the draft action plan on digitalisation in the water sector, one of the flagship initiatives under the European water resilience strategy.",
+          "By modernising water management, the action plan will help increase water efficiency, protect the water cycle and ensure that clean, affordable water remains available.",
+          "Water is key to our existence, but today we can no longer take water for granted. Water resilience is a matter of economic security, industrial resilience and competitiveness. Building a water-smart economy is one of the key elements of our Water Resilience Strategy, and its design is linked to the digitalisation of data on water. I look forward to"
+        ],
+        "research_ideas": [
+          {
+            "title": "재자원화 환경편익 산정에서 폐기물 지위와 환경부하 귀속의 영향",
+            "research_question": "폐기물의 원료 전환과 대체편익 반영 범위가 정책단위 감축실적과 제품단위 PCF 간 결과를 어떻게 변화시키는가?",
+            "methodology": "Attributional/Consequential LCA, cut-off·할당·회피배출 규칙을 결합한 시나리오",
+            "novelty": "정책 효과와 제품 탄소발자국의 산정목적·경계 차이에서 발생하는 연구 가설",
+            "data": "공식 정책 문서, 공개 재활용 통계와 공정 LCI. 민간 현장 수율은 확인 필요"
+          }
+        ],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "Jessika Roswall, Commissioner for Environment, Water Resilience and a Competitive Circular Economy, will host a stakeholder roundtable on Monday (9 November) to discuss the draft action plan on digitalisation in the water sector, one of the flagship initiatives under the European water resilience strategy.",
+          "By modernising water management, the action plan will help increase water efficiency, protect the water cycle and ensure that clean, affordable water remains available.",
+          "Water is key to our existence, but today we can no longer take water for granted. Water resilience is a matter of economic security, industrial resilience and competitiveness. Building a water-smart economy is one of the key elements of our Water Resilience Strategy, and its design is linked to the digitalisation of data on water. I look forward to",
+          "The EU water sector already generates EUR 111.7 billion in value added and supports 1.6 million jobs, yet the water sector lags behind other public services in digitalisation. EUR 140 billion has been spent under the Recovery and Resilience Facility on digitalisation. The action plan is meant to face the specific challenges hindering the digitalisa",
+          "The invited high-level representatives from companies, industry associations, utilities, regulators, research organisations, city networks, consumer organisations and sectoral stakeholders active in water management and digitalisation will offer their perspective on the challenges mentioned above, supported by practical experiences of digitalisatio"
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
     {
       "id": "0d3edfc3f3977c",
       "date": "2026-11-09",
@@ -84,6 +390,55 @@
           "An official website of the United States government.",
           "If you experiencing issues with the CAPTCHA or want to request a wider IP range, you can use the \"Site Help\" button found in the lower, right of this page to make a request.",
           "This contact form is only for IP Access help. Please do not provide confidential information or personal data."
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
+    {
+      "id": "06f8a0fec22fcb",
+      "date": "2026-11-09",
+      "category": "국제 정책",
+      "region": "UN",
+      "title": "Kiara Worth | UN Climate Change “COP31 must supercharge solutions” UN Climate Chief on opening day of COP31 UN Climate Speech",
+      "source": "UNFCCC",
+      "url": "https://unfccc.int/news/cop31-must-supercharge-solutions-un-climate-chief-on-opening-day-of-cop31",
+      "doi": "",
+      "tags": [
+        "COP31"
+      ],
+      "document_type": "정책·발표",
+      "link_status": "원문 연결 확인",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "UNFCCC 공식 뉴스",
+      "priority_score": 0,
+      "priority": "참고",
+      "priority_reasons": [],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-11-10",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "The 31st UN Climate Change Conference (COP31) gets underway today in Antalya, Türkiye. Below are transcripts of opening remarks from UN Climate Change Executive Secretary Simon Stiell, COP31 President Murat Kurum of Türkiye (in English and Turkish) and President of COP31 Negotiations Chris Bowen of Australia. The opening statement of UN Climate Cha",
+          "UN Climate Change Executive Secretary, Simon Stiell COP31 Opening Statement",
+          "So, as well as sending signals, COP31 must supercharge solutions. Breaking-down existing global targets and national plans into component steps."
+        ],
+        "research_ideas": [],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "The 31st UN Climate Change Conference (COP31) gets underway today in Antalya, Türkiye. Below are transcripts of opening remarks from UN Climate Change Executive Secretary Simon Stiell, COP31 President Murat Kurum of Türkiye (in English and Turkish) and President of COP31 Negotiations Chris Bowen of Australia. The opening statement of UN Climate Cha",
+          "UN Climate Change Executive Secretary, Simon Stiell COP31 Opening Statement",
+          "So, as well as sending signals, COP31 must supercharge solutions. Breaking-down existing global targets and national plans into component steps.",
+          "At UN Climate Change we want to support countries to engage with all that the Action Agenda has to offer.",
+          "UN Climate Change stands with you over these two weeks and beyond."
         ],
         "conclusion": "",
         "korea_implications": "",
