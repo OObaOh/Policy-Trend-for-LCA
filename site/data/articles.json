@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-11-10T01:02:47+00:00",
+  "updated_at": "2026-11-11T06:02:35+00:00",
   "collector": "GitHub Actions / official government sources + Crossref",
   "profile_version": "2026-10-10",
-  "new_items": 7,
+  "new_items": 5,
   "source_health": {
     "ok": [
       "기후에너지환경부",
@@ -25,17 +25,121 @@
       "Crossref: recycling recycled plastics product carbon footprint",
       "Crossref: end of life vehicles environmental impact",
       "Crossref: automotive parts product carbon footprint",
+      "Crossref: hydrogen well to wheel life cycle assessment",
+      "Crossref: hydrogen life cycle assessment",
       "Crossref: bioenergy avoided emissions carbon removals",
       "Crossref: product environmental footprint ecodesign regulation",
       "Crossref: mass balance recycling chain of custody"
     ],
     "errors": [
-      "EU 집행위원회 역내시장·산업총국",
-      "Crossref: hydrogen well to wheel life cycle assessment",
-      "Crossref: hydrogen life cycle assessment"
+      "EU 집행위원회 역내시장·산업총국"
     ]
   },
   "articles": [
+    {
+      "id": "f01ca1fc8c54e4",
+      "date": "2026-11-10",
+      "category": "국제 정책",
+      "region": "UN",
+      "title": "Kubilay Ciftci | UN Climate Change Transcript of press conference opening remarks today of COP31 President, President of Negotiations, UN Climate Change Executive Secretary UN Climate Speech",
+      "source": "UNFCCC",
+      "url": "https://unfccc.int/news/transcript-of-press-conference-opening-remarks-today-of-cop31-president-president-of-negotiations-un",
+      "doi": "",
+      "tags": [
+        "COP31"
+      ],
+      "document_type": "정책·발표",
+      "link_status": "원문 연결 확인",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "UNFCCC 공식 뉴스",
+      "priority_score": 0,
+      "priority": "참고",
+      "priority_reasons": [],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-11-11",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "The following is a transcript of remarks delivered by COP31 President Murat Kurum (English translated and Turkish delivered), COP31 President of Negotiations Chris Bowen and UN Climate Change Executive Secretary Simon Stiell during a COP31 Presidency press conference in Antalya, Türkiye, on 10 November 2026. You can watch the press conference on pl",
+          "COP31 President Murat Kurum Transcript of opening statement at COP31 Presidency Press Conference (English translation and Turkish delivered) 10 November 2026, 11:20 a.m. Antalya, Türkiye",
+          "Once again, I would like to thank our Director, as well as Chris and Simon. Members of the press, dear friends, first of all, it is a great pleasure to be with you and to welcome you to Antalya. I will keep my opening remarks brief so that I can leave enough time for your questions. First, I would like to thank each of you for your interest and con"
+        ],
+        "research_ideas": [],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "The following is a transcript of remarks delivered by COP31 President Murat Kurum (English translated and Turkish delivered), COP31 President of Negotiations Chris Bowen and UN Climate Change Executive Secretary Simon Stiell during a COP31 Presidency press conference in Antalya, Türkiye, on 10 November 2026. You can watch the press conference on pl",
+          "COP31 President Murat Kurum Transcript of opening statement at COP31 Presidency Press Conference (English translation and Turkish delivered) 10 November 2026, 11:20 a.m. Antalya, Türkiye",
+          "Once again, I would like to thank our Director, as well as Chris and Simon. Members of the press, dear friends, first of all, it is a great pleasure to be with you and to welcome you to Antalya. I will keep my opening remarks brief so that I can leave enough time for your questions. First, I would like to thank each of you for your interest and con",
+          "COP31 President of Negotiations Chris Bowen Transcript of opening statement at COP31 Presidency Press Conference 10 November 2026, 11:20 a.m. Antalya, Türkiye",
+          "UN Climate Change Executive Secretary Simon Stiell Transcript of opening statement at COP31 Presidency Press Conference 10 November 2026, 11:20 a.m. Antalya, Türkiye"
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
+    {
+      "id": "9c3aa1b2fa6066",
+      "date": "2026-11-10",
+      "category": "국제 정책",
+      "region": "독일",
+      "title": "Bundesumweltministerium würdigt sechs Kommunen für vorbildliches Engagement im Klimaschutz",
+      "source": "독일 연방환경부(BMUKN)",
+      "url": "https://www.bundesumweltministerium.de/pressemitteilung/bundesumweltministerium-wuerdigt-sechs-kommunen-fuer-vorbildliches-engagement-im-klimaschutz-2026",
+      "doi": "",
+      "tags": [],
+      "document_type": "정책·발표",
+      "link_status": "원문 연결 확인",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "Rita Schwarzelühr-Sutter hat sechs Preisträger des Wettbewerbs \"Klimaaktive Kommune 2026\" ausgezeichnet. Die Preisträger zeigen beispielhaft, wie Klimaschutz die Lebensqualität der Menschen vor Ort spürbar verbessert.",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "기관 공식 피드",
+      "priority_score": 0,
+      "priority": "참고",
+      "priority_reasons": [],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-11-11",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "Im Rahmen der diesjährigen Kommunalen Klimakonferenz in Berlin hat Rita Schwarzelühr-Sutter, Parlamentarische Staatssekretärin im Bundesministerium für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit (BMUKN), die sechs Preisträger des Wettbewerbs \"Klimaaktive Kommune 2026\" ausgezeichnet. Mit dem bundesweiten Wettbewerb ehrt das BMUKN seit ",
+          "Parlamentarische Staatsekretärin Rita Schwarzelühr-Sutter: \"Die ausgezeichneten Projekte leisten auf ganz unterschiedliche Weise einen wichtigen Beitrag zum Klimaschutz und setzen mit kreativem Engagement und innovative Ideen wirksame Impulse in den Kommunen. Die Maßnahmen unterstützen den Umwelt- und Klimaschutz, fördern ökonomische Chancen und st",
+          "Im Rahmen der Kommunalen Klimakonferenz, die in diesem Jahr unter dem Titel \"Resilienz statt Krisenmodus: Wie Kommunen handlungsfähig bleiben\" stattfindet, wurden sechs Kommunen ausgezeichnet. Die Preisträger zeigen beispielhaft, wie Klimaschutz unter sehr unterschiedlichen Voraussetzungen so gelingen kann, dass sich die Lebensqualität der Menschen"
+        ],
+        "research_ideas": [
+          {
+            "title": "온실가스 감축정책 지표와 LCA 환경편익 산정의 경계 정합성",
+            "research_question": "정책상 감축실적의 기준선과 제품 전과정 산정의 기준선 차이는 어떻게 비교가능성을 제한하는가?",
+            "methodology": "시스템경계·기준선·할당 및 불확실성에 관한 방법론 대조",
+            "novelty": "정책 지표와 제품 지표의 목적·범위 차이를 규명하는 연구 가설",
+            "data": "공개 규정·배출계수·LCI DB 및 제도 운영 자료"
+          }
+        ],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "Im Rahmen der diesjährigen Kommunalen Klimakonferenz in Berlin hat Rita Schwarzelühr-Sutter, Parlamentarische Staatssekretärin im Bundesministerium für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit (BMUKN), die sechs Preisträger des Wettbewerbs \"Klimaaktive Kommune 2026\" ausgezeichnet. Mit dem bundesweiten Wettbewerb ehrt das BMUKN seit ",
+          "Parlamentarische Staatsekretärin Rita Schwarzelühr-Sutter: \"Die ausgezeichneten Projekte leisten auf ganz unterschiedliche Weise einen wichtigen Beitrag zum Klimaschutz und setzen mit kreativem Engagement und innovative Ideen wirksame Impulse in den Kommunen. Die Maßnahmen unterstützen den Umwelt- und Klimaschutz, fördern ökonomische Chancen und st",
+          "Im Rahmen der Kommunalen Klimakonferenz, die in diesem Jahr unter dem Titel \"Resilienz statt Krisenmodus: Wie Kommunen handlungsfähig bleiben\" stattfindet, wurden sechs Kommunen ausgezeichnet. Die Preisträger zeigen beispielhaft, wie Klimaschutz unter sehr unterschiedlichen Voraussetzungen so gelingen kann, dass sich die Lebensqualität der Menschen",
+          "Gemeinde Ellefeld (Sachsen): H 34 – Verwaltung und Begegnung im energieeffizienten Multifunktionsbau Mit dem im September 2025 bezogenen Bürgerhaus H34 zeigt die Gemeinde Ellefeld, wie ein multifunktionaler Neubau im ländlichen Raum Klimaschutz, Klimaanpassung und gesellschaftliche Teilhabe verbinden kann.",
+          "Die sechs Kommunen wurden aus insgesamt 128 Bewerbungen ausgewählt und können sich über je 40.000 Euro freuen, die sie für weitere Klimaaktivitäten nutzen können."
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
     {
       "id": "73c14bab8ca6ca",
       "date": "2026-11-10",
@@ -90,6 +194,136 @@
         "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
         "evidence_sections": "발표기관 공개 본문/초록"
       }
+    },
+    {
+      "id": "63b2dacedd6525",
+      "date": "2026-11-10",
+      "category": "국제 정책",
+      "region": "미국",
+      "title": "Air Plan Approval; Michigan; Determination of Attainment by the Attainment Date for the 2015 Ozone Standards",
+      "source": "미국 Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/11/10/2026-22887/air-plan-approval-michigan-determination-of-attainment-by-the-attainment-date-for-the-2015-ozone",
+      "doi": "",
+      "tags": [],
+      "document_type": "법령·규제",
+      "link_status": "원문 연결 확인",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "The U.S. Environmental Protection Agency (EPA) is determining under the Clean Air Act (CAA) that the Detroit, Michigan Moderate nonattainment area (\"Detroit area\" or \"area\") attained the 2015 ozone National Ambient Air Quality Standards (NAAQS) by the applicable attainment date. This determination relies on the EPA's concurrence on an exceptional events request submitted by the Michigan Department of Environment, Great Lakes, and Energy (EGLE) on February 19, 2026, and concurred on by the EPA on March 24, 2026. Therefore, the EPA is taking fina",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "미국 연방 관보 공식 기록",
+      "regulatory_status": "Rule",
+      "priority_score": 0,
+      "priority": "참고",
+      "priority_reasons": [],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-11-11",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "Due to aggressive automated scraping of FederalRegister.gov and eCFR.gov, programmatic access to these sites is limited to access to our extensive developer APIs. Please visit FederalRegister.gov API documentation or eCFR.gov API documentation to learn more about how to access the API.",
+          "Your request has been flagged as potentially automated. If you are human user receiving this message, please complete the CAPTCHA (bot test) below and click \"Request Access\". You may occassionally be asked to complete the CAPTCHA again, this is normal and part of our security measures.",
+          "An official website of the United States government."
+        ],
+        "research_ideas": [],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "Due to aggressive automated scraping of FederalRegister.gov and eCFR.gov, programmatic access to these sites is limited to access to our extensive developer APIs. Please visit FederalRegister.gov API documentation or eCFR.gov API documentation to learn more about how to access the API.",
+          "Your request has been flagged as potentially automated. If you are human user receiving this message, please complete the CAPTCHA (bot test) below and click \"Request Access\". You may occassionally be asked to complete the CAPTCHA again, this is normal and part of our security measures.",
+          "An official website of the United States government.",
+          "If you experiencing issues with the CAPTCHA or want to request a wider IP range, you can use the \"Site Help\" button found in the lower, right of this page to make a request.",
+          "This contact form is only for IP Access help. Please do not provide confidential information or personal data."
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
+    {
+      "id": "525dfcc33cf5c1",
+      "date": "2026-11-10",
+      "category": "국제 정책",
+      "region": "영국",
+      "title": "Policy paper: FRAME-Agriculture: framework for assessing greenhouse gases",
+      "source": "영국 환경식품농촌부 (Defra)",
+      "url": "https://www.gov.uk/government/publications/frame-agriculture-framework-for-assessing-greenhouse-gases",
+      "doi": "",
+      "tags": [
+        "탄소배출권·GHG",
+        "FRAME"
+      ],
+      "document_type": "정책·발표",
+      "link_status": "원문 연결 확인",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "FRAME-Agriculture is a Defra research project developing a standard approach for reporting, assessing and modelling greenhouse gas emissions in UK agriculture.",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "기관 공식 피드",
+      "priority_score": 12,
+      "priority": "우선 검토",
+      "priority_reasons": [
+        "탄소배출권·GHG"
+      ],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-11-11",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "FRAME-Agriculture is a Defra research project developing a standard approach for reporting, assessing and modelling greenhouse gas emissions in UK agriculture.",
+          "The Framework for Reporting, Assessment and Modelling Greenhouse Gas Emissions from Agriculture ( FRAME-Agriculture ) is a Defra research and development project.",
+          "It is developing guidance, technical standards and models to support more consistent greenhouse gas ( GHG ) emissions reporting across UK agriculture."
+        ],
+        "research_ideas": [
+          {
+            "title": "온실가스 감축정책 지표와 LCA 환경편익 산정의 경계 정합성",
+            "research_question": "정책상 감축실적의 기준선과 제품 전과정 산정의 기준선 차이는 어떻게 비교가능성을 제한하는가?",
+            "methodology": "시스템경계·기준선·할당 및 불확실성에 관한 방법론 대조",
+            "novelty": "정책 지표와 제품 지표의 목적·범위 차이를 규명하는 연구 가설",
+            "data": "공개 규정·배출계수·LCI DB 및 제도 운영 자료"
+          }
+        ],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "FRAME-Agriculture is a Defra research project developing a standard approach for reporting, assessing and modelling greenhouse gas emissions in UK agriculture.",
+          "The Framework for Reporting, Assessment and Modelling Greenhouse Gas Emissions from Agriculture ( FRAME-Agriculture ) is a Defra research and development project.",
+          "It is developing guidance, technical standards and models to support more consistent greenhouse gas ( GHG ) emissions reporting across UK agriculture.",
+          "This page brings together the project’s documents and outputs."
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
+    {
+      "id": "24b571da888416",
+      "date": "2026-11-10",
+      "category": "국제 정책",
+      "region": "영국",
+      "title": "Accredited official statistics: Renewables obligation: certificates and generation - July 2026",
+      "source": "영국 에너지안보·넷제로부 (DESNZ)",
+      "url": "https://www.gov.uk/government/statistics/announcements/renewables-obligation-certificates-and-generation-july-2026",
+      "doi": "",
+      "tags": [],
+      "document_type": "정책·발표",
+      "link_status": "원문 연결 확인",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "Monthly data on the number of certificates issued for generation under the Renewables Obligation.",
+      "review_status": "원문 검토 필요",
+      "verification": "기관 공식 피드",
+      "priority_score": 0,
+      "priority": "참고",
+      "priority_reasons": [],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-11-11"
     },
     {
       "id": "fc5f27a53b6b0d",
