@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-11-11T06:02:35+00:00",
+  "updated_at": "2026-11-12T07:03:06+00:00",
   "collector": "GitHub Actions / official government sources + Crossref",
   "profile_version": "2026-10-10",
-  "new_items": 5,
+  "new_items": 10,
   "source_health": {
     "ok": [
       "기후에너지환경부",
@@ -19,12 +19,8 @@
       "프랑스 생태전환부",
       "Crossref: dynamic life cycle assessment",
       "Crossref: prospective life cycle assessment",
-      "Crossref: consequential life cycle assessment allocation",
       "Crossref: waste management life cycle assessment",
-      "Crossref: extended producer responsibility life cycle",
-      "Crossref: recycling recycled plastics product carbon footprint",
       "Crossref: end of life vehicles environmental impact",
-      "Crossref: automotive parts product carbon footprint",
       "Crossref: hydrogen well to wheel life cycle assessment",
       "Crossref: hydrogen life cycle assessment",
       "Crossref: bioenergy avoided emissions carbon removals",
@@ -32,10 +28,463 @@
       "Crossref: mass balance recycling chain of custody"
     ],
     "errors": [
-      "EU 집행위원회 역내시장·산업총국"
+      "EU 집행위원회 역내시장·산업총국",
+      "Crossref: consequential life cycle assessment allocation",
+      "Crossref: extended producer responsibility life cycle",
+      "Crossref: recycling recycled plastics product carbon footprint",
+      "Crossref: automotive parts product carbon footprint"
     ]
   },
   "articles": [
+    {
+      "id": "b0b3132df6aaa4",
+      "date": "2026-11-12",
+      "category": "국내 정책",
+      "region": "한국",
+      "title": "정지궤도 환경·해양위성(천리안위성 6호)의 청사진 공개, 산학연 참여의 장 열어",
+      "source": "기후에너지환경부",
+      "url": "https://mcee.go.kr/m/mob/board/read.do?pagerOffset=0&maxPageItems=10&maxIndexPages=5&searchKey=&searchValue=&menuId=156&orgCd=&boardMasterId=939&boardId=1906630",
+      "doi": "",
+      "tags": [],
+      "document_type": "정책·발표",
+      "link_status": "원문 URL 제공 · 접근 여부 미검증",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "",
+      "review_status": "원문 검토 필요",
+      "verification": "정부 공식 보도자료",
+      "priority_score": 0,
+      "priority": "참고",
+      "priority_reasons": [],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-11-12"
+    },
+    {
+      "id": "8d7db378728921",
+      "date": "2026-11-12",
+      "category": "국내 정책",
+      "region": "한국",
+      "title": "보고 느끼는 친환경 이동수단의 가능성…기후부, 전기차 전시·체험 행사 개최",
+      "source": "기후에너지환경부",
+      "url": "https://mcee.go.kr/m/mob/board/read.do?pagerOffset=0&maxPageItems=10&maxIndexPages=5&searchKey=&searchValue=&menuId=156&orgCd=&boardMasterId=939&boardId=1906640",
+      "doi": "",
+      "tags": [],
+      "document_type": "정책·발표",
+      "link_status": "원문 URL 제공 · 접근 여부 미검증",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "정부 공식 보도자료",
+      "priority_score": 0,
+      "priority": "참고",
+      "priority_reasons": [],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-11-12",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "첨부파일 보고 느끼는 친환경 이동수단의 가능성…기후부 전기차 전시·체험 행사 개최(보도자료)(탈탄소 11.12).hwpx(3.5 MB) 보고 느끼는 친환경 이동수단의 가능성…기후부 전기차 전시·체험 행사 개최(보도자료)(탈탄소 11.12).pdf(946.7 KB)",
+          "기후에너지환경부(장관 김성환)은 11월 13일부터 15일까지 ‘스페이스 에스50(서울 성수동 소재)’에서 전기차의 보급을 활성화하기 위한 전시 홍보 행사 ‘전지전능’을 개최한다고 밝혔다.",
+          "이번 행사는 전기차를 직접 살펴보고 체험하면서, 전기차의 장점과 함께 이용 시 유용한 정보를 제공하기 위해 마련됐다."
+        ],
+        "research_ideas": [],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "첨부파일 보고 느끼는 친환경 이동수단의 가능성…기후부 전기차 전시·체험 행사 개최(보도자료)(탈탄소 11.12).hwpx(3.5 MB) 보고 느끼는 친환경 이동수단의 가능성…기후부 전기차 전시·체험 행사 개최(보도자료)(탈탄소 11.12).pdf(946.7 KB)",
+          "기후에너지환경부(장관 김성환)은 11월 13일부터 15일까지 ‘스페이스 에스50(서울 성수동 소재)’에서 전기차의 보급을 활성화하기 위한 전시 홍보 행사 ‘전지전능’을 개최한다고 밝혔다.",
+          "이번 행사는 전기차를 직접 살펴보고 체험하면서, 전기차의 장점과 함께 이용 시 유용한 정보를 제공하기 위해 마련됐다.",
+          "이를 통해 전기차에 대한 국민의 관심을 높이고, 구매로 생활 속에서 수송 부문의 탈탄소 전환에 기여할 수 있도록 유도할 계획이다.",
+          "행사에서는 승용차를 비롯해 승합·화물차(밴·픽업), 이륜차 등 다양한 전기 차종이 전시되어 차량별 성능과 활용 방식을 직접 경험하고 시승할 기회가 제공된다."
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
+    {
+      "id": "890d1bf72fa250",
+      "date": "2026-11-12",
+      "category": "국내 정책",
+      "region": "한국",
+      "title": "유럽연합 탄소국경조정제도(CBAM) 국내 첫 검증기관 인정",
+      "source": "기후에너지환경부",
+      "url": "https://mcee.go.kr/m/mob/board/read.do?pagerOffset=0&maxPageItems=10&maxIndexPages=5&searchKey=&searchValue=&menuId=156&orgCd=&boardMasterId=939&boardId=1906550",
+      "doi": "",
+      "tags": [
+        "CBAM",
+        "탄소국경조정제도"
+      ],
+      "document_type": "정책·발표",
+      "link_status": "원문 URL 제공 · 접근 여부 미검증",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "",
+      "review_status": "원문 검토 필요",
+      "verification": "정부 공식 보도자료",
+      "priority_score": 20,
+      "priority": "우선 검토",
+      "priority_reasons": [
+        "CBAM"
+      ],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-11-12"
+    },
+    {
+      "id": "eee0cda6d7f6fd",
+      "date": "2026-11-11",
+      "category": "국제 정책",
+      "region": "UN",
+      "title": "Kiara Worth | UN Climate Change UN Secretary-General's remarks to the Leaders' Roundtable: Zero Waste, Circularity and Methane External Speech",
+      "source": "UNFCCC",
+      "url": "https://unfccc.int/news/un-secretary-general-s-remarks-to-the-leaders-roundtable-zero-waste-circularity-and-methane",
+      "doi": "",
+      "tags": [
+        "순환경제·재활용"
+      ],
+      "document_type": "정책·발표",
+      "link_status": "원문 연결 확인",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "UNFCCC 공식 뉴스",
+      "priority_score": 16,
+      "priority": "우선 검토",
+      "priority_reasons": [
+        "순환경제·재활용"
+      ],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-11-12",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "The following is a transcript of remarks delivered by UN Secretary-General at the COP31 Leaders' Roundtable: Zero Waste, Circularity and Methane in Antalya, Türkiye, on 11 November 2026.",
+          "I thank the First Lady of Türkiye for her tireless leadership of the Zero Waste movement – including as Chair of my Advisory Board – and for placing methane in the spotlight at this COP.",
+          "Electronic waste is growing five times faster than we recycle it."
+        ],
+        "research_ideas": [
+          {
+            "title": "재자원화 환경편익 산정에서 폐기물 지위와 환경부하 귀속의 영향",
+            "research_question": "폐기물의 원료 전환과 대체편익 반영 범위가 정책단위 감축실적과 제품단위 PCF 간 결과를 어떻게 변화시키는가?",
+            "methodology": "Attributional/Consequential LCA, cut-off·할당·회피배출 규칙을 결합한 시나리오",
+            "novelty": "정책 효과와 제품 탄소발자국의 산정목적·경계 차이에서 발생하는 연구 가설",
+            "data": "공식 정책 문서, 공개 재활용 통계와 공정 LCI. 민간 현장 수율은 확인 필요"
+          }
+        ],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "The following is a transcript of remarks delivered by UN Secretary-General at the COP31 Leaders' Roundtable: Zero Waste, Circularity and Methane in Antalya, Türkiye, on 11 November 2026.",
+          "I thank the First Lady of Türkiye for her tireless leadership of the Zero Waste movement – including as Chair of my Advisory Board – and for placing methane in the spotlight at this COP.",
+          "Electronic waste is growing five times faster than we recycle it.",
+          "Waste is also heating our planet – above all through methane.",
+          "Let us move from managing waste to preventing it, shift to a circular economy – and end the age of unchecked methane pollution."
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
+    {
+      "id": "cac119f2d4de6a",
+      "date": "2026-11-11",
+      "category": "국제 정책",
+      "region": "UN",
+      "title": "Kiara Worth | UN Climate Change Powering the future: UN Secretary-General remarks to the high-level dialogue on clean energy transition and electrification External Speech",
+      "source": "UNFCCC",
+      "url": "https://unfccc.int/news/powering-the-future-un-secretary-general-remarks-to-the-high-level-dialogue-on-clean-energy",
+      "doi": "",
+      "tags": [],
+      "document_type": "정책·발표",
+      "link_status": "원문 연결 확인",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "UNFCCC 공식 뉴스",
+      "priority_score": 0,
+      "priority": "참고",
+      "priority_reasons": [],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-11-12",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "The following is a transcript of remarks delivered by UN Secretary-General at the COP31 High-Level Dialogue on Clean Energy Transition and Electrification at COP31 in Antalya, Türkiye, on 11 November 2026. Excellencies, ladies and gentlemen,",
+          "First, accelerate clean electrification and the transition away from fossil fuels.",
+          "We can build a future of clean energy independence – or lock in another generation of fossil fuel dependence."
+        ],
+        "research_ideas": [],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "The following is a transcript of remarks delivered by UN Secretary-General at the COP31 High-Level Dialogue on Clean Energy Transition and Electrification at COP31 in Antalya, Türkiye, on 11 November 2026. Excellencies, ladies and gentlemen,",
+          "First, accelerate clean electrification and the transition away from fossil fuels.",
+          "We can build a future of clean energy independence – or lock in another generation of fossil fuel dependence.",
+          "UN Secretary-General's remarks to the High-Level Event, \"Early Warnings for All: Delivering on our Promise to Protect Everyone\"",
+          "UN Secretary-General's remarks to the Leaders' Roundtable: Zero Waste, Circularity and Methane"
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
+    {
+      "id": "9af24884be8da4",
+      "date": "2026-11-11",
+      "category": "국제 정책",
+      "region": "UN",
+      "title": "Kubilay Ciftci | UN Climate Change UN Climate Chief to world leaders in Antalya: “The political costs of fossil fuel dependency are unforgiving. Climate action can help relieve the pressure” UN Climate Speech",
+      "source": "UNFCCC",
+      "url": "https://unfccc.int/news/un-climate-chief-to-world-leaders-in-antalya-the-political-costs-of-fossil-fuel-dependency-are",
+      "doi": "",
+      "tags": [],
+      "document_type": "정책·발표",
+      "link_status": "원문 연결 확인",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "UNFCCC 공식 뉴스",
+      "priority_score": 0,
+      "priority": "참고",
+      "priority_reasons": [],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-11-12",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "The following is a transcript of remarks delivered by UN Climate Change Executive Secretary Simon Stiell during the Opening ceremony of the first part of the High-Level Segment for Heads of State and Government at COP31 in Antalya, Türkiye, on 11 November 2026. Remarks delivered by COP31 President Murat Kurum (English translation and Turkish delive",
+          "So I sincerely thank the Secretary-General for his unflinching voice and his tireless service, for all people, prosperity and our planet. We have global commitments – on finance, the energy transition, adaptation and more. Your countries have national climate action plans – blueprints for jobs and growth. And at this COP we’re going to be working d",
+          "Climate change runs through every one of these concerns. As the world’s challenges become more closely intertwined, governing demands a broader field of vision."
+        ],
+        "research_ideas": [],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "The following is a transcript of remarks delivered by UN Climate Change Executive Secretary Simon Stiell during the Opening ceremony of the first part of the High-Level Segment for Heads of State and Government at COP31 in Antalya, Türkiye, on 11 November 2026. Remarks delivered by COP31 President Murat Kurum (English translation and Turkish delive",
+          "So I sincerely thank the Secretary-General for his unflinching voice and his tireless service, for all people, prosperity and our planet. We have global commitments – on finance, the energy transition, adaptation and more. Your countries have national climate action plans – blueprints for jobs and growth. And at this COP we’re going to be working d",
+          "Climate change runs through every one of these concerns. As the world’s challenges become more closely intertwined, governing demands a broader field of vision.",
+          "When we speak of the climate’s future, we speak of our nations’ future: our energy systems, the competitiveness of our industries, the safety of our cities and the world our children will call home.",
+          "Clean technologies create opportunities for industry and employment. Resilient cities strengthen our economies. Well-designed climate action is an investment in prosperity, security and competitiveness. That is why, from the outset of our COP31 Presidency, we have shared an ambition with Australia, which holds the Presidency of Negotiations: to lea"
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
+    {
+      "id": "5bf14b51da4b0a",
+      "date": "2026-11-11",
+      "category": "국제 정책",
+      "region": "영국",
+      "title": "Prime Minister hails major investment in UK renewables",
+      "source": "영국 에너지안보·넷제로부 (DESNZ)",
+      "url": "https://www.gov.uk/government/news/prime-minister-hails-major-investment-in-uk-renewables",
+      "doi": "",
+      "tags": [],
+      "document_type": "정책·발표",
+      "link_status": "원문 링크 제공 · 접근 여부 미검증",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "Thousands of jobs will be supported as two major offshore wind projects mark progress towards delivering clean homegrown energy for millions of homes, ahead of the Prime Minister’s travel to the COP31 Leaders’ Summit in Türkiye.",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "기관 공식 피드",
+      "priority_score": 0,
+      "priority": "참고",
+      "priority_reasons": [],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-11-12",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "Thousands of jobs will be supported as two major offshore wind projects mark progress towards delivering clean homegrown energy for millions of homes, ahead of the Prime Minister’s travel to the COP31 Leaders’ Summit in Türkiye.",
+          "Prime Minister welcomes green light for two major new UK offshore wind projects ahead of attendance at COP31",
+          "Includes major £12 billion investment in UK renewables, believed to be the biggest in UK history, powering millions of homes and supporting thousands of jobs"
+        ],
+        "research_ideas": [],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "Thousands of jobs will be supported as two major offshore wind projects mark progress towards delivering clean homegrown energy for millions of homes, ahead of the Prime Minister’s travel to the COP31 Leaders’ Summit in Türkiye.",
+          "Prime Minister welcomes green light for two major new UK offshore wind projects ahead of attendance at COP31",
+          "Includes major £12 billion investment in UK renewables, believed to be the biggest in UK history, powering millions of homes and supporting thousands of jobs",
+          "The investment comes as the Prime Minister heads to the COP31 summit, underlining how Britain’s action on climate change and clean energy is bringing good, skilled jobs and new opportunities for local people in industrial and coastal communities across the country.",
+          "The decision marks a major milestone for the project, with the developers now making their final investment commitment to deliver the projects. Onshore works are already well advanced, with construction offshore set to begin in early 2027."
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
+    {
+      "id": "41582467a4c7b9",
+      "date": "2026-11-11",
+      "category": "국제 정책",
+      "region": "영국",
+      "title": "Oil and gas: inspection strategy and enforcement activity",
+      "source": "영국 에너지안보·넷제로부 (DESNZ)",
+      "url": "https://www.gov.uk/guidance/oil-and-gas-decc-public-registers-of-enforcement-activity",
+      "doi": "",
+      "tags": [],
+      "document_type": "정책·발표",
+      "link_status": "원문 연결 확인",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "Yearly intervention plans are produced for oil and gas operations based on the OPRED inspection strategy. Enforcement activities for the breach of environmental regulations is based on the OPRED enforcement policy.",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "기관 공식 피드",
+      "priority_score": 0,
+      "priority": "참고",
+      "priority_reasons": [],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-11-12",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "Yearly intervention plans are produced for oil and gas operations based on the OPRED inspection strategy. Enforcement activities for the breach of environmental regulations is based on the OPRED enforcement policy.",
+          "The Offshore Safety Directive Regulator ( OSDR ), a collaboration between OPRED and the HSE , produces yearly intervention plans detailing planned inspections to be undertaken of oil and gas installations. The OPRED contingent of the ODR intervention plan is based on the OPRED inspection strategy. The Offshore Environmental Inspectorate Team, enfor",
+          "The OPRED Offshore Environmental Inspectorate enforces offshore oil and gas environmental regulations and permit conditions. On occasion OPRED may require offshore permit holders and/or licensed operators to make improvements by issuing them with a notice; either an enforcement notice or improvement notice which allows time for the recipient to com"
+        ],
+        "research_ideas": [],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "Yearly intervention plans are produced for oil and gas operations based on the OPRED inspection strategy. Enforcement activities for the breach of environmental regulations is based on the OPRED enforcement policy.",
+          "The Offshore Safety Directive Regulator ( OSDR ), a collaboration between OPRED and the HSE , produces yearly intervention plans detailing planned inspections to be undertaken of oil and gas installations. The OPRED contingent of the ODR intervention plan is based on the OPRED inspection strategy. The Offshore Environmental Inspectorate Team, enfor",
+          "The OPRED Offshore Environmental Inspectorate enforces offshore oil and gas environmental regulations and permit conditions. On occasion OPRED may require offshore permit holders and/or licensed operators to make improvements by issuing them with a notice; either an enforcement notice or improvement notice which allows time for the recipient to com",
+          "The issue of an enforcement notice and/or a prohibition notice does not prevent other enforcement activity, such as prosecution, being progressed if this is deemed appropriate.",
+          "OPRED ( DESNZ ) has a statutory obligation under the Environment and Safety Information Act 1988 to maintain a public register of certain notices. The registers outline the formal enforcement activity undertaken by OPRED in respect of offshore oil and gas operations on the United Kingdom Continental Shelf ( UKCS )."
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
+    {
+      "id": "12e4030418ec48",
+      "date": "2026-11-11",
+      "category": "국제 정책",
+      "region": "UN",
+      "title": "Kiara Worth | UN Climate Change Transcript of remarks made by UN Secretary-General António Guterres to the COP31 Leaders' Summit External Speech",
+      "source": "UNFCCC",
+      "url": "https://unfccc.int/news/transcript-of-remarks-made-by-un-secretary-general-antonio-guterres-to-the-cop31-leaders-summit",
+      "doi": "",
+      "tags": [
+        "COP31"
+      ],
+      "document_type": "정책·발표",
+      "link_status": "원문 연결 확인",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "UNFCCC 공식 뉴스",
+      "priority_score": 0,
+      "priority": "참고",
+      "priority_reasons": [],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-11-12",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "The following is a transcript of remarks made by UN Secretary-General António Guterres to the COP31 Leaders' Summit in Antalya, Türkiye, on 11 November 2026. President Erdoğan, thank you for your wonderful hospitality and excellent organization of the COP.",
+          "Starting next year, I will no longer be Secretary-General.",
+          "UN Secretary-General's remarks to the High-Level Event, \"Early Warnings for All: Delivering on our Promise to Protect Everyone\""
+        ],
+        "research_ideas": [],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "The following is a transcript of remarks made by UN Secretary-General António Guterres to the COP31 Leaders' Summit in Antalya, Türkiye, on 11 November 2026. President Erdoğan, thank you for your wonderful hospitality and excellent organization of the COP.",
+          "Starting next year, I will no longer be Secretary-General.",
+          "UN Secretary-General's remarks to the High-Level Event, \"Early Warnings for All: Delivering on our Promise to Protect Everyone\"",
+          "UN Secretary-General's remarks to the Leaders' Roundtable: Zero Waste, Circularity and Methane",
+          "Powering the future: UN Secretary-General remarks to the high-level dialogue on clean energy transition and electrification"
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
+    {
+      "id": "03bb910f51dd92",
+      "date": "2026-11-11",
+      "category": "국제 정책",
+      "region": "독일",
+      "title": "Klimaschutzbericht 2026: Deutschland macht Fortschritte auf dem Weg zur Klimaneutralität – weitere Anstrengungen bleiben notwendig",
+      "source": "독일 연방환경부(BMUKN)",
+      "url": "https://www.bundesumweltministerium.de/pressemitteilung/klimaschutzbericht-2026-deutschland-macht-fortschritte-auf-dem-weg-zur-klimaneutralitaet-weitere-anstrengungen-bleiben-notwendig",
+      "doi": "",
+      "tags": [],
+      "document_type": "연구보고서",
+      "link_status": "원문 링크 제공 · 접근 여부 미검증",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "Die Bundesregierung hat den Klimaschutzbericht 2026 im Kabinett beschlossen. Der Bericht zeigt: Deutschland ist auf dem Weg zur Klimaneutralität bis 2045 deutlich vorangekommen, trotzdem bleiben weitere Anstrengungen notwendig.",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "기관 공식 피드",
+      "priority_score": 0,
+      "priority": "참고",
+      "priority_reasons": [],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-11-12",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "Die Bundesregierung hat heute den Klimaschutzbericht 2026 im Kabinett beschlossen. Mit dem Bericht erfüllt die Bundesregierung einen gesetzlichen Auftrag aus dem Klimaschutzgesetz. Er dokumentiert jährlich die Entwicklung der Treibhausgasemissionen, den Stand der Klimaschutzmaßnahmen und deren erwartete Minderungswirkungen. Der Bericht zeigt: Deuts",
+          "Seit 1990 konnten die Treibhausgasemissionen um rund 48 Prozent reduziert werden. In allen wichtigen Sektoren schreitet der strukturelle Wandel voran. Erneuerbare Energien, innovative Technologien und klimafreundliche Produktionsweisen gewinnen zunehmend an Bedeutung und eröffnen zugleich neue wirtschaftliche Chancen. Besonders deutlich wird die po",
+          "Der Bericht, der auf den am 14. März 2026 veröffentlichten Daten und Projektionen des Umweltbundesamtes beruht, macht zugleich deutlich, dass weitere Anstrengungen notwendig sind, um die Klimaziele zu erreichen. Die zugrunde liegenden Projektionsdaten 2026 des Umweltbundesamts berücksichtigen allerdings weder die Wirkung des im März 2026 beschlosse"
+        ],
+        "research_ideas": [
+          {
+            "title": "온실가스 감축정책 지표와 LCA 환경편익 산정의 경계 정합성",
+            "research_question": "정책상 감축실적의 기준선과 제품 전과정 산정의 기준선 차이는 어떻게 비교가능성을 제한하는가?",
+            "methodology": "시스템경계·기준선·할당 및 불확실성에 관한 방법론 대조",
+            "novelty": "정책 지표와 제품 지표의 목적·범위 차이를 규명하는 연구 가설",
+            "data": "공개 규정·배출계수·LCI DB 및 제도 운영 자료"
+          }
+        ],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "Die Bundesregierung hat heute den Klimaschutzbericht 2026 im Kabinett beschlossen. Mit dem Bericht erfüllt die Bundesregierung einen gesetzlichen Auftrag aus dem Klimaschutzgesetz. Er dokumentiert jährlich die Entwicklung der Treibhausgasemissionen, den Stand der Klimaschutzmaßnahmen und deren erwartete Minderungswirkungen. Der Bericht zeigt: Deuts",
+          "Seit 1990 konnten die Treibhausgasemissionen um rund 48 Prozent reduziert werden. In allen wichtigen Sektoren schreitet der strukturelle Wandel voran. Erneuerbare Energien, innovative Technologien und klimafreundliche Produktionsweisen gewinnen zunehmend an Bedeutung und eröffnen zugleich neue wirtschaftliche Chancen. Besonders deutlich wird die po",
+          "Der Bericht, der auf den am 14. März 2026 veröffentlichten Daten und Projektionen des Umweltbundesamtes beruht, macht zugleich deutlich, dass weitere Anstrengungen notwendig sind, um die Klimaziele zu erreichen. Die zugrunde liegenden Projektionsdaten 2026 des Umweltbundesamts berücksichtigen allerdings weder die Wirkung des im März 2026 beschlosse",
+          "Das Klimaschutzprogramm 2026 wurde am 26. März 2026 von der Bundesregierung beschlossen. Es enthält 67 Maßnahmen, die bis 2030 rund 27 Millionen Tonnen Treibhausgase einsparen. Dazu gehören der Ausbau der Windenergie, Förderprogramme für Elektromobilität, Maßnahmen in Industrie und Gebäuden sowie Initiativen für eine nachhaltigere, umwelt- und klim",
+          "Der vollständige Klimaschutzbericht der Bundesregierung 2026 steht unter \"Weitere Informationen \"zur Verfügung."
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
     {
       "id": "f01ca1fc8c54e4",
       "date": "2026-11-10",
