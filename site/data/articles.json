@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-11-12T07:03:06+00:00",
+  "updated_at": "2026-11-13T06:32:11+00:00",
   "collector": "GitHub Actions / official government sources + Crossref",
   "profile_version": "2026-10-10",
-  "new_items": 10,
+  "new_items": 9,
   "source_health": {
     "ok": [
       "기후에너지환경부",
@@ -19,23 +19,125 @@
       "프랑스 생태전환부",
       "Crossref: dynamic life cycle assessment",
       "Crossref: prospective life cycle assessment",
+      "Crossref: consequential life cycle assessment allocation",
       "Crossref: waste management life cycle assessment",
+      "Crossref: extended producer responsibility life cycle",
+      "Crossref: recycling recycled plastics product carbon footprint",
       "Crossref: end of life vehicles environmental impact",
+      "Crossref: automotive parts product carbon footprint",
       "Crossref: hydrogen well to wheel life cycle assessment",
       "Crossref: hydrogen life cycle assessment",
       "Crossref: bioenergy avoided emissions carbon removals",
-      "Crossref: product environmental footprint ecodesign regulation",
-      "Crossref: mass balance recycling chain of custody"
+      "Crossref: product environmental footprint ecodesign regulation"
     ],
     "errors": [
       "EU 집행위원회 역내시장·산업총국",
-      "Crossref: consequential life cycle assessment allocation",
-      "Crossref: extended producer responsibility life cycle",
-      "Crossref: recycling recycled plastics product carbon footprint",
-      "Crossref: automotive parts product carbon footprint"
+      "Crossref: mass balance recycling chain of custody"
     ]
   },
   "articles": [
+    {
+      "id": "f4e55fcb8d2625",
+      "date": "2026-11-12",
+      "category": "국제 정책",
+      "region": "영국",
+      "title": "Voluntary carbon and nature markets: raising integrity",
+      "source": "영국 에너지안보·넷제로부 (DESNZ)",
+      "url": "https://www.gov.uk/government/consultations/voluntary-carbon-and-nature-markets-raising-integrity",
+      "doi": "",
+      "tags": [],
+      "document_type": "정책·발표",
+      "link_status": "원문 연결 확인",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "We're seeking views on the implementation of the UK government’s principles for voluntary carbon and nature market integrity.",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "기관 공식 피드",
+      "priority_score": 0,
+      "priority": "참고",
+      "priority_reasons": [],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-11-13",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "Voluntary carbon and nature markets: raising integrity - government response",
+          "Voluntary carbon and nature markets: raising integrity - government response (accessible webpage)",
+          "Voluntary carbon and nature markets: raising integrity - summary of responses"
+        ],
+        "research_ideas": [
+          {
+            "title": "온실가스 감축정책 지표와 LCA 환경편익 산정의 경계 정합성",
+            "research_question": "정책상 감축실적의 기준선과 제품 전과정 산정의 기준선 차이는 어떻게 비교가능성을 제한하는가?",
+            "methodology": "시스템경계·기준선·할당 및 불확실성에 관한 방법론 대조",
+            "novelty": "정책 지표와 제품 지표의 목적·범위 차이를 규명하는 연구 가설",
+            "data": "공개 규정·배출계수·LCI DB 및 제도 운영 자료"
+          }
+        ],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "Voluntary carbon and nature markets: raising integrity - government response",
+          "Voluntary carbon and nature markets: raising integrity - government response (accessible webpage)",
+          "Voluntary carbon and nature markets: raising integrity - summary of responses",
+          "Voluntary carbon and nature markets: raising integrity - summary of responses (accessible webpage)",
+          "Voluntary carbon and nature markets: raising integrity - consultation document"
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
+    {
+      "id": "e21563b342cd08",
+      "date": "2026-11-12",
+      "category": "국제 정책",
+      "region": "UN",
+      "title": "Dominic Chavez | World Bank New UN Climate Change report highlights what it takes to scale up industrial climate action Article",
+      "source": "UNFCCC",
+      "url": "https://unfccc.int/news/new-un-climate-change-report-highlights-what-it-takes-to-scale-up-industrial-climate-action",
+      "doi": "",
+      "tags": [],
+      "document_type": "연구보고서",
+      "link_status": "원문 연결 확인",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "UNFCCC 공식 뉴스",
+      "priority_score": 0,
+      "priority": "참고",
+      "priority_reasons": [],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-11-13",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "UN Climate Change News, 12 November2026 – A new UN Climate Change report brings together the discussions held under the Sharm el-Sheikh mitigation ambition and implementation work programme , highlighting key findings, opportunities and barriers identified during the discussions for accelerating mitigation action in industries. The annual report of",
+          "“Super pollutants are a supersize opportunity ... methane cuts provide rapid results\" UN Climate Chief at COP31 today",
+          "UN Secretary-General's remarks to the High-Level Event, \"Early Warnings for All: Delivering on our Promise to Protect Everyone\""
+        ],
+        "research_ideas": [],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "UN Climate Change News, 12 November2026 – A new UN Climate Change report brings together the discussions held under the Sharm el-Sheikh mitigation ambition and implementation work programme , highlighting key findings, opportunities and barriers identified during the discussions for accelerating mitigation action in industries. The annual report of",
+          "“Super pollutants are a supersize opportunity ... methane cuts provide rapid results\" UN Climate Chief at COP31 today",
+          "UN Secretary-General's remarks to the High-Level Event, \"Early Warnings for All: Delivering on our Promise to Protect Everyone\"",
+          "UN Secretary-General's remarks to the Leaders' Roundtable: Zero Waste, Circularity and Methane",
+          "Powering the future: UN Secretary-General remarks to the high-level dialogue on clean energy transition and electrification"
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
     {
       "id": "b0b3132df6aaa4",
       "date": "2026-11-12",
@@ -58,6 +160,53 @@
       "priority_reasons": [],
       "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
       "source_last_attempt": "2026-11-12"
+    },
+    {
+      "id": "a5e34526b89ebc",
+      "date": "2026-11-12",
+      "category": "국제 정책",
+      "region": "UN",
+      "title": "Transparency as an enabling tool for faster real-economy progress UN Climate Speech",
+      "source": "UNFCCC",
+      "url": "https://unfccc.int/news/transparency-as-an-enabling-tool-for-faster-real-economy-progress",
+      "doi": "",
+      "tags": [],
+      "document_type": "정책·발표",
+      "link_status": "원문 URL 제공 · 접근 여부 미검증",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "UNFCCC 공식 뉴스",
+      "priority_score": 0,
+      "priority": "참고",
+      "priority_reasons": [],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-11-13",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "The following is a transcript of remarks delivered by UN Climate Change Executive Secretary Simon Stiell during the \"Caring for Climate\" event organized by the Global Compact at COP31 in Antalya, Türkiye, on 12 November 2026. Excellencies, Colleagues and dear friends, My thanks to the UN Global Compact and the UN Environment Programme for bringing ",
+          "More information on the Net-zero Recognition Framework",
+          "Net-Zero Recognition Framework launched to spotlight non-State actors’ leadership"
+        ],
+        "research_ideas": [],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "The following is a transcript of remarks delivered by UN Climate Change Executive Secretary Simon Stiell during the \"Caring for Climate\" event organized by the Global Compact at COP31 in Antalya, Türkiye, on 12 November 2026. Excellencies, Colleagues and dear friends, My thanks to the UN Global Compact and the UN Environment Programme for bringing ",
+          "More information on the Net-zero Recognition Framework",
+          "Net-Zero Recognition Framework launched to spotlight non-State actors’ leadership",
+          "Türkiye becomes second country to submit second Biennial Transparency Report",
+          "First 100 transparency report reviews conducted under the Paris Agreement"
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
     },
     {
       "id": "8d7db378728921",
@@ -135,6 +284,143 @@
       "source_last_attempt": "2026-11-12"
     },
     {
+      "id": "84006e04870ce4",
+      "date": "2026-11-12",
+      "category": "국제 정책",
+      "region": "영국",
+      "title": "Official Statistics: Agri-environment scheme uptake in protected landscapes",
+      "source": "영국 환경식품농촌부 (Defra)",
+      "url": "https://www.gov.uk/government/statistics/announcements/agri-environment-scheme-uptake-in-protected-landscapes",
+      "doi": "",
+      "tags": [],
+      "document_type": "정책·발표",
+      "link_status": "원문 연결 확인",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "Agri-Environment Scheme (AES) uptake in Protected Landscapes for the Sustainable Farming Incentive (SFI), Countryside Stewardship (CS) and Environmental Stewardship (ES). The publication will include agreement area and payment totals annually per protected landscape area for 2023 to 2025, and area in protected landscapes per option as of 31st December 2025.",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "기관 공식 피드",
+      "priority_score": 0,
+      "priority": "참고",
+      "priority_reasons": [],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-11-13",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "Agri-Environment Scheme (AES) uptake in Protected Landscapes for the Sustainable Farming Incentive (SFI), Countryside Stewardship (CS) and Environmental Stewardship (ES). The publication will include agreement area and payment totals annually per protected landscape area for 2023 to 2025, and area in protected landscapes per option as of 31st Decem"
+        ],
+        "research_ideas": [],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "Agri-Environment Scheme (AES) uptake in Protected Landscapes for the Sustainable Farming Incentive (SFI), Countryside Stewardship (CS) and Environmental Stewardship (ES). The publication will include agreement area and payment totals annually per protected landscape area for 2023 to 2025, and area in protected landscapes per option as of 31st Decem"
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
+    {
+      "id": "4ddf52f2982796",
+      "date": "2026-11-12",
+      "category": "국제 정책",
+      "region": "UN",
+      "title": "Kubilay Ciftci | UN Climate Change “Super pollutants are a supersize opportunity ... methane cuts provide rapid results\" UN Climate Chief at COP31 today UN Climate Speech",
+      "source": "UNFCCC",
+      "url": "https://unfccc.int/news/super-pollutants-are-a-supersize-opportunity-methane-cuts-provide-rapid-results-un-climate-chief-at",
+      "doi": "",
+      "tags": [
+        "COP31"
+      ],
+      "document_type": "정책·발표",
+      "link_status": "원문 URL 제공 · 접근 여부 미검증",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "UNFCCC 공식 뉴스",
+      "priority_score": 0,
+      "priority": "참고",
+      "priority_reasons": [],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-11-13",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "The following is a transcript of a speech delivered by UN Climate Change Executive Secretary Simon Stiell at at the Leaders-Level Non-CO₂ Greenhouse Gases Summit at COP31 in Antalya, Türkiye, on 12 November 2026. Excellencies, I thank the governments of China and the UK, and the COP30 and 31 Presidencies, for bringing us together on a vital issue. ",
+          "New UN Climate Change report highlights what it takes to scale up industrial climate action",
+          "UN Secretary-General's remarks to the High-Level Event, \"Early Warnings for All: Delivering on our Promise to Protect Everyone\""
+        ],
+        "research_ideas": [],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "The following is a transcript of a speech delivered by UN Climate Change Executive Secretary Simon Stiell at at the Leaders-Level Non-CO₂ Greenhouse Gases Summit at COP31 in Antalya, Türkiye, on 12 November 2026. Excellencies, I thank the governments of China and the UK, and the COP30 and 31 Presidencies, for bringing us together on a vital issue. ",
+          "New UN Climate Change report highlights what it takes to scale up industrial climate action",
+          "UN Secretary-General's remarks to the High-Level Event, \"Early Warnings for All: Delivering on our Promise to Protect Everyone\"",
+          "UN Secretary-General's remarks to the Leaders' Roundtable: Zero Waste, Circularity and Methane",
+          "Powering the future: UN Secretary-General remarks to the high-level dialogue on clean energy transition and electrification"
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
+    {
+      "id": "2a94858e159fcf",
+      "date": "2026-11-12",
+      "category": "국제 정책",
+      "region": "영국",
+      "title": "Water bosses must not be rewarded for failure by another name, says Environment Secretary",
+      "source": "영국 환경식품농촌부 (Defra)",
+      "url": "https://www.gov.uk/government/news/water-bosses-must-not-be-rewarded-for-failure-by-another-name-says-environment-secretary",
+      "doi": "",
+      "tags": [],
+      "document_type": "정책·발표",
+      "link_status": "원문 링크 제공 · 접근 여부 미검증",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "Environment Secretary warns against the use of loopholes that undermines the spirit of the bonus ban",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "기관 공식 피드",
+      "priority_score": 0,
+      "priority": "참고",
+      "priority_reasons": [],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-11-13",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "Environment Secretary warns against the use of loopholes that undermines the spirit of the bonus ban",
+          "Water bosses must not be allowed to dodge the government’s bonus ban by disguising bonuses as other forms of pay, the Environment Secretary has warned today (12 November).",
+          "The government’s ban has already stopped over £10 million going to water bosses since it was introduced. With nine water companies triggering the ban in the last financial year alone, and more than £6.5 million of potential bonuses blocked."
+        ],
+        "research_ideas": [],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "Environment Secretary warns against the use of loopholes that undermines the spirit of the bonus ban",
+          "Water bosses must not be allowed to dodge the government’s bonus ban by disguising bonuses as other forms of pay, the Environment Secretary has warned today (12 November).",
+          "The government’s ban has already stopped over £10 million going to water bosses since it was introduced. With nine water companies triggering the ban in the last financial year alone, and more than £6.5 million of potential bonuses blocked.",
+          "Environment Secretary Dame Angela Eagle said:",
+          "The Environment Secretary will also set out clear improvement actions for each water company, including tackling leakage, delivering sustained reductions in pollution incidents and improving customer satisfaction."
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
+    {
       "id": "eee0cda6d7f6fd",
       "date": "2026-11-11",
       "category": "국제 정책",
@@ -185,6 +471,65 @@
           "Electronic waste is growing five times faster than we recycle it.",
           "Waste is also heating our planet – above all through methane.",
           "Let us move from managing waste to preventing it, shift to a circular economy – and end the age of unchecked methane pollution."
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
+    {
+      "id": "e5198ca8ad86b4",
+      "date": "2026-11-11",
+      "category": "국제 정책",
+      "region": "EU",
+      "title": "Reduce, Re-use, Recycle, Recover: lessons for applying the ‘4R’ concept in industrial redevelopment",
+      "source": "EU 집행위원회 환경총국",
+      "url": "https://environment.ec.europa.eu/news/reduce-re-use-recycle-recover-lessons-applying-4r-concept-industrial-redevelopment-2026-11-11_en",
+      "doi": "",
+      "tags": [
+        "순환경제·재활용"
+      ],
+      "document_type": "정책·발표",
+      "link_status": "원문 연결 확인",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "When industry closes down, what’s the best option for the buildings left behind? A study has looked at how circular economy principles have been applied to former breweries, factories and mines in Poland.",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "기관 공식 피드",
+      "priority_score": 11,
+      "priority": "참고",
+      "priority_reasons": [
+        "순환경제·재활용"
+      ],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-11-13",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "The construction sector has a substantial environmental footprint – in the EU being responsible for an estimated one third of all waste generation, almost 50% of all resource consumption and around 40% of greenhouse gas emissions. The EU Circular Economy Action Plan and Waste Framework Directive both give particular consideration to the sector. The",
+          "Adapting existing buildings, rather than demolishing and rebuilding to meet changing needs, can significantly reduce environmental impacts and offers the advantage of retaining their cultural and historic value. A new study based in Poland – where this approach is often taken to redevelop post-industrial buildings in urban areas – set out to gather",
+          "Reduce – limiting waste generation by minimising demolition and other removals;"
+        ],
+        "research_ideas": [
+          {
+            "title": "재자원화 환경편익 산정에서 폐기물 지위와 환경부하 귀속의 영향",
+            "research_question": "폐기물의 원료 전환과 대체편익 반영 범위가 정책단위 감축실적과 제품단위 PCF 간 결과를 어떻게 변화시키는가?",
+            "methodology": "Attributional/Consequential LCA, cut-off·할당·회피배출 규칙을 결합한 시나리오",
+            "novelty": "정책 효과와 제품 탄소발자국의 산정목적·경계 차이에서 발생하는 연구 가설",
+            "data": "공식 정책 문서, 공개 재활용 통계와 공정 LCI. 민간 현장 수율은 확인 필요"
+          }
+        ],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "The construction sector has a substantial environmental footprint – in the EU being responsible for an estimated one third of all waste generation, almost 50% of all resource consumption and around 40% of greenhouse gas emissions. The EU Circular Economy Action Plan and Waste Framework Directive both give particular consideration to the sector. The",
+          "Adapting existing buildings, rather than demolishing and rebuilding to meet changing needs, can significantly reduce environmental impacts and offers the advantage of retaining their cultural and historic value. A new study based in Poland – where this approach is often taken to redevelop post-industrial buildings in urban areas – set out to gather",
+          "Reduce – limiting waste generation by minimising demolition and other removals;",
+          "Recycle – reprocessing components for new uses (e.g. transforming original columns into lighting fixtures or decorative elements);",
+          "All 10 projects inherently demonstrated the Recover principle, say the researchers, as they retrieved economic and social value from disused industrial spaces. Nine cases also included examples of Re-use, mainly by using original elements for design or decorative functions. Eight projects incorporated the Reduce principle, although often this was m"
         ],
         "conclusion": "",
         "korea_implications": "",
@@ -279,6 +624,124 @@
           "Climate change runs through every one of these concerns. As the world’s challenges become more closely intertwined, governing demands a broader field of vision.",
           "When we speak of the climate’s future, we speak of our nations’ future: our energy systems, the competitiveness of our industries, the safety of our cities and the world our children will call home.",
           "Clean technologies create opportunities for industry and employment. Resilient cities strengthen our economies. Well-designed climate action is an investment in prosperity, security and competitiveness. That is why, from the outset of our COP31 Presidency, we have shared an ambition with Australia, which holds the Presidency of Negotiations: to lea"
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
+    {
+      "id": "9771311d2d2abd",
+      "date": "2026-11-11",
+      "category": "국제 정책",
+      "region": "EU",
+      "title": "Local connections matter for adopting circular practices in construction",
+      "source": "EU 집행위원회 환경총국",
+      "url": "https://environment.ec.europa.eu/news/local-connections-matter-adopting-circular-practices-construction-2026-11-11_en",
+      "doi": "",
+      "tags": [
+        "순환경제·재활용"
+      ],
+      "document_type": "정책·발표",
+      "link_status": "원문 URL 제공 · 접근 여부 미검증",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "How can we encourage circularity in the construction sector? A study of building firms’ practices in Italy suggests that local relationships may hold one key to improving sustainability.",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "기관 공식 피드",
+      "priority_score": 8,
+      "priority": "참고",
+      "priority_reasons": [
+        "순환경제·재활용"
+      ],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-11-13",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "In the European Union, nearly one-third of all waste is generated by the construction sector, which is also responsible for almost 40% of greenhouse gas emissions. Applying circular economy principles to the industry could therefore reap huge benefits.",
+          "The EU Circular Economy Action Plan highlights great potential for improved circularity in construction, while the Waste Framework Directive tackles construction and demolition waste, prioritising reuse and high-quality recycling of materials. In addition, technological developments improve prospects for circularity – for instance employing artific",
+          "Responses showed that while innovation in construction is generally influenced by market economics, regulatory and policy factors, when it comes to circular innovations, firm size and local market orientation were key. Larger firms allocate more budget for investing in research and development and were more likely to adopt circular innovations."
+        ],
+        "research_ideas": [
+          {
+            "title": "재자원화 환경편익 산정에서 폐기물 지위와 환경부하 귀속의 영향",
+            "research_question": "폐기물의 원료 전환과 대체편익 반영 범위가 정책단위 감축실적과 제품단위 PCF 간 결과를 어떻게 변화시키는가?",
+            "methodology": "Attributional/Consequential LCA, cut-off·할당·회피배출 규칙을 결합한 시나리오",
+            "novelty": "정책 효과와 제품 탄소발자국의 산정목적·경계 차이에서 발생하는 연구 가설",
+            "data": "공식 정책 문서, 공개 재활용 통계와 공정 LCI. 민간 현장 수율은 확인 필요"
+          }
+        ],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "In the European Union, nearly one-third of all waste is generated by the construction sector, which is also responsible for almost 40% of greenhouse gas emissions. Applying circular economy principles to the industry could therefore reap huge benefits.",
+          "The EU Circular Economy Action Plan highlights great potential for improved circularity in construction, while the Waste Framework Directive tackles construction and demolition waste, prioritising reuse and high-quality recycling of materials. In addition, technological developments improve prospects for circularity – for instance employing artific",
+          "Responses showed that while innovation in construction is generally influenced by market economics, regulatory and policy factors, when it comes to circular innovations, firm size and local market orientation were key. Larger firms allocate more budget for investing in research and development and were more likely to adopt circular innovations.",
+          "A more interesting finding supported the idea that a firm’s connections to other construction firms in the local market was also a factor. Proximity of firms to each other, as well as their level of collaboration, helped reduce the costs of transporting materials and so supported the exchange of salvaged and recycled raw materials and ideas. Such l",
+          "The finding that local material flows encourage circularity provides food for thought on how to better engage European builders. Allocating resources to support R&D and foster local inter-firm collaboration could promote circular economy practices amongst small businesses and entrepreneurs in the sector. The researchers acknowledged that the work c"
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
+    {
+      "id": "912159ef5fab1b",
+      "date": "2026-11-11",
+      "category": "국제 정책",
+      "region": "EU",
+      "title": "Remediation of landfill leachate: study looks at microbiomes that break down toxic chemicals from municipal waste",
+      "source": "EU 집행위원회 환경총국",
+      "url": "https://environment.ec.europa.eu/news/remediation-landfill-leachate-study-looks-microbiomes-break-down-toxic-chemicals-municipal-waste-2026-11-11_en",
+      "doi": "",
+      "tags": [
+        "폐기물관리·처리"
+      ],
+      "document_type": "연구보고서",
+      "link_status": "원문 연결 확인",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "Leachate from landfill sites can be detoxified by microbes, including any that are found within. New research explores the factors that influence the composition of these microbiomes, with a view to optimising them as a treatment solution.",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "기관 공식 피드",
+      "priority_score": 20,
+      "priority": "우선 검토",
+      "priority_reasons": [
+        "폐기물관리·처리"
+      ],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-11-13",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "Although it is the least preferred disposal option according to the EU Waste Framework Directive (2008), some EU countries still landfill the majority of their municipal waste. This is also the case globally, with around 95% being disposed of in landfill sites. As water (such as rainwater) passes through the waste material, collecting soluble chemi",
+          "Leachate typically contains organic compounds, often generated in decomposition, and persistent chemicals including solvents, pesticides and PFAS (per- and polyfluoroalkyl substances). Some of these chemicals may be endocrine disruptors. Landfill leachate is therefore a significant environmental threat, with pollutants that can contaminate groundwa",
+          "Operation of landfill sites in Europe is regulated by the Landfill Directive (1999), with a 2018 amendment setting a target for a maximum of 10% of municipal waste sent to landfill by 2035. However, a 2023 report from the European Commission identified 13 Member States that were at risk of failing to meet the 2035 goal. Effective management of leac"
+        ],
+        "research_ideas": [
+          {
+            "title": "재자원화 환경편익 산정에서 폐기물 지위와 환경부하 귀속의 영향",
+            "research_question": "폐기물의 원료 전환과 대체편익 반영 범위가 정책단위 감축실적과 제품단위 PCF 간 결과를 어떻게 변화시키는가?",
+            "methodology": "Attributional/Consequential LCA, cut-off·할당·회피배출 규칙을 결합한 시나리오",
+            "novelty": "정책 효과와 제품 탄소발자국의 산정목적·경계 차이에서 발생하는 연구 가설",
+            "data": "공식 정책 문서, 공개 재활용 통계와 공정 LCI. 민간 현장 수율은 확인 필요"
+          }
+        ],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "Although it is the least preferred disposal option according to the EU Waste Framework Directive (2008), some EU countries still landfill the majority of their municipal waste. This is also the case globally, with around 95% being disposed of in landfill sites. As water (such as rainwater) passes through the waste material, collecting soluble chemi",
+          "Leachate typically contains organic compounds, often generated in decomposition, and persistent chemicals including solvents, pesticides and PFAS (per- and polyfluoroalkyl substances). Some of these chemicals may be endocrine disruptors. Landfill leachate is therefore a significant environmental threat, with pollutants that can contaminate groundwa",
+          "Operation of landfill sites in Europe is regulated by the Landfill Directive (1999), with a 2018 amendment setting a target for a maximum of 10% of municipal waste sent to landfill by 2035. However, a 2023 report from the European Commission identified 13 Member States that were at risk of failing to meet the 2035 goal. Effective management of leac",
+          "The collection and treatment of leachate is challenging. Microbial remediation – whereby bacteria and other microbes (microscopic organisms) break down toxic pollutants into less harmful substances – is a key tool used in its treatment. The microbes at work in leachate treatment plants may be intentionally added, but are mostly already present in t",
+          "Many species of microbe are present in any given site, performing different functions and forming an ecological community that helps to reduce leachate toxicity as it breaks down complicated pollutants into smaller and less harmful substances. For example, some bacteria use enzymes to break down cellulose and proteins into smaller molecules includi"
         ],
         "conclusion": "",
         "korea_implications": "",
