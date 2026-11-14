@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-11-13T06:32:11+00:00",
+  "updated_at": "2026-11-14T06:10:40+00:00",
   "collector": "GitHub Actions / official government sources + Crossref",
   "profile_version": "2026-10-10",
-  "new_items": 9,
+  "new_items": 14,
   "source_health": {
     "ok": [
       "기후에너지환경부",
@@ -27,15 +27,677 @@
       "Crossref: automotive parts product carbon footprint",
       "Crossref: hydrogen well to wheel life cycle assessment",
       "Crossref: hydrogen life cycle assessment",
-      "Crossref: bioenergy avoided emissions carbon removals",
-      "Crossref: product environmental footprint ecodesign regulation"
+      "Crossref: product environmental footprint ecodesign regulation",
+      "Crossref: mass balance recycling chain of custody"
     ],
     "errors": [
       "EU 집행위원회 역내시장·산업총국",
-      "Crossref: mass balance recycling chain of custody"
+      "Crossref: bioenergy avoided emissions carbon removals"
     ]
   },
   "articles": [
+    {
+      "id": "f1c6c78d3c5fdf",
+      "date": "2026-11-13",
+      "category": "국제 정책",
+      "region": "UN",
+      "title": "Kiara Worth | UN Climate Change COP31: New global priorities target role of AI in climate information integrity External Press Release",
+      "source": "UNFCCC",
+      "url": "https://unfccc.int/news/cop31-new-global-priorities-target-role-of-ai-in-climate-information-integrity",
+      "doi": "",
+      "tags": [
+        "COP31"
+      ],
+      "document_type": "정책·발표",
+      "link_status": "원문 URL 제공 · 접근 여부 미검증",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "UNFCCC 공식 뉴스",
+      "priority_score": 0,
+      "priority": "참고",
+      "priority_reasons": [],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-11-14",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "Global Initiative calls for urgent investment to safeguard reliable information; and backs Charter to ensure transparency when advertising money funds climate disinformation.",
+          "United Nations Press Release, Antalya, Türkiye, 13 November 2026 – At COP31 today, the Global Initiative for Information Integrity on Climate Change launched the Priorities for Action on AI for Climate Information Integrity, setting out what States, AI actors, advertisers, researchers, journalists and funders can do so that people can rely on clima",
+          "\"Face the facts. Follow the science. Choose the future. And never give up\" UN Secretary-General at his final press conference at COP31"
+        ],
+        "research_ideas": [],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "Global Initiative calls for urgent investment to safeguard reliable information; and backs Charter to ensure transparency when advertising money funds climate disinformation.",
+          "United Nations Press Release, Antalya, Türkiye, 13 November 2026 – At COP31 today, the Global Initiative for Information Integrity on Climate Change launched the Priorities for Action on AI for Climate Information Integrity, setting out what States, AI actors, advertisers, researchers, journalists and funders can do so that people can rely on clima",
+          "\"Face the facts. Follow the science. Choose the future. And never give up\" UN Secretary-General at his final press conference at COP31",
+          "UN Climate Chief at COP31 today: “Climate finance must help countries break free”",
+          "New UN Climate Change report highlights what it takes to scale up industrial climate action"
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
+    {
+      "id": "df339152fd7a15",
+      "date": "2026-11-13",
+      "category": "국제 정책",
+      "region": "EU",
+      "title": "2.3 million tonnes of textile waste generated in 2024",
+      "source": "EU 집행위원회 환경총국",
+      "url": "https://ec.europa.eu/eurostat/en/web/products-eurostat-news/w/ddn-20261112-1",
+      "doi": "",
+      "tags": [],
+      "document_type": "정책·발표",
+      "link_status": "원문 링크 제공 · 접근 여부 미검증",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "In 2024, 2.3 million tonnes of textile waste were generated in the EU. Household disposal accounted for over half of this amount. During the same year, 1.4 million tonnes of textile waste were treated, corresponding to 63% of all textile waste generated that year.",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "기관 공식 피드",
+      "priority_score": 0,
+      "priority": "참고",
+      "priority_reasons": [],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-11-14",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "Извиняваме се за неудобството. Моля, опитайте пак по-късно.",
+          "Omlouváme se za způsobené nepříjemnosti. Zkuste to prosím znovu později.",
+          "Vi undskylder ulejligheden. Prøv igen senere."
+        ],
+        "research_ideas": [
+          {
+            "title": "재자원화 환경편익 산정에서 폐기물 지위와 환경부하 귀속의 영향",
+            "research_question": "폐기물의 원료 전환과 대체편익 반영 범위가 정책단위 감축실적과 제품단위 PCF 간 결과를 어떻게 변화시키는가?",
+            "methodology": "Attributional/Consequential LCA, cut-off·할당·회피배출 규칙을 결합한 시나리오",
+            "novelty": "정책 효과와 제품 탄소발자국의 산정목적·경계 차이에서 발생하는 연구 가설",
+            "data": "공식 정책 문서, 공개 재활용 통계와 공정 LCI. 민간 현장 수율은 확인 필요"
+          }
+        ],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "Извиняваме се за неудобството. Моля, опитайте пак по-късно.",
+          "Omlouváme se za způsobené nepříjemnosti. Zkuste to prosím znovu později.",
+          "Vi undskylder ulejligheden. Prøv igen senere.",
+          "Wir entschuldigen uns für etwaige Unannehmlichkeiten. Bitte versuchen Sie es später noch einmal.",
+          "Ζητούμε συγγνώμη για τυχόν προβλήματα. Δοκιμάστε ξανά αργότερα."
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
+    {
+      "id": "dddecbc160c3ea",
+      "date": "2026-11-13",
+      "category": "국제 정책",
+      "region": "독일",
+      "title": "Chemieindustrie wird im EU-Emissionshandel entlastet",
+      "source": "독일 연방환경부(BMUKN)",
+      "url": "https://www.bundesumweltministerium.de/pressemitteilung/chemieindustrie-wird-im-eu-emissionshandel-entlastet",
+      "doi": "",
+      "tags": [],
+      "document_type": "정책·발표",
+      "link_status": "원문 링크 제공 · 접근 여부 미검증",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "Die EU will die Chemieindustrie im Emissionshandel für 2026 bis 2030 stärker entlasten. Die vorläufige Einigung ermöglicht mehr kostenlose CO₂-Zertifikate, ohne die Obergrenze für Emissionen zu verändern.",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "기관 공식 피드",
+      "priority_score": 0,
+      "priority": "참고",
+      "priority_reasons": [],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-11-14",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "Der Rat der Mitgliedstaaten und das Europäische Parlament haben sich im Trilog auf eine signifikante Entlastung insbesondere der Chemieindustrie beim EU-Emissionshandel für 2026-2030 verständigt (Anhebung der Fallback-Benchmarks für Wärme und Brennstoffe).",
+          "\"Der Emissionshandel hat bislang einen Superjob gemacht für die Modernisierung der Industrie und den Klimaschutz. Jetzt kommt es darauf an, dass er auch in Zukunft verlässlich wirkt, damit sich Investitionen in Zukunftstechnologien lohnen. Dabei gilt es, mit Augenmaß vorzugehen und auch die Branchen zu sehen, die besonders stark im internationalen ",
+          "Im europäischen Emissionshandel müssen Industrieunternehmen für ihren CO 2 -Ausstoß Zertifikate vorweisen. Einen Teil dieser Zertifikate erhalten sie kostenlos, um sie vor Wettbewerbsnachteilen gegenüber Unternehmen außerhalb Europas zu schützen. Wie viele kostenlose Zertifikate ein Unternehmen bekommt, wird anhand sogenannter Benchmarks berechnet."
+        ],
+        "research_ideas": [
+          {
+            "title": "온실가스 감축정책 지표와 LCA 환경편익 산정의 경계 정합성",
+            "research_question": "정책상 감축실적의 기준선과 제품 전과정 산정의 기준선 차이는 어떻게 비교가능성을 제한하는가?",
+            "methodology": "시스템경계·기준선·할당 및 불확실성에 관한 방법론 대조",
+            "novelty": "정책 지표와 제품 지표의 목적·범위 차이를 규명하는 연구 가설",
+            "data": "공개 규정·배출계수·LCI DB 및 제도 운영 자료"
+          }
+        ],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "Der Rat der Mitgliedstaaten und das Europäische Parlament haben sich im Trilog auf eine signifikante Entlastung insbesondere der Chemieindustrie beim EU-Emissionshandel für 2026-2030 verständigt (Anhebung der Fallback-Benchmarks für Wärme und Brennstoffe).",
+          "\"Der Emissionshandel hat bislang einen Superjob gemacht für die Modernisierung der Industrie und den Klimaschutz. Jetzt kommt es darauf an, dass er auch in Zukunft verlässlich wirkt, damit sich Investitionen in Zukunftstechnologien lohnen. Dabei gilt es, mit Augenmaß vorzugehen und auch die Branchen zu sehen, die besonders stark im internationalen ",
+          "Im europäischen Emissionshandel müssen Industrieunternehmen für ihren CO 2 -Ausstoß Zertifikate vorweisen. Einen Teil dieser Zertifikate erhalten sie kostenlos, um sie vor Wettbewerbsnachteilen gegenüber Unternehmen außerhalb Europas zu schützen. Wie viele kostenlose Zertifikate ein Unternehmen bekommt, wird anhand sogenannter Benchmarks berechnet.",
+          "Warum sind diese Benchmarks für die Chemieindustrie wichtig? Die chemische Industrie stellt sehr unterschiedliche Produkte her und benötigt dafür häufig große Mengen Wärme und Energie. Viele ihrer Produktionsprozesse werden deshalb über diese allgemeinen Ersatz-Vergleichswerte erfasst. Das Problem: Die bisherigen Fallback-Benchmarks berücksichtigen",
+          "Die europäische Obergrenze für CO 2 -Emissionen bleibt unverändert. Es werden keine zusätzlichen Emissionsrechte geschaffen, sondern bereits im System vorgesehene Zertifikate für die kostenlose Zuteilung genutzt. Damit bleibt der Emissionshandel voll wirksam."
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
+    {
+      "id": "d6342edc581d15",
+      "date": "2026-11-13",
+      "category": "국제 정책",
+      "region": "미국",
+      "title": "Air Plan Approval; Utah; Update to Materials Incorporated by Reference",
+      "source": "미국 Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/11/13/2026-23121/air-plan-approval-utah-update-to-materials-incorporated-by-reference",
+      "doi": "",
+      "tags": [],
+      "document_type": "법령·규제",
+      "link_status": "원문 링크 제공 · 접근 여부 미검증",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "The U.S. Environmental Protection Agency (EPA) is updating the materials that are incorporated by reference (IBR) into the Utah State Implementation Plan (SIP). The regulations affected by this update have been previously submitted by Utah and approved by the EPA. In this final rule, the EPA is also notifying the public of corrections and clarifying changes in the Code of Federal Regulations (CFR) tables that identify material IBR into the Utah SIP. This update affects the materials that are available for public inspection at the National Archi",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "미국 연방 관보 공식 기록",
+      "regulatory_status": "Rule",
+      "priority_score": 0,
+      "priority": "참고",
+      "priority_reasons": [],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-11-14",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "Due to aggressive automated scraping of FederalRegister.gov and eCFR.gov, programmatic access to these sites is limited to access to our extensive developer APIs. Please visit FederalRegister.gov API documentation or eCFR.gov API documentation to learn more about how to access the API.",
+          "Your request has been flagged as potentially automated. If you are human user receiving this message, please complete the CAPTCHA (bot test) below and click \"Request Access\". You may occassionally be asked to complete the CAPTCHA again, this is normal and part of our security measures.",
+          "An official website of the United States government."
+        ],
+        "research_ideas": [],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "Due to aggressive automated scraping of FederalRegister.gov and eCFR.gov, programmatic access to these sites is limited to access to our extensive developer APIs. Please visit FederalRegister.gov API documentation or eCFR.gov API documentation to learn more about how to access the API.",
+          "Your request has been flagged as potentially automated. If you are human user receiving this message, please complete the CAPTCHA (bot test) below and click \"Request Access\". You may occassionally be asked to complete the CAPTCHA again, this is normal and part of our security measures.",
+          "An official website of the United States government.",
+          "If you experiencing issues with the CAPTCHA or want to request a wider IP range, you can use the \"Site Help\" button found in the lower, right of this page to make a request.",
+          "This contact form is only for IP Access help. Please do not provide confidential information or personal data."
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
+    {
+      "id": "c5941f2f3ff894",
+      "date": "2026-11-13",
+      "category": "국제 정책",
+      "region": "영국",
+      "title": "Guidance: Contributing to the IPCC",
+      "source": "영국 에너지안보·넷제로부 (DESNZ)",
+      "url": "https://www.gov.uk/government/publications/contributing-to-the-ipcc",
+      "doi": "",
+      "tags": [
+        "IPCC"
+      ],
+      "document_type": "정책·발표",
+      "link_status": "원문 링크 제공 · 접근 여부 미검증",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "This page contains guidance for UK experts on how they can contribute to the United Nations’ Intergovernmental Panel on Climate Change (IPCC).",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "기관 공식 피드",
+      "priority_score": 0,
+      "priority": "참고",
+      "priority_reasons": [],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-11-14",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "This page contains guidance for UK experts on how they can contribute to the United Nations’ Intergovernmental Panel on Climate Change (IPCC).",
+          "Contributing to the IPCC: guidance for UK experts",
+          "This page provides information on the roles which contribute to IPCC reports, the nomination process, and the opportunities available. It is regularly updated with the latest developments by the Department for Energy Security and Net Zero ( DESNZ ), where the UK’s national IPCC Focal Point is based."
+        ],
+        "research_ideas": [],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "This page contains guidance for UK experts on how they can contribute to the United Nations’ Intergovernmental Panel on Climate Change (IPCC).",
+          "Contributing to the IPCC: guidance for UK experts",
+          "This page provides information on the roles which contribute to IPCC reports, the nomination process, and the opportunities available. It is regularly updated with the latest developments by the Department for Energy Security and Net Zero ( DESNZ ), where the UK’s national IPCC Focal Point is based.",
+          "Published information on how to register for the latest open calls for experts.",
+          "Added a link to the IPCC Methodology Report on Inventories for Short-lived Climate Forcers: Second Order Draft expert review."
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
+    {
+      "id": "bce6892507a564",
+      "date": "2026-11-13",
+      "category": "국제 정책",
+      "region": "영국",
+      "title": "Policy paper: UK-Canada climate finance: joint statement",
+      "source": "영국 에너지안보·넷제로부 (DESNZ)",
+      "url": "https://www.gov.uk/government/publications/uk-canada-climate-finance-joint-statement",
+      "doi": "",
+      "tags": [],
+      "document_type": "정책·발표",
+      "link_status": "원문 연결 확인",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "The UK and Canada have reaffirmed their commitment to international climate finance.",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "기관 공식 피드",
+      "priority_score": 0,
+      "priority": "참고",
+      "priority_reasons": [],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-11-14",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "The UK and Canada have reaffirmed their commitment to international climate finance.",
+          "This joint statement from the UK and Canada reaffirms their commitment to international climate finance, highlighting progress to date and their future multi-year commitments."
+        ],
+        "research_ideas": [],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "The UK and Canada have reaffirmed their commitment to international climate finance.",
+          "This joint statement from the UK and Canada reaffirms their commitment to international climate finance, highlighting progress to date and their future multi-year commitments."
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
+    {
+      "id": "bb5d6f533e8495",
+      "date": "2026-11-13",
+      "category": "국제 정책",
+      "region": "UN",
+      "title": "Kubilay Ciftci | UN Climate Change UN Climate Chief at COP31 today: “Climate finance must help countries break free” UN Climate Speech",
+      "source": "UNFCCC",
+      "url": "https://unfccc.int/news/un-climate-chief-at-cop31-today-climate-finance-must-help-countries-break-free",
+      "doi": "",
+      "tags": [
+        "COP31"
+      ],
+      "document_type": "정책·발표",
+      "link_status": "원문 연결 확인",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "UNFCCC 공식 뉴스",
+      "priority_score": 0,
+      "priority": "참고",
+      "priority_reasons": [],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-11-14",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "The following is a transcript of remarks delivered by UN Climate Change Executive Secretary Simon Stiell at the Seventh biennial high-level ministerial dialogue on climate finance at COP31 in Antalya, Türkiye, on 13 November 2026. Excellencies, friends, It’s a pleasure to be here for the last in this series of Dialogues – which will feed into COP32",
+          "\"Face the facts. Follow the science. Choose the future. And never give up\" UN Secretary-General at his final press conference at COP31",
+          "COP31: New global priorities target role of AI in climate information integrity"
+        ],
+        "research_ideas": [],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "The following is a transcript of remarks delivered by UN Climate Change Executive Secretary Simon Stiell at the Seventh biennial high-level ministerial dialogue on climate finance at COP31 in Antalya, Türkiye, on 13 November 2026. Excellencies, friends, It’s a pleasure to be here for the last in this series of Dialogues – which will feed into COP32",
+          "\"Face the facts. Follow the science. Choose the future. And never give up\" UN Secretary-General at his final press conference at COP31",
+          "COP31: New global priorities target role of AI in climate information integrity",
+          "New UN Climate Change report highlights what it takes to scale up industrial climate action",
+          "“Super pollutants are a supersize opportunity ... methane cuts provide rapid results\" UN Climate Chief at COP31 today"
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
+    {
+      "id": "7591ee7d612d5b",
+      "date": "2026-11-13",
+      "category": "국제 정책",
+      "region": "UN",
+      "title": "Kiara Worth | UN Climate Change \"Face the facts. Follow the science. Choose the future. And never give up\" UN Secretary-General at his final press conference at COP31 External Speech",
+      "source": "UNFCCC",
+      "url": "https://unfccc.int/news/face-the-facts-follow-the-science-choose-the-future-and-never-give-up-un-secretary-general-at-his",
+      "doi": "",
+      "tags": [
+        "COP31"
+      ],
+      "document_type": "정책·발표",
+      "link_status": "원문 연결 확인",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "UNFCCC 공식 뉴스",
+      "priority_score": 0,
+      "priority": "참고",
+      "priority_reasons": [],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-11-14",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "The following is a transcript of opening remarks delivered by UN Secretary-General António Guterres at his final press conference at COP31 in Antalya, Türkiye, on 13 November 2026. Ladies and gentlemen of the media, good afternoon. Let me begin by thanking our Turkish hosts for their hospitality and warm welcome. Türkiye is hosting one of the bigge",
+          "UN Climate Chief at COP31 today: “Climate finance must help countries break free”",
+          "COP31: New global priorities target role of AI in climate information integrity"
+        ],
+        "research_ideas": [],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "The following is a transcript of opening remarks delivered by UN Secretary-General António Guterres at his final press conference at COP31 in Antalya, Türkiye, on 13 November 2026. Ladies and gentlemen of the media, good afternoon. Let me begin by thanking our Turkish hosts for their hospitality and warm welcome. Türkiye is hosting one of the bigge",
+          "UN Climate Chief at COP31 today: “Climate finance must help countries break free”",
+          "COP31: New global priorities target role of AI in climate information integrity",
+          "New UN Climate Change report highlights what it takes to scale up industrial climate action",
+          "“Super pollutants are a supersize opportunity ... methane cuts provide rapid results\" UN Climate Chief at COP31 today"
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
+    {
+      "id": "6836371d34ae61",
+      "date": "2026-11-13",
+      "category": "저탄소 기술",
+      "region": "영국",
+      "title": "Notice: IPCC Methodology Report on Carbon Dioxide Removal Technologies, Carbon Capture, Utilization, and Storage for National Greenhouse Gas Inventories (additional guidance): expert review of the First Order Draft",
+      "source": "영국 에너지안보·넷제로부 (DESNZ)",
+      "url": "https://www.gov.uk/government/publications/ipcc-methodology-report-on-carbon-dioxide-removal-technologies-carbon-capture-utilization-and-storage-for-national-greenhouse-gas-inventories-addition",
+      "doi": "",
+      "tags": [
+        "회피배출·탄소제거",
+        "탄소배출권·GHG",
+        "CCUS",
+        "IPCC"
+      ],
+      "document_type": "기술",
+      "link_status": "원문 연결 확인",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "The IPCC has announced the expert review of the First Order Draft of the Methodology Report on Carbon Dioxide Removal Technologies, Carbon Capture, Utilization, and Storage for National Greenhouse Gas Inventories (additional guidance).",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "기관 공식 피드",
+      "priority_score": 44,
+      "priority": "필독",
+      "priority_reasons": [
+        "회피배출·탄소제거",
+        "탄소배출권·GHG",
+        "CCUS"
+      ],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-11-14",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "The IPCC has announced the expert review of the First Order Draft of the Methodology Report on Carbon Dioxide Removal Technologies, Carbon Capture, Utilization, and Storage for National Greenhouse Gas Inventories (additional guidance).",
+          "IPCC Methodology Report on Carbon Dioxide Removal Technologies, Carbon Capture, Utilization, and Storage for National Greenhouse Gas Inventories (additional guidance): details and how to apply",
+          "Appendix A of the Principles Governing IPCC Work (link to IPCC website)"
+        ],
+        "research_ideas": [
+          {
+            "title": "온실가스 감축정책 지표와 LCA 환경편익 산정의 경계 정합성",
+            "research_question": "정책상 감축실적의 기준선과 제품 전과정 산정의 기준선 차이는 어떻게 비교가능성을 제한하는가?",
+            "methodology": "시스템경계·기준선·할당 및 불확실성에 관한 방법론 대조",
+            "novelty": "정책 지표와 제품 지표의 목적·범위 차이를 규명하는 연구 가설",
+            "data": "공개 규정·배출계수·LCI DB 및 제도 운영 자료"
+          }
+        ],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "The IPCC has announced the expert review of the First Order Draft of the Methodology Report on Carbon Dioxide Removal Technologies, Carbon Capture, Utilization, and Storage for National Greenhouse Gas Inventories (additional guidance).",
+          "IPCC Methodology Report on Carbon Dioxide Removal Technologies, Carbon Capture, Utilization, and Storage for National Greenhouse Gas Inventories (additional guidance): details and how to apply",
+          "Appendix A of the Principles Governing IPCC Work (link to IPCC website)",
+          "https://www.ipcc.ch/site/assets/uploads/2018/09/ipcc-principles-appendix-a-final.pdf",
+          "At the Sixty-third Session (Lima, Peru, 27 to 30 October 2025) the Panel, in its Decision IPCC -LXIII-6, decided that the TFI would prepare an Intergovernmental Panel on Climate Change ( IPCC ) Methodology Report titled “2027 IPCC Methodology Report on Carbon Dioxide Removal Technologies, Carbon Capture, Utilization, and Storage for National Greenh"
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
+    {
+      "id": "2e318d7491cb54",
+      "date": "2026-11-13",
+      "category": "국제 정책",
+      "region": "EU",
+      "title": "Commission restricts lead in fishing weights and lures to protect people and the environment",
+      "source": "EU 집행위원회 환경총국",
+      "url": "https://single-market-economy.ec.europa.eu/news/commission-restricts-lead-fishing-weights-and-lures-protect-people-and-environment-2026-11-12_en",
+      "doi": "",
+      "tags": [],
+      "document_type": "정책·발표",
+      "link_status": "원문 링크 제공 · 접근 여부 미검증",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "On 12 November 2026, the Commission adopted measures to restrict lead in fishing weights and lures under the EU’s chemicals legislation, REACH.",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "기관 공식 피드",
+      "priority_score": 0,
+      "priority": "참고",
+      "priority_reasons": [],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-11-14",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "On 12 November 2026, the Commission adopted measures to restrict lead in fishing weights and lures under the EU’s chemicals legislation, REACH.",
+          "The restriction bans the placing on the market and commercial use of fishing weights and lures containing at least 1% lead by weight. From 3 June 2027, it will apply to sinkers intended to be released during use and fishing wires. It will apply later to other tackle: from 3 December 2029 to small tackle weighing 50 g or less, and from 3 December 20",
+          "The restriction is expected to protect around 7 million birds by preventing the release of approximately 50 000 tonnes of lead from fishing tackle over 20 years. This represents a 70% reduction in emissions compared with the current situation. The measures are expected to cost less than €30 per year per fisher."
+        ],
+        "research_ideas": [],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "On 12 November 2026, the Commission adopted measures to restrict lead in fishing weights and lures under the EU’s chemicals legislation, REACH.",
+          "The restriction bans the placing on the market and commercial use of fishing weights and lures containing at least 1% lead by weight. From 3 June 2027, it will apply to sinkers intended to be released during use and fishing wires. It will apply later to other tackle: from 3 December 2029 to small tackle weighing 50 g or less, and from 3 December 20",
+          "The restriction is expected to protect around 7 million birds by preventing the release of approximately 50 000 tonnes of lead from fishing tackle over 20 years. This represents a 70% reduction in emissions compared with the current situation. The measures are expected to cost less than €30 per year per fisher.",
+          "Fishing nets, tackle embedded in nets and lines, tackle made of copper and brass, and tiny weights of 0.06 g or less are not covered by the restriction because they pose a limited risk to the environment. The recreational use of lead fishing tackle is also not covered. However, EU countries can restrict it nationally, allowing them to tailor the me",
+          "REACH restricts chemicals that pose a risk to human health or the environment. There is extensive evidence showing that lead is toxic to people, particularly children and pregnant women, as it can negatively affect the neurodevelopment of the fetus. It is also toxic to the environment, as it can kill animals that accidentally ingest it. For this re"
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
+    {
+      "id": "2d00045f885bc5",
+      "date": "2026-11-13",
+      "category": "국제 정책",
+      "region": "영국",
+      "title": "Research: Renewable Energy Planning Database: quarterly extract",
+      "source": "영국 에너지안보·넷제로부 (DESNZ)",
+      "url": "https://www.gov.uk/government/publications/renewable-energy-planning-database-quarterly-extract",
+      "doi": "",
+      "tags": [],
+      "document_type": "법령·규제",
+      "link_status": "원문 연결 확인",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "A quarterly extract of the results of the renewable energy projects monitoring work.",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "기관 공식 피드",
+      "priority_score": 0,
+      "priority": "참고",
+      "priority_reasons": [],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-11-14",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "A quarterly extract of the results of the renewable energy projects monitoring work.",
+          "Renewable Energy Planning Database (REPD): October 2026 (CSV)",
+          "Renewable Energy Planning Database - October monthly extract published"
+        ],
+        "research_ideas": [],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "A quarterly extract of the results of the renewable energy projects monitoring work.",
+          "Renewable Energy Planning Database (REPD): October 2026 (CSV)",
+          "Renewable Energy Planning Database - October monthly extract published",
+          "July 2017 Renewables Energy Planning Database extract published",
+          "February update of the Renewable energy planning database monthly extract."
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
+    {
+      "id": "171790cb69450c",
+      "date": "2026-11-13",
+      "category": "국제 정책",
+      "region": "미국",
+      "title": "Air Plan Approval; Oregon Department of Environmental Quality; Emission Standards and Controls for Sources Emitting Gasoline Vapors",
+      "source": "미국 Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/11/13/2026-23124/air-plan-approval-oregon-department-of-environmental-quality-emission-standards-and-controls-for",
+      "doi": "",
+      "tags": [],
+      "document_type": "법령·규제",
+      "link_status": "원문 링크 제공 · 접근 여부 미검증",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "The Environmental Protection Agency (EPA) proposes to approve a revision to the Oregon State Implementation Plan (SIP) submitted by the Oregon Department of Environmental Quality (ODEQ) on December 17, 2025, for the Portland and Salem/Keizer, Oregon 1979 1-hour ozone maintenance areas. The proposed revision updates ODEQ's requirements in the SIP for Stages I and II vapor recovery systems at gasoline dispensing facilities including: decommissioning existing Stage II systems incompatible with onboard refueling vapor recovery systems; allowing rem",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "미국 연방 관보 공식 기록",
+      "regulatory_status": "Proposed Rule",
+      "priority_score": 0,
+      "priority": "참고",
+      "priority_reasons": [],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-11-14",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "Due to aggressive automated scraping of FederalRegister.gov and eCFR.gov, programmatic access to these sites is limited to access to our extensive developer APIs. Please visit FederalRegister.gov API documentation or eCFR.gov API documentation to learn more about how to access the API.",
+          "Your request has been flagged as potentially automated. If you are human user receiving this message, please complete the CAPTCHA (bot test) below and click \"Request Access\". You may occassionally be asked to complete the CAPTCHA again, this is normal and part of our security measures.",
+          "An official website of the United States government."
+        ],
+        "research_ideas": [
+          {
+            "title": "온실가스 감축정책 지표와 LCA 환경편익 산정의 경계 정합성",
+            "research_question": "정책상 감축실적의 기준선과 제품 전과정 산정의 기준선 차이는 어떻게 비교가능성을 제한하는가?",
+            "methodology": "시스템경계·기준선·할당 및 불확실성에 관한 방법론 대조",
+            "novelty": "정책 지표와 제품 지표의 목적·범위 차이를 규명하는 연구 가설",
+            "data": "공개 규정·배출계수·LCI DB 및 제도 운영 자료"
+          }
+        ],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "Due to aggressive automated scraping of FederalRegister.gov and eCFR.gov, programmatic access to these sites is limited to access to our extensive developer APIs. Please visit FederalRegister.gov API documentation or eCFR.gov API documentation to learn more about how to access the API.",
+          "Your request has been flagged as potentially automated. If you are human user receiving this message, please complete the CAPTCHA (bot test) below and click \"Request Access\". You may occassionally be asked to complete the CAPTCHA again, this is normal and part of our security measures.",
+          "An official website of the United States government.",
+          "If you experiencing issues with the CAPTCHA or want to request a wider IP range, you can use the \"Site Help\" button found in the lower, right of this page to make a request.",
+          "This contact form is only for IP Access help. Please do not provide confidential information or personal data."
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
+    {
+      "id": "0d0f3cd4002f5b",
+      "date": "2026-11-13",
+      "category": "국제 정책",
+      "region": "영국",
+      "title": "Notice: IPCC AR7: expert review of the Working Group III Contribution (Mitigation of Climate Change)",
+      "source": "영국 에너지안보·넷제로부 (DESNZ)",
+      "url": "https://www.gov.uk/government/publications/ipcc-ar7-mitigation-of-climate-change-expert-review-of-the-working-group-iii-contribution",
+      "doi": "",
+      "tags": [
+        "IPCC",
+        "AR7",
+        "III"
+      ],
+      "document_type": "정책·발표",
+      "link_status": "원문 연결 확인",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "The IPCC has announced the Expert Review of the First Order Draft of its Working Group III contribution to the Seventh Assessment Report.",
+      "review_status": "원문 검토 필요",
+      "verification": "기관 공식 피드",
+      "priority_score": 0,
+      "priority": "참고",
+      "priority_reasons": [],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치"
+    },
+    {
+      "id": "05ea8b531850ec",
+      "date": "2026-11-13",
+      "category": "국제 정책",
+      "region": "영국",
+      "title": "Notice: IPCC AR7 and the Technical Guidelines for Assessing Climate Change Impacts and Adaptation including Indicators, Metrics and Methodologies: expert review of the Working Group II contribution (Impacts, Adaptation and Vulnerability)",
+      "source": "영국 에너지안보·넷제로부 (DESNZ)",
+      "url": "https://www.gov.uk/government/publications/ipcc-ar7-and-the-technical-guidelines-for-assessing-climate-change-impacts-and-adaptation-including-indicators-metrics-and-methodologies-expert-review",
+      "doi": "",
+      "tags": [
+        "IPCC",
+        "AR7"
+      ],
+      "document_type": "정책·발표",
+      "link_status": "원문 연결 확인",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "The IPCC has announced the expert review of the First Order Draft of its Working Group II contribution to the Seventh Assessment Report and associated Technical Guidelines.",
+      "review_status": "원문 검토 필요",
+      "verification": "기관 공식 피드",
+      "priority_score": 0,
+      "priority": "참고",
+      "priority_reasons": [],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치"
+    },
     {
       "id": "f4e55fcb8d2625",
       "date": "2026-11-12",
