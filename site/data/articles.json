@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-11-14T06:10:40+00:00",
+  "updated_at": "2026-11-15T06:18:27+00:00",
   "collector": "GitHub Actions / official government sources + Crossref",
   "profile_version": "2026-10-10",
-  "new_items": 14,
+  "new_items": 1,
   "source_health": {
     "ok": [
       "기후에너지환경부",
@@ -20,22 +20,71 @@
       "Crossref: dynamic life cycle assessment",
       "Crossref: prospective life cycle assessment",
       "Crossref: consequential life cycle assessment allocation",
-      "Crossref: waste management life cycle assessment",
       "Crossref: extended producer responsibility life cycle",
       "Crossref: recycling recycled plastics product carbon footprint",
       "Crossref: end of life vehicles environmental impact",
-      "Crossref: automotive parts product carbon footprint",
-      "Crossref: hydrogen well to wheel life cycle assessment",
       "Crossref: hydrogen life cycle assessment",
+      "Crossref: bioenergy avoided emissions carbon removals",
       "Crossref: product environmental footprint ecodesign regulation",
       "Crossref: mass balance recycling chain of custody"
     ],
     "errors": [
       "EU 집행위원회 역내시장·산업총국",
-      "Crossref: bioenergy avoided emissions carbon removals"
+      "Crossref: waste management life cycle assessment",
+      "Crossref: automotive parts product carbon footprint",
+      "Crossref: hydrogen well to wheel life cycle assessment"
     ]
   },
   "articles": [
+    {
+      "id": "a83bfc4a6d4ccf",
+      "date": "2026-11-14",
+      "category": "국제 정책",
+      "region": "UN",
+      "title": "Kiara Worth | UN Climate Change UN Climate Chief today at halfway point of COP31: \"no collective success without compromise from every Party” UN Climate Speech",
+      "source": "UNFCCC",
+      "url": "https://unfccc.int/news/un-climate-chief-today-at-halfway-point-of-cop31-no-collective-success-without-compromise-from-every",
+      "doi": "",
+      "tags": [
+        "COP31"
+      ],
+      "document_type": "정책·발표",
+      "link_status": "원문 연결 확인",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "UNFCCC 공식 뉴스",
+      "priority_score": 0,
+      "priority": "참고",
+      "priority_reasons": [],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-11-15",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "The following is a transcript of opening remarks delivered by UN Climate Change Executive Secretary Simon Stiell during a press conference at the midpoint of COP31 in Antalya, Türkiye, on 14 November 2026. Remarks from Telemundo’s Vanessa Hauc and Tamseel Hussain, Founder and CEO of PLUC, follow below the Executive Secretary's remarks. You can watc",
+          "Remarks from Tamseel Hussain, Founder and CEO of PLUC Good afternoon, good morning everyone. As an Indian, I'm proud of two things and very proud of them. And the first is we have the most thriving and transformative clean energy transformation happening in India, be it the most remotest areas to the most biggest cities. And the second, which a lot",
+          "\"Face the facts. Follow the science. Choose the future. And never give up\" UN Secretary-General at his final press conference at COP31"
+        ],
+        "research_ideas": [],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "The following is a transcript of opening remarks delivered by UN Climate Change Executive Secretary Simon Stiell during a press conference at the midpoint of COP31 in Antalya, Türkiye, on 14 November 2026. Remarks from Telemundo’s Vanessa Hauc and Tamseel Hussain, Founder and CEO of PLUC, follow below the Executive Secretary's remarks. You can watc",
+          "Remarks from Tamseel Hussain, Founder and CEO of PLUC Good afternoon, good morning everyone. As an Indian, I'm proud of two things and very proud of them. And the first is we have the most thriving and transformative clean energy transformation happening in India, be it the most remotest areas to the most biggest cities. And the second, which a lot",
+          "\"Face the facts. Follow the science. Choose the future. And never give up\" UN Secretary-General at his final press conference at COP31",
+          "UN Climate Chief at COP31 today: “Climate finance must help countries break free”",
+          "COP31: New global priorities target role of AI in climate information integrity"
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
     {
       "id": "f1c6c78d3c5fdf",
       "date": "2026-11-13",
@@ -666,12 +715,37 @@
       "summary": "",
       "insight": "",
       "source_excerpt": "The IPCC has announced the Expert Review of the First Order Draft of its Working Group III contribution to the Seventh Assessment Report.",
-      "review_status": "원문 검토 필요",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
       "verification": "기관 공식 피드",
       "priority_score": 0,
       "priority": "참고",
       "priority_reasons": [],
-      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치"
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-11-15",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "The IPCC has announced the Expert Review of the First Order Draft of its Working Group III contribution to the Seventh Assessment Report.",
+          "IPCC AR7 (Mitigation of Climate Change): details and how to apply",
+          "Appendix A of the Principles Governing IPCC Work (link to IPCC website)"
+        ],
+        "research_ideas": [],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "The IPCC has announced the Expert Review of the First Order Draft of its Working Group III contribution to the Seventh Assessment Report.",
+          "IPCC AR7 (Mitigation of Climate Change): details and how to apply",
+          "Appendix A of the Principles Governing IPCC Work (link to IPCC website)",
+          "https://www.ipcc.ch/site/assets/uploads/2018/09/ipcc-principles-appendix-a-final.pdf",
+          "At the Sixtieth Session (Istanbul, Türkiye, 16 to 19 January 2024) the Panel decided to prepare a comprehensive Seventh Assessment Report ( AR7 ), inclusive of a contribution of Working Group III ( WGIII ) on the Mitigation of Climate Change. Following a scoping meeting in Kuala Lumpur, Malaysia, in December 2024, the outline of the WGIII contribut"
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
     },
     {
       "id": "05ea8b531850ec",
@@ -691,12 +765,37 @@
       "summary": "",
       "insight": "",
       "source_excerpt": "The IPCC has announced the expert review of the First Order Draft of its Working Group II contribution to the Seventh Assessment Report and associated Technical Guidelines.",
-      "review_status": "원문 검토 필요",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
       "verification": "기관 공식 피드",
       "priority_score": 0,
       "priority": "참고",
       "priority_reasons": [],
-      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치"
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-11-15",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "The IPCC has announced the expert review of the First Order Draft of its Working Group II contribution to the Seventh Assessment Report and associated Technical Guidelines.",
+          "IPCC AR7 and the Technical Guidelines for Assessing Climate Change Impacts and Adaptation including Indicators, Metrics and Methodologies: details and how to apply",
+          "Appendix A of the Principles Governing IPCC Work (link to IPCC website)"
+        ],
+        "research_ideas": [],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "The IPCC has announced the expert review of the First Order Draft of its Working Group II contribution to the Seventh Assessment Report and associated Technical Guidelines.",
+          "IPCC AR7 and the Technical Guidelines for Assessing Climate Change Impacts and Adaptation including Indicators, Metrics and Methodologies: details and how to apply",
+          "Appendix A of the Principles Governing IPCC Work (link to IPCC website)",
+          "https://www.ipcc.ch/site/assets/uploads/2018/09/ipcc-principles-appendix-a-final.pdf",
+          "At the Intergovernmental Panel on Climate Change’s ( IPCC ) Sixtieth Plenary Session (Istanbul, Türkiye, 16 to 19 January 2024), the Panel decided to prepare a Seventh Assessment Report and also agreed on producing a distinct product revising and updating the 1994 IPCC Technical Guidelines on Impacts and Adaptation, including Indicators, Metrics an"
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
     },
     {
       "id": "f4e55fcb8d2625",
@@ -815,13 +914,37 @@
       "summary": "",
       "insight": "",
       "source_excerpt": "",
-      "review_status": "원문 검토 필요",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
       "verification": "정부 공식 보도자료",
       "priority_score": 0,
       "priority": "참고",
       "priority_reasons": [],
       "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
-      "source_last_attempt": "2026-11-12"
+      "source_last_attempt": "2026-11-15",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "첨부파일 정지궤도 환경·해양위성(천리안위성 6호)의 청사진 공개 산학연 참여의 장 열어(보도자료)(과학원 11.12.).hwpx(1.9 MB) 정지궤도 환경·해양위성(천리안위성 6호)의 청사진 공개 산학연 참여의 장 열어(보도자료)(과학원 11.12.).pdf(310.2 KB)",
+          "기후에너지환경부(장관 김성환)와 해양수산부(장관 황종우), 우주항공청(청장 오태석)은 11월 13일 케이더블유컨벤션센터(대전 서구 소재)에서 우주분야 산학연 관계자 및 유관기관 등을 대상으로 ‘정지궤도 환경·해양위성(천리안위성 6호) 개발 사업 설명회’를 공동 개최한다고 밝혔다.",
+          "이번 설명회는 지난 8월 국가연구개발사업 예비타당성조사를 통과한 천리안위성 6호* 개발 사업의 본격적인 추진에 앞서 사업의 주요 내용과 개발 계획을 공유하고, 국내 산업계·학계·연구기관의 사업 참여를 확대하기 위해 마련됐다."
+        ],
+        "research_ideas": [],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "첨부파일 정지궤도 환경·해양위성(천리안위성 6호)의 청사진 공개 산학연 참여의 장 열어(보도자료)(과학원 11.12.).hwpx(1.9 MB) 정지궤도 환경·해양위성(천리안위성 6호)의 청사진 공개 산학연 참여의 장 열어(보도자료)(과학원 11.12.).pdf(310.2 KB)",
+          "기후에너지환경부(장관 김성환)와 해양수산부(장관 황종우), 우주항공청(청장 오태석)은 11월 13일 케이더블유컨벤션센터(대전 서구 소재)에서 우주분야 산학연 관계자 및 유관기관 등을 대상으로 ‘정지궤도 환경·해양위성(천리안위성 6호) 개발 사업 설명회’를 공동 개최한다고 밝혔다.",
+          "이번 설명회는 지난 8월 국가연구개발사업 예비타당성조사를 통과한 천리안위성 6호* 개발 사업의 본격적인 추진에 앞서 사업의 주요 내용과 개발 계획을 공유하고, 국내 산업계·학계·연구기관의 사업 참여를 확대하기 위해 마련됐다.",
+          "이날 설명회에서는 기후에너지환경부, 해양수산부, 우주항공청 세 부처가 그간의 사업 추진 성과와 천리안위성 6호의 세부 개발계획 등을 발표한다.",
+          "우주항공청은 천리안위성 6호 사업의 전체적인 개발 방향과 함께 환경·해양탑재체의 동시 관측이 가능한 위성 플랫폼 개발, 화학·전기 추진방식을 결합한 하이브리드 추진시스템의 국내 개발, 산업체 주도의 위성개발을 통한 민간 역량 확대 방안 등을 발표한다."
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
     },
     {
       "id": "a5e34526b89ebc",
@@ -935,7 +1058,7 @@
       "summary": "",
       "insight": "",
       "source_excerpt": "",
-      "review_status": "원문 검토 필요",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
       "verification": "정부 공식 보도자료",
       "priority_score": 20,
       "priority": "우선 검토",
@@ -943,7 +1066,39 @@
         "CBAM"
       ],
       "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
-      "source_last_attempt": "2026-11-12"
+      "source_last_attempt": "2026-11-15",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "첨부파일 유럽연합 탄소국경조정제도(CBAM) 국내 첫 검증기관 인정(보도자료)(기후경제 11.12).hwpx(919.6 KB) 유럽연합 탄소국경조정제도(CBAM) 국내 첫 검증기관 인정(보도자료)(기후경제 11.12).pdf(211.3 KB)",
+          "▷ 국내 검증기관 1곳, 유럽연합 회원국 인정기구로부터 국내 최초 탄소국경조정제도 검증기관 인정…기후부-산업부 협업 성과",
+          "기후에너지환경부(장관 김성환)와 산업통상부(장관 김정관)는 국내 검증기관 1곳(한국표준협회)이 11월 5일자로 이탈리아 국가인정기구(Accredia)로부터 국내 최초로 유럽연합(EU) 탄소국경조정제도(CBAM)* 검증기관 인정을 받았다고 밝혔다."
+        ],
+        "research_ideas": [
+          {
+            "title": "온실가스 감축정책 지표와 LCA 환경편익 산정의 경계 정합성",
+            "research_question": "정책상 감축실적의 기준선과 제품 전과정 산정의 기준선 차이는 어떻게 비교가능성을 제한하는가?",
+            "methodology": "시스템경계·기준선·할당 및 불확실성에 관한 방법론 대조",
+            "novelty": "정책 지표와 제품 지표의 목적·범위 차이를 규명하는 연구 가설",
+            "data": "공개 규정·배출계수·LCI DB 및 제도 운영 자료"
+          }
+        ],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "첨부파일 유럽연합 탄소국경조정제도(CBAM) 국내 첫 검증기관 인정(보도자료)(기후경제 11.12).hwpx(919.6 KB) 유럽연합 탄소국경조정제도(CBAM) 국내 첫 검증기관 인정(보도자료)(기후경제 11.12).pdf(211.3 KB)",
+          "▷ 국내 검증기관 1곳, 유럽연합 회원국 인정기구로부터 국내 최초 탄소국경조정제도 검증기관 인정…기후부-산업부 협업 성과",
+          "기후에너지환경부(장관 김성환)와 산업통상부(장관 김정관)는 국내 검증기관 1곳(한국표준협회)이 11월 5일자로 이탈리아 국가인정기구(Accredia)로부터 국내 최초로 유럽연합(EU) 탄소국경조정제도(CBAM)* 검증기관 인정을 받았다고 밝혔다.",
+          "유럽연합 탄소국경조정제도는 2년여의 준비기간을 거쳐 올해 1월부터 본격 시행되었다. 유럽연합으로 수출하는 기업이 배출량을 보고하려면 유럽연합 회원국 국가인정기구가 인정한 검증기관의 검증을 받아야 한다. 검증받지 못하면 실제 배출량보다 통상적으로 높게 설정된 기본값*이 적용되어 기업의 비용 부담이 커질 수 있다.",
+          "그동안 국내에는 유럽연합 회원국으로부터 인정받은 검증기관이 없어 우리 기업이 국내에서 배출량을 검증받기 어려웠다. 그러나 국내 검증기관 1곳(한국표준협회)이 탄소국경조정제도 검증기관으로 인정받으면서 우리 기업들도 국내에서 탄소배출량을 검증받을 수 있게 되었다."
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
     },
     {
       "id": "84006e04870ce4",
@@ -1891,13 +2046,37 @@
       "summary": "",
       "insight": "",
       "source_excerpt": "Monthly data on the number of certificates issued for generation under the Renewables Obligation.",
-      "review_status": "원문 검토 필요",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
       "verification": "기관 공식 피드",
       "priority_score": 0,
       "priority": "참고",
       "priority_reasons": [],
       "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
-      "source_last_attempt": "2026-11-11"
+      "source_last_attempt": "2026-11-15",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "Renewables obligation: certificates and generation (monthly - Excel)",
+          "Renewables obligation: certificates and generation (monthly - ODS)",
+          "​This data relates to certificates and generation associated with the renewables obligation scheme. The data is 3 months in arrears."
+        ],
+        "research_ideas": [],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "Renewables obligation: certificates and generation (monthly - Excel)",
+          "Renewables obligation: certificates and generation (monthly - ODS)",
+          "​This data relates to certificates and generation associated with the renewables obligation scheme. The data is 3 months in arrears.",
+          "Renewables obligation: certificates and generation table updated.",
+          "Renewables obligation: certificates and generation (ET 6.3) updated."
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
     },
     {
       "id": "fc5f27a53b6b0d",
