@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-11-16T06:17:44+00:00",
+  "updated_at": "2026-11-17T07:48:52+00:00",
   "collector": "GitHub Actions / official government sources + Crossref",
   "profile_version": "2026-10-10",
-  "new_items": 3,
+  "new_items": 6,
   "source_health": {
     "ok": [
       "기후에너지환경부",
@@ -36,6 +36,173 @@
     ]
   },
   "articles": [
+    {
+      "id": "657e3c261520ae",
+      "date": "2026-11-17",
+      "category": "국내 정책",
+      "region": "한국",
+      "title": "지방정부 온실가스 감축인지 예산제도 확산시킨다… 지침서 밀착 안내",
+      "source": "기후에너지환경부",
+      "url": "https://mcee.go.kr/m/mob/board/read.do?pagerOffset=0&maxPageItems=10&maxIndexPages=5&searchKey=&searchValue=&menuId=156&orgCd=&boardMasterId=939&boardId=1907650",
+      "doi": "",
+      "tags": [
+        "탄소배출권·GHG",
+        "예산제도"
+      ],
+      "document_type": "정책·발표",
+      "link_status": "원문 URL 제공 · 접근 여부 미검증",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "정부 공식 보도자료",
+      "priority_score": 12,
+      "priority": "우선 검토",
+      "priority_reasons": [
+        "탄소배출권·GHG"
+      ],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-11-17",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "첨부파일 지방정부 온실가스 감축인지 예산제도 확산시킨다… 지침서 밀착 안내(보도자료)(기후에너지재정 11.17).hwpx(370.9 KB) 지방정부 온실가스 감축인지 예산제도 확산시킨다… 지침서 밀착 안내(보도자료)(기후에너지재정 11.17).pdf(717.5 KB)",
+          "기후에너지환경부(장관 김성환)는 11월 17일 써밋원 서울역점(서울 중구 소재)에서 광역·기초 지방정부 담당자 및 탄소중립센터 실무자를 대상으로 ‘지방정부 온실가스 감축인지 예산제도 지침서’ 설명회를 개최한다고 밝혔다.",
+          "이번 설명회는 예산과 기금이 온실가스 감축에 미치는 영향을 분석하고 이를 재정 운용에 반영하는 ‘온실가스 감축인지 예산제도’를 전국 지방정부로 확산시키기 위해 마련되었다."
+        ],
+        "research_ideas": [
+          {
+            "title": "온실가스 감축정책 지표와 LCA 환경편익 산정의 경계 정합성",
+            "research_question": "정책상 감축실적의 기준선과 제품 전과정 산정의 기준선 차이는 어떻게 비교가능성을 제한하는가?",
+            "methodology": "시스템경계·기준선·할당 및 불확실성에 관한 방법론 대조",
+            "novelty": "정책 지표와 제품 지표의 목적·범위 차이를 규명하는 연구 가설",
+            "data": "공개 규정·배출계수·LCI DB 및 제도 운영 자료"
+          }
+        ],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "첨부파일 지방정부 온실가스 감축인지 예산제도 확산시킨다… 지침서 밀착 안내(보도자료)(기후에너지재정 11.17).hwpx(370.9 KB) 지방정부 온실가스 감축인지 예산제도 확산시킨다… 지침서 밀착 안내(보도자료)(기후에너지재정 11.17).pdf(717.5 KB)",
+          "기후에너지환경부(장관 김성환)는 11월 17일 써밋원 서울역점(서울 중구 소재)에서 광역·기초 지방정부 담당자 및 탄소중립센터 실무자를 대상으로 ‘지방정부 온실가스 감축인지 예산제도 지침서’ 설명회를 개최한다고 밝혔다.",
+          "이번 설명회는 예산과 기금이 온실가스 감축에 미치는 영향을 분석하고 이를 재정 운용에 반영하는 ‘온실가스 감축인지 예산제도’를 전국 지방정부로 확산시키기 위해 마련되었다.",
+          "기후에너지환경부는 지난 6월 29일 ‘지방정부 온실가스 감축인지 예산제 운영방법 지침서’를 배포한 바 있다. 이번 설명회에서는 지침서에 담긴 △제도 운영 체계, △예산서 작성 절차, △작성 양식 등의 세부 내용을 중점적으로 설명한다. 이와 함께 제도를 안착시킨 중앙정부의 추진 체계, 감축 효과 유형 및 부문 분류 방법 등 실무 경험이 공유될 예정이다.",
+          "특히 이날 설명회에서 기후에너지환경부는 현장 맞춤형 소통을 위해 질의응답 시간을 별도로 마련한다. 이를 통해 지방정부 담당자와 탄소중립센터 실무자들이 제도 도입 과정에서 겪는 어려움을 함께 고민하고 해결책을 모색하는 한편, 각 지방정부의 운영 사례와 제도 개선 방안을 폭넓게 논의할 계획이다."
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
+    {
+      "id": "1250e8ce64b4be",
+      "date": "2026-11-17",
+      "category": "국제 정책",
+      "region": "미국",
+      "title": "Modernizing the Commission's National Environmental Policy Act Rules",
+      "source": "미국 Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/11/17/2026-23385/modernizing-the-commissions-national-environmental-policy-act-rules",
+      "doi": "",
+      "tags": [],
+      "document_type": "법령·규제",
+      "link_status": "원문 연결 확인",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "In this document (Order), the Federal Communications Commission (\"Commission\" or \"FCC\") takes action to cut through outdated and unnecessary burdens that have slowed deployment of critical communications networks. These reforms restore balance to the Commission's National Environmental Policy Act (NEPA) implementation by providing clear and predictable rules to ensure NEPA serves as a tool for informed decision-making rather than a barrier to investment, innovation, and connectivity.",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "미국 연방 관보 공식 기록",
+      "regulatory_status": "Rule",
+      "priority_score": 0,
+      "priority": "참고",
+      "priority_reasons": [],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-11-17",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "Due to aggressive automated scraping of FederalRegister.gov and eCFR.gov, programmatic access to these sites is limited to access to our extensive developer APIs. Please visit FederalRegister.gov API documentation or eCFR.gov API documentation to learn more about how to access the API.",
+          "Your request has been flagged as potentially automated. If you are human user receiving this message, please complete the CAPTCHA (bot test) below and click \"Request Access\". You may occassionally be asked to complete the CAPTCHA again, this is normal and part of our security measures.",
+          "An official website of the United States government."
+        ],
+        "research_ideas": [],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "Due to aggressive automated scraping of FederalRegister.gov and eCFR.gov, programmatic access to these sites is limited to access to our extensive developer APIs. Please visit FederalRegister.gov API documentation or eCFR.gov API documentation to learn more about how to access the API.",
+          "Your request has been flagged as potentially automated. If you are human user receiving this message, please complete the CAPTCHA (bot test) below and click \"Request Access\". You may occassionally be asked to complete the CAPTCHA again, this is normal and part of our security measures.",
+          "An official website of the United States government.",
+          "If you experiencing issues with the CAPTCHA or want to request a wider IP range, you can use the \"Site Help\" button found in the lower, right of this page to make a request.",
+          "This contact form is only for IP Access help. Please do not provide confidential information or personal data."
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
+    {
+      "id": "f4cda0b78e492a",
+      "date": "2026-11-16",
+      "category": "국내 정책",
+      "region": "한국",
+      "title": "대한민국, 탄소시장연합 회원국 공식 가입… 국제 탄소시장 협력 본격 참여",
+      "source": "기후에너지환경부",
+      "url": "https://mcee.go.kr/m/mob/board/read.do?pagerOffset=0&maxPageItems=10&maxIndexPages=5&searchKey=&searchValue=&menuId=156&orgCd=&boardMasterId=939&boardId=1907610",
+      "doi": "",
+      "tags": [
+        "탄소배출권·GHG"
+      ],
+      "document_type": "정책·발표",
+      "link_status": "원문 URL 제공 · 접근 여부 미검증",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "정부 공식 보도자료",
+      "priority_score": 12,
+      "priority": "우선 검토",
+      "priority_reasons": [
+        "탄소배출권·GHG"
+      ],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-11-17",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "첨부파일 대한민국 탄소시장연합 회원국 공식 가입… 국제 탄소시장 협력 본격 참여(보도자료)(기후경제 11.16).hwpx(927.2 KB) 대한민국 탄소시장연합 회원국 공식 가입… 국제 탄소시장 협력 본격 참여(보도자료)(기후경제 11.16).pdf(280.6 KB)",
+          "▷ 12년간의 배출권거래제 운영 경험을 바탕으로 시장설계, 산정·보고·검증(MRV), 상쇄제도 등 분야에서 탄소시장연합에 대한 기여 의지 표명",
+          "기후에너지환경부(장관 김성환)는 11월 16일 오후 튀르키예 안탈리아에서 열린 제31차 유엔기후변화협약 당사국총회(COP31) 계기 의무탄소시장 개방연합(OCCCM*, 이하 탄소시장연합) 고위급 회의에 김성환 장관이 참석하여 탄소시장연합에 우리나라가 신규 회원국으로 공식 가입했음을 발표한다고 밝혔다."
+        ],
+        "research_ideas": [
+          {
+            "title": "온실가스 감축정책 지표와 LCA 환경편익 산정의 경계 정합성",
+            "research_question": "정책상 감축실적의 기준선과 제품 전과정 산정의 기준선 차이는 어떻게 비교가능성을 제한하는가?",
+            "methodology": "시스템경계·기준선·할당 및 불확실성에 관한 방법론 대조",
+            "novelty": "정책 지표와 제품 지표의 목적·범위 차이를 규명하는 연구 가설",
+            "data": "공개 규정·배출계수·LCI DB 및 제도 운영 자료"
+          }
+        ],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "첨부파일 대한민국 탄소시장연합 회원국 공식 가입… 국제 탄소시장 협력 본격 참여(보도자료)(기후경제 11.16).hwpx(927.2 KB) 대한민국 탄소시장연합 회원국 공식 가입… 국제 탄소시장 협력 본격 참여(보도자료)(기후경제 11.16).pdf(280.6 KB)",
+          "▷ 12년간의 배출권거래제 운영 경험을 바탕으로 시장설계, 산정·보고·검증(MRV), 상쇄제도 등 분야에서 탄소시장연합에 대한 기여 의지 표명",
+          "기후에너지환경부(장관 김성환)는 11월 16일 오후 튀르키예 안탈리아에서 열린 제31차 유엔기후변화협약 당사국총회(COP31) 계기 의무탄소시장 개방연합(OCCCM*, 이하 탄소시장연합) 고위급 회의에 김성환 장관이 참석하여 탄소시장연합에 우리나라가 신규 회원국으로 공식 가입했음을 발표한다고 밝혔다.",
+          "* (Open Coalition on Compliance Carbon Markets) 배출권거래제 등 의무탄소시장에 관한 협력을 위해 COP30(‘25년)에서 브라질이 제안했고, 올해 5월 유럽연합, 중국 등 주요 탄소시장 운영국의 참여로 출범한 자발적 협력체(’26.11월 기준, 대한민국 포함 13개국 가입)",
+          "탄소시장연합은 온실가스 배출권거래제나 탄소세와 같은 의무 탄소시장에 관한 경험을 공유하고, 산정·보고·검증(MRV), 탄소회계(carbon accounting), 고품질 상쇄제도(offset) 활용 등을 주제로 회원국 간 상호 이해와 협력을 촉진하는 자발적 협력체다. 이 연합은 올해 5월 운영규정(ToR)을 채택하고 9월 작업계획을 마련했으며, 국가 단위의 의무 탄소시장 또는 탄소가격제를 운영하거나 도입을 준비 중인 국가가 회원국으로 참여할 수 있다."
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
     {
       "id": "bdf17571c7b8a7",
       "date": "2026-11-16",
@@ -87,6 +254,116 @@
       }
     },
     {
+      "id": "9e7aee2ec1dbc6",
+      "date": "2026-11-16",
+      "category": "국제 정책",
+      "region": "영국",
+      "title": "Notice: Red Diesel Replacement competition: successful projects",
+      "source": "영국 에너지안보·넷제로부 (DESNZ)",
+      "url": "https://www.gov.uk/government/publications/red-diesel-replacement-competition-successful-projects",
+      "doi": "",
+      "tags": [],
+      "document_type": "정책·발표",
+      "link_status": "원문 연결 확인",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "Grant funding for projects to develop and demonstrate innovative low carbon technologies for use as alternatives to red diesel on construction, mining and quarrying sites.",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "기관 공식 피드",
+      "priority_score": 0,
+      "priority": "참고",
+      "priority_reasons": [],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-11-17",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "Grant funding for projects to develop and demonstrate innovative low carbon technologies for use as alternatives to red diesel on construction, mining and quarrying sites.",
+          "Red Diesel Replacement competition: Phase 1 projects",
+          "Red Diesel Replacement competition: Phase 2 projects"
+        ],
+        "research_ideas": [
+          {
+            "title": "온실가스 감축정책 지표와 LCA 환경편익 산정의 경계 정합성",
+            "research_question": "정책상 감축실적의 기준선과 제품 전과정 산정의 기준선 차이는 어떻게 비교가능성을 제한하는가?",
+            "methodology": "시스템경계·기준선·할당 및 불확실성에 관한 방법론 대조",
+            "novelty": "정책 지표와 제품 지표의 목적·범위 차이를 규명하는 연구 가설",
+            "data": "공개 규정·배출계수·LCI DB 및 제도 운영 자료"
+          }
+        ],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "Grant funding for projects to develop and demonstrate innovative low carbon technologies for use as alternatives to red diesel on construction, mining and quarrying sites.",
+          "Red Diesel Replacement competition: Phase 1 projects",
+          "Red Diesel Replacement competition: Phase 2 projects",
+          "Published the latest final reports for the Red Diesel Replacement competition: Phase 2 projects.",
+          "Updated grant funding information for Red Diesel Replacement competition: Phase 2 projects."
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
+    {
+      "id": "7494dda3edfc02",
+      "date": "2026-11-16",
+      "category": "국제 정책",
+      "region": "독일",
+      "title": "Fortschrittsbericht: Mitglieder des Klimaclubs treiben Aufbau der Märkte für \"grünen\" Stahl und Zement voran",
+      "source": "독일 연방환경부(BMUKN)",
+      "url": "https://www.bundesumweltministerium.de/pressemitteilung/fortschrittsbericht-mitglieder-des-klimaclubs-treiben-aufbau-der-maerkte-fuer-gruenen-stahl-und-zement-voran",
+      "doi": "",
+      "tags": [],
+      "document_type": "연구보고서",
+      "link_status": "원문 연결 확인",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "Der Klimaclub hat bei der COP31 in Antalya seinen ersten Fortschrittsbericht vorgestellt. Dieser zielt darauf ab, die Wettbewerbsfähigkeit und Resilienz sauberer, klima- und umweltfreundlicher Industrieproduktion zu stärken.",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "기관 공식 피드",
+      "priority_score": 0,
+      "priority": "참고",
+      "priority_reasons": [],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-11-17",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "Der Klimaclub hat im Rahmen der COP31 in Antalya seinen ersten Fortschrittsbericht vorgestellt – ein Jahr nach dem gemeinsamen Bekenntnis zum Ausbau von emissionsarmen Märkten. Den \"Global Pledge to grow near-zero and low-emissions steel and cement markets\" hatte der Klimaclub im Jahr 2025 anlässlich der COP30 in Belém initiiert. Er zielt darauf ab",
+          "Für den Fortschrittsbericht waren die Mitglieder des Klimaclubs aufgerufen, geplante und ergriffene Maßnahmen zum Aufbau von Märkten für grünen Stahl und Zement einzureichen. Insgesamt wurde zu über 140 Maßnahmen berichtet, von denen ein Großteil gezielt auf Stärkung von Angebot oder Nachfrage abzielt. Es zeigte sich eine große Bandbreite von Ansät",
+          "Zitat Bundesumweltminister Carsten Schneider: \"Verlässliche Kennzeichnungen sollen Käufern zeigen, wie viel CO 2 bei der Produktion tatsächlich entsteht. Dafür setzen wir uns weltweit ein und treiben die Standardisierung klimafreundlicher Stahlproduktion voran. Der neue Bericht des Klimaclubs zeigt: Staaten fördern bereits Investitionen in saubere "
+        ],
+        "research_ideas": [
+          {
+            "title": "온실가스 감축정책 지표와 LCA 환경편익 산정의 경계 정합성",
+            "research_question": "정책상 감축실적의 기준선과 제품 전과정 산정의 기준선 차이는 어떻게 비교가능성을 제한하는가?",
+            "methodology": "시스템경계·기준선·할당 및 불확실성에 관한 방법론 대조",
+            "novelty": "정책 지표와 제품 지표의 목적·범위 차이를 규명하는 연구 가설",
+            "data": "공개 규정·배출계수·LCI DB 및 제도 운영 자료"
+          }
+        ],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "Der Klimaclub hat im Rahmen der COP31 in Antalya seinen ersten Fortschrittsbericht vorgestellt – ein Jahr nach dem gemeinsamen Bekenntnis zum Ausbau von emissionsarmen Märkten. Den \"Global Pledge to grow near-zero and low-emissions steel and cement markets\" hatte der Klimaclub im Jahr 2025 anlässlich der COP30 in Belém initiiert. Er zielt darauf ab",
+          "Für den Fortschrittsbericht waren die Mitglieder des Klimaclubs aufgerufen, geplante und ergriffene Maßnahmen zum Aufbau von Märkten für grünen Stahl und Zement einzureichen. Insgesamt wurde zu über 140 Maßnahmen berichtet, von denen ein Großteil gezielt auf Stärkung von Angebot oder Nachfrage abzielt. Es zeigte sich eine große Bandbreite von Ansät",
+          "Zitat Bundesumweltminister Carsten Schneider: \"Verlässliche Kennzeichnungen sollen Käufern zeigen, wie viel CO 2 bei der Produktion tatsächlich entsteht. Dafür setzen wir uns weltweit ein und treiben die Standardisierung klimafreundlicher Stahlproduktion voran. Der neue Bericht des Klimaclubs zeigt: Staaten fördern bereits Investitionen in saubere ",
+          "Der Klimaclub-Bericht dokumentiert erste Beschaffungsregeln und Kennzeichnungssysteme; viele Nachfrageinstrumente befinden sich noch im Aufbau. Der wichtigste Fortschritt: Klimafreundlicher Stahl und Zement werden zunehmend zu Produkten, für die es konkrete Kaufregeln und erkennbare Qualitätsmerkmale gibt. Der Bericht zeigt dafür anschauliche Beisp",
+          "Japan: Klimafreundlicher Stahl bekommt einen Vorteil beim öffentlichen Einkauf. Japans Beschaffungskriterien bevorzugen bei stahlhaltigen Produkten Stahl mit zertifizierten Emissionsminderungen und offengelegten Lebenszyklusemissionen. Zusätzlich laufen Pilotprojekte zum Einsatz grünen Stahls bei öffentlichen Bauvorhaben. Der breitere Einsatz ist a"
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
+    {
       "id": "6e09990fa6db13",
       "date": "2026-11-16",
       "category": "국제 정책",
@@ -126,6 +403,53 @@
           "An official website of the United States government.",
           "If you experiencing issues with the CAPTCHA or want to request a wider IP range, you can use the \"Site Help\" button found in the lower, right of this page to make a request.",
           "This contact form is only for IP Access help. Please do not provide confidential information or personal data."
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
+    {
+      "id": "5ac7383a60bade",
+      "date": "2026-11-16",
+      "category": "국제 정책",
+      "region": "영국",
+      "title": "Form: Natural England’s nutrient mitigation scheme for developers",
+      "source": "영국 환경식품농촌부 (Defra)",
+      "url": "https://www.gov.uk/government/publications/natural-englands-nutrient-mitigation-scheme-for-developers",
+      "doi": "",
+      "tags": [],
+      "document_type": "정책·발표",
+      "link_status": "원문 연결 확인",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "Apply to buy nutrient mitigation credits from Natural England to offset nutrient pollution from housing development.",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "기관 공식 피드",
+      "priority_score": 0,
+      "priority": "참고",
+      "priority_reasons": [],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-11-17",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "Apply to buy nutrient mitigation credits from Natural England to offset nutrient pollution from housing development.",
+          "Poole Harbour catchment: how to apply for nutrient mitigation credits from Natural England",
+          "Tees catchment: how to apply for nutrient mitigation credits from Natural England"
+        ],
+        "research_ideas": [],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "Apply to buy nutrient mitigation credits from Natural England to offset nutrient pollution from housing development.",
+          "Poole Harbour catchment: how to apply for nutrient mitigation credits from Natural England",
+          "Tees catchment: how to apply for nutrient mitigation credits from Natural England",
+          "offset nutrient pollution from their development by buying credits under Natural England’s nutrient mitigation scheme",
+          "Updated information on how to apply for nutrient mitigation credits from Natural England for Tees catchment area. Added new information for Poole Harbour catchment area."
         ],
         "conclusion": "",
         "korea_implications": "",
