@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-11-18T07:16:29+00:00",
+  "updated_at": "2026-11-19T07:15:09+00:00",
   "collector": "GitHub Actions / official government sources + Crossref",
   "profile_version": "2026-10-10",
-  "new_items": 4,
+  "new_items": 21,
   "source_health": {
     "ok": [
       "기후에너지환경부",
@@ -16,15 +16,15 @@
       "미국 Federal Register · carbon footprint",
       "일본 환경성",
       "독일 연방환경부",
-      "프랑스 생태전환부",
       "Crossref: dynamic life cycle assessment",
-      "Crossref: consequential life cycle assessment allocation",
-      "Crossref: waste management life cycle assessment"
+      "Crossref: prospective life cycle assessment",
+      "Crossref: extended producer responsibility life cycle"
     ],
     "errors": [
       "EU 집행위원회 역내시장·산업총국",
-      "Crossref: prospective life cycle assessment",
-      "Crossref: extended producer responsibility life cycle",
+      "France",
+      "Crossref: consequential life cycle assessment allocation",
+      "Crossref: waste management life cycle assessment",
       "Crossref: recycling recycled plastics product carbon footprint",
       "Crossref: end of life vehicles environmental impact",
       "Crossref: automotive parts product carbon footprint",
@@ -36,6 +36,661 @@
     ]
   },
   "articles": [
+    {
+      "id": "cce6f90b1576f8",
+      "date": "2026-11-19",
+      "category": "국제 정책",
+      "region": "영국",
+      "title": "Environment Secretary launches £43 million schemes to test farming tech, boost climate resilience and build reservoirs",
+      "source": "영국 환경식품농촌부 (Defra)",
+      "url": "https://www.gov.uk/government/news/environment-secretary-launches-43-million-schemes-to-test-farming-tech-boost-climate-resilience-and-build-reservoirs",
+      "doi": "",
+      "tags": [],
+      "document_type": "정책·발표",
+      "link_status": "원문 연결 확인",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "Farmers backed with £28m innovation competition, as part of the largest ever annual investment to boost business resilience through better soil and water management",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "기관 공식 피드",
+      "priority_score": 0,
+      "priority": "참고",
+      "priority_reasons": [],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-11-19",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "Farmers backed with £28m innovation competition, as part of the largest ever annual investment to boost business resilience through better soil and water management",
+          "Farmers will get £43 million to help them slash costs, protect food production and deal with the impacts of drought, Environment Secretary Dame Angela Eagle will announce today (Thursday 19 November).",
+          "The Environment Secretary will launch packages of support to fix some of the most difficult issues facing rural communities, after a summer of dry weather and wildfire left many growers struggling."
+        ],
+        "research_ideas": [],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "Farmers backed with £28m innovation competition, as part of the largest ever annual investment to boost business resilience through better soil and water management",
+          "Farmers will get £43 million to help them slash costs, protect food production and deal with the impacts of drought, Environment Secretary Dame Angela Eagle will announce today (Thursday 19 November).",
+          "The Environment Secretary will launch packages of support to fix some of the most difficult issues facing rural communities, after a summer of dry weather and wildfire left many growers struggling.",
+          "The measures include opening up to £15 million in grants for water storage projects and a further £28 million for innovation in projects focused on improving soil health, water quality and environmental management, aimed at helping businesses become more resilient and profitable.",
+          "Working together, we can ensure the 9.7 million people who call rural England home benefit from the prosperity they help create, protect our precious natural environment for future generations, and unlock growth in every rural postcode."
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
+    {
+      "id": "7fb55c56f5f8cb",
+      "date": "2026-11-19",
+      "category": "국제 정책",
+      "region": "EU",
+      "title": "EU and Jordan launch negotiations for a Sustainable Investment Facilitation Agreement",
+      "source": "EU 집행위원회 통상총국",
+      "url": "https://policy.trade.ec.europa.eu/news/eu-and-jordan-launch-negotiations-sustainable-investment-facilitation-agreement-2026-11-19_en",
+      "doi": "",
+      "tags": [],
+      "document_type": "정책·발표",
+      "link_status": "원문 URL 제공 · 접근 여부 미검증",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "Today, at the EU-Jordan Investment Conference, European Commission President Ursula von der Leyen announced the launch of negotiations between the EU and Jordan for a Sustainable Investment Facilitation Agreement (SIFA).",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "기관 공식 피드",
+      "priority_score": 0,
+      "priority": "참고",
+      "priority_reasons": [],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-11-19",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "The agreement, announced at the EU-Jordan Investment Conference, will facilitate and encourage EU foreign direct investments and contribute to long-term economic cooperation between the EU and Jordan.",
+          "\"Today’s launch of negotiations for an EU-Jordan Sustainable Investment Facilitation Agreement is an important milestone. The SIFA will drive EU investment in Jordan by making it simpler, safer and more transparent. It will strengthen economic relations between trusted partners, ensuring win-win outcomes for both sides,\" said EU Trade and Economic ",
+          "By improving transparency, simplifying administrative procedures and strengthening cooperation between public authorities and investors, the agreement will reduce obstacles to investment in Jordan, enhancing investor confidence and unlocking new business opportunities whilst upholding standards concerning the environment, labour and climate."
+        ],
+        "research_ideas": [],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "The agreement, announced at the EU-Jordan Investment Conference, will facilitate and encourage EU foreign direct investments and contribute to long-term economic cooperation between the EU and Jordan.",
+          "\"Today’s launch of negotiations for an EU-Jordan Sustainable Investment Facilitation Agreement is an important milestone. The SIFA will drive EU investment in Jordan by making it simpler, safer and more transparent. It will strengthen economic relations between trusted partners, ensuring win-win outcomes for both sides,\" said EU Trade and Economic ",
+          "By improving transparency, simplifying administrative procedures and strengthening cooperation between public authorities and investors, the agreement will reduce obstacles to investment in Jordan, enhancing investor confidence and unlocking new business opportunities whilst upholding standards concerning the environment, labour and climate.",
+          "The SIFA’s goal is to create a more transparent, predictable, and efficient investment climate for EU businesses of all sizes. It aims to attract and maintain investments in sectors with significant growth potential in Jordan, such as manufacturing, renewable energy, clean technologies, water management, construction, ICT, transport, and logistics.",
+          "On 17 November 2026, the Council of the European Union adopted a decision authorising the Commission to open negotiations on behalf of the European Union regarding an agreement on sustainable investment facilitation with Jordan and Egypt."
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
+    {
+      "id": "2fd201ab69b28a",
+      "date": "2026-11-19",
+      "category": "국제 정책",
+      "region": "독일",
+      "title": "Weltklimakonferenz: Neue Initiative gegen schädlichstes Klimagas SF 6 und für neue Technologien",
+      "source": "독일 연방환경부(BMUKN)",
+      "url": "https://www.bundesumweltministerium.de/pressemitteilung/weltklimakonferenz-neue-initiative-gegen-schaedlichstes-klimagas-sf6-und-fuer-neue-technologien",
+      "doi": "",
+      "tags": [],
+      "document_type": "정책·발표",
+      "link_status": "원문 연결 확인",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "Ziel der neuen Initiative ist, Emissionen von Schwefelhexafluorid (SF₆) im Stromsektor zu senken und klimafreundliche Alternativen weltweit zu fördern. SF₆ ist das stärkste bekannte Treibhausgas und das schädlichste.",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "기관 공식 피드",
+      "priority_score": 0,
+      "priority": "참고",
+      "priority_reasons": [],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-11-19",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "Bundesumweltminister Carsten Schneider hat heute auf der Weltklimakonferenz in Antalya zusammen mit zahlreichen Mitstreitern aus unterschiedlichen Teilen der Welt eine neue internationale Initiative zu SF 6 vorgestellt. Ziel ist es, Emissionen von Schwefelhexafluorid (SF 6 ) im Stromsektor zu senken und klimafreundliche Alternativen weltweit zu för",
+          "Bundesumweltminister Carsten Schneider: \"SF 6 ist das schädlichste Treibhausgas überhaupt. Die Vermeidung ist gut möglich und bringt viel fürs Klima. Die SF 6 -Initiative ist eine wichtige Ergänzung zum weltweiten Schub für mehr Elektrifizierung, den wir hier in Antalya erleben. Jetzt, wo die Stromnetze weltweit so stark ausgebaut werden, kommt es ",
+          "Die technischen Möglichkeiten für den Umstieg sind weitgehend vorhanden: SF 6 -freie Schaltanlagen sind für die Mittelspannung und für Hochspannung bis 145 Kilovolt (kV) am Markt und bei großen Netzbetreibern im Einsatz; für die höchsten Spannungsebenen laufen Pilotprojekte. Bei bestehenden Anlagen senken Leckagevermeidung, Rückgewinnung und Recycl"
+        ],
+        "research_ideas": [
+          {
+            "title": "온실가스 감축정책 지표와 LCA 환경편익 산정의 경계 정합성",
+            "research_question": "정책상 감축실적의 기준선과 제품 전과정 산정의 기준선 차이는 어떻게 비교가능성을 제한하는가?",
+            "methodology": "시스템경계·기준선·할당 및 불확실성에 관한 방법론 대조",
+            "novelty": "정책 지표와 제품 지표의 목적·범위 차이를 규명하는 연구 가설",
+            "data": "공개 규정·배출계수·LCI DB 및 제도 운영 자료"
+          }
+        ],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "Bundesumweltminister Carsten Schneider hat heute auf der Weltklimakonferenz in Antalya zusammen mit zahlreichen Mitstreitern aus unterschiedlichen Teilen der Welt eine neue internationale Initiative zu SF 6 vorgestellt. Ziel ist es, Emissionen von Schwefelhexafluorid (SF 6 ) im Stromsektor zu senken und klimafreundliche Alternativen weltweit zu för",
+          "Bundesumweltminister Carsten Schneider: \"SF 6 ist das schädlichste Treibhausgas überhaupt. Die Vermeidung ist gut möglich und bringt viel fürs Klima. Die SF 6 -Initiative ist eine wichtige Ergänzung zum weltweiten Schub für mehr Elektrifizierung, den wir hier in Antalya erleben. Jetzt, wo die Stromnetze weltweit so stark ausgebaut werden, kommt es ",
+          "Die technischen Möglichkeiten für den Umstieg sind weitgehend vorhanden: SF 6 -freie Schaltanlagen sind für die Mittelspannung und für Hochspannung bis 145 Kilovolt (kV) am Markt und bei großen Netzbetreibern im Einsatz; für die höchsten Spannungsebenen laufen Pilotprojekte. Bei bestehenden Anlagen senken Leckagevermeidung, Rückgewinnung und Recycl",
+          "DER GLOBAL SF 6 PLEDGE: Mit dem freiwilligen Pledge verpflichten sich Regierungen, die Datenlage zu SF 6 -Beständen und -Emissionen zu verbessern, Emissionen durch umweltgerechtes Management zu minimieren und SF 6 -freie Technologien zu fördern. Die Freiwilligkeit erlaubt Ländern mit unterschiedlichen Ausgangslagen, sofort zu beginnen. Ein erstes U",
+          "Pressemitteilung 08.11.2026 Deutschland auf der Weltklimakonferenz in Antalya"
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
+    {
+      "id": "fad74fde2c9230",
+      "date": "2026-11-18",
+      "category": "국제 정책",
+      "region": "영국",
+      "title": "Official Statistics: Social Housing Decarbonisation Fund statistics: August 2027",
+      "source": "영국 에너지안보·넷제로부 (DESNZ)",
+      "url": "https://www.gov.uk/government/statistics/announcements/social-housing-decarbonisation-fund-statistics-august-2027",
+      "doi": "",
+      "tags": [],
+      "document_type": "정책·발표",
+      "link_status": "원문 링크 제공 · 접근 여부 미검증",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "Data to monitor the installation of energy efficiency measures in domestic properties via the Social Housing Decarbonisation Fund (SHDF) scheme in England.",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "기관 공식 피드",
+      "priority_score": 0,
+      "priority": "참고",
+      "priority_reasons": [],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-11-19",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "Data to monitor the installation of energy efficiency measures in domestic properties via the Social Housing Decarbonisation Fund (SHDF) scheme in England."
+        ],
+        "research_ideas": [
+          {
+            "title": "온실가스 감축정책 지표와 LCA 환경편익 산정의 경계 정합성",
+            "research_question": "정책상 감축실적의 기준선과 제품 전과정 산정의 기준선 차이는 어떻게 비교가능성을 제한하는가?",
+            "methodology": "시스템경계·기준선·할당 및 불확실성에 관한 방법론 대조",
+            "novelty": "정책 지표와 제품 지표의 목적·범위 차이를 규명하는 연구 가설",
+            "data": "공개 규정·배출계수·LCI DB 및 제도 운영 자료"
+          }
+        ],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "Data to monitor the installation of energy efficiency measures in domestic properties via the Social Housing Decarbonisation Fund (SHDF) scheme in England."
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
+    {
+      "id": "e54300ace3fa28",
+      "date": "2026-11-18",
+      "category": "국제 정책",
+      "region": "영국",
+      "title": "Notice: V2X Innovation Programme: successful projects",
+      "source": "영국 에너지안보·넷제로부 (DESNZ)",
+      "url": "https://www.gov.uk/government/publications/v2x-innovation-programme-successful-projects",
+      "doi": "",
+      "tags": [
+        "V2X"
+      ],
+      "document_type": "정책·발표",
+      "link_status": "원문 링크 제공 · 접근 여부 미검증",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "Successful projects under the V2X (vehicle-to-everything) Innovation Programme that aims to address barriers to enabling energy flexibility from bi-directional electric vehicle charging.",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "기관 공식 피드",
+      "priority_score": 0,
+      "priority": "참고",
+      "priority_reasons": [],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-11-19",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "Successful projects under the V2X (vehicle-to-everything) Innovation Programme that aims to address barriers to enabling energy flexibility from bi-directional electric vehicle charging.",
+          "As part of the transition to net zero, government committed to phasing out the sale of new petrol and diesel cars and vans in 2035. The (up to £12.6 million) V2X (vehicle-to-everything) Innovation Programme aims to address barriers to enabling energy flexibility from bi-directional electric vehicle charging.",
+          "The V2X Innovation Programme forms part of the Flexibility Innovation Programme, which sits within the £1 billion Net Zero Innovation Portfolio ."
+        ],
+        "research_ideas": [
+          {
+            "title": "자동차 공급망 제품단위 탄소발자국의 데이터 품질과 배분규칙 연구",
+            "research_question": "품목별 원재료 구성과 공정 할당·데이터 품질 차이가 자동차부품 PCF 불확실성을 얼마나 설명하는가?",
+            "methodology": "Catena-X·ISO 14067·DQR 요구사항 및 할당법 비교·민감도 분석",
+            "novelty": "제품 PCF의 데이터 출처·검증체계와 방법론의 연결을 탐색하는 가설",
+            "data": "공개 IMDS 예시, 소재별 LCI, 공급망 양식, 국가별 전력배출계수"
+          }
+        ],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "Successful projects under the V2X (vehicle-to-everything) Innovation Programme that aims to address barriers to enabling energy flexibility from bi-directional electric vehicle charging.",
+          "As part of the transition to net zero, government committed to phasing out the sale of new petrol and diesel cars and vans in 2035. The (up to £12.6 million) V2X (vehicle-to-everything) Innovation Programme aims to address barriers to enabling energy flexibility from bi-directional electric vehicle charging.",
+          "The V2X Innovation Programme forms part of the Flexibility Innovation Programme, which sits within the £1 billion Net Zero Innovation Portfolio .",
+          "Added 'Rural Energy Resilience' to 'V2X Innovation Programme: Phase 2 successful projects'.",
+          "Added 'Electric Heavy Goods Vehicles - first roll-out and demonstration of V2X and grid decarbonisation' to Phase 2 successful projects page."
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
+    {
+      "id": "d9fba806b169db",
+      "date": "2026-11-18",
+      "category": "국제 정책",
+      "region": "영국",
+      "title": "Research: Environmental Indicator Framework Theme E (Natural Resources)",
+      "source": "영국 환경식품농촌부 (Defra)",
+      "url": "https://www.gov.uk/government/publications/environmental-indicator-framework-theme-e-natural-resources",
+      "doi": "",
+      "tags": [],
+      "document_type": "정책·발표",
+      "link_status": "원문 링크 제공 · 접근 여부 미검증",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "This release contains all indicators which fall under Theme E (Natural Resources) of the Environmental Indicator Framework.",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "기관 공식 피드",
+      "priority_score": 0,
+      "priority": "참고",
+      "priority_reasons": [],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-11-19",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "This release contains all indicators which fall under Theme E (Natural Resources) of the Environmental Indicator Framework.",
+          "Environmental Indicator Framework Theme E (Natural Resources)",
+          "This document contains the Environmental Indicator Framework indicators falling under Theme E (Natural Resources). Each indicator includes a short description, readiness and links to data, notes on figures, and insights, visualisations, and trend descriptions for each component, as well as associated assessment results."
+        ],
+        "research_ideas": [],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "This release contains all indicators which fall under Theme E (Natural Resources) of the Environmental Indicator Framework.",
+          "Environmental Indicator Framework Theme E (Natural Resources)",
+          "This document contains the Environmental Indicator Framework indicators falling under Theme E (Natural Resources). Each indicator includes a short description, readiness and links to data, notes on figures, and insights, visualisations, and trend descriptions for each component, as well as associated assessment results."
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
+    {
+      "id": "b8d2bf379f5b76",
+      "date": "2026-11-18",
+      "category": "국제 정책",
+      "region": "영국",
+      "title": "Official Statistics: Social Housing Decarbonisation Fund statistics: February 2027",
+      "source": "영국 에너지안보·넷제로부 (DESNZ)",
+      "url": "https://www.gov.uk/government/statistics/announcements/social-housing-decarbonisation-fund-statistics-february-2027",
+      "doi": "",
+      "tags": [],
+      "document_type": "정책·발표",
+      "link_status": "원문 링크 제공 · 접근 여부 미검증",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "Data to monitor the installation of energy efficiency measures in domestic properties via the Social Housing Decarbonisation Fund (SHDF) scheme in England.",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "기관 공식 피드",
+      "priority_score": 0,
+      "priority": "참고",
+      "priority_reasons": [],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-11-19",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "Data to monitor the installation of energy efficiency measures in domestic properties via the Social Housing Decarbonisation Fund (SHDF) scheme in England."
+        ],
+        "research_ideas": [
+          {
+            "title": "온실가스 감축정책 지표와 LCA 환경편익 산정의 경계 정합성",
+            "research_question": "정책상 감축실적의 기준선과 제품 전과정 산정의 기준선 차이는 어떻게 비교가능성을 제한하는가?",
+            "methodology": "시스템경계·기준선·할당 및 불확실성에 관한 방법론 대조",
+            "novelty": "정책 지표와 제품 지표의 목적·범위 차이를 규명하는 연구 가설",
+            "data": "공개 규정·배출계수·LCI DB 및 제도 운영 자료"
+          }
+        ],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "Data to monitor the installation of energy efficiency measures in domestic properties via the Social Housing Decarbonisation Fund (SHDF) scheme in England."
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
+    {
+      "id": "b298e5ed54b9bd",
+      "date": "2026-11-18",
+      "category": "국제 정책",
+      "region": "UN",
+      "title": "Kiara Worth | UN Climate Change “An ambitious outcome is within reach,” UN Climate Chief at COP31 event to launch the second global stocktake UN Climate Speech",
+      "source": "UNFCCC",
+      "url": "https://unfccc.int/news/an-ambitious-outcome-is-within-reach-un-climate-chief-at-cop31-event-to-launch-the-second-global",
+      "doi": "",
+      "tags": [
+        "COP31"
+      ],
+      "document_type": "정책·발표",
+      "link_status": "원문 URL 제공 · 접근 여부 미검증",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "UNFCCC 공식 뉴스",
+      "priority_score": 0,
+      "priority": "참고",
+      "priority_reasons": [],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-11-19",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "Below is a transcript of remarks delivered by UN Climate Change Executive Secretary Simon Stiell at the Ministerial High-Level event on the launch of the Second Global Stocktake at COP31 in Antalya, Türkiye, on 18 November 2026. Excellencies, dear friends, We are at the starting line of the second global stocktake: This is a major moment in the int",
+          "Countries call for finance and technical support to turn climate plans into action at COP31",
+          "Climate Weeks are where civil society, businesses, governments and local leaders come together to boost ambitious climate action"
+        ],
+        "research_ideas": [],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "Below is a transcript of remarks delivered by UN Climate Change Executive Secretary Simon Stiell at the Ministerial High-Level event on the launch of the Second Global Stocktake at COP31 in Antalya, Türkiye, on 18 November 2026. Excellencies, dear friends, We are at the starting line of the second global stocktake: This is a major moment in the int",
+          "Countries call for finance and technical support to turn climate plans into action at COP31",
+          "Climate Weeks are where civil society, businesses, governments and local leaders come together to boost ambitious climate action",
+          "Transcript of COP31 press conference with COP31 President of Negotiations",
+          "UN Climate Chief on artificial intelligence: \"The task ahead is to blunt their dangerous edges, sharpen their catalytic ones, and put these technologies responsibly to work\""
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
+    {
+      "id": "8e152c55bee630",
+      "date": "2026-11-18",
+      "category": "국제 정책",
+      "region": "영국",
+      "title": "Official Statistics: Social Housing Decarbonisation Fund statistics: May 2027",
+      "source": "영국 에너지안보·넷제로부 (DESNZ)",
+      "url": "https://www.gov.uk/government/statistics/announcements/social-housing-decarbonisation-fund-statistics-may-2027",
+      "doi": "",
+      "tags": [],
+      "document_type": "정책·발표",
+      "link_status": "원문 링크 제공 · 접근 여부 미검증",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "Data to monitor the installation of energy efficiency measures in domestic properties via the Social Housing Decarbonisation Fund (SHDF) scheme in England.",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "기관 공식 피드",
+      "priority_score": 0,
+      "priority": "참고",
+      "priority_reasons": [],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-11-19",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "Data to monitor the installation of energy efficiency measures in domestic properties via the Social Housing Decarbonisation Fund (SHDF) scheme in England."
+        ],
+        "research_ideas": [
+          {
+            "title": "온실가스 감축정책 지표와 LCA 환경편익 산정의 경계 정합성",
+            "research_question": "정책상 감축실적의 기준선과 제품 전과정 산정의 기준선 차이는 어떻게 비교가능성을 제한하는가?",
+            "methodology": "시스템경계·기준선·할당 및 불확실성에 관한 방법론 대조",
+            "novelty": "정책 지표와 제품 지표의 목적·범위 차이를 규명하는 연구 가설",
+            "data": "공개 규정·배출계수·LCI DB 및 제도 운영 자료"
+          }
+        ],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "Data to monitor the installation of energy efficiency measures in domestic properties via the Social Housing Decarbonisation Fund (SHDF) scheme in England."
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
+    {
+      "id": "8cec8a399edb40",
+      "date": "2026-11-18",
+      "category": "국제 정책",
+      "region": "UN",
+      "title": "UN Climate Change / Kiara Worth \"All women and girls, men and boys must have a voice in shaping just transitions\" – UN Climate Chief UN Climate Speech",
+      "source": "UNFCCC",
+      "url": "https://unfccc.int/news/all-women-and-girls-men-and-boys-must-have-a-voice-in-shaping-just-transitions-un-climate-chief",
+      "doi": "",
+      "tags": [],
+      "document_type": "정책·발표",
+      "link_status": "원문 URL 제공 · 접근 여부 미검증",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "UNFCCC 공식 뉴스",
+      "priority_score": 0,
+      "priority": "참고",
+      "priority_reasons": [],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-11-19",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "The following is a transcript of remarks delivered by UN Climate Change Executive Secretary Simon Stiell at the COP31 h igh-level event on how Parties are engaging all women and girls, men and boys as agents of change for socially just transitions in Antalya, Türkiye, on 18 November 2026. Excellencies, colleagues and dear friends, As COP31 moves to",
+          "UN Climate Chief in Brussels: fossil fuel dependency is ripping away national security and sovereignty, but renewables turn the tables",
+          "The Belém Gender Action Plan: A launchpad accelerating ambitious, effective, and inclusive climate action"
+        ],
+        "research_ideas": [],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "The following is a transcript of remarks delivered by UN Climate Change Executive Secretary Simon Stiell at the COP31 h igh-level event on how Parties are engaging all women and girls, men and boys as agents of change for socially just transitions in Antalya, Türkiye, on 18 November 2026. Excellencies, colleagues and dear friends, As COP31 moves to",
+          "UN Climate Chief in Brussels: fossil fuel dependency is ripping away national security and sovereignty, but renewables turn the tables",
+          "The Belém Gender Action Plan: A launchpad accelerating ambitious, effective, and inclusive climate action",
+          "UN and Ethiopia urge Africa Climate Summit to send a clear message: COP30 must deliver for African nations",
+          "Joint statement by UN Climate Change and the Government of Ethiopia"
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
+    {
+      "id": "626b1c1a55f70a",
+      "date": "2026-11-18",
+      "category": "국제 정책",
+      "region": "영국",
+      "title": "Official Statistics: Social Housing Decarbonisation Fund statistics: November 2027",
+      "source": "영국 에너지안보·넷제로부 (DESNZ)",
+      "url": "https://www.gov.uk/government/statistics/announcements/social-housing-decarbonisation-fund-statistics-november-2027",
+      "doi": "",
+      "tags": [],
+      "document_type": "정책·발표",
+      "link_status": "원문 연결 확인",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "Data to monitor the installation of energy efficiency measures in domestic properties via the Social Housing Decarbonisation Fund (SHDF) scheme in England.",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "기관 공식 피드",
+      "priority_score": 0,
+      "priority": "참고",
+      "priority_reasons": [],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-11-19",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "Data to monitor the installation of energy efficiency measures in domestic properties via the Social Housing Decarbonisation Fund (SHDF) scheme in England."
+        ],
+        "research_ideas": [
+          {
+            "title": "온실가스 감축정책 지표와 LCA 환경편익 산정의 경계 정합성",
+            "research_question": "정책상 감축실적의 기준선과 제품 전과정 산정의 기준선 차이는 어떻게 비교가능성을 제한하는가?",
+            "methodology": "시스템경계·기준선·할당 및 불확실성에 관한 방법론 대조",
+            "novelty": "정책 지표와 제품 지표의 목적·범위 차이를 규명하는 연구 가설",
+            "data": "공개 규정·배출계수·LCI DB 및 제도 운영 자료"
+          }
+        ],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "Data to monitor the installation of energy efficiency measures in domestic properties via the Social Housing Decarbonisation Fund (SHDF) scheme in England."
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
+    {
+      "id": "5572f59d19ee91",
+      "date": "2026-11-18",
+      "category": "국제 정책",
+      "region": "영국",
+      "title": "Research: Data for Theme E: Natural Resources",
+      "source": "영국 환경식품농촌부 (Defra)",
+      "url": "https://www.gov.uk/government/publications/data-for-theme-e-natural-resources",
+      "doi": "",
+      "tags": [],
+      "document_type": "정책·발표",
+      "link_status": "원문 링크 제공 · 접근 여부 미검증",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "Data for 'Theme E: Natural Resources' indicators of the Environmental Indicator Framework.",
+      "review_status": "원문 검토 필요",
+      "verification": "기관 공식 피드",
+      "priority_score": 0,
+      "priority": "참고",
+      "priority_reasons": [],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치"
+    },
+    {
+      "id": "52fecfc3934110",
+      "date": "2026-11-18",
+      "category": "국제 정책",
+      "region": "영국",
+      "title": "Research: Data for Theme A: Air",
+      "source": "영국 환경식품농촌부 (Defra)",
+      "url": "https://www.gov.uk/government/publications/data-for-theme-a-air",
+      "doi": "",
+      "tags": [],
+      "document_type": "정책·발표",
+      "link_status": "원문 링크 제공 · 접근 여부 미검증",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "Data for 'Theme A: Air' indicators of the Environmental Indicator Framework.",
+      "review_status": "원문 검토 필요",
+      "verification": "기관 공식 피드",
+      "priority_score": 0,
+      "priority": "참고",
+      "priority_reasons": [],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치"
+    },
+    {
+      "id": "300eb5c4def797",
+      "date": "2026-11-18",
+      "category": "국제 정책",
+      "region": "영국",
+      "title": "Research: Environmental Indicator Framework Theme A (Air)",
+      "source": "영국 환경식품농촌부 (Defra)",
+      "url": "https://www.gov.uk/government/publications/environmental-indicator-framework-theme-a-air",
+      "doi": "",
+      "tags": [],
+      "document_type": "정책·발표",
+      "link_status": "원문 링크 제공 · 접근 여부 미검증",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "This release contains all indicators which fall under Theme A (Air) of the Environmental Indicator Framework.",
+      "review_status": "원문 검토 필요",
+      "verification": "기관 공식 피드",
+      "priority_score": 0,
+      "priority": "참고",
+      "priority_reasons": [],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치"
+    },
+    {
+      "id": "1c30c9b07cef1e",
+      "date": "2026-11-18",
+      "category": "국제 정책",
+      "region": "영국",
+      "title": "Research: Environmental Indicator Framework: assessments",
+      "source": "영국 환경식품농촌부 (Defra)",
+      "url": "https://www.gov.uk/government/publications/environmental-indicator-framework-assessments",
+      "doi": "",
+      "tags": [],
+      "document_type": "연구보고서",
+      "link_status": "원문 링크 제공 · 접근 여부 미검증",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "This release contains summaries for all Environmental Indicator Framework assessments relevant to the goals of the Environmental Improvement Plan.",
+      "review_status": "원문 검토 필요",
+      "verification": "기관 공식 피드",
+      "priority_score": 0,
+      "priority": "참고",
+      "priority_reasons": [],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치"
+    },
+    {
+      "id": "021b527d005642",
+      "date": "2026-11-18",
+      "category": "국제 정책",
+      "region": "UN",
+      "title": "Tatsuya Wadaguchi | UN Climate Change Countries call for finance and technical support to turn climate plans into action at COP31 Article",
+      "source": "UNFCCC",
+      "url": "https://unfccc.int/news/countries-call-for-finance-and-technical-support-to-turn-climate-plans-into-action-at-cop31",
+      "doi": "",
+      "tags": [
+        "COP31"
+      ],
+      "document_type": "정책·발표",
+      "link_status": "원문 URL 제공 · 접근 여부 미검증",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "",
+      "review_status": "원문 검토 필요",
+      "verification": "UNFCCC 공식 뉴스",
+      "priority_score": 0,
+      "priority": "참고",
+      "priority_reasons": [],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치"
+    },
     {
       "id": "de5f9d5e7bca18",
       "date": "2026-11-17",
@@ -139,6 +794,50 @@
         "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
         "evidence_sections": "발표기관 공개 본문/초록"
       }
+    },
+    {
+      "id": "76be854503c7ee",
+      "date": "2026-11-17",
+      "category": "국제 정책",
+      "region": "UN",
+      "title": "Lara Murillo | UN Climate Change Climate Weeks are where civil society, businesses, governments and local leaders come together to boost ambitious climate action UN Climate Statement",
+      "source": "UNFCCC",
+      "url": "https://unfccc.int/news/climate-weeks-are-where-civil-society-businesses-governments-and-local-leaders-come-together-to",
+      "doi": "",
+      "tags": [],
+      "document_type": "정책·발표",
+      "link_status": "원문 링크 제공 · 접근 여부 미검증",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "",
+      "review_status": "원문 검토 필요",
+      "verification": "UNFCCC 공식 뉴스",
+      "priority_score": 0,
+      "priority": "참고",
+      "priority_reasons": [],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치"
+    },
+    {
+      "id": "6d525d9008be15",
+      "date": "2026-11-17",
+      "category": "국제 정책",
+      "region": "UN",
+      "title": "Kiara Worth | UN Climate Change “Transparency is essential to ensuring climate action is grounded in solid evidence” – UN Climate Chief Article",
+      "source": "UNFCCC",
+      "url": "https://unfccc.int/news/transparency-is-essential-to-ensuring-climate-action-is-grounded-in-solid-evidence-un-climate-chief",
+      "doi": "",
+      "tags": [],
+      "document_type": "정책·발표",
+      "link_status": "원문 링크 제공 · 접근 여부 미검증",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "",
+      "review_status": "원문 검토 필요",
+      "verification": "UNFCCC 공식 뉴스",
+      "priority_score": 0,
+      "priority": "참고",
+      "priority_reasons": [],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치"
     },
     {
       "id": "657e3c261520ae",
@@ -460,6 +1159,28 @@
       }
     },
     {
+      "id": "b59a2d5956344b",
+      "date": "2026-11-16",
+      "category": "국제 정책",
+      "region": "UN",
+      "title": "Kiara Worth | UN Climate Change UN Climate Chief on artificial intelligence: \"The task ahead is to blunt their dangerous edges, sharpen their catalytic ones, and put these technologies responsibly to work\" UN Climate Speech",
+      "source": "UNFCCC",
+      "url": "https://unfccc.int/news/un-climate-chief-on-artificial-intelligence-the-task-ahead-is-to-blunt-their-dangerous-edges-sharpen",
+      "doi": "",
+      "tags": [],
+      "document_type": "정책·발표",
+      "link_status": "원문 링크 제공 · 접근 여부 미검증",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "",
+      "review_status": "원문 검토 필요",
+      "verification": "UNFCCC 공식 뉴스",
+      "priority_score": 0,
+      "priority": "참고",
+      "priority_reasons": [],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치"
+    },
+    {
       "id": "9e7aee2ec1dbc6",
       "date": "2026-11-16",
       "category": "국제 정책",
@@ -770,6 +1491,30 @@
         "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
         "evidence_sections": "발표기관 공개 본문/초록"
       }
+    },
+    {
+      "id": "54d862d1f1db95",
+      "date": "2026-11-14",
+      "category": "국제 정책",
+      "region": "UN",
+      "title": "UN Climate Change / Kiara Worth Transcript of COP31 press conference with COP31 President of Negotiations and COP31 Presidency Youth Climate Champion External Statement",
+      "source": "UNFCCC",
+      "url": "https://unfccc.int/news/transcript-of-cop31-press-conference-with-cop31-president-of-negotiations-and-cop31-presidency-youth",
+      "doi": "",
+      "tags": [
+        "COP31"
+      ],
+      "document_type": "정책·발표",
+      "link_status": "원문 링크 제공 · 접근 여부 미검증",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "",
+      "review_status": "원문 검토 필요",
+      "verification": "UNFCCC 공식 뉴스",
+      "priority_score": 0,
+      "priority": "참고",
+      "priority_reasons": [],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치"
     },
     {
       "id": "f1c6c78d3c5fdf",
@@ -3268,6 +4013,57 @@
         "purpose": "",
         "main_points": [
           "Data monitoring the uptake of low carbon technologies on the Boiler Upgrade Scheme (BUS), including the installation of air source heat pumps, ground source heat pumps and biomass boilers."
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
+    {
+      "id": "aae6790262a1b1",
+      "date": "2026-11-05",
+      "category": "국제 정책",
+      "region": "독일",
+      "title": "Daten. Kreisläufe. Gesellschaft. – Gemeinsam digitale Transformation der Kreislaufwirtschaft gestalten.",
+      "source": "독일 연방환경부(BMUKN)",
+      "url": "https://www.bundesumweltministerium.de/pressemitteilung/daten-kreislaeufe-gesellschaft-gemeinsam-digitale-transformation-der-kreislaufwirtschaft-gestalten",
+      "doi": "",
+      "tags": [
+        "순환경제·재활용"
+      ],
+      "document_type": "정책·발표",
+      "link_status": "원문 연결 확인",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "Wie können Digitalisierung, Daten und KI dazu beitragen, Stoffkreisläufe zu schließen und die Wettbewerbsfähigkeit Deutschlands zu stärken? Darüber wurde beim Side-Event des Bundesumweltministeriums zum Digital-Gipfel diskutiert.",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "기관 공식 피드",
+      "priority_score": 16,
+      "priority": "우선 검토",
+      "priority_reasons": [
+        "순환경제·재활용"
+      ],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-11-19",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "Wie können Digitalisierung, Daten und Künstliche Intelligenz dazu beitragen, Stoffkreisläufe zu schließen und die Wettbewerbsfähigkeit Deutschlands zu stärken? Beim Side Event des Bundesumweltministeriums zum Digital-Gipfel der Bundesregierung diskutierten rund 140 Teilnehmende aus Wirtschaft, Wissenschaft, Zivilgesellschaft, Politik und Verwaltung",
+          "Zum Auftakt setzte Staatssekretärin Dr. Heike Henn, die die Begrüßungsrede hielt, drei zentrale Akzente: Digitale Technologien und Künstliche Intelligenz sollen so eingesetzt werden, dass wirtschaftliche Entwicklung und Umweltschutz Hand in Hand gehen. Kreislaufwirtschaft ist dabei ein Zukunftsthema für Wirtschaft und Gesellschaft. Und Digitalisier",
+          "Neue Impulse für die digitale Kreislaufwirtschaft"
+        ],
+        "research_ideas": [],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "Wie können Digitalisierung, Daten und Künstliche Intelligenz dazu beitragen, Stoffkreisläufe zu schließen und die Wettbewerbsfähigkeit Deutschlands zu stärken? Beim Side Event des Bundesumweltministeriums zum Digital-Gipfel der Bundesregierung diskutierten rund 140 Teilnehmende aus Wirtschaft, Wissenschaft, Zivilgesellschaft, Politik und Verwaltung",
+          "Zum Auftakt setzte Staatssekretärin Dr. Heike Henn, die die Begrüßungsrede hielt, drei zentrale Akzente: Digitale Technologien und Künstliche Intelligenz sollen so eingesetzt werden, dass wirtschaftliche Entwicklung und Umweltschutz Hand in Hand gehen. Kreislaufwirtschaft ist dabei ein Zukunftsthema für Wirtschaft und Gesellschaft. Und Digitalisier",
+          "Neue Impulse für die digitale Kreislaufwirtschaft",
+          "Als Veranstaltungsschwerpunkt ging es um die Digitalisierungsinitiative zur Schließung von Stoffkreisläufen zur Umsetzung der Nationalen Kreislaufwirtschaftsstrategie (NKWS). Dazu zeigten sieben Pitches die Bandbreite der Ansätze, mit denen digitale Lösungen für die Kreislaufwirtschaft entwickelt, vernetzt und in die Anwendung gebracht werden solle",
+          "Dass die digitale Transformation der Kreislaufwirtschaft nur gemeinsam gelingen kann, wurde im interaktiven Teil der Veranstaltung besonders deutlich. In einem Gallery Walk konnten die Teilnehmenden zu den vorgestellten Ansätzen Erfahrungen einbringen und neue Perspektiven diskutieren."
         ],
         "conclusion": "",
         "korea_implications": "",
