@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-11-19T07:15:09+00:00",
+  "updated_at": "2026-11-20T07:03:49+00:00",
   "collector": "GitHub Actions / official government sources + Crossref",
   "profile_version": "2026-10-10",
-  "new_items": 21,
+  "new_items": 14,
   "source_health": {
     "ok": [
       "기후에너지환경부",
@@ -16,26 +16,164 @@
       "미국 Federal Register · carbon footprint",
       "일본 환경성",
       "독일 연방환경부",
+      "프랑스 생태전환부",
       "Crossref: dynamic life cycle assessment",
-      "Crossref: prospective life cycle assessment",
-      "Crossref: extended producer responsibility life cycle"
-    ],
-    "errors": [
-      "EU 집행위원회 역내시장·산업총국",
-      "France",
       "Crossref: consequential life cycle assessment allocation",
       "Crossref: waste management life cycle assessment",
       "Crossref: recycling recycled plastics product carbon footprint",
+      "Crossref: product environmental footprint ecodesign regulation"
+    ],
+    "errors": [
+      "EU 집행위원회 역내시장·산업총국",
+      "Crossref: prospective life cycle assessment",
+      "Crossref: extended producer responsibility life cycle",
       "Crossref: end of life vehicles environmental impact",
       "Crossref: automotive parts product carbon footprint",
       "Crossref: hydrogen well to wheel life cycle assessment",
       "Crossref: hydrogen life cycle assessment",
       "Crossref: bioenergy avoided emissions carbon removals",
-      "Crossref: product environmental footprint ecodesign regulation",
       "Crossref: mass balance recycling chain of custody"
     ]
   },
   "articles": [
+    {
+      "id": "59cb39c7aa7742",
+      "date": "2026-11-20",
+      "category": "국제 정책",
+      "region": "미국",
+      "title": "Air Plan Approval; Oklahoma; Update to Materials Incorporated by Reference",
+      "source": "미국 Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/11/20/2026-23690/air-plan-approval-oklahoma-update-to-materials-incorporated-by-reference",
+      "doi": "",
+      "tags": [],
+      "document_type": "법령·규제",
+      "link_status": "원문 연결 확인",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "The Environmental Protection Agency (EPA) is updating the materials that are incorporated by reference (IBR) into the Oklahoma State Implementation Plan (SIP). The regulations affected by this update have been previously submitted by the State of Oklahoma and approved by the EPA. This update affects the materials that are available for public inspection at the EPA Regional Office and the National Archives and Records Administration.",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "미국 연방 관보 공식 기록",
+      "regulatory_status": "Rule",
+      "priority_score": 0,
+      "priority": "참고",
+      "priority_reasons": [],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-11-20",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "Due to aggressive automated scraping of FederalRegister.gov and eCFR.gov, programmatic access to these sites is limited to access to our extensive developer APIs. Please visit FederalRegister.gov API documentation or eCFR.gov API documentation to learn more about how to access the API.",
+          "Your request has been flagged as potentially automated. If you are human user receiving this message, please complete the CAPTCHA (bot test) below and click \"Request Access\". You may occassionally be asked to complete the CAPTCHA again, this is normal and part of our security measures.",
+          "An official website of the United States government."
+        ],
+        "research_ideas": [],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "Due to aggressive automated scraping of FederalRegister.gov and eCFR.gov, programmatic access to these sites is limited to access to our extensive developer APIs. Please visit FederalRegister.gov API documentation or eCFR.gov API documentation to learn more about how to access the API.",
+          "Your request has been flagged as potentially automated. If you are human user receiving this message, please complete the CAPTCHA (bot test) below and click \"Request Access\". You may occassionally be asked to complete the CAPTCHA again, this is normal and part of our security measures.",
+          "An official website of the United States government.",
+          "If you experiencing issues with the CAPTCHA or want to request a wider IP range, you can use the \"Site Help\" button found in the lower, right of this page to make a request.",
+          "This contact form is only for IP Access help. Please do not provide confidential information or personal data."
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
+    {
+      "id": "f65be16dec6b41",
+      "date": "2026-11-19",
+      "category": "국제 정책",
+      "region": "영국",
+      "title": "Accredited official statistics: Energy trends: October to December 2026",
+      "source": "영국 에너지안보·넷제로부 (DESNZ)",
+      "url": "https://www.gov.uk/government/statistics/announcements/energy-trends-october-to-december-2026",
+      "doi": "",
+      "tags": [],
+      "document_type": "정책·발표",
+      "link_status": "원문 연결 확인",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "Energy production, consumption and trade of total energy, coal, oil, gas, electricity and renewables during the fourth calendar quarter of 2026.",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "기관 공식 피드",
+      "priority_score": 0,
+      "priority": "참고",
+      "priority_reasons": [],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-11-20",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "Energy production, consumption and trade of total energy, coal, oil, gas, electricity and renewables during the fourth calendar quarter of 2026."
+        ],
+        "research_ideas": [],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "Energy production, consumption and trade of total energy, coal, oil, gas, electricity and renewables during the fourth calendar quarter of 2026."
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
+    {
+      "id": "ceb4b4c4afaac8",
+      "date": "2026-11-19",
+      "category": "국제 정책",
+      "region": "UN",
+      "title": "Kiara Worth | UN Climate Change “These are crucial days ahead for climate cooperation. And we have no time to lose” - UN Climate Chief at COP31 press conference UN Climate Statement",
+      "source": "UNFCCC",
+      "url": "https://unfccc.int/news/these-are-crucial-days-ahead-for-climate-cooperation-and-we-have-no-time-to-lose-un-climate-chief-at",
+      "doi": "",
+      "tags": [
+        "COP31"
+      ],
+      "document_type": "정책·발표",
+      "link_status": "원문 연결 확인",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "UNFCCC 공식 뉴스",
+      "priority_score": 0,
+      "priority": "참고",
+      "priority_reasons": [],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-11-20",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "The following is a transcript of remarks delivered by UN Climate Change Executive Secretary Simon Stiell at a COP31 Presidency press conference in Antalya, Türkiye, on 19 November 2026. The press conference is available to watch on playback here . Also today, the COP31 Presidency released new draft text of the cover decision, which is available on ",
+          "Electrification at COP31 “a lightbulb moment for our global climate push” – UN Climate Chief",
+          "COP31: Businesses, governments, investors, cities and initiatives rally behind electrification"
+        ],
+        "research_ideas": [],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "The following is a transcript of remarks delivered by UN Climate Change Executive Secretary Simon Stiell at a COP31 Presidency press conference in Antalya, Türkiye, on 19 November 2026. The press conference is available to watch on playback here . Also today, the COP31 Presidency released new draft text of the cover decision, which is available on ",
+          "Electrification at COP31 “a lightbulb moment for our global climate push” – UN Climate Chief",
+          "COP31: Businesses, governments, investors, cities and initiatives rally behind electrification",
+          "Countries call for finance and technical support to turn climate plans into action at COP31",
+          "“An ambitious outcome is within reach,” UN Climate Chief at COP31 event to launch the second global stocktake"
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
     {
       "id": "cce6f90b1576f8",
       "date": "2026-11-19",
@@ -75,6 +213,282 @@
           "The Environment Secretary will launch packages of support to fix some of the most difficult issues facing rural communities, after a summer of dry weather and wildfire left many growers struggling.",
           "The measures include opening up to £15 million in grants for water storage projects and a further £28 million for innovation in projects focused on improving soil health, water quality and environmental management, aimed at helping businesses become more resilient and profitable.",
           "Working together, we can ensure the 9.7 million people who call rural England home benefit from the prosperity they help create, protect our precious natural environment for future generations, and unlock growth in every rural postcode."
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
+    {
+      "id": "ba850188829ca9",
+      "date": "2026-11-19",
+      "category": "국제 정책",
+      "region": "영국",
+      "title": "Accredited official statistics: Energy trends: July to September 2027",
+      "source": "영국 에너지안보·넷제로부 (DESNZ)",
+      "url": "https://www.gov.uk/government/statistics/announcements/energy-trends-july-to-september-2027",
+      "doi": "",
+      "tags": [],
+      "document_type": "정책·발표",
+      "link_status": "원문 링크 제공 · 접근 여부 미검증",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "Energy production, consumption and trade of total energy, coal, oil, gas, electricity and renewables during the third calendar quarter of 2027.",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "기관 공식 피드",
+      "priority_score": 0,
+      "priority": "참고",
+      "priority_reasons": [],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-11-20",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "Energy production, consumption and trade of total energy, coal, oil, gas, electricity and renewables during the third calendar quarter of 2027."
+        ],
+        "research_ideas": [],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "Energy production, consumption and trade of total energy, coal, oil, gas, electricity and renewables during the third calendar quarter of 2027."
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
+    {
+      "id": "b3c8b2fcdbaa35",
+      "date": "2026-11-19",
+      "category": "국제 정책",
+      "region": "UN",
+      "title": "Kiara Worth | UN Climate Change Electrification at COP31 “a lightbulb moment for our global climate push” – UN Climate Chief UN Climate Speech",
+      "source": "UNFCCC",
+      "url": "https://unfccc.int/news/electrification-at-cop31-a-lightbulb-moment-for-our-global-climate-push-un-climate-chief",
+      "doi": "",
+      "tags": [
+        "COP31"
+      ],
+      "document_type": "정책·발표",
+      "link_status": "원문 URL 제공 · 접근 여부 미검증",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "UNFCCC 공식 뉴스",
+      "priority_score": 0,
+      "priority": "참고",
+      "priority_reasons": [],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-11-20",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "The following is a transcript of remarks by UN Climate Change Executive Secretary Simon Stiell at the Global Climate Action High-Level Event at COP31 in Antalya, Türkiye, on 19 November 2026. The event also showcased the COP31 Global Climate Action Agenda Electrification Delivery Package released at COP31 this morning by UN Climate Change, the Clim",
+          "“These are crucial days ahead for climate cooperation. And we have no time to lose” - UN Climate Chief at COP31 press conference",
+          "COP31: Businesses, governments, investors, cities and initiatives rally behind electrification"
+        ],
+        "research_ideas": [],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "The following is a transcript of remarks by UN Climate Change Executive Secretary Simon Stiell at the Global Climate Action High-Level Event at COP31 in Antalya, Türkiye, on 19 November 2026. The event also showcased the COP31 Global Climate Action Agenda Electrification Delivery Package released at COP31 this morning by UN Climate Change, the Clim",
+          "“These are crucial days ahead for climate cooperation. And we have no time to lose” - UN Climate Chief at COP31 press conference",
+          "COP31: Businesses, governments, investors, cities and initiatives rally behind electrification",
+          "Countries call for finance and technical support to turn climate plans into action at COP31",
+          "“An ambitious outcome is within reach,” UN Climate Chief at COP31 event to launch the second global stocktake"
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
+    {
+      "id": "aa9aff2b8d6817",
+      "date": "2026-11-19",
+      "category": "국제 정책",
+      "region": "영국",
+      "title": "Open loop heat pump systems: apply to install one",
+      "source": "영국 환경식품농촌부 (Defra)",
+      "url": "https://www.gov.uk/guidance/open-loop-heat-pump-systems-permits-consents-and-licences",
+      "doi": "",
+      "tags": [],
+      "document_type": "정책·발표",
+      "link_status": "원문 링크 제공 · 접근 여부 미검증",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "The environmental permit, consent and licence you may need before you install a ground source or surface water source heating or cooling system.",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "기관 공식 피드",
+      "priority_score": 0,
+      "priority": "참고",
+      "priority_reasons": [],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-11-20",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "The environmental permit, consent and licence you may need before you install a ground source or surface water source heating or cooling system.",
+          "You may need to get consent, a permit and a licence from the Environment Agency before you can install either:",
+          "These systems pump water from beneath the ground or from nearby rivers, canals, lakes or the sea. They use the water to heat or cool buildings before reintroducing it to the ground or surface water."
+        ],
+        "research_ideas": [],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "The environmental permit, consent and licence you may need before you install a ground source or surface water source heating or cooling system.",
+          "You may need to get consent, a permit and a licence from the Environment Agency before you can install either:",
+          "These systems pump water from beneath the ground or from nearby rivers, canals, lakes or the sea. They use the water to heat or cool buildings before reintroducing it to the ground or surface water.",
+          "If you want to install one of these systems, you will need:",
+          "There’s separate guidance for deep geothermal systems ."
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
+    {
+      "id": "a2037e12bec9b7",
+      "date": "2026-11-19",
+      "category": "국제 정책",
+      "region": "영국",
+      "title": "Accredited official statistics: Energy trends: January to March 2027",
+      "source": "영국 에너지안보·넷제로부 (DESNZ)",
+      "url": "https://www.gov.uk/government/statistics/announcements/energy-trends-january-to-march-2027",
+      "doi": "",
+      "tags": [],
+      "document_type": "정책·발표",
+      "link_status": "원문 연결 확인",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "Energy production, consumption and trade of total energy, coal, oil, gas, electricity and renewables during the first calendar quarter of 2027.",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "기관 공식 피드",
+      "priority_score": 0,
+      "priority": "참고",
+      "priority_reasons": [],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-11-20",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "Energy production, consumption and trade of total energy, coal, oil, gas, electricity and renewables during the first calendar quarter of 2027."
+        ],
+        "research_ideas": [],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "Energy production, consumption and trade of total energy, coal, oil, gas, electricity and renewables during the first calendar quarter of 2027."
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
+    {
+      "id": "98af1896ea45f9",
+      "date": "2026-11-19",
+      "category": "국제 정책",
+      "region": "영국",
+      "title": "Notice: Contracts for Difference (CfD) Allocation Round 8: statutory notices",
+      "source": "영국 에너지안보·넷제로부 (DESNZ)",
+      "url": "https://www.gov.uk/government/publications/contracts-for-difference-cfd-allocation-round-8-statutory-notices",
+      "doi": "",
+      "tags": [
+        "할당·시스템경계"
+      ],
+      "document_type": "정책·발표",
+      "link_status": "원문 연결 확인",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "Final statutory notices required to launch Contracts for Difference Allocation Round 8.",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "기관 공식 피드",
+      "priority_score": 24,
+      "priority": "필독",
+      "priority_reasons": [
+        "할당·시스템경계"
+      ],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-11-20",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "Final statutory notices required to launch Contracts for Difference Allocation Round 8.",
+          "CfD Allocation Round 8 (AR8): Contract Budget notice",
+          "CfD Allocation Round 8 (AR8): Contract Budget notice - accompanying note"
+        ],
+        "research_ideas": [],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "Final statutory notices required to launch Contracts for Difference Allocation Round 8.",
+          "CfD Allocation Round 8 (AR8): Contract Budget notice",
+          "CfD Allocation Round 8 (AR8): Contract Budget notice - accompanying note",
+          "CfD Allocation Round 8 (AR8): Initial Clean Industry Bonus Budget Notice",
+          "CfD Allocation Round 8 (AR8): Clean Industry Bonus Allocation Round Notice"
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
+    {
+      "id": "8cf9d423f9abfd",
+      "date": "2026-11-19",
+      "category": "국제 정책",
+      "region": "영국",
+      "title": "Funding for farmers, growers and land managers",
+      "source": "영국 환경식품농촌부 (Defra)",
+      "url": "https://www.gov.uk/guidance/funding-for-farmers",
+      "doi": "",
+      "tags": [],
+      "document_type": "정책·발표",
+      "link_status": "원문 링크 제공 · 접근 여부 미검증",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "Apply for grants and other funding to increase productivity, manage your land to benefit the environment and support your agricultural business.",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "기관 공식 피드",
+      "priority_score": 0,
+      "priority": "참고",
+      "priority_reasons": [],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-11-20",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "Defra is looking for farmers, growers and land managers to join a user panel to help improve guidance and services on GOV.UK. Find out more information and how to take part in research sessions .",
+          "SFI pays farmers and land managers to take up or maintain sustainable farming and land management practices that:",
+          "CSHT pays farmers and land managers to manage land in a way that:"
+        ],
+        "research_ideas": [],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "Defra is looking for farmers, growers and land managers to join a user panel to help improve guidance and services on GOV.UK. Find out more information and how to take part in research sessions .",
+          "SFI pays farmers and land managers to take up or maintain sustainable farming and land management practices that:",
+          "CSHT pays farmers and land managers to manage land in a way that:",
+          "Landscape Recovery pays groups of farmers and land managers to do long-term, large-scale projects together. Land must be in England and consist of at least 500 connected hectares.",
+          "The Farmer Collaboration Fund ( FCF ) aims to support farmers, land managers and growers to manage land in a productive, nature friendly and sustainable way."
         ],
         "conclusion": "",
         "korea_implications": "",
@@ -131,6 +545,173 @@
       }
     },
     {
+      "id": "7870f35196ccc1",
+      "date": "2026-11-19",
+      "category": "국제 정책",
+      "region": "영국",
+      "title": "Policy paper: Fertiliser Sustainability and Resilience Plan for England",
+      "source": "영국 환경식품농촌부 (Defra)",
+      "url": "https://www.gov.uk/government/publications/fertiliser-sustainability-and-resilience-plan-for-england",
+      "doi": "",
+      "tags": [],
+      "document_type": "정책·발표",
+      "link_status": "원문 링크 제공 · 접근 여부 미검증",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "Working in partnership with experts, innovators and farmers to set the strategic direction for a more sustainable, resilient fertiliser supply in England.",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "기관 공식 피드",
+      "priority_score": 0,
+      "priority": "참고",
+      "priority_reasons": [],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-11-20",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "Working in partnership with experts, innovators and farmers to set the strategic direction for a more sustainable, resilient fertiliser supply in England.",
+          "Fertiliser Sustainability and Resilience Plan for England: paper of intent and invitation for engagement",
+          "Fertilisers are critical to ensure the quantity and quality of our food."
+        ],
+        "research_ideas": [],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "Working in partnership with experts, innovators and farmers to set the strategic direction for a more sustainable, resilient fertiliser supply in England.",
+          "Fertiliser Sustainability and Resilience Plan for England: paper of intent and invitation for engagement",
+          "Fertilisers are critical to ensure the quantity and quality of our food.",
+          "The UK relies on global markets for fertilisers, however these can be vulnerable to instability and market shocks. We need to transition to a more resilient fertiliser supply chain, supported by improved nutrient management practices and more efficient use of a wider range of fertilisers.",
+          "The Fertiliser Sustainability and Resilience Plan will bring together activity across government and stakeholders to set long-term direction to realise this transition."
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
+    {
+      "id": "667dd2f64758e2",
+      "date": "2026-11-19",
+      "category": "국제 정책",
+      "region": "영국",
+      "title": "Environment Secretary speech at 2026 CLA Rural Business Conference",
+      "source": "영국 환경식품농촌부 (Defra)",
+      "url": "https://www.gov.uk/government/speeches/environment-secretary-speech-at-2026-cla-rural-business-conference",
+      "doi": "",
+      "tags": [
+        "CLA"
+      ],
+      "document_type": "정책·발표",
+      "link_status": "원문 링크 제공 · 접근 여부 미검증",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "Secretary of State for Environment, Food, and Rural Affairs, Dame Angela Eagle spoke at the 2026 CLA Rural Business Conference on Thursday 19 November.",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "기관 공식 피드",
+      "priority_score": 0,
+      "priority": "참고",
+      "priority_reasons": [],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-11-20",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "Secretary of State for Environment, Food, and Rural Affairs, Dame Angela Eagle spoke at the 2026 CLA Rural Business Conference on Thursday 19 November.",
+          "I’d like to thank you, Gavin (Gavin Lane, CLA President), and also thank you for the introduction and it’s a great pleasure to be back here today, standing up here rather than sitting in the audience listening to the Secretary of State. I think my time as Farming Minister gave me a deep insight into the issues that rural communities face. And so I’",
+          "Last month’s Budget announced the most significant transfer of financial power away from the centre in a generation. By the end of the decade, areas will keep all the business rates collected locally, allowing more revenue to be invested back into the place where it was generated. And because rural responsibilities now form part of the legal duties"
+        ],
+        "research_ideas": [],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "Secretary of State for Environment, Food, and Rural Affairs, Dame Angela Eagle spoke at the 2026 CLA Rural Business Conference on Thursday 19 November.",
+          "I’d like to thank you, Gavin (Gavin Lane, CLA President), and also thank you for the introduction and it’s a great pleasure to be back here today, standing up here rather than sitting in the audience listening to the Secretary of State. I think my time as Farming Minister gave me a deep insight into the issues that rural communities face. And so I’",
+          "Last month’s Budget announced the most significant transfer of financial power away from the centre in a generation. By the end of the decade, areas will keep all the business rates collected locally, allowing more revenue to be invested back into the place where it was generated. And because rural responsibilities now form part of the legal duties",
+          "Prosperous rural businesses also need customers beyond our shores, which is why we have secured new or strengthened trading arrangements with the US, India, the Gulf, and South Korea. And we’re opening further opportunities for outstanding British food and drink to be exported. But our most important neighbouring market requires some honesty. The B",
+          "Since Brexit, food and drink exports to the UK have fallen by more than a third. For some smaller exporters, the additional burden, the uncertainty, was enough to make European trade no longer worthwhile. And producers of seed potatoes were shut out of the EU market entirely. For a rural business, those numbers have a very practical meaning. A long"
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
+    {
+      "id": "514670b7a2783b",
+      "date": "2026-11-19",
+      "category": "국제 정책",
+      "region": "UN",
+      "title": "Ken Garcia | Climate Champions Team COP31: Businesses, governments, investors, cities and initiatives rally behind electrification UN Climate Press Release",
+      "source": "UNFCCC",
+      "url": "https://unfccc.int/news/cop31-businesses-governments-investors-cities-and-initiatives-rally-behind-electrification",
+      "doi": "",
+      "tags": [
+        "COP31"
+      ],
+      "document_type": "정책·발표",
+      "link_status": "원문 URL 제공 · 접근 여부 미검증",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "UNFCCC 공식 뉴스",
+      "priority_score": 0,
+      "priority": "참고",
+      "priority_reasons": [],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-11-20",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "Today UN Climate Change, Climate Champions and Action Agenda Axis 1 partners launched the COP31 Electrification Delivery Package , which sets out new actions and updates which have been profiled or announced at COP31.",
+          "ANTALYA, Türkiye, 19 November 2026 : The COP31 Global Climate Action Agenda Electrification Delivery Package – bringing together billions in clean energy investment plans, stronger grids, expanding electricity access and progress in electrifying transport and industry – was presented to Parties today in support of the global opportunity of an elect",
+          "Investment : At COP31, AIB announced that it is doubling its 2030 green and transition lending target from €30 billion to €60 billion, building on €28 billion already deployed since 2019. Octopus Energy launched an Asia Electrification Fund at COP31 aiming to raise $600 million for solar, wind, storage and electric vehicle (EV) charging projects, a"
+        ],
+        "research_ideas": [],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "Today UN Climate Change, Climate Champions and Action Agenda Axis 1 partners launched the COP31 Electrification Delivery Package , which sets out new actions and updates which have been profiled or announced at COP31.",
+          "ANTALYA, Türkiye, 19 November 2026 : The COP31 Global Climate Action Agenda Electrification Delivery Package – bringing together billions in clean energy investment plans, stronger grids, expanding electricity access and progress in electrifying transport and industry – was presented to Parties today in support of the global opportunity of an elect",
+          "Investment : At COP31, AIB announced that it is doubling its 2030 green and transition lending target from €30 billion to €60 billion, building on €28 billion already deployed since 2019. Octopus Energy launched an Asia Electrification Fund at COP31 aiming to raise $600 million for solar, wind, storage and electric vehicle (EV) charging projects, a",
+          "The Package — to be formally presented at the High-Level Closing of the Action Agenda at COP31— supports the COP31 Presidency’s electrification priority. It consolidates results and announcements shared during COP31, demonstrating how governments, businesses, investors, cities and international initiatives are translating climate ambition into prac",
+          "“These are crucial days ahead for climate cooperation. And we have no time to lose” - UN Climate Chief at COP31 press conference"
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
+    {
+      "id": "36f52c383038cb",
+      "date": "2026-11-19",
+      "category": "국제 정책",
+      "region": "영국",
+      "title": "New clean power renewables auction launched to lower bills",
+      "source": "영국 에너지안보·넷제로부 (DESNZ)",
+      "url": "https://www.gov.uk/government/news/new-clean-power-renewables-auction-launched-to-lower-bills",
+      "doi": "",
+      "tags": [],
+      "document_type": "정책·발표",
+      "link_status": "원문 연결 확인",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "Government announces Budget for the next renewables auction.",
+      "review_status": "원문 검토 필요",
+      "verification": "기관 공식 피드",
+      "priority_score": 0,
+      "priority": "참고",
+      "priority_reasons": [],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치"
+    },
+    {
       "id": "2fd201ab69b28a",
       "date": "2026-11-19",
       "category": "국제 정책",
@@ -184,6 +765,28 @@
         "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
         "evidence_sections": "발표기관 공개 본문/초록"
       }
+    },
+    {
+      "id": "1b5da7c4b94fa2",
+      "date": "2026-11-19",
+      "category": "국제 정책",
+      "region": "EU",
+      "title": "Commission adopts measures restricting lead gunshot",
+      "source": "EU 집행위원회 환경총국",
+      "url": "https://single-market-economy.ec.europa.eu/news/commission-adopts-measures-restrict-lead-gunshot-protect-health-and-environment-2026-11-17_en",
+      "doi": "",
+      "tags": [],
+      "document_type": "정책·발표",
+      "link_status": "원문 링크 제공 · 접근 여부 미검증",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "The new rules ban the use and sale of gunshot containing 1% lead or more to protect human health and the environment.",
+      "review_status": "원문 검토 필요",
+      "verification": "기관 공식 피드",
+      "priority_score": 0,
+      "priority": "참고",
+      "priority_reasons": [],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치"
     },
     {
       "id": "fad74fde2c9230",
