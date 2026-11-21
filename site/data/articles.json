@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-11-20T07:03:49+00:00",
+  "updated_at": "2026-11-21T06:57:31+00:00",
   "collector": "GitHub Actions / official government sources + Crossref",
   "profile_version": "2026-10-10",
-  "new_items": 14,
+  "new_items": 11,
   "source_health": {
     "ok": [
       "기후에너지환경부",
@@ -19,23 +19,182 @@
       "프랑스 생태전환부",
       "Crossref: dynamic life cycle assessment",
       "Crossref: consequential life cycle assessment allocation",
-      "Crossref: waste management life cycle assessment",
-      "Crossref: recycling recycled plastics product carbon footprint",
-      "Crossref: product environmental footprint ecodesign regulation"
-    ],
-    "errors": [
-      "EU 집행위원회 역내시장·산업총국",
-      "Crossref: prospective life cycle assessment",
       "Crossref: extended producer responsibility life cycle",
+      "Crossref: recycling recycled plastics product carbon footprint",
       "Crossref: end of life vehicles environmental impact",
       "Crossref: automotive parts product carbon footprint",
       "Crossref: hydrogen well to wheel life cycle assessment",
       "Crossref: hydrogen life cycle assessment",
-      "Crossref: bioenergy avoided emissions carbon removals",
+      "Crossref: product environmental footprint ecodesign regulation",
       "Crossref: mass balance recycling chain of custody"
+    ],
+    "errors": [
+      "EU 집행위원회 역내시장·산업총국",
+      "Crossref: prospective life cycle assessment",
+      "Crossref: waste management life cycle assessment",
+      "Crossref: bioenergy avoided emissions carbon removals"
     ]
   },
   "articles": [
+    {
+      "id": "f884b180b9d279",
+      "date": "2026-11-20",
+      "category": "국제 정책",
+      "region": "영국",
+      "title": "Guidance: Participating in the UK Emissions Trading Scheme (UK ETS)",
+      "source": "영국 에너지안보·넷제로부 (DESNZ)",
+      "url": "https://www.gov.uk/government/publications/participating-in-the-uk-ets",
+      "doi": "",
+      "tags": [
+        "탄소배출권·GHG",
+        "ETS"
+      ],
+      "document_type": "정책·발표",
+      "link_status": "원문 연결 확인",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "This page provides an overview of the UK Emissions Trading Scheme (UK ETS), who it applies to, and the first steps for participants looking to engage with the scheme.",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "기관 공식 피드",
+      "priority_score": 12,
+      "priority": "우선 검토",
+      "priority_reasons": [
+        "탄소배출권·GHG"
+      ],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-11-21",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "This page provides an overview of the UK Emissions Trading Scheme (UK ETS), who it applies to, and the first steps for participants looking to engage with the scheme.",
+          "A UK Emissions Trading Scheme (UK ETS ) replaced the UK’s participation in the EU ETS on 1 January 2021. The 4 governments of the UK established the scheme to increase the climate ambition of the UK’s carbon pricing policy, while protecting the competitiveness of UK businesses.",
+          "Updated the information in the section on the UK Emissions Trading Registry."
+        ],
+        "research_ideas": [
+          {
+            "title": "온실가스 감축정책 지표와 LCA 환경편익 산정의 경계 정합성",
+            "research_question": "정책상 감축실적의 기준선과 제품 전과정 산정의 기준선 차이는 어떻게 비교가능성을 제한하는가?",
+            "methodology": "시스템경계·기준선·할당 및 불확실성에 관한 방법론 대조",
+            "novelty": "정책 지표와 제품 지표의 목적·범위 차이를 규명하는 연구 가설",
+            "data": "공개 규정·배출계수·LCI DB 및 제도 운영 자료"
+          }
+        ],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "This page provides an overview of the UK Emissions Trading Scheme (UK ETS), who it applies to, and the first steps for participants looking to engage with the scheme.",
+          "A UK Emissions Trading Scheme (UK ETS ) replaced the UK’s participation in the EU ETS on 1 January 2021. The 4 governments of the UK established the scheme to increase the climate ambition of the UK’s carbon pricing policy, while protecting the competitiveness of UK businesses.",
+          "Updated the information in the section on the UK Emissions Trading Registry.",
+          "All installation operators within scope of the UK Emissions Trading Scheme (UK ETS) are required to submit data to their regulator between 1 April to 30 June 2025.",
+          "We have provided an update on the new permitting, monitoring and verification system, now called Manage Your UK Emissions Trading Scheme Reporting Service (METS)"
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
+    {
+      "id": "db935b81701734",
+      "date": "2026-11-20",
+      "category": "국제 정책",
+      "region": "영국",
+      "title": "Research: Life cycle assessment for anaerobic digestion (AD LCA)",
+      "source": "영국 에너지안보·넷제로부 (DESNZ)",
+      "url": "https://www.gov.uk/government/publications/life-cycle-assessment-for-anaerobic-digestion-ad-lca",
+      "doi": "",
+      "tags": [
+        "바이오에너지·유기성 폐자원",
+        "LCA"
+      ],
+      "document_type": "연구보고서",
+      "link_status": "원문 연결 확인",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "This is a study on life cycle assessment (LCA) of UK anaerobic digestion sites with case studies, UK-wide fleet assessment, and an LCA tool.",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "기관 공식 피드",
+      "priority_score": 20,
+      "priority": "우선 검토",
+      "priority_reasons": [
+        "바이오에너지·유기성 폐자원"
+      ],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-11-21",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "This is a study on life cycle assessment (LCA) of UK anaerobic digestion sites with case studies, UK-wide fleet assessment, and an LCA tool.",
+          "Life cycle assessment for anaerobic digestion (AD LCA): report",
+          "Life cycle assessment for anaerobic digestion (AD LCA): guidance for the modelling tool"
+        ],
+        "research_ideas": [],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "This is a study on life cycle assessment (LCA) of UK anaerobic digestion sites with case studies, UK-wide fleet assessment, and an LCA tool.",
+          "Life cycle assessment for anaerobic digestion (AD LCA): report",
+          "Life cycle assessment for anaerobic digestion (AD LCA): guidance for the modelling tool",
+          "Life cycle assessment for anaerobic digestion (AD LCA): modelling tool",
+          "DESNZ commissioned Alder Bioinsights to undertake a life cycle assessment ( LCA ) study on UK anaerobic digestion ( AD ) sites. The research assessed representative case studies and the carbon intensity of the UK AD fleet now and in the future including quantifying the sensitivity of site and fleet-wide emissions to key parameters such as feedstock"
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
+    {
+      "id": "c198df6b50a697",
+      "date": "2026-11-20",
+      "category": "국제 정책",
+      "region": "영국",
+      "title": "Research: Estimating clean energy R&D spending using tax credit data",
+      "source": "영국 에너지안보·넷제로부 (DESNZ)",
+      "url": "https://www.gov.uk/government/publications/estimating-clean-energy-rd-spending-using-tax-credit-data",
+      "doi": "",
+      "tags": [],
+      "document_type": "정책·발표",
+      "link_status": "원문 링크 제공 · 접근 여부 미검증",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "First estimates of UK business spending on clean energy and climate mitigation research and development (R&D), based on HMRC R&D tax credit data.",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "기관 공식 피드",
+      "priority_score": 0,
+      "priority": "참고",
+      "priority_reasons": [],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-11-21",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "First estimates of UK business spending on clean energy and climate mitigation research and development (R&D), based on HMRC R&D tax credit data.",
+          "Estimating clean energy R&D spending using tax credit data",
+          "This report provides the first estimates of UK private sector spending on research and development ( R&D ) in clean energy and climate mitigation technologies based on administrative data."
+        ],
+        "research_ideas": [],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "First estimates of UK business spending on clean energy and climate mitigation research and development (R&D), based on HMRC R&D tax credit data.",
+          "Estimating clean energy R&D spending using tax credit data",
+          "This report provides the first estimates of UK private sector spending on research and development ( R&D ) in clean energy and climate mitigation technologies based on administrative data.",
+          "It combines HMRC R&D tax credit records with patent data and TheDataCity’s list of net zero companies. This covers firms that file patents and those that do not, for the tax years 2014 to 2015 through to 2020 to 2021. Estimates are broken down by technology area, including clean transport, grids and storage, hydrogen and fuel cells, and carbon capt",
+          "The analysis suggests UK businesses spent, on average, at least around £1.4 billion a year on R&D related to climate mitigation over this period. This is 3 to 5% of total UK business R&D ."
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
     {
       "id": "59cb39c7aa7742",
       "date": "2026-11-20",
@@ -76,6 +235,425 @@
           "An official website of the United States government.",
           "If you experiencing issues with the CAPTCHA or want to request a wider IP range, you can use the \"Site Help\" button found in the lower, right of this page to make a request.",
           "This contact form is only for IP Access help. Please do not provide confidential information or personal data."
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
+    {
+      "id": "525769a32e256a",
+      "date": "2026-11-20",
+      "category": "국제 정책",
+      "region": "영국",
+      "title": "Policy paper: UK-EU ETS linking agreement: explainer",
+      "source": "영국 에너지안보·넷제로부 (DESNZ)",
+      "url": "https://www.gov.uk/government/publications/uk-eu-linking-agreement-explainer",
+      "doi": "",
+      "tags": [
+        "탄소배출권·GHG",
+        "UK-EU",
+        "ETS"
+      ],
+      "document_type": "정책·발표",
+      "link_status": "원문 연결 확인",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "This is an overview of the UK-EU Emissions Trading Scheme (ETS) linking agreement.",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "기관 공식 피드",
+      "priority_score": 12,
+      "priority": "우선 검토",
+      "priority_reasons": [
+        "탄소배출권·GHG"
+      ],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-11-21",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "This is an overview of the UK-EU Emissions Trading Scheme (ETS) linking agreement.",
+          "This document explains the UK-EU Emissions Trading Scheme ( ETS ) linking agreement to UK ETS participants, highlighting the impact the agreement will have on the UK ETS ."
+        ],
+        "research_ideas": [
+          {
+            "title": "온실가스 감축정책 지표와 LCA 환경편익 산정의 경계 정합성",
+            "research_question": "정책상 감축실적의 기준선과 제품 전과정 산정의 기준선 차이는 어떻게 비교가능성을 제한하는가?",
+            "methodology": "시스템경계·기준선·할당 및 불확실성에 관한 방법론 대조",
+            "novelty": "정책 지표와 제품 지표의 목적·범위 차이를 규명하는 연구 가설",
+            "data": "공개 규정·배출계수·LCI DB 및 제도 운영 자료"
+          }
+        ],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "This is an overview of the UK-EU Emissions Trading Scheme (ETS) linking agreement.",
+          "This document explains the UK-EU Emissions Trading Scheme ( ETS ) linking agreement to UK ETS participants, highlighting the impact the agreement will have on the UK ETS ."
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
+    {
+      "id": "4a0171ca5e323f",
+      "date": "2026-11-20",
+      "category": "국제 정책",
+      "region": "EU",
+      "title": "EU bans plastic waste exports to non-OECD countries",
+      "source": "EU 집행위원회 환경총국",
+      "url": "https://environment.ec.europa.eu/news/eu-bans-plastic-waste-exports-non-oecd-countries-2026-11-20_en",
+      "doi": "",
+      "tags": [
+        "플라스틱·재생원료",
+        "OECD"
+      ],
+      "document_type": "정책·발표",
+      "link_status": "원문 연결 확인",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "The restrictions will apply until at least 21 May 2029, after which those nations may apply to receive plastic waste from the EU.",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "기관 공식 피드",
+      "priority_score": 20,
+      "priority": "우선 검토",
+      "priority_reasons": [
+        "플라스틱·재생원료"
+      ],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-11-21",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "Starting 21 November 2026, exports of plastic waste from the European Union to non-OECD countries will be prohibited under the EU Waste Shipment Regulation . This landmark measure ensures the EU takes greater responsibility for the waste it generates.",
+          "The ban forms part of the EU’s broader push to tackle plastic pollution , strengthen its circular economy , and promote responsible waste management at home and abroad, aligning with its ongoing drive for an ambitious global treaty on plastic pollution covering the full life cycle of plastics.",
+          "The Waste Shipment Regulation, which entered into force on 20 May 2024 , introduces stricter rules for plastic waste exports . It aims to ensure EU waste exports are properly managed and that the EU does not shift environmental waste burden to non-EU countries."
+        ],
+        "research_ideas": [
+          {
+            "title": "재자원화 환경편익 산정에서 폐기물 지위와 환경부하 귀속의 영향",
+            "research_question": "폐기물의 원료 전환과 대체편익 반영 범위가 정책단위 감축실적과 제품단위 PCF 간 결과를 어떻게 변화시키는가?",
+            "methodology": "Attributional/Consequential LCA, cut-off·할당·회피배출 규칙을 결합한 시나리오",
+            "novelty": "정책 효과와 제품 탄소발자국의 산정목적·경계 차이에서 발생하는 연구 가설",
+            "data": "공식 정책 문서, 공개 재활용 통계와 공정 LCI. 민간 현장 수율은 확인 필요"
+          }
+        ],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "Starting 21 November 2026, exports of plastic waste from the European Union to non-OECD countries will be prohibited under the EU Waste Shipment Regulation . This landmark measure ensures the EU takes greater responsibility for the waste it generates.",
+          "The ban forms part of the EU’s broader push to tackle plastic pollution , strengthen its circular economy , and promote responsible waste management at home and abroad, aligning with its ongoing drive for an ambitious global treaty on plastic pollution covering the full life cycle of plastics.",
+          "The Waste Shipment Regulation, which entered into force on 20 May 2024 , introduces stricter rules for plastic waste exports . It aims to ensure EU waste exports are properly managed and that the EU does not shift environmental waste burden to non-EU countries.",
+          "The ban on EU exports of plastic waste to non-OECD countries will apply until at least 21 May 2029 , after which those countries may apply to receive such waste from the EU.",
+          "Plastic waste exports from the EU to OECD countries remain possible but are subject to greater scrutiny."
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
+    {
+      "id": "27fd39f8262d05",
+      "date": "2026-11-20",
+      "category": "국제 정책",
+      "region": "UN",
+      "title": "Kiara Worth | UN Climate Change Transcript of COP31 President of Negotiations' interview with journalists today External Statement",
+      "source": "UNFCCC",
+      "url": "https://unfccc.int/news/transcript-of-cop31-president-of-negotiations-interview-with-journalists-today",
+      "doi": "",
+      "tags": [
+        "COP31"
+      ],
+      "document_type": "정책·발표",
+      "link_status": "원문 연결 확인",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "UNFCCC 공식 뉴스",
+      "priority_score": 0,
+      "priority": "참고",
+      "priority_reasons": [],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-11-21",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "COP31 President of Negotiations Chris Bowen gave an interview to journalists earlier today at COP31 in Antalya, Türkiye . The following is a transcript of the question and answer session. TRANSCRIPT COP31, ANTALYA 20 NOVEMBER 2026 Minister for Climate Change and Energy, Chris Bowen: Well, things worth doing, in my experience, don't come easy. And I",
+          "“These are crucial days ahead for climate cooperation. And we have no time to lose” - UN Climate Chief at COP31 press conference",
+          "Electrification at COP31 “a lightbulb moment for our global climate push” – UN Climate Chief"
+        ],
+        "research_ideas": [],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "COP31 President of Negotiations Chris Bowen gave an interview to journalists earlier today at COP31 in Antalya, Türkiye . The following is a transcript of the question and answer session. TRANSCRIPT COP31, ANTALYA 20 NOVEMBER 2026 Minister for Climate Change and Energy, Chris Bowen: Well, things worth doing, in my experience, don't come easy. And I",
+          "“These are crucial days ahead for climate cooperation. And we have no time to lose” - UN Climate Chief at COP31 press conference",
+          "Electrification at COP31 “a lightbulb moment for our global climate push” – UN Climate Chief",
+          "COP31: Businesses, governments, investors, cities and initiatives rally behind electrification",
+          "Countries call for finance and technical support to turn climate plans into action at COP31"
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
+    {
+      "id": "24c06573fd1994",
+      "date": "2026-11-20",
+      "category": "국제 정책",
+      "region": "영국",
+      "title": "Notice: HyNet Track 1 expansion: selected projects",
+      "source": "영국 에너지안보·넷제로부 (DESNZ)",
+      "url": "https://www.gov.uk/government/publications/hynet-track-1-expansion-selected-projects",
+      "doi": "",
+      "tags": [
+        "CCUS"
+      ],
+      "document_type": "정책·발표",
+      "link_status": "원문 연결 확인",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "Projects selected to enter negotiations for expansion of HyNet CCUS cluster following assessment process.",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "기관 공식 피드",
+      "priority_score": 6,
+      "priority": "참고",
+      "priority_reasons": [
+        "CCUS"
+      ],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-11-21",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "Projects selected to enter negotiations for expansion of HyNet CCUS cluster following assessment process.",
+          "HyNet cluster: project negotiation list update",
+          "A list of the projects in negotiations to join the HyNet CCUS cluster following the expansion assessment process and subsequent reviews."
+        ],
+        "research_ideas": [],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "Projects selected to enter negotiations for expansion of HyNet CCUS cluster following assessment process.",
+          "HyNet cluster: project negotiation list update",
+          "A list of the projects in negotiations to join the HyNet CCUS cluster following the expansion assessment process and subsequent reviews.",
+          "Published HyNet cluster: project negotiation list update, and HyNet cluster projects' 'Priority' and 'Standby' classifications have been reviewed and updated where applicable."
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
+    {
+      "id": "1bbca7eaa0aee6",
+      "date": "2026-11-20",
+      "category": "국제 정책",
+      "region": "UN",
+      "title": "UN Climate Change / Kiara Worth Countries reaffirm support for climate transparency ahead of second global stocktake Article",
+      "source": "UNFCCC",
+      "url": "https://unfccc.int/news/countries-reaffirm-support-for-climate-transparency-ahead-of-second-global-stocktake",
+      "doi": "",
+      "tags": [],
+      "document_type": "정책·발표",
+      "link_status": "원문 연결 확인",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "UNFCCC 공식 뉴스",
+      "priority_score": 0,
+      "priority": "참고",
+      "priority_reasons": [],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-11-21",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "UN Climate Change News, 20 November 2026 -- At COP31 in Antalya, Türkiye, ministers sustained political momentum for the Paris Agreement’s enhanced transparency framework (ETF) as countries prepare for the second global stocktake. The COP31 Presidency-led ministerial high-level dialogue , From Transparency to Action: Celebrating ETF Progress Ahead ",
+          "The COP31 leadership and UN Climate Change Executive Secretary Simon Stiell commended the early submitters of second BTRs, and highlighted the ETF as a success of the Paris Agreement. “As we enter a new phase on the implementation of the Paris Agreement, the role of transparency in translating our climate commitments into concrete action is more im",
+          "Countries will use information from the BTRs to assess collective progress towards the Paris Agreement goals under the second global stocktake, allowing to recognize successes as well as gaps in climate action and support, and inform the preparation of the next round of national climate plans. The dialogue showed a high level of political buy-in, w"
+        ],
+        "research_ideas": [],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "UN Climate Change News, 20 November 2026 -- At COP31 in Antalya, Türkiye, ministers sustained political momentum for the Paris Agreement’s enhanced transparency framework (ETF) as countries prepare for the second global stocktake. The COP31 Presidency-led ministerial high-level dialogue , From Transparency to Action: Celebrating ETF Progress Ahead ",
+          "The COP31 leadership and UN Climate Change Executive Secretary Simon Stiell commended the early submitters of second BTRs, and highlighted the ETF as a success of the Paris Agreement. “As we enter a new phase on the implementation of the Paris Agreement, the role of transparency in translating our climate commitments into concrete action is more im",
+          "Countries will use information from the BTRs to assess collective progress towards the Paris Agreement goals under the second global stocktake, allowing to recognize successes as well as gaps in climate action and support, and inform the preparation of the next round of national climate plans. The dialogue showed a high level of political buy-in, w",
+          "“Transparency is essential to ensuring climate action is grounded in solid evidence” – UN Climate Chief",
+          "Transparency as an enabling tool for faster real-economy progress"
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
+    {
+      "id": "1a0ac7b078104d",
+      "date": "2026-11-20",
+      "category": "국제 정책",
+      "region": "영국",
+      "title": "Decision: Tinsley Viaduct Gas Pipeline Diversion (Cadent Gas Ltd): environmental determination",
+      "source": "영국 에너지안보·넷제로부 (DESNZ)",
+      "url": "https://www.gov.uk/government/publications/tinsley-viaduct-gas-pipeline-diversion-cadent-gas-ltd-environmental-determination",
+      "doi": "",
+      "tags": [],
+      "document_type": "정책·발표",
+      "link_status": "원문 링크 제공 · 접근 여부 미검증",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "Environmental determination by the Secretary of State.",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "기관 공식 피드",
+      "priority_score": 0,
+      "priority": "참고",
+      "priority_reasons": [],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-11-21",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "Environmental determination by the Secretary of State.",
+          "Tinsley Viaduct Gas Pipeline Diversion (Cadent Gas Ltd) Environmental Determination",
+          "This file may not be suitable for users of assistive technology."
+        ],
+        "research_ideas": [],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "Environmental determination by the Secretary of State.",
+          "Tinsley Viaduct Gas Pipeline Diversion (Cadent Gas Ltd) Environmental Determination",
+          "This file may not be suitable for users of assistive technology.",
+          "Secretary of State’s environmental determination regarding Cadent Gas Limited’s proposed Tinsley Viaduct Intermediate Pressure ( IP ) Gas Pipeline Diversion Project in Sheffield, South Yorkshire. The Proposed Works comprise the diversion and replacement of two existing 24-inch intermediate pressure gas pipelines with a single replacement pipeline o",
+          "Cadent Gas Limited Tinsley Viaduct, Sheffield, South Yorkshire"
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
+    {
+      "id": "1650ca76c95aaa",
+      "date": "2026-11-20",
+      "category": "국제 정책",
+      "region": "영국",
+      "title": "Research: Methane Emissions from Anaerobic Digestion (MEAD) 2.0",
+      "source": "영국 에너지안보·넷제로부 (DESNZ)",
+      "url": "https://www.gov.uk/government/publications/methane-emissions-from-anaerobic-digestion-mead-20",
+      "doi": "",
+      "tags": [
+        "바이오에너지·유기성 폐자원",
+        "MEAD"
+      ],
+      "document_type": "정책·발표",
+      "link_status": "원문 연결 확인",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "This study examined the mechanisms, locations, scale and mitigation of fugitive methane from anaerobic digestion sites.",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "기관 공식 피드",
+      "priority_score": 20,
+      "priority": "우선 검토",
+      "priority_reasons": [
+        "바이오에너지·유기성 폐자원"
+      ],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-11-21",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "This study examined the mechanisms, locations, scale and mitigation of fugitive methane from anaerobic digestion sites.",
+          "Methane Emissions from Anaerobic Digestion (MEAD) 2.0: report",
+          "Methane Emissions from Anaerobic Digestion (MEAD) 2.0: Good Practice Guide for Point Source Emissions"
+        ],
+        "research_ideas": [
+          {
+            "title": "온실가스 감축정책 지표와 LCA 환경편익 산정의 경계 정합성",
+            "research_question": "정책상 감축실적의 기준선과 제품 전과정 산정의 기준선 차이는 어떻게 비교가능성을 제한하는가?",
+            "methodology": "시스템경계·기준선·할당 및 불확실성에 관한 방법론 대조",
+            "novelty": "정책 지표와 제품 지표의 목적·범위 차이를 규명하는 연구 가설",
+            "data": "공개 규정·배출계수·LCI DB 및 제도 운영 자료"
+          }
+        ],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "This study examined the mechanisms, locations, scale and mitigation of fugitive methane from anaerobic digestion sites.",
+          "Methane Emissions from Anaerobic Digestion (MEAD) 2.0: report",
+          "Methane Emissions from Anaerobic Digestion (MEAD) 2.0: Good Practice Guide for Point Source Emissions",
+          "DESNZ commissioned Alder Bioinsights to undertake research into fugitive methane emissions from anaerobic digestion ( AD ) sites, building on the previous MEAD study . This research synthesises the evidence on the mechanisms and locations of fugitive methane in AD sites, conducted field measurements on biogas upgrading emissions and laboratory tria",
+          "The study also collated fugitive methane mitigation approaches during design, installation and maintenance into an accessible and practical Good Practice Guide for AD operators."
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
+    {
+      "id": "0338fbf8e5e901",
+      "date": "2026-11-20",
+      "category": "국제 정책",
+      "region": "UN",
+      "title": "Keiichi Igarashi / UN Climate Change REDD+ countries explore new ways to fund forest conservation Article",
+      "source": "UNFCCC",
+      "url": "https://unfccc.int/news/redd-countries-explore-new-ways-to-fund-forest-conservation",
+      "doi": "",
+      "tags": [
+        "REDD"
+      ],
+      "document_type": "정책·발표",
+      "link_status": "원문 링크 제공 · 접근 여부 미검증",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "UNFCCC 공식 뉴스",
+      "priority_score": 0,
+      "priority": "참고",
+      "priority_reasons": [],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-11-21",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "UN Climate Change News, 20 November 2026 – Countries pursuing forest conservation and global efforts to halt and reverse deforestation by 2030 are exploring new sources of climate finance, including opportunities under Article 6 of the Paris Agreement. But accessing this finance can bring significant technical and institutional challenges. These ch",
+          "REDD+ Global Summit strengthens cooperation on forests and transparency",
+          "Forests at the heart of economic activity and resilience worldwide"
+        ],
+        "research_ideas": [],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "UN Climate Change News, 20 November 2026 – Countries pursuing forest conservation and global efforts to halt and reverse deforestation by 2030 are exploring new sources of climate finance, including opportunities under Article 6 of the Paris Agreement. But accessing this finance can bring significant technical and institutional challenges. These ch",
+          "REDD+ Global Summit strengthens cooperation on forests and transparency",
+          "Forests at the heart of economic activity and resilience worldwide",
+          "REDD+: Strengthening Forests and Food Security",
+          "Protecting Forests: Vital to Tackling the Climate Crisis"
         ],
         "conclusion": "",
         "korea_implications": "",
@@ -704,12 +1282,37 @@
       "summary": "",
       "insight": "",
       "source_excerpt": "Government announces Budget for the next renewables auction.",
-      "review_status": "원문 검토 필요",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
       "verification": "기관 공식 피드",
       "priority_score": 0,
       "priority": "참고",
       "priority_reasons": [],
-      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치"
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-11-21",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "New, more transparent approach to latest renewable energy project auction to continue investment in clean power to lower bills",
+          "During the final week of COP31, the government is announcing the budget for the next renewables auction, with an evolution in approach to ensure clean power continues to drive down bills. Clean energy project developers are encouraged to put forward bids in this new renewables auction.",
+          "Delivering clean, homegrown power is the route to lower bills, greater energy security and new investment across the country."
+        ],
+        "research_ideas": [],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "New, more transparent approach to latest renewable energy project auction to continue investment in clean power to lower bills",
+          "During the final week of COP31, the government is announcing the budget for the next renewables auction, with an evolution in approach to ensure clean power continues to drive down bills. Clean energy project developers are encouraged to put forward bids in this new renewables auction.",
+          "Delivering clean, homegrown power is the route to lower bills, greater energy security and new investment across the country.",
+          "More clean power is the primary route to lower bills while building a more secure and affordable energy system.",
+          "Our new approach to this renewables auction maximises transparency and control over what we buy, ensuring we get the clean power we need at the right price."
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
     },
     {
       "id": "2fd201ab69b28a",
