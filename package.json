@@ -1,0 +1,6 @@
+{
+  "name": "lca-hub-regression",
+  "private": true,
+  "scripts": { "test:ui": "node --test tests/test_detail.cjs" },
+  "devDependencies": { "playwright": "1.62.1" }
+}

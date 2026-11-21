@@ -75,6 +75,8 @@
   }
   function labelCategory(cat) { return node('span', `category ${groups[cat] || 'domestic'}`, cat || '기타'); }
   function previewText(a) {
+    const excerpt=a.analysis?.status==='source_extract'&&a.analysis?.key_takeaways?.[0];
+    if(excerpt)return '원문 발췌 · '+excerpt;
     return (a.analysis?.key_takeaways?.[0] || '') || a.summary || (a.doi ? 'Crossref DOI·서지정보가 등록됐습니다. 방법론과 결과는 논문 원문을 확인해 주세요.'
       : '기관 공개 발표 제목과 원문 링크를 수집했습니다. 시행일·적용 범위 등은 해당 원문 확인이 필요합니다.');
   }
