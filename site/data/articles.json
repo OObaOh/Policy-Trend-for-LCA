@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-11-21T06:57:31+00:00",
+  "updated_at": "2026-11-22T06:37:13+00:00",
   "collector": "GitHub Actions / official government sources + Crossref",
   "profile_version": "2026-10-10",
-  "new_items": 11,
+  "new_items": 0,
   "source_health": {
     "ok": [
       "기후에너지환경부",
@@ -18,21 +18,21 @@
       "독일 연방환경부",
       "프랑스 생태전환부",
       "Crossref: dynamic life cycle assessment",
+      "Crossref: prospective life cycle assessment",
       "Crossref: consequential life cycle assessment allocation",
-      "Crossref: extended producer responsibility life cycle",
-      "Crossref: recycling recycled plastics product carbon footprint",
-      "Crossref: end of life vehicles environmental impact",
-      "Crossref: automotive parts product carbon footprint",
-      "Crossref: hydrogen well to wheel life cycle assessment",
-      "Crossref: hydrogen life cycle assessment",
-      "Crossref: product environmental footprint ecodesign regulation",
-      "Crossref: mass balance recycling chain of custody"
+      "Crossref: waste management life cycle assessment",
+      "Crossref: end of life vehicles environmental impact"
     ],
     "errors": [
       "EU 집행위원회 역내시장·산업총국",
-      "Crossref: prospective life cycle assessment",
-      "Crossref: waste management life cycle assessment",
-      "Crossref: bioenergy avoided emissions carbon removals"
+      "Crossref: extended producer responsibility life cycle",
+      "Crossref: recycling recycled plastics product carbon footprint",
+      "Crossref: automotive parts product carbon footprint",
+      "Crossref: hydrogen well to wheel life cycle assessment",
+      "Crossref: hydrogen life cycle assessment",
+      "Crossref: bioenergy avoided emissions carbon removals",
+      "Crossref: product environmental footprint ecodesign regulation",
+      "Crossref: mass balance recycling chain of custody"
     ]
   },
   "articles": [
@@ -1384,12 +1384,37 @@
       "summary": "",
       "insight": "",
       "source_excerpt": "The new rules ban the use and sale of gunshot containing 1% lead or more to protect human health and the environment.",
-      "review_status": "원문 검토 필요",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
       "verification": "기관 공식 피드",
       "priority_score": 0,
       "priority": "참고",
       "priority_reasons": [],
-      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치"
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-11-22",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "On 16 November 2026, the European Commission adopted new rules to better protect human health and the environment by restricting lead gunshot under the EU’s chemicals legislation, REACH.",
+          "The new rules ban the use and sale of gunshot containing 1% lead or more.",
+          "The measure takes a proportionate approach, providing an exception for sports shooting at shooting ranges equipped with appropriate lead containment measures."
+        ],
+        "research_ideas": [],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "On 16 November 2026, the European Commission adopted new rules to better protect human health and the environment by restricting lead gunshot under the EU’s chemicals legislation, REACH.",
+          "The new rules ban the use and sale of gunshot containing 1% lead or more.",
+          "The measure takes a proportionate approach, providing an exception for sports shooting at shooting ranges equipped with appropriate lead containment measures.",
+          "This measure builds on the Commission’s broader efforts to tackle lead pollution from different sources. It follows closely after the Commission adopted, on 12 November 2026, other restrictions on lead in fishing weights, lures and wires.",
+          "Commission Regulation (EU) 2026/2530 on lead in gunshot"
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
     },
     {
       "id": "fad74fde2c9230",
@@ -1800,12 +1825,37 @@
       "summary": "",
       "insight": "",
       "source_excerpt": "Data for 'Theme E: Natural Resources' indicators of the Environmental Indicator Framework.",
-      "review_status": "원문 검토 필요",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
       "verification": "기관 공식 피드",
       "priority_score": 0,
       "priority": "참고",
       "priority_reasons": [],
-      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치"
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-11-22",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "Data for 'Theme E: Natural Resources' indicators of the Environmental Indicator Framework.",
+          "E1: Area of productive agricultural land in England, 1983 to 2026",
+          "E2: Volume of agricultural production in England, 1990/1991 to 2024/2025"
+        ],
+        "research_ideas": [],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "Data for 'Theme E: Natural Resources' indicators of the Environmental Indicator Framework.",
+          "E1: Area of productive agricultural land in England, 1983 to 2026",
+          "E2: Volume of agricultural production in England, 1990/1991 to 2024/2025",
+          "E3: Volume of inputs used in agricultural production in England, 1990/1991 to 2024/2025",
+          "E4: Efficiency of agricultural production measured by Total Factor Productivity, England, 1990/1991 to 2024/2025"
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
     },
     {
       "id": "52fecfc3934110",
@@ -1822,12 +1872,37 @@
       "summary": "",
       "insight": "",
       "source_excerpt": "Data for 'Theme A: Air' indicators of the Environmental Indicator Framework.",
-      "review_status": "원문 검토 필요",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
       "verification": "기관 공식 피드",
       "priority_score": 0,
       "priority": "참고",
       "priority_reasons": [],
-      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치"
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-11-22",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "Data for 'Theme A: Air' indicators of the Environmental Indicator Framework.",
+          "A1: Emissions for five key air pollutants in England, 2005 to 2024",
+          "A2: Emissions of greenhouse gases from natural resources, waste and fluorinated gases in England, 1990 to 2024"
+        ],
+        "research_ideas": [],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "Data for 'Theme A: Air' indicators of the Environmental Indicator Framework.",
+          "A1: Emissions for five key air pollutants in England, 2005 to 2024",
+          "A2: Emissions of greenhouse gases from natural resources, waste and fluorinated gases in England, 1990 to 2024",
+          "A3i: Population exposure to fine particulate matter (PM2.5) in England, 2018 to 2024",
+          "A3ii: Concentrations of fine particulate matter (PM2.5) at AURN monitoring sites in England, 2009 to 2024"
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
     },
     {
       "id": "300eb5c4def797",
@@ -1844,12 +1919,35 @@
       "summary": "",
       "insight": "",
       "source_excerpt": "This release contains all indicators which fall under Theme A (Air) of the Environmental Indicator Framework.",
-      "review_status": "원문 검토 필요",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
       "verification": "기관 공식 피드",
       "priority_score": 0,
       "priority": "참고",
       "priority_reasons": [],
-      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치"
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-11-22",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "This release contains all indicators which fall under Theme A (Air) of the Environmental Indicator Framework.",
+          "Environmental Indicator Framework Theme A (Air)",
+          "This document contains the Environmental Indicator Framework indicators falling under Theme A: Air. Each indicator includes a short description, readiness and links to data, notes on figures, and insights, visualisations, and trend descriptions for each component, as well as associated assessment results."
+        ],
+        "research_ideas": [],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "This release contains all indicators which fall under Theme A (Air) of the Environmental Indicator Framework.",
+          "Environmental Indicator Framework Theme A (Air)",
+          "This document contains the Environmental Indicator Framework indicators falling under Theme A: Air. Each indicator includes a short description, readiness and links to data, notes on figures, and insights, visualisations, and trend descriptions for each component, as well as associated assessment results."
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
     },
     {
       "id": "1c30c9b07cef1e",
@@ -1866,12 +1964,37 @@
       "summary": "",
       "insight": "",
       "source_excerpt": "This release contains summaries for all Environmental Indicator Framework assessments relevant to the goals of the Environmental Improvement Plan.",
-      "review_status": "원문 검토 필요",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
       "verification": "기관 공식 피드",
       "priority_score": 0,
       "priority": "참고",
       "priority_reasons": [],
-      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치"
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-11-22",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "This release contains summaries for all Environmental Indicator Framework assessments relevant to the goals of the Environmental Improvement Plan.",
+          "Environmental Indicator Framework: assessments",
+          "Goal 8: Reducing environmental hazards (summary)"
+        ],
+        "research_ideas": [],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "This release contains summaries for all Environmental Indicator Framework assessments relevant to the goals of the Environmental Improvement Plan.",
+          "Environmental Indicator Framework: assessments",
+          "Goal 8: Reducing environmental hazards (summary)",
+          "Goal 8: Reducing environmental hazards (network)",
+          "This document contains summary information for all Environmental Indicator Framework indicator assessments relevant to the goals of the Environmental Improvement Plan . Assessment outcomes are summarised, as well as network diagrams provided which indicate how different indicators impact each other in different ways."
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
     },
     {
       "id": "021b527d005642",
@@ -1890,12 +2013,37 @@
       "summary": "",
       "insight": "",
       "source_excerpt": "",
-      "review_status": "원문 검토 필요",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
       "verification": "UNFCCC 공식 뉴스",
       "priority_score": 0,
       "priority": "참고",
       "priority_reasons": [],
-      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치"
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-11-22",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "UN Climate Change News, 18 November 2026 – Ministers and government representatives at COP31 have called for greater access to finance, stronger technical support and closer international cooperation to help developing countries turn national climate commitments into action. Speaking in Antalya, Türkiye, Uganda’s Minister of State for Environment, ",
+          "Transcript of COP31 President of Negotiations' interview with journalists today",
+          "“These are crucial days ahead for climate cooperation. And we have no time to lose” - UN Climate Chief at COP31 press conference"
+        ],
+        "research_ideas": [],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "UN Climate Change News, 18 November 2026 – Ministers and government representatives at COP31 have called for greater access to finance, stronger technical support and closer international cooperation to help developing countries turn national climate commitments into action. Speaking in Antalya, Türkiye, Uganda’s Minister of State for Environment, ",
+          "Transcript of COP31 President of Negotiations' interview with journalists today",
+          "“These are crucial days ahead for climate cooperation. And we have no time to lose” - UN Climate Chief at COP31 press conference",
+          "Electrification at COP31 “a lightbulb moment for our global climate push” – UN Climate Chief",
+          "COP31: Businesses, governments, investors, cities and initiatives rally behind electrification"
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
     },
     {
       "id": "de5f9d5e7bca18",
@@ -2016,12 +2164,37 @@
       "summary": "",
       "insight": "",
       "source_excerpt": "",
-      "review_status": "원문 검토 필요",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
       "verification": "UNFCCC 공식 뉴스",
       "priority_score": 0,
       "priority": "참고",
       "priority_reasons": [],
-      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치"
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-11-22",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "The following is a joint statement from Climate Week organizers (Baku Climate Action Week, Bangkok Climate Action Week, Climate Action Week Sydney, Climate Week NYC, London Climate Action Week, Mumbai Climate Week, Rio Climate Action Week, São Paulo Climate Week, UNFCCC Climate Week) on 17 November 2026. Learn more here . At COP 30, Parties resolve",
+          "Transcript of COP31 President of Negotiations' interview with journalists today",
+          "“These are crucial days ahead for climate cooperation. And we have no time to lose” - UN Climate Chief at COP31 press conference"
+        ],
+        "research_ideas": [],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "The following is a joint statement from Climate Week organizers (Baku Climate Action Week, Bangkok Climate Action Week, Climate Action Week Sydney, Climate Week NYC, London Climate Action Week, Mumbai Climate Week, Rio Climate Action Week, São Paulo Climate Week, UNFCCC Climate Week) on 17 November 2026. Learn more here . At COP 30, Parties resolve",
+          "Transcript of COP31 President of Negotiations' interview with journalists today",
+          "“These are crucial days ahead for climate cooperation. And we have no time to lose” - UN Climate Chief at COP31 press conference",
+          "Electrification at COP31 “a lightbulb moment for our global climate push” – UN Climate Chief",
+          "COP31: Businesses, governments, investors, cities and initiatives rally behind electrification"
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
     },
     {
       "id": "6d525d9008be15",
@@ -2038,12 +2211,37 @@
       "summary": "",
       "insight": "",
       "source_excerpt": "",
-      "review_status": "원문 검토 필요",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
       "verification": "UNFCCC 공식 뉴스",
       "priority_score": 0,
       "priority": "참고",
       "priority_reasons": [],
-      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치"
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-11-22",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "The following is a transcript of remarks delivered by UN Climate Change Executive Secretary Simon Stiell at the COP31 Ministerial high-level dialogue on Transparency in Antalya, Türkiye, on 17 November 2026. Excellencies, dear friends, It is a pleasure to be here. And I thank the COP 31 President and the President of Negotiations for keeping transp",
+          "Countries reaffirm support for climate transparency ahead of second global stocktake",
+          "Net-Zero Recognition Framework launched to spotlight non-State actors’ leadership"
+        ],
+        "research_ideas": [],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "The following is a transcript of remarks delivered by UN Climate Change Executive Secretary Simon Stiell at the COP31 Ministerial high-level dialogue on Transparency in Antalya, Türkiye, on 17 November 2026. Excellencies, dear friends, It is a pleasure to be here. And I thank the COP 31 President and the President of Negotiations for keeping transp",
+          "Countries reaffirm support for climate transparency ahead of second global stocktake",
+          "Net-Zero Recognition Framework launched to spotlight non-State actors’ leadership",
+          "Transparency as an enabling tool for faster real-economy progress",
+          "Türkiye becomes second country to submit second Biennial Transparency Report"
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
     },
     {
       "id": "657e3c261520ae",
@@ -2379,12 +2577,37 @@
       "summary": "",
       "insight": "",
       "source_excerpt": "",
-      "review_status": "원문 검토 필요",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
       "verification": "UNFCCC 공식 뉴스",
       "priority_score": 0,
       "priority": "참고",
       "priority_reasons": [],
-      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치"
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-11-22",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "The following is a transcript of remarks delivered by UN Climate Change Executive Secretary Simon Stiell at the COP31 High-Level Green Digital Action Roundtable on Climate and AI in Antalya, Türkiye, on 16 November 2026. Excellencies, colleagues and friends,",
+          "AI and other frontier technologies are a double-edged sword. The task ahead is to blunt their dangerous edges, sharpen their catalytic ones, and put these technologies responsibly to work.",
+          "We cannot ask people to accept higher bills, more planet-heating pollution, and deeper inequality today, in exchange for promises of a better tomorrow."
+        ],
+        "research_ideas": [],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "The following is a transcript of remarks delivered by UN Climate Change Executive Secretary Simon Stiell at the COP31 High-Level Green Digital Action Roundtable on Climate and AI in Antalya, Türkiye, on 16 November 2026. Excellencies, colleagues and friends,",
+          "AI and other frontier technologies are a double-edged sword. The task ahead is to blunt their dangerous edges, sharpen their catalytic ones, and put these technologies responsibly to work.",
+          "We cannot ask people to accept higher bills, more planet-heating pollution, and deeper inequality today, in exchange for promises of a better tomorrow.",
+          "The UN Climate Change AI for Climate Action Award helps identify and promote such solutions.",
+          "“These are crucial days ahead for climate cooperation. And we have no time to lose” - UN Climate Chief at COP31 press conference"
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
     },
     {
       "id": "9e7aee2ec1dbc6",
@@ -2715,12 +2938,37 @@
       "summary": "",
       "insight": "",
       "source_excerpt": "",
-      "review_status": "원문 검토 필요",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
       "verification": "UNFCCC 공식 뉴스",
       "priority_score": 0,
       "priority": "참고",
       "priority_reasons": [],
-      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치"
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-11-22",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "The following is a transcript of remarks made by COP31 President of Negotiations Minister Chris Bowen and COP31 Presidency Youth Climate Champion Sally Higgins during a press conference at COP31 in Antalya, Türkiye, on 14 November 2026. A transcript of a Q&A session with journalists at the same press conference follows below the remarks. Thanks ver",
+          "Transcript of COP31 President of Negotiations' interview with journalists today",
+          "“These are crucial days ahead for climate cooperation. And we have no time to lose” - UN Climate Chief at COP31 press conference"
+        ],
+        "research_ideas": [],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "The following is a transcript of remarks made by COP31 President of Negotiations Minister Chris Bowen and COP31 Presidency Youth Climate Champion Sally Higgins during a press conference at COP31 in Antalya, Türkiye, on 14 November 2026. A transcript of a Q&A session with journalists at the same press conference follows below the remarks. Thanks ver",
+          "Transcript of COP31 President of Negotiations' interview with journalists today",
+          "“These are crucial days ahead for climate cooperation. And we have no time to lose” - UN Climate Chief at COP31 press conference",
+          "Electrification at COP31 “a lightbulb moment for our global climate push” – UN Climate Chief",
+          "COP31: Businesses, governments, investors, cities and initiatives rally behind electrification"
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
     },
     {
       "id": "f1c6c78d3c5fdf",
