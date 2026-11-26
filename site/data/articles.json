@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-11-25T08:21:44+00:00",
+  "updated_at": "2026-11-26T08:06:44+00:00",
   "collector": "GitHub Actions / official government sources + Crossref",
   "profile_version": "2026-10-10",
-  "new_items": 15,
+  "new_items": 8,
   "source_health": {
     "ok": [
       "기후에너지환경부",
@@ -36,6 +36,53 @@
     ]
   },
   "articles": [
+    {
+      "id": "5f61994f250767",
+      "date": "2026-11-26",
+      "category": "국내 정책",
+      "region": "한국",
+      "title": "국토와 환경이 함께 만드는 지속가능한 미래",
+      "source": "기후에너지환경부",
+      "url": "https://mcee.go.kr/m/mob/board/read.do?pagerOffset=0&maxPageItems=10&maxIndexPages=5&searchKey=&searchValue=&menuId=156&orgCd=&boardMasterId=939&boardId=1910520",
+      "doi": "",
+      "tags": [],
+      "document_type": "정책·발표",
+      "link_status": "원문 URL 제공 · 접근 여부 미검증",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "정부 공식 보도자료",
+      "priority_score": 0,
+      "priority": "참고",
+      "priority_reasons": [],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-11-26",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "첨부파일 환경과 국토가 함께 만드는 지속가능한 미래(보도자료)(국토환경 11.26).hwpx(538.3 KB) 환경과 국토가 함께 만드는 지속가능한 미래(보도자료)(국토환경 11.26).pdf(313.5 KB)",
+          "▷ 제3차 국가계획수립협의회 개최, 5극 3특 국토 균형성장부터 기후위기 대응까지 국토·환경계획 연계 강화",
+          "기후에너지환경부(장관 김성환)와 국토교통부(장관 홍지선)는 11월 27일 서울 종로구 소재 회의실에서 제3차 국가계획수립협의회(공동의장: 금한승 기후부 제1차관, 김이탁 국토부 제1차관)를 개최하고, ‘2026~2040 국토·환경계획 통합관리 추진방안’을 논의한다."
+        ],
+        "research_ideas": [],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "첨부파일 환경과 국토가 함께 만드는 지속가능한 미래(보도자료)(국토환경 11.26).hwpx(538.3 KB) 환경과 국토가 함께 만드는 지속가능한 미래(보도자료)(국토환경 11.26).pdf(313.5 KB)",
+          "▷ 제3차 국가계획수립협의회 개최, 5극 3특 국토 균형성장부터 기후위기 대응까지 국토·환경계획 연계 강화",
+          "기후에너지환경부(장관 김성환)와 국토교통부(장관 홍지선)는 11월 27일 서울 종로구 소재 회의실에서 제3차 국가계획수립협의회(공동의장: 금한승 기후부 제1차관, 김이탁 국토부 제1차관)를 개최하고, ‘2026~2040 국토·환경계획 통합관리 추진방안’을 논의한다.",
+          "이번 추진방안은 현재 수립 중인 ‘제5차 국토종합계획 수정계획(2026~2040)’과 ‘제5차 국가환경종합계획 수정계획(2026~2040)’의 연계성을 높이고, 부처 간 정책협력을 강화하기 위해 마련된다.",
+          "국토·환경계획 통합관리*는 지속가능한 발전이라는 공동의 목표 아래 국토계획과 환경계획의 수립 절차와 내용 등을 상호 연계·보완하는 부처 간 협력 과정이다. 두 부처는 지난 2018년과 2019년에도 협의회를 개최하여 계획기간을 일치시키고, ‘2020-2040 국토-환경계획 통합관리 추진방안’을 수립한 바 있다."
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
     {
       "id": "f4b9a4d5a20b0c",
       "date": "2026-11-25",
@@ -83,6 +130,59 @@
       }
     },
     {
+      "id": "f403735dc517d1",
+      "date": "2026-11-25",
+      "category": "국제 정책",
+      "region": "영국",
+      "title": "Accredited official statistics: UK residual fuel consumption at regional and local authority level, 2005 to 2025",
+      "source": "영국 에너지안보·넷제로부 (DESNZ)",
+      "url": "https://www.gov.uk/government/statistics/announcements/uk-residual-fuel-consumption-at-regional-and-local-authority-level-2005-to-2025",
+      "doi": "",
+      "tags": [
+        "바이오에너지·유기성 폐자원"
+      ],
+      "document_type": "정책·발표",
+      "link_status": "원문 연결 확인",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "Residual fuel is defined as non-gas, non-electricity and non-road transport fuels, and covers consumption of coal, petroleum, manufactured solid fuels and bioenergy and wastes not used for electricity generation or road transport.",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "기관 공식 피드",
+      "priority_score": 10,
+      "priority": "참고",
+      "priority_reasons": [
+        "바이오에너지·유기성 폐자원"
+      ],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-11-26",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "Residual fuel is defined as non-gas, non-electricity and non-road transport fuels, and covers consumption of coal, petroleum, manufactured solid fuels and bioenergy and wastes not used for electricity generation or road transport."
+        ],
+        "research_ideas": [
+          {
+            "title": "재자원화 환경편익 산정에서 폐기물 지위와 환경부하 귀속의 영향",
+            "research_question": "폐기물의 원료 전환과 대체편익 반영 범위가 정책단위 감축실적과 제품단위 PCF 간 결과를 어떻게 변화시키는가?",
+            "methodology": "Attributional/Consequential LCA, cut-off·할당·회피배출 규칙을 결합한 시나리오",
+            "novelty": "정책 효과와 제품 탄소발자국의 산정목적·경계 차이에서 발생하는 연구 가설",
+            "data": "공식 정책 문서, 공개 재활용 통계와 공정 LCI. 민간 현장 수율은 확인 필요"
+          }
+        ],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "Residual fuel is defined as non-gas, non-electricity and non-road transport fuels, and covers consumption of coal, petroleum, manufactured solid fuels and bioenergy and wastes not used for electricity generation or road transport."
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
+    {
       "id": "f027f3a997db90",
       "date": "2026-11-25",
       "category": "국내 정책",
@@ -108,6 +208,33 @@
       ],
       "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
       "source_last_attempt": "2026-11-25"
+    },
+    {
+      "id": "d919c869d84164",
+      "date": "2026-11-25",
+      "category": "국제 정책",
+      "region": "영국",
+      "title": "Accredited official statistics: Local authority greenhouse gas emissions: 2025 estimates",
+      "source": "영국 에너지안보·넷제로부 (DESNZ)",
+      "url": "https://www.gov.uk/government/statistics/announcements/local-authority-greenhouse-gas-emissions-2025-estimates",
+      "doi": "",
+      "tags": [
+        "탄소배출권·GHG"
+      ],
+      "document_type": "정책·발표",
+      "link_status": "원문 연결 확인",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "UK local authority and regional estimates of greenhouse gas emissions from 2005.",
+      "review_status": "원문 검토 필요",
+      "verification": "기관 공식 피드",
+      "priority_score": 12,
+      "priority": "우선 검토",
+      "priority_reasons": [
+        "탄소배출권·GHG"
+      ],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-11-26"
     },
     {
       "id": "d776660b1627c6",
@@ -147,6 +274,114 @@
           "Designated standards: space heaters and combination heaters notice of publication, 25 November 2026",
           "Designated standards: space heaters and combination heaters consolidated list v1, 25 November 2026",
           "Notices of publication from the Department for Energy, Security and Net Zero are provided above for designated standards for space heaters and combination heaters in relation to ecodesign and energy labelling. This is in support of Regulation 2019/2014 as amended by the Ecodesign for Energy-Related Products and Energy Information Regulations 2021. "
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
+    {
+      "id": "a3072685869cf8",
+      "date": "2026-11-25",
+      "category": "국제 정책",
+      "region": "영국",
+      "title": "Accredited official statistics: UK greenhouse gas emissions: 2026 provisional figures",
+      "source": "영국 에너지안보·넷제로부 (DESNZ)",
+      "url": "https://www.gov.uk/government/statistics/announcements/uk-greenhouse-gas-emissions-2026-provisional-figures",
+      "doi": "",
+      "tags": [
+        "탄소배출권·GHG"
+      ],
+      "document_type": "정책·발표",
+      "link_status": "원문 연결 확인",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "Provisional estimates of UK territorial greenhouse gas emissions based on provisional inland energy consumption statistics, which are published in the quarterly Energy Trends statistical publication.",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "기관 공식 피드",
+      "priority_score": 12,
+      "priority": "우선 검토",
+      "priority_reasons": [
+        "탄소배출권·GHG"
+      ],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-11-26",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "Provisional estimates of UK territorial greenhouse gas emissions based on provisional inland energy consumption statistics, which are published in the quarterly Energy Trends statistical publication."
+        ],
+        "research_ideas": [
+          {
+            "title": "온실가스 감축정책 지표와 LCA 환경편익 산정의 경계 정합성",
+            "research_question": "정책상 감축실적의 기준선과 제품 전과정 산정의 기준선 차이는 어떻게 비교가능성을 제한하는가?",
+            "methodology": "시스템경계·기준선·할당 및 불확실성에 관한 방법론 대조",
+            "novelty": "정책 지표와 제품 지표의 목적·범위 차이를 규명하는 연구 가설",
+            "data": "공개 규정·배출계수·LCI DB 및 제도 운영 자료"
+          }
+        ],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "Provisional estimates of UK territorial greenhouse gas emissions based on provisional inland energy consumption statistics, which are published in the quarterly Energy Trends statistical publication."
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
+    {
+      "id": "987446b4188e95",
+      "date": "2026-11-25",
+      "category": "국제 정책",
+      "region": "영국",
+      "title": "Man arrested for waste dumping at notorious Kidlington site",
+      "source": "영국 환경식품농촌부 (Defra)",
+      "url": "https://www.gov.uk/government/news/man-arrested-for-waste-dumping-at-notorious-kidlington-site",
+      "doi": "",
+      "tags": [],
+      "document_type": "정책·발표",
+      "link_status": "원문 연결 확인",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "Arrest forms part of Environment Agency investigation, supported by the South East Regional Organised Crime Unit",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "기관 공식 피드",
+      "priority_score": 0,
+      "priority": "참고",
+      "priority_reasons": [],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-11-26",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "One man has been arrested as part of an ongoing investigation into the large-scale, illegal dumping of waste at Kidlington site, the Environment Agency has announced today (Wednesday 25 November 2026).",
+          "The dumping at Kidlington was horrific, and we’re pleased that the clearance is fully completed.",
+          "While the waste is long gone, our teams are working tirelessly to find those responsible. This arrest will be vital in delivering justice for the residents of Kidlington."
+        ],
+        "research_ideas": [
+          {
+            "title": "재자원화 환경편익 산정에서 폐기물 지위와 환경부하 귀속의 영향",
+            "research_question": "폐기물의 원료 전환과 대체편익 반영 범위가 정책단위 감축실적과 제품단위 PCF 간 결과를 어떻게 변화시키는가?",
+            "methodology": "Attributional/Consequential LCA, cut-off·할당·회피배출 규칙을 결합한 시나리오",
+            "novelty": "정책 효과와 제품 탄소발자국의 산정목적·경계 차이에서 발생하는 연구 가설",
+            "data": "공식 정책 문서, 공개 재활용 통계와 공정 LCI. 민간 현장 수율은 확인 필요"
+          }
+        ],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "One man has been arrested as part of an ongoing investigation into the large-scale, illegal dumping of waste at Kidlington site, the Environment Agency has announced today (Wednesday 25 November 2026).",
+          "The dumping at Kidlington was horrific, and we’re pleased that the clearance is fully completed.",
+          "While the waste is long gone, our teams are working tirelessly to find those responsible. This arrest will be vital in delivering justice for the residents of Kidlington.",
+          "We’re taking on waste criminals, and this arrest shows we mean business.",
+          "This is an important step in delivering justice for the people of Kidlington. With more officers on the frontline and drones in the sky, we are putting waste gangs on notice so that they can’t hide."
         ],
         "conclusion": "",
         "korea_implications": "",
@@ -387,6 +622,180 @@
       }
     },
     {
+      "id": "354df51ae6288c",
+      "date": "2026-11-25",
+      "category": "국제 정책",
+      "region": "영국",
+      "title": "Guidance: Confirmed fees 2026 to 2027: Extended producer responsibility for packaging",
+      "source": "영국 환경식품농촌부 (Defra)",
+      "url": "https://www.gov.uk/government/publications/confirmed-fees-2026-to-2027-extended-producer-responsibility-for-packaging",
+      "doi": "",
+      "tags": [
+        "EPR",
+        "PPWR·포장재",
+        "폐기물관리·처리"
+      ],
+      "document_type": "정책·발표",
+      "link_status": "원문 연결 확인",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "Waste disposal fees for 2026 to 2027 that will be charged to large producers obligated under extended producer responsibility (EPR) for packaging.",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "기관 공식 피드",
+      "priority_score": 34,
+      "priority": "필독",
+      "priority_reasons": [
+        "EPR",
+        "폐기물관리·처리"
+      ],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-11-26",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "Waste disposal fees for 2026 to 2027 that will be charged to large producers obligated under extended producer responsibility (EPR) for packaging.",
+          "Extended producer responsibility for packaging : Confirmed fees 2026 to 2027",
+          "Under EPR for packaging, obligated large producers who supply or import packaging in the UK are responsible for the costs of dealing with packaging waste."
+        ],
+        "research_ideas": [
+          {
+            "title": "포장재 재생원료 의무와 Circular Footprint Formula 간 정합성",
+            "research_question": "의무 재생함량과 회수·재활용 편익의 귀속을 동시에 적용할 때 이중계상을 피할 수 있는가?",
+            "methodology": "PEF/CFF·재생함량법·시스템 확장 비교와 재활용률·품질손실 민감도 평가",
+            "novelty": "포장재 적합성 지표와 PCF 결과가 충돌하는 조건 검증 가설. 중복 문헌 확인 필요",
+            "data": "PPWR 원문, 소재별 공개 LCI, 포장재 폐기물 및 재활용 통계"
+          }
+        ],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "Waste disposal fees for 2026 to 2027 that will be charged to large producers obligated under extended producer responsibility (EPR) for packaging.",
+          "Extended producer responsibility for packaging : Confirmed fees 2026 to 2027",
+          "Under EPR for packaging, obligated large producers who supply or import packaging in the UK are responsible for the costs of dealing with packaging waste.",
+          "This guidance sets out the 2026 to 2027 packaging waste disposal fees.",
+          "Updated to the confirmed 2026 to 2027 packaging waste disposal fees."
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
+    {
+      "id": "2f289e4ee83e28",
+      "date": "2026-11-25",
+      "category": "국제 정책",
+      "region": "EU",
+      "title": "EU extends digital transition for waste shipment documents",
+      "source": "EU 집행위원회 환경총국",
+      "url": "https://environment.ec.europa.eu/news/eu-extends-digital-transition-waste-shipment-documents-2026-11-25_en",
+      "doi": "",
+      "tags": [
+        "폐기물관리·처리"
+      ],
+      "document_type": "정책·발표",
+      "link_status": "원문 연결 확인",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "Businesses and authorities now have an extra eight months — until 1 September 2027 — to prepare for mandatory green-listed waste reporting.",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "기관 공식 피드",
+      "priority_score": 20,
+      "priority": "우선 검토",
+      "priority_reasons": [
+        "폐기물관리·처리"
+      ],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-11-26",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "The European Commission and Member States have agreed to extend the transition period for using the EU’s Digital Waste Shipment System (DIWASS) to exchange documents for shipments of green-listed waste until 1 September 2027 .",
+          "Since 21 May, the use of DIWASS for waste shipments requiring prior consent from the concerned authorities is mandatory. These include shipments of hazardous waste and waste destined for disposal, as well as certain other types of waste. For these shipments, DIWASS is already used to submit requests for consent, exchange decisions between authoriti",
+          "The extension of the transition period only concerns shipments of non-hazardous waste destined for recycling or other recovery operations (also called “ green-listed waste ”), which do not require prior approval from authorities but must be accompanied by a document providing information about the waste, its origin, destination and intended treatme"
+        ],
+        "research_ideas": [
+          {
+            "title": "재자원화 환경편익 산정에서 폐기물 지위와 환경부하 귀속의 영향",
+            "research_question": "폐기물의 원료 전환과 대체편익 반영 범위가 정책단위 감축실적과 제품단위 PCF 간 결과를 어떻게 변화시키는가?",
+            "methodology": "Attributional/Consequential LCA, cut-off·할당·회피배출 규칙을 결합한 시나리오",
+            "novelty": "정책 효과와 제품 탄소발자국의 산정목적·경계 차이에서 발생하는 연구 가설",
+            "data": "공식 정책 문서, 공개 재활용 통계와 공정 LCI. 민간 현장 수율은 확인 필요"
+          }
+        ],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "The European Commission and Member States have agreed to extend the transition period for using the EU’s Digital Waste Shipment System (DIWASS) to exchange documents for shipments of green-listed waste until 1 September 2027 .",
+          "Since 21 May, the use of DIWASS for waste shipments requiring prior consent from the concerned authorities is mandatory. These include shipments of hazardous waste and waste destined for disposal, as well as certain other types of waste. For these shipments, DIWASS is already used to submit requests for consent, exchange decisions between authoriti",
+          "The extension of the transition period only concerns shipments of non-hazardous waste destined for recycling or other recovery operations (also called “ green-listed waste ”), which do not require prior approval from authorities but must be accompanied by a document providing information about the waste, its origin, destination and intended treatme",
+          "The digital module for managing these shipments became available in the DIWASS system on 15 November. The Commission was made aware of persisting concerns expressed by authorities and economic operators involved in waste shipments regarding their readiness to exchange such documents fully via DIWASS from 1 January 2027.",
+          "The Digital Waste Shipment System (DIWASS) was introduced under the revised EU Waste Shipment Regulation , with the objective of digitalising and simplifying the procedures for shipping waste between countries."
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
+    {
+      "id": "1835f8265ca032",
+      "date": "2026-11-25",
+      "category": "국제 정책",
+      "region": "영국",
+      "title": "Accredited official statistics: UK greenhouse gas emissions: 2025 final figures",
+      "source": "영국 에너지안보·넷제로부 (DESNZ)",
+      "url": "https://www.gov.uk/government/statistics/announcements/uk-greenhouse-gas-emissions-2025-final-figures",
+      "doi": "",
+      "tags": [
+        "탄소배출권·GHG"
+      ],
+      "document_type": "정책·발표",
+      "link_status": "원문 연결 확인",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "This publication provides the final estimates of UK territorial greenhouse gas emissions going back to 1990. Estimates are presented by source in February of each year. They are updated in March of each year to include estimates by end-user, and in June to include estimates by Standard Industrial Classification (SIC).",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "기관 공식 피드",
+      "priority_score": 12,
+      "priority": "우선 검토",
+      "priority_reasons": [
+        "탄소배출권·GHG"
+      ],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-11-26",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "This publication provides the final estimates of UK territorial greenhouse gas emissions going back to 1990. Estimates are presented by source in February of each year. They are updated in March of each year to include estimates by end-user, and in June to include estimates by Standard Industrial Classification (SIC)."
+        ],
+        "research_ideas": [
+          {
+            "title": "온실가스 감축정책 지표와 LCA 환경편익 산정의 경계 정합성",
+            "research_question": "정책상 감축실적의 기준선과 제품 전과정 산정의 기준선 차이는 어떻게 비교가능성을 제한하는가?",
+            "methodology": "시스템경계·기준선·할당 및 불확실성에 관한 방법론 대조",
+            "novelty": "정책 지표와 제품 지표의 목적·범위 차이를 규명하는 연구 가설",
+            "data": "공개 규정·배출계수·LCI DB 및 제도 운영 자료"
+          }
+        ],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "This publication provides the final estimates of UK territorial greenhouse gas emissions going back to 1990. Estimates are presented by source in February of each year. They are updated in March of each year to include estimates by end-user, and in June to include estimates by Standard Industrial Classification (SIC)."
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
+    {
       "id": "1745ccdc3d7a8b",
       "date": "2026-11-25",
       "category": "국제 정책",
@@ -569,12 +978,37 @@
       "summary": "",
       "insight": "",
       "source_excerpt": "From climate research and urban planning to environmental education, Laboratório da Paisagem plays a key role in Guimarães’ journey as European Green Capital 2026. Explore how its work supports local sustainability and inspires collaboration beyond the city.",
-      "review_status": "원문 검토 필요",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
       "verification": "기관 공식 피드",
       "priority_score": 0,
       "priority": "참고",
       "priority_reasons": [],
-      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치"
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-11-26",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "Guimarães’ green transition has been built over time through a combination of political commitment, scientific knowledge, collaboration and community participation. At the heart of this process is Laboratório da Paisagem (Landscape Laboratory) , an institution created by the Municipality of Guimarães, the University of Minho and the University of T",
+          "Founded in 2014, the Laboratory emerged from a clear need identified in the early stages of Guimarães’ environmental journey: to improve the availability of local environmental data, strengthen environmental and climate literacy, support evidence-based public policies and create more opportunities for citizens to participate in shaping the future o",
+          "This connection between science, governance and citizens has been central to Guimarães’ journey towards the European Green Capital title . Laboratório da Paisagem contributed to the collection and interpretation of environmental evidence, the development of projects and partnerships, and the preparation of the city’s European Green Capital applicat"
+        ],
+        "research_ideas": [],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "Guimarães’ green transition has been built over time through a combination of political commitment, scientific knowledge, collaboration and community participation. At the heart of this process is Laboratório da Paisagem (Landscape Laboratory) , an institution created by the Municipality of Guimarães, the University of Minho and the University of T",
+          "Founded in 2014, the Laboratory emerged from a clear need identified in the early stages of Guimarães’ environmental journey: to improve the availability of local environmental data, strengthen environmental and climate literacy, support evidence-based public policies and create more opportunities for citizens to participate in shaping the future o",
+          "This connection between science, governance and citizens has been central to Guimarães’ journey towards the European Green Capital title . Laboratório da Paisagem contributed to the collection and interpretation of environmental evidence, the development of projects and partnerships, and the preparation of the city’s European Green Capital applicat",
+          "As Guimarães celebrates its year as European Green Capital, this collaborative model is entering a new phase. The ambition is not simply to showcase past achievements, but to accelerate the transition, strengthen scientific and institutional cooperation and develop new solutions to emerging environmental and societal challenges.",
+          "Ultimately, Guimarães’ experience demonstrates that a successful green transition is not only about transforming urban spaces. It is about transforming the way cities understand their challenges, make decisions and build a healthier, more resilient and sustainable future for everyone."
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
     },
     {
       "id": "96a3d102b8a7a7",
@@ -591,12 +1025,39 @@
       "summary": "",
       "insight": "",
       "source_excerpt": "The European Commission today published provisional safeguard measures setting import quotas for certain hybrid vehicles. These restrictions are needed to protect EU industry against a sharp recent increase in imports of such vehicles.",
-      "review_status": "원문 검토 필요",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
       "verification": "기관 공식 피드",
       "priority_score": 0,
       "priority": "참고",
       "priority_reasons": [],
-      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치"
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-11-26",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "기관 공개 미리보기 발췌",
+        "key_takeaways": [
+          "The European Commission today published provisional safeguard measures setting import quotas for certain hybrid vehicles. These restrictions are needed to protect EU industry against a sharp recent increase in imports of such vehicles."
+        ],
+        "research_ideas": [
+          {
+            "title": "자동차 공급망 제품단위 탄소발자국의 데이터 품질과 배분규칙 연구",
+            "research_question": "품목별 원재료 구성과 공정 할당·데이터 품질 차이가 자동차부품 PCF 불확실성을 얼마나 설명하는가?",
+            "methodology": "Catena-X·ISO 14067·DQR 요구사항 및 할당법 비교·민감도 분석",
+            "novelty": "제품 PCF의 데이터 출처·검증체계와 방법론의 연결을 탐색하는 가설",
+            "data": "공개 IMDS 예시, 소재별 LCI, 공급망 양식, 국가별 전력배출계수"
+          }
+        ],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "The European Commission today published provisional safeguard measures setting import quotas for certain hybrid vehicles. These restrictions are needed to protect EU industry against a sharp recent increase in imports of such vehicles."
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
     },
     {
       "id": "8db99e13fc4324",
@@ -667,7 +1128,8 @@
       "priority_score": 0,
       "priority": "참고",
       "priority_reasons": [],
-      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치"
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-11-26"
     },
     {
       "id": "8338920bcceee6",
