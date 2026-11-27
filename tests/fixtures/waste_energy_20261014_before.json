@@ -1,0 +1,59 @@
+{
+  "id": "97f4b4d803947e",
+  "date": "2026-10-14",
+  "category": "국내 정책",
+  "region": "한국",
+  "title": "쓰레기도 에너지가 된다… 탄소중립 시대, 새로운 해법 찾는다",
+  "source": "기후에너지환경부",
+  "url": "https://mcee.go.kr/m/mob/board/read.do?pagerOffset=0&maxPageItems=10&maxIndexPages=5&searchKey=&searchValue=&menuId=156&orgCd=&boardMasterId=939&boardId=1899150",
+  "doi": "",
+  "tags": [
+    "탄소배출권·GHG"
+  ],
+  "document_type": "정책·발표",
+  "link_status": "원문 URL 제공 · 접근 여부 미검증",
+  "summary": "",
+  "insight": "",
+  "source_excerpt": "",
+  "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+  "verification": "정부 공식 보도자료",
+  "priority_score": 12,
+  "priority": "우선 검토",
+  "priority_reasons": [
+    "탄소배출권·GHG"
+  ],
+  "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+  "source_last_attempt": "2026-10-14",
+  "analysis": {
+    "status": "source_extract",
+    "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+    "key_takeaways": [
+      "첨부파일 쓰레기도 에너지가 된다… 탄소중립 시대 새로운 해법 찾는다(보도자료)(과학원 10.14).hwpx(1,022.9 KB) 쓰레기도 에너지가 된다… 탄소중립 시대 새로운 해법 찾는다(보도자료)(과학원 10.14).pdf(421 KB)",
+      "▷ 국내외 전문가 500여 명, 제12차 아이씨펙(i-CIPEC) 국제학술대회서 기술·정책 방향 논의",
+      "* i-CIPEC(International Conference on Combustion, Incineration/Pyrolysis, Emission and Climate Change), www.icipec.org"
+    ],
+    "research_ideas": [
+      {
+        "title": "온실가스 감축정책 지표와 LCA 환경편익 산정의 경계 정합성",
+        "research_question": "정책상 감축실적의 기준선과 제품 전과정 산정의 기준선 차이는 어떻게 비교가능성을 제한하는가?",
+        "methodology": "시스템경계·기준선·할당 및 불확실성에 관한 방법론 대조",
+        "novelty": "정책 지표와 제품 지표의 목적·범위 차이를 규명하는 연구 가설",
+        "data": "공개 규정·배출계수·LCI DB 및 제도 운영 자료"
+      }
+    ],
+    "background": "",
+    "purpose": "",
+    "main_points": [
+      "첨부파일 쓰레기도 에너지가 된다… 탄소중립 시대 새로운 해법 찾는다(보도자료)(과학원 10.14).hwpx(1,022.9 KB) 쓰레기도 에너지가 된다… 탄소중립 시대 새로운 해법 찾는다(보도자료)(과학원 10.14).pdf(421 KB)",
+      "▷ 국내외 전문가 500여 명, 제12차 아이씨펙(i-CIPEC) 국제학술대회서 기술·정책 방향 논의",
+      "* i-CIPEC(International Conference on Combustion, Incineration/Pyrolysis, Emission and Climate Change), www.icipec.org",
+      "이번 학술대회에서는 ‘탄소중립 실현을 위한 지속가능한 에너지·환경 관리, 그리고 인공지능(AI)’을 주제로 10개국* 국내외 전문가와 기업 관계자 500여 명이 참석하여 폐기물 에너지화 기술의 국제적 동향과 향후 발전방향을 논의할 예정이다.",
+      "이에 국립환경과학원은 국제학술대회 첫날인 10월 14일 사전 토론회(포럼)를 개최하여 국내외 전문가들과 함께 가연성 및 유기성 폐기물의 에너지화 기술과 탄소중립 대응 방안을 집중적으로 논의할 예정이다."
+    ],
+    "conclusion": "",
+    "korea_implications": "",
+    "industry_implications": "",
+    "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+    "evidence_sections": "발표기관 공개 본문/초록"
+  }
+}

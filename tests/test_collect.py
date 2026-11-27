@@ -172,7 +172,8 @@ def test_auto_source_reader_extracts_official_facts_without_api_key():
     result = source_extract_brief(sample, fetcher=lambda url, timeout: text)
     assert result["status"] == "source_extract"
     assert len(result["key_takeaways"]) >= 1
-    assert result["research_ideas"][0]["title"]
+    assert result["research_ideas"] == []  # no source-specific rule for this body
+    assert result["template_suggestions"][0]["origin"] == "topic_template"
     assert result["background"] == ""  # never invent motives not in evidence
     assert "직접 원문을 보라" not in result["limitations"]
 
@@ -184,7 +185,9 @@ def test_auto_reader_blocks_nonofficial_hosts():
     assert source_extract_brief(a, fetcher=lambda *args, **kwargs: b"<p>text</p>") is None
 
 
-def test_research_idea_for_hydrogen_is_methodological():
-    from auto_brief import research_ideas
-    value = research_ideas({"title": "수소도시의 수소 생산 온실가스 배출", "tags": ["수소 생산·공급"]})
-    assert value and "시간" in value[0]["methodology"]
+def test_hydrogen_title_alone_only_selects_labeled_template():
+    from auto_brief import research_ideas, template_suggestions
+    record = {"title": "수소도시의 수소 생산 온실가스 배출", "tags": ["수소 생산·공급"]}
+    assert research_ideas(record) == []
+    value = template_suggestions(record)
+    assert value[0]['origin'] == 'topic_template' and value[0]['evidence_ids'] == []
