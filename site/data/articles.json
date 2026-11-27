@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-11-26T08:06:44+00:00",
+  "updated_at": "2026-11-27T08:15:40+00:00",
   "collector": "GitHub Actions / official government sources + Crossref",
   "profile_version": "2026-10-10",
-  "new_items": 8,
+  "new_items": 7,
   "source_health": {
     "ok": [
       "기후에너지환경부",
@@ -22,7 +22,6 @@
       "Crossref: consequential life cycle assessment allocation",
       "Crossref: waste management life cycle assessment",
       "Crossref: extended producer responsibility life cycle",
-      "Crossref: recycling recycled plastics product carbon footprint",
       "Crossref: end of life vehicles environmental impact",
       "Crossref: automotive parts product carbon footprint",
       "Crossref: hydrogen well to wheel life cycle assessment",
@@ -32,10 +31,345 @@
       "Crossref: mass balance recycling chain of custody"
     ],
     "errors": [
-      "EU 집행위원회 역내시장·산업총국"
+      "EU 집행위원회 역내시장·산업총국",
+      "Crossref: recycling recycled plastics product carbon footprint"
     ]
   },
   "articles": [
+    {
+      "id": "3016b3db31fb45",
+      "date": "2026-11-27",
+      "category": "국제 정책",
+      "region": "미국",
+      "title": "Air Plan Approval; Utah; Cache County Inspection and Maintenance Program Revision",
+      "source": "미국 Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/11/27/2026-24036/air-plan-approval-utah-cache-county-inspection-and-maintenance-program-revision",
+      "doi": "",
+      "tags": [],
+      "document_type": "법령·규제",
+      "link_status": "원문 연결 확인",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "The U.S. Environmental Protection Agency (EPA) is proposing to approve State Implementation Plan (SIP) revisions submitted by the State of Utah on February 28, 2025. The Utah submittal includes revisions to the State's Administrative Rule R307-110-36, concerning SIP Section X Vehicle Inspection and Maintenance (I/M) Program, Part F, Cache County. These revisions updated the rule effectiveness date, updated the definition of vehicle I/M program stations, added emergency vehicle exemptions, and added a part unavailability waiver to the Cache Coun",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "미국 연방 관보 공식 기록",
+      "regulatory_status": "Proposed Rule",
+      "priority_score": 0,
+      "priority": "참고",
+      "priority_reasons": [],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-11-27",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "Due to aggressive automated scraping of FederalRegister.gov and eCFR.gov, programmatic access to these sites is limited to access to our extensive developer APIs. Please visit FederalRegister.gov API documentation or eCFR.gov API documentation to learn more about how to access the API.",
+          "Your request has been flagged as potentially automated. If you are human user receiving this message, please complete the CAPTCHA (bot test) below and click \"Request Access\". You may occassionally be asked to complete the CAPTCHA again, this is normal and part of our security measures.",
+          "An official website of the United States government."
+        ],
+        "research_ideas": [
+          {
+            "title": "자동차 공급망 제품단위 탄소발자국의 데이터 품질과 배분규칙 연구",
+            "research_question": "품목별 원재료 구성과 공정 할당·데이터 품질 차이가 자동차부품 PCF 불확실성을 얼마나 설명하는가?",
+            "methodology": "Catena-X·ISO 14067·DQR 요구사항 및 할당법 비교·민감도 분석",
+            "novelty": "제품 PCF의 데이터 출처·검증체계와 방법론의 연결을 탐색하는 가설",
+            "data": "공개 IMDS 예시, 소재별 LCI, 공급망 양식, 국가별 전력배출계수"
+          }
+        ],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "Due to aggressive automated scraping of FederalRegister.gov and eCFR.gov, programmatic access to these sites is limited to access to our extensive developer APIs. Please visit FederalRegister.gov API documentation or eCFR.gov API documentation to learn more about how to access the API.",
+          "Your request has been flagged as potentially automated. If you are human user receiving this message, please complete the CAPTCHA (bot test) below and click \"Request Access\". You may occassionally be asked to complete the CAPTCHA again, this is normal and part of our security measures.",
+          "An official website of the United States government.",
+          "If you experiencing issues with the CAPTCHA or want to request a wider IP range, you can use the \"Site Help\" button found in the lower, right of this page to make a request.",
+          "This contact form is only for IP Access help. Please do not provide confidential information or personal data."
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
+    {
+      "id": "2308cd833d54c5",
+      "date": "2026-11-27",
+      "category": "국제 정책",
+      "region": "미국",
+      "title": "Technical Updates to the RCRA Hazardous Waste Permitting Regulations-Permitting Technical Updates Rule",
+      "source": "미국 Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/11/27/2026-24084/technical-updates-to-the-rcra-hazardous-waste-permitting-regulations-permitting-technical-updates",
+      "doi": "",
+      "tags": [
+        "폐기물관리·처리",
+        "RCRA"
+      ],
+      "document_type": "법령·규제",
+      "link_status": "원문 연결 확인",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "The Environmental Protection Agency (EPA) is proposing technical updates to the regulations implementing the Resource Conservation and Recovery Act (RCRA) governing hazardous waste treatment, storage, and disposal facilities (TSDFs), as well as associated permitting requirements. The proposal also includes a few conforming technical updates to the generator and transporter regulations. The RCRA hazardous waste TSDF permitting regulations have remained largely unchanged for over three decades, despite evolving standards and practices. Collective",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "미국 연방 관보 공식 기록",
+      "regulatory_status": "Proposed Rule",
+      "priority_score": 13,
+      "priority": "우선 검토",
+      "priority_reasons": [
+        "폐기물관리·처리"
+      ],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-11-27",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "Due to aggressive automated scraping of FederalRegister.gov and eCFR.gov, programmatic access to these sites is limited to access to our extensive developer APIs. Please visit FederalRegister.gov API documentation or eCFR.gov API documentation to learn more about how to access the API.",
+          "Your request has been flagged as potentially automated. If you are human user receiving this message, please complete the CAPTCHA (bot test) below and click \"Request Access\". You may occassionally be asked to complete the CAPTCHA again, this is normal and part of our security measures.",
+          "An official website of the United States government."
+        ],
+        "research_ideas": [
+          {
+            "title": "재자원화 환경편익 산정에서 폐기물 지위와 환경부하 귀속의 영향",
+            "research_question": "폐기물의 원료 전환과 대체편익 반영 범위가 정책단위 감축실적과 제품단위 PCF 간 결과를 어떻게 변화시키는가?",
+            "methodology": "Attributional/Consequential LCA, cut-off·할당·회피배출 규칙을 결합한 시나리오",
+            "novelty": "정책 효과와 제품 탄소발자국의 산정목적·경계 차이에서 발생하는 연구 가설",
+            "data": "공식 정책 문서, 공개 재활용 통계와 공정 LCI. 민간 현장 수율은 확인 필요"
+          }
+        ],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "Due to aggressive automated scraping of FederalRegister.gov and eCFR.gov, programmatic access to these sites is limited to access to our extensive developer APIs. Please visit FederalRegister.gov API documentation or eCFR.gov API documentation to learn more about how to access the API.",
+          "Your request has been flagged as potentially automated. If you are human user receiving this message, please complete the CAPTCHA (bot test) below and click \"Request Access\". You may occassionally be asked to complete the CAPTCHA again, this is normal and part of our security measures.",
+          "An official website of the United States government.",
+          "If you experiencing issues with the CAPTCHA or want to request a wider IP range, you can use the \"Site Help\" button found in the lower, right of this page to make a request.",
+          "This contact form is only for IP Access help. Please do not provide confidential information or personal data."
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
+    {
+      "id": "139554b4af2ce4",
+      "date": "2026-11-27",
+      "category": "국제 정책",
+      "region": "미국",
+      "title": "Air Plan Approval; Texas; Attainment Plan for the Navarro County 2010 Sulfur Dioxide Primary National Ambient Air Quality Standard Nonattainment Area",
+      "source": "미국 Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/11/27/2026-24033/air-plan-approval-texas-attainment-plan-for-the-navarro-county-2010-sulfur-dioxide-primary-national",
+      "doi": "",
+      "tags": [],
+      "document_type": "법령·규제",
+      "link_status": "원문 연결 확인",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "The Environmental Protection Agency (EPA) is proposing to approve the State Implementation Plan (SIP) revision that Texas submitted to the EPA on October 24, 2022, for the 2010 1-hour sulfur dioxide (SO 2 ) primary national ambient air quality standard (NAAQS) in the Navarro County SO 2 nonattainment area. This SIP (or \"attainment plan\") includes Texas' attainment demonstration provisions and emissions inventory for the nonattainment area, demonstration of reasonable further progress (RFP), implementation of reasonably available control measure",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "미국 연방 관보 공식 기록",
+      "regulatory_status": "Proposed Rule",
+      "priority_score": 0,
+      "priority": "참고",
+      "priority_reasons": [],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-11-27",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "Due to aggressive automated scraping of FederalRegister.gov and eCFR.gov, programmatic access to these sites is limited to access to our extensive developer APIs. Please visit FederalRegister.gov API documentation or eCFR.gov API documentation to learn more about how to access the API.",
+          "Your request has been flagged as potentially automated. If you are human user receiving this message, please complete the CAPTCHA (bot test) below and click \"Request Access\". You may occassionally be asked to complete the CAPTCHA again, this is normal and part of our security measures.",
+          "An official website of the United States government."
+        ],
+        "research_ideas": [
+          {
+            "title": "온실가스 감축정책 지표와 LCA 환경편익 산정의 경계 정합성",
+            "research_question": "정책상 감축실적의 기준선과 제품 전과정 산정의 기준선 차이는 어떻게 비교가능성을 제한하는가?",
+            "methodology": "시스템경계·기준선·할당 및 불확실성에 관한 방법론 대조",
+            "novelty": "정책 지표와 제품 지표의 목적·범위 차이를 규명하는 연구 가설",
+            "data": "공개 규정·배출계수·LCI DB 및 제도 운영 자료"
+          }
+        ],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "Due to aggressive automated scraping of FederalRegister.gov and eCFR.gov, programmatic access to these sites is limited to access to our extensive developer APIs. Please visit FederalRegister.gov API documentation or eCFR.gov API documentation to learn more about how to access the API.",
+          "Your request has been flagged as potentially automated. If you are human user receiving this message, please complete the CAPTCHA (bot test) below and click \"Request Access\". You may occassionally be asked to complete the CAPTCHA again, this is normal and part of our security measures.",
+          "An official website of the United States government.",
+          "If you experiencing issues with the CAPTCHA or want to request a wider IP range, you can use the \"Site Help\" button found in the lower, right of this page to make a request.",
+          "This contact form is only for IP Access help. Please do not provide confidential information or personal data."
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
+    {
+      "id": "a8fe725b3c5b49",
+      "date": "2026-11-26",
+      "category": "국제 정책",
+      "region": "영국",
+      "title": "Notice: Heat Pump Ready Programme: successful projects",
+      "source": "영국 에너지안보·넷제로부 (DESNZ)",
+      "url": "https://www.gov.uk/government/publications/heat-pump-ready-programme-successful-projects",
+      "doi": "",
+      "tags": [
+        "탄소배출권·GHG"
+      ],
+      "document_type": "정책·발표",
+      "link_status": "원문 연결 확인",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "Projects awarded under Stream 1, Stream 2 and Stream 3 of the Heat Pump Ready Programme, part of the £1 billion Net Zero Innovation Portfolio.",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "기관 공식 피드",
+      "priority_score": 6,
+      "priority": "참고",
+      "priority_reasons": [
+        "탄소배출권·GHG"
+      ],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-11-27",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "Projects awarded under Stream 1, Stream 2 and Stream 3 of the Heat Pump Ready Programme, part of the £1 billion Net Zero Innovation Portfolio.",
+          "Heat Pump Ready Programme: Stream 1 Phase 1 projects",
+          "Heat Pump Ready Programme: Stream 1 Phase 2 projects"
+        ],
+        "research_ideas": [],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "Projects awarded under Stream 1, Stream 2 and Stream 3 of the Heat Pump Ready Programme, part of the £1 billion Net Zero Innovation Portfolio.",
+          "Heat Pump Ready Programme: Stream 1 Phase 1 projects",
+          "Heat Pump Ready Programme: Stream 1 Phase 2 projects",
+          "Heat Pump Ready Programme: Stream 2 Wave 2 projects",
+          "Stream 3, trial support and learning, will provide support to ensure knowledge transfer and shared learning across the Heat Pump Ready Programme. This stream will provide support to the Stream 1 projects, joining-up Stream 2 technology and tools with their the Stream 1 projects where relevant and establishing working groups to collaborate on shared"
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
+    {
+      "id": "9ac4a44bd06e14",
+      "date": "2026-11-26",
+      "category": "국제 정책",
+      "region": "영국",
+      "title": "Official Statistics: Boiler Upgrade Scheme statistics: October 2026",
+      "source": "영국 에너지안보·넷제로부 (DESNZ)",
+      "url": "https://www.gov.uk/government/statistics/boiler-upgrade-scheme-statistics-october-2026",
+      "doi": "",
+      "tags": [],
+      "document_type": "정책·발표",
+      "link_status": "원문 연결 확인",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "Statistical release on Boiler Upgrade Scheme statistics for the estimation of capital grant uptake to support the installations of low carbon technologies in domestic and non-domestic buildings.",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "기관 공식 피드",
+      "priority_score": 0,
+      "priority": "참고",
+      "priority_reasons": [],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-11-27",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "Statistical release on Boiler Upgrade Scheme statistics for the estimation of capital grant uptake to support the installations of low carbon technologies in domestic and non-domestic buildings.",
+          "Boiler Upgrade Scheme Statistics: October 2026 (Excel)",
+          "This file may not be suitable for users of assistive technology."
+        ],
+        "research_ideas": [
+          {
+            "title": "온실가스 감축정책 지표와 LCA 환경편익 산정의 경계 정합성",
+            "research_question": "정책상 감축실적의 기준선과 제품 전과정 산정의 기준선 차이는 어떻게 비교가능성을 제한하는가?",
+            "methodology": "시스템경계·기준선·할당 및 불확실성에 관한 방법론 대조",
+            "novelty": "정책 지표와 제품 지표의 목적·범위 차이를 규명하는 연구 가설",
+            "data": "공개 규정·배출계수·LCI DB 및 제도 운영 자료"
+          }
+        ],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "Statistical release on Boiler Upgrade Scheme statistics for the estimation of capital grant uptake to support the installations of low carbon technologies in domestic and non-domestic buildings.",
+          "Boiler Upgrade Scheme Statistics: October 2026 (Excel)",
+          "This file may not be suitable for users of assistive technology.",
+          "Boiler Upgrade Scheme Statistics: October 2026 (ODS)",
+          "These statistics show the uptake of the Boiler Upgrade Scheme to date including the number of vouchers applications and redemptions, as well as the costs of installation."
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
+    {
+      "id": "93069545cff82a",
+      "date": "2026-11-26",
+      "category": "국제 정책",
+      "region": "영국",
+      "title": "Official Statistics: Social Housing Decarbonisation Fund statistics: November 2026",
+      "source": "영국 에너지안보·넷제로부 (DESNZ)",
+      "url": "https://www.gov.uk/government/statistics/social-housing-decarbonisation-fund-statistics-november-2026",
+      "doi": "",
+      "tags": [],
+      "document_type": "정책·발표",
+      "link_status": "원문 연결 확인",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "Data to monitor the installation of energy efficiency measures in domestic properties via the Social Housing Decarbonisation Fund (SHDF) scheme in England.",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "기관 공식 피드",
+      "priority_score": 0,
+      "priority": "참고",
+      "priority_reasons": [],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-11-27",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "Data to monitor the installation of energy efficiency measures in domestic properties via the Social Housing Decarbonisation Fund (SHDF) scheme in England.",
+          "Summary of the Social Housing Decarbonisation Fund statistics: November 2026",
+          "Social Housing Decarbonisation Fund: November 2026 (Excel)"
+        ],
+        "research_ideas": [
+          {
+            "title": "온실가스 감축정책 지표와 LCA 환경편익 산정의 경계 정합성",
+            "research_question": "정책상 감축실적의 기준선과 제품 전과정 산정의 기준선 차이는 어떻게 비교가능성을 제한하는가?",
+            "methodology": "시스템경계·기준선·할당 및 불확실성에 관한 방법론 대조",
+            "novelty": "정책 지표와 제품 지표의 목적·범위 차이를 규명하는 연구 가설",
+            "data": "공개 규정·배출계수·LCI DB 및 제도 운영 자료"
+          }
+        ],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "Data to monitor the installation of energy efficiency measures in domestic properties via the Social Housing Decarbonisation Fund (SHDF) scheme in England.",
+          "Summary of the Social Housing Decarbonisation Fund statistics: November 2026",
+          "Social Housing Decarbonisation Fund: November 2026 (Excel)",
+          "Social Housing Decarbonisation Fund: November 2026 (ODS)",
+          "This release includes measures installed and households upgraded under the Social Housing Decarbonisation Fund scheme."
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
     {
       "id": "5f61994f250767",
       "date": "2026-11-26",
@@ -274,6 +608,53 @@
           "Designated standards: space heaters and combination heaters notice of publication, 25 November 2026",
           "Designated standards: space heaters and combination heaters consolidated list v1, 25 November 2026",
           "Notices of publication from the Department for Energy, Security and Net Zero are provided above for designated standards for space heaters and combination heaters in relation to ecodesign and energy labelling. This is in support of Regulation 2019/2014 as amended by the Ecodesign for Energy-Related Products and Energy Information Regulations 2021. "
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
+    {
+      "id": "b23e0bde0cc4bb",
+      "date": "2026-11-25",
+      "category": "국제 정책",
+      "region": "EU",
+      "title": "Águeda’s young learners dive into river conservation",
+      "source": "EU 집행위원회 환경총국",
+      "url": "https://environment.ec.europa.eu/news/aguedas-young-learners-dive-river-conservation-2026-11-25_en",
+      "doi": "",
+      "tags": [],
+      "document_type": "정책·발표",
+      "link_status": "원문 연결 확인",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "From discovering freshwater biodiversity to learning how to protect water resources, around 500 primary school pupils are taking part in Águeda’s river education programme. Discover how the 2026 European Green Leaf winner is connecting environmental education with local conservation efforts.",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "기관 공식 피드",
+      "priority_score": 0,
+      "priority": "참고",
+      "priority_reasons": [],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-11-27",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "In Águeda, Portugal, learning to care for rivers starts at school. The municipality has launched a new edition of its environmental education programme, ‘Rio de Todos e Meu Rio’, involving all 23 Year 4 classes during the 2026/2027 school year.",
+          "Through interactive classroom activities and visits to the city’s River Interpretation Centre, children explore freshwater biodiversity and discover how everyday choices can help protect it.",
+          "The programme forms part of Águeda’s wider work on environmental awareness, sustainability education and science. It complements municipal efforts to restore rivers and streams, protect natural resources and raise awareness of freshwater ecosystems."
+        ],
+        "research_ideas": [],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "In Águeda, Portugal, learning to care for rivers starts at school. The municipality has launched a new edition of its environmental education programme, ‘Rio de Todos e Meu Rio’, involving all 23 Year 4 classes during the 2026/2027 school year.",
+          "Through interactive classroom activities and visits to the city’s River Interpretation Centre, children explore freshwater biodiversity and discover how everyday choices can help protect it.",
+          "The programme forms part of Águeda’s wider work on environmental awareness, sustainability education and science. It complements municipal efforts to restore rivers and streams, protect natural resources and raise awareness of freshwater ecosystems.",
+          "“It is essential to bring children closer to our rivers and raise their awareness of nature conservation,” says Edson Santos, Vice-President of Águeda Municipal Council.",
+          "During its European Green Leaf year, Águeda is continuing to connect environmental education with local conservation efforts, helping a new generation understand the rivers around them."
         ],
         "conclusion": "",
         "korea_implications": "",
