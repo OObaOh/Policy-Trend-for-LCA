@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-11-27T08:15:40+00:00",
+  "updated_at": "2026-11-28T07:38:27+00:00",
   "collector": "GitHub Actions / official government sources + Crossref",
   "profile_version": "2026-10-10",
-  "new_items": 7,
+  "new_items": 9,
   "source_health": {
     "ok": [
       "기후에너지환경부",
@@ -20,22 +20,474 @@
       "Crossref: dynamic life cycle assessment",
       "Crossref: prospective life cycle assessment",
       "Crossref: consequential life cycle assessment allocation",
+      "Crossref: recycling recycled plastics product carbon footprint",
+      "Crossref: hydrogen life cycle assessment"
+    ],
+    "errors": [
+      "EU 집행위원회 역내시장·산업총국",
       "Crossref: waste management life cycle assessment",
       "Crossref: extended producer responsibility life cycle",
       "Crossref: end of life vehicles environmental impact",
       "Crossref: automotive parts product carbon footprint",
       "Crossref: hydrogen well to wheel life cycle assessment",
-      "Crossref: hydrogen life cycle assessment",
       "Crossref: bioenergy avoided emissions carbon removals",
       "Crossref: product environmental footprint ecodesign regulation",
       "Crossref: mass balance recycling chain of custody"
-    ],
-    "errors": [
-      "EU 집행위원회 역내시장·산업총국",
-      "Crossref: recycling recycled plastics product carbon footprint"
     ]
   },
   "articles": [
+    {
+      "id": "a85f59326392cd",
+      "date": "2026-11-28",
+      "category": "국제 정책",
+      "region": "영국",
+      "title": "Policy paper: Water Environment Improvement Fund projects for 2026 to 2027",
+      "source": "영국 환경식품농촌부 (Defra)",
+      "url": "https://www.gov.uk/government/publications/water-environment-improvement-fund-projects-for-2026-to-2027",
+      "doi": "",
+      "tags": [],
+      "document_type": "정책·발표",
+      "link_status": "원문 연결 확인",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "Projects funded by the Water Environment Improvement Fund (WEIF) for 2026 to 2027.",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "기관 공식 피드",
+      "priority_score": 0,
+      "priority": "참고",
+      "priority_reasons": [],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-11-28",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "Projects funded by the Water Environment Improvement Fund (WEIF) for 2026 to 2027.",
+          "Water Environment Improvement Fund (WEIF) projects for 2026 to 2027",
+          "A list of projects funded by the Water Environment Improvement Fund (WEIF) in the financial year 2026 to 2027. The 2026 to 2027 project portfolio comprises over 300 projects across England worth over £11 million."
+        ],
+        "research_ideas": [],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "Projects funded by the Water Environment Improvement Fund (WEIF) for 2026 to 2027.",
+          "Water Environment Improvement Fund (WEIF) projects for 2026 to 2027",
+          "A list of projects funded by the Water Environment Improvement Fund (WEIF) in the financial year 2026 to 2027. The 2026 to 2027 project portfolio comprises over 300 projects across England worth over £11 million."
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
+    {
+      "id": "f938fc66c092d1",
+      "date": "2026-11-27",
+      "category": "국제 정책",
+      "region": "영국",
+      "title": "Air pollution monitoring: Toxic Organic Micro Pollutants Network",
+      "source": "영국 환경식품농촌부 (Defra)",
+      "url": "https://www.gov.uk/guidance/air-pollution-monitoring-toxic-organic-micro-pollutants-network",
+      "doi": "",
+      "tags": [],
+      "document_type": "정책·발표",
+      "link_status": "원문 연결 확인",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "The Toxic Organic Micro Pollutants (TOMPs) Network measures persistent organic pollutants (POPs) in ambient (outdoor) air across the UK.",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "기관 공식 피드",
+      "priority_score": 0,
+      "priority": "참고",
+      "priority_reasons": [],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-11-28",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "The Toxic Organic Micro Pollutants (TOMPs) Network measures persistent organic pollutants (POPs) in ambient (outdoor) air across the UK.",
+          "Data from this network is published every 3 months (quarterly) on UK AIR .",
+          "This network has 8 monitoring stations, located in:"
+        ],
+        "research_ideas": [],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "The Toxic Organic Micro Pollutants (TOMPs) Network measures persistent organic pollutants (POPs) in ambient (outdoor) air across the UK.",
+          "Data from this network is published every 3 months (quarterly) on UK AIR .",
+          "This network has 8 monitoring stations, located in:",
+          "This network uses Analitica Airflow samplers. They sample ambient air continuously over a 14-day period.",
+          "The samples are analysed in a laboratory using chemical analysis techniques, including Micromass Autospec Ultima high resolution-mass spectrometry (for PBDEs , PCBs , HBCDD and decaBDEs )."
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
+    {
+      "id": "d157e23d4aff01",
+      "date": "2026-11-27",
+      "category": "국제 정책",
+      "region": "영국",
+      "title": "Air pollution monitoring: UK Urban Nitrogen Dioxide (NO2) Network",
+      "source": "영국 환경식품농촌부 (Defra)",
+      "url": "https://www.gov.uk/guidance/air-pollution-monitoring-uk-urban-nitrogen-dioxide-no2-network",
+      "doi": "",
+      "tags": [
+        "NO2"
+      ],
+      "document_type": "정책·발표",
+      "link_status": "원문 연결 확인",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "The UK Urban NO2 Network (UUNN) monitors levels of nitrogen dioxide on major roads.",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "기관 공식 피드",
+      "priority_score": 0,
+      "priority": "참고",
+      "priority_reasons": [],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-11-28",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "The UK Urban NO2 Network (UUNN) monitors levels of nitrogen dioxide on major roads.",
+          "There are 320 UK Urban Nitrogen Dioxide Network ( UUNN ) monitoring stations across the UK.",
+          "UUNN monitoring stations are placed on major roads where more information about nitrogen dioxide ( NO2 ) levels is needed, especially where computer models may be less accurate. Local authority monitoring data can help identify where stations are needed."
+        ],
+        "research_ideas": [],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "The UK Urban NO2 Network (UUNN) monitors levels of nitrogen dioxide on major roads.",
+          "There are 320 UK Urban Nitrogen Dioxide Network ( UUNN ) monitoring stations across the UK.",
+          "UUNN monitoring stations are placed on major roads where more information about nitrogen dioxide ( NO2 ) levels is needed, especially where computer models may be less accurate. Local authority monitoring data can help identify where stations are needed.",
+          "You can also get NO2 data from the Nitrogen Dioxide Diffusion Tube Network. This is a closed network that operated from 1993 to 2005.",
+          "Three tubes are installed at each monitoring station. The triplicate measurements reduce uncertainty in each measurement and increase the accuracy of the data."
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
+    {
+      "id": "b0e31a8c4b3559",
+      "date": "2026-11-27",
+      "category": "국제 정책",
+      "region": "영국",
+      "title": "Guidance: Determinations of the UK ETS carbon price",
+      "source": "영국 에너지안보·넷제로부 (DESNZ)",
+      "url": "https://www.gov.uk/government/publications/determinations-of-the-uk-ets-carbon-price",
+      "doi": "",
+      "tags": [
+        "탄소배출권·GHG",
+        "ETS"
+      ],
+      "document_type": "정책·발표",
+      "link_status": "원문 연결 확인",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "Determinations made by the UK ETS Authority under article 46 of the Greenhouse Gas Emission Trading Scheme Order 2020.",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "기관 공식 피드",
+      "priority_score": 12,
+      "priority": "우선 검토",
+      "priority_reasons": [
+        "탄소배출권·GHG"
+      ],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-11-28",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "Determinations made by the UK ETS Authority under article 46 of the Greenhouse Gas Emission Trading Scheme Order 2020.",
+          "UK ETS: Carbon price for use in civil penalties, 2027",
+          "UK ETS: Carbon price for use in civil penalties, 2026"
+        ],
+        "research_ideas": [
+          {
+            "title": "온실가스 감축정책 지표와 LCA 환경편익 산정의 경계 정합성",
+            "research_question": "정책상 감축실적의 기준선과 제품 전과정 산정의 기준선 차이는 어떻게 비교가능성을 제한하는가?",
+            "methodology": "시스템경계·기준선·할당 및 불확실성에 관한 방법론 대조",
+            "novelty": "정책 지표와 제품 지표의 목적·범위 차이를 규명하는 연구 가설",
+            "data": "공개 규정·배출계수·LCI DB 및 제도 운영 자료"
+          }
+        ],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "Determinations made by the UK ETS Authority under article 46 of the Greenhouse Gas Emission Trading Scheme Order 2020.",
+          "UK ETS: Carbon price for use in civil penalties, 2027",
+          "UK ETS: Carbon price for use in civil penalties, 2026",
+          "UK ETS: Carbon price for use in civil penalties, 2025",
+          "UK ETS: Carbon price for use in civil penalties, 2024"
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
+    {
+      "id": "aa829fd4566a4b",
+      "date": "2026-11-27",
+      "category": "국제 정책",
+      "region": "영국",
+      "title": "Air pollution monitoring: Automatic Hydrocarbon Network",
+      "source": "영국 환경식품농촌부 (Defra)",
+      "url": "https://www.gov.uk/guidance/air-pollution-monitoring-automatic-hydrocarbon-network",
+      "doi": "",
+      "tags": [],
+      "document_type": "정책·발표",
+      "link_status": "원문 연결 확인",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "The Automatic Hydrocarbon Network provides high resolution, hourly measurements of speciated (separated) hydrocarbons.",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "기관 공식 피드",
+      "priority_score": 0,
+      "priority": "참고",
+      "priority_reasons": [],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-11-28",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "The Automatic Hydrocarbon Network provides high resolution, hourly measurements of speciated (separated) hydrocarbons.",
+          "The London Eltham monitoring station closed in July 2023.",
+          "Get air pollution data from the Automatic Hydrocarbon Network ."
+        ],
+        "research_ideas": [
+          {
+            "title": "온실가스 감축정책 지표와 LCA 환경편익 산정의 경계 정합성",
+            "research_question": "정책상 감축실적의 기준선과 제품 전과정 산정의 기준선 차이는 어떻게 비교가능성을 제한하는가?",
+            "methodology": "시스템경계·기준선·할당 및 불확실성에 관한 방법론 대조",
+            "novelty": "정책 지표와 제품 지표의 목적·범위 차이를 규명하는 연구 가설",
+            "data": "공개 규정·배출계수·LCI DB 및 제도 운영 자료"
+          }
+        ],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "The Automatic Hydrocarbon Network provides high resolution, hourly measurements of speciated (separated) hydrocarbons.",
+          "The London Eltham monitoring station closed in July 2023.",
+          "Get air pollution data from the Automatic Hydrocarbon Network .",
+          "The Automatic Hydrocarbon Network measures levels of precursor hydrocarbons. Precursors are pollutants that can react in the atmosphere to form ground-level ozone and other photochemical oxidants when they are exposed to sunlight.",
+          "It measures air pollution from 30 hydrocarbons:"
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
+    {
+      "id": "76b31329997553",
+      "date": "2026-11-27",
+      "category": "국제 정책",
+      "region": "영국",
+      "title": "Air pollution monitoring: National Ammonia Monitoring Network",
+      "source": "영국 환경식품농촌부 (Defra)",
+      "url": "https://www.gov.uk/guidance/air-pollution-monitoring-national-ammonia-monitoring-network",
+      "doi": "",
+      "tags": [],
+      "document_type": "정책·발표",
+      "link_status": "원문 연결 확인",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "The National Ammonia Monitoring Network (NAMN) monitors air pollution from gaseous ammonia (NH3) and particulate ammonium (NH4+).",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "기관 공식 피드",
+      "priority_score": 0,
+      "priority": "참고",
+      "priority_reasons": [],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-11-28",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "The National Ammonia Monitoring Network (NAMN) monitors air pollution from gaseous ammonia (NH3) and particulate ammonium (NH4+).",
+          "The NAMN is part of the UK Eutrophying and Acidifying Atmospheric Pollutants ( UKEAP ) Network. UKEAP networks monitor how air pollution levels change over time, mainly in remote and rural areas.",
+          "Find out how ammonia can impact human health ."
+        ],
+        "research_ideas": [],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "The National Ammonia Monitoring Network (NAMN) monitors air pollution from gaseous ammonia (NH3) and particulate ammonium (NH4+).",
+          "The NAMN is part of the UK Eutrophying and Acidifying Atmospheric Pollutants ( UKEAP ) Network. UKEAP networks monitor how air pollution levels change over time, mainly in remote and rural areas.",
+          "Find out how ammonia can impact human health .",
+          "Samples from this network are collected every month and analysed in a laboratory. The data is published every 3 months.",
+          "track changes in levels of ammonia and ammonium over time"
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
+    {
+      "id": "6e916a047b5885",
+      "date": "2026-11-27",
+      "category": "국제 정책",
+      "region": "영국",
+      "title": "Policy paper: Reducing marine noise",
+      "source": "영국 환경식품농촌부 (Defra)",
+      "url": "https://www.gov.uk/government/publications/reducing-marine-noise",
+      "doi": "",
+      "tags": [],
+      "document_type": "정책·발표",
+      "link_status": "원문 연결 확인",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "This paper sets out the steps the UK government is taking to reduce the impacts of noise in the marine environment.",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "기관 공식 피드",
+      "priority_score": 0,
+      "priority": "참고",
+      "priority_reasons": [],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-11-28",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "This paper sets out the steps the UK government is taking to reduce the impacts of noise in the marine environment.",
+          "Marine noise made by human activities is increasing in our seas and can interfere with or obscure the ability of marine animals to hear natural sounds.",
+          "Across the UK, we are taking action to tackle marine noise."
+        ],
+        "research_ideas": [],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "This paper sets out the steps the UK government is taking to reduce the impacts of noise in the marine environment.",
+          "Marine noise made by human activities is increasing in our seas and can interfere with or obscure the ability of marine animals to hear natural sounds.",
+          "Across the UK, we are taking action to tackle marine noise.",
+          "This policy paper sets out Defra ’s ongoing work and upcoming plans to minimise noise in our seas.",
+          "Updated information about reducing marine noise, including a definition of applying 'best endeavours' in this context and a link to new guidance for developers."
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
+    {
+      "id": "6a507d266d6785",
+      "date": "2026-11-27",
+      "category": "국제 정책",
+      "region": "영국",
+      "title": "Air pollution monitoring: Polycyclic Aromatic Hydrocarbon Network",
+      "source": "영국 환경식품농촌부 (Defra)",
+      "url": "https://www.gov.uk/guidance/air-pollution-monitoring-polycyclic-aromatic-hydrocarbon-network",
+      "doi": "",
+      "tags": [],
+      "document_type": "정책·발표",
+      "link_status": "원문 링크 제공 · 접근 여부 미검증",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "The Polycyclic Aromatic Hydrocarbon (PAH) Network monitors polycyclic aromatic hydrocarbons (PAHs).",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "기관 공식 피드",
+      "priority_score": 0,
+      "priority": "참고",
+      "priority_reasons": [],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-11-28",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "The Polycyclic Aromatic Hydrocarbon (PAH) Network monitors polycyclic aromatic hydrocarbons (PAHs).",
+          "36 monitoring stations that measure PAHs in air",
+          "2 monitoring stations that measure PAHs in deposition (deposition is when pollutants in the air settle on land, water or vegetation)"
+        ],
+        "research_ideas": [
+          {
+            "title": "온실가스 감축정책 지표와 LCA 환경편익 산정의 경계 정합성",
+            "research_question": "정책상 감축실적의 기준선과 제품 전과정 산정의 기준선 차이는 어떻게 비교가능성을 제한하는가?",
+            "methodology": "시스템경계·기준선·할당 및 불확실성에 관한 방법론 대조",
+            "novelty": "정책 지표와 제품 지표의 목적·범위 차이를 규명하는 연구 가설",
+            "data": "공개 규정·배출계수·LCI DB 및 제도 운영 자료"
+          }
+        ],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "The Polycyclic Aromatic Hydrocarbon (PAH) Network monitors polycyclic aromatic hydrocarbons (PAHs).",
+          "36 monitoring stations that measure PAHs in air",
+          "2 monitoring stations that measure PAHs in deposition (deposition is when pollutants in the air settle on land, water or vegetation)",
+          "Get air pollution data from the PAH Network . Verified data is published every 6 months.",
+          "The National Atmospheric Emissions Inventory (NAEI) estimates emissions of PAHs in the UK."
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
+    {
+      "id": "47b1a5d4d28764",
+      "date": "2026-11-27",
+      "category": "국제 정책",
+      "region": "영국",
+      "title": "Air pollution monitoring: Heavy Metals Network",
+      "source": "영국 환경식품농촌부 (Defra)",
+      "url": "https://www.gov.uk/guidance/air-pollution-monitoring-heavy-metals-network",
+      "doi": "",
+      "tags": [],
+      "document_type": "정책·발표",
+      "link_status": "원문 연결 확인",
+      "summary": "",
+      "insight": "",
+      "source_excerpt": "The Heavy Metals Network measures levels of heavy metals in air and deposition (when pollutants in the air settle onto land, water or vegetation).",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
+      "verification": "기관 공식 피드",
+      "priority_score": 0,
+      "priority": "참고",
+      "priority_reasons": [],
+      "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
+      "source_last_attempt": "2026-11-28",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "The Heavy Metals Network measures levels of heavy metals in air and deposition (when pollutants in the air settle onto land, water or vegetation).",
+          "This network has 23 active monitoring stations across the UK: 13 in England, 6 in Wales, 2 in Scotland and 2 in Northern Ireland. They are located at:",
+          "The monitoring stations measure metals in PM10 (particulate matter less than 10 micrometres in diameter)."
+        ],
+        "research_ideas": [],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "The Heavy Metals Network measures levels of heavy metals in air and deposition (when pollutants in the air settle onto land, water or vegetation).",
+          "This network has 23 active monitoring stations across the UK: 13 in England, 6 in Wales, 2 in Scotland and 2 in Northern Ireland. They are located at:",
+          "The monitoring stations measure metals in PM10 (particulate matter less than 10 micrometres in diameter).",
+          "Five rural monitoring stations also monitor the following heavy metals in deposition:",
+          "View the Heavy Metals Network annual reports ."
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
+    },
     {
       "id": "3016b3db31fb45",
       "date": "2026-11-27",
@@ -533,7 +985,7 @@
       "summary": "",
       "insight": "",
       "source_excerpt": "",
-      "review_status": "원문 검토 필요",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
       "verification": "정부 공식 보도자료",
       "priority_score": 12,
       "priority": "우선 검토",
@@ -541,7 +993,39 @@
         "탄소배출권·GHG"
       ],
       "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
-      "source_last_attempt": "2026-11-25"
+      "source_last_attempt": "2026-11-28",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "첨부파일 자동차 온실가스 전과정평가 민관이 함께 준비한다(보도자료)(교통환경 11.25).hwpx(234.5 KB) 자동차 온실가스 전과정평가 민관이 함께 준비한다(보도자료)(교통환경 11.25).pdf(273.7 KB)",
+          "기후에너지환경부(장관 김성환)와 국립환경과학원(원장 김영우)은 11월 26일 자동차회관(서울시 서초구 소재)에서 자동차 온실가스 전과정평가에 대한 국제 동향과 국내 대응현황 등을 공유하는 ‘자동차 온실가스 전과정평가(LCA) 토론회(포럼)’를 개최한다.",
+          "‘자동차 온실가스 전과정평가’란 자동차 제작 시 필요한 원료 채취부터 소재·부품 생산, 완성차 제조, 운행, 폐기에 이르기까지 전과정에서 발생하는 온실가스 배출량을 정량적으로 평가하는 것이다."
+        ],
+        "research_ideas": [
+          {
+            "title": "온실가스 감축정책 지표와 LCA 환경편익 산정의 경계 정합성",
+            "research_question": "정책상 감축실적의 기준선과 제품 전과정 산정의 기준선 차이는 어떻게 비교가능성을 제한하는가?",
+            "methodology": "시스템경계·기준선·할당 및 불확실성에 관한 방법론 대조",
+            "novelty": "정책 지표와 제품 지표의 목적·범위 차이를 규명하는 연구 가설",
+            "data": "공개 규정·배출계수·LCI DB 및 제도 운영 자료"
+          }
+        ],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "첨부파일 자동차 온실가스 전과정평가 민관이 함께 준비한다(보도자료)(교통환경 11.25).hwpx(234.5 KB) 자동차 온실가스 전과정평가 민관이 함께 준비한다(보도자료)(교통환경 11.25).pdf(273.7 KB)",
+          "기후에너지환경부(장관 김성환)와 국립환경과학원(원장 김영우)은 11월 26일 자동차회관(서울시 서초구 소재)에서 자동차 온실가스 전과정평가에 대한 국제 동향과 국내 대응현황 등을 공유하는 ‘자동차 온실가스 전과정평가(LCA) 토론회(포럼)’를 개최한다.",
+          "‘자동차 온실가스 전과정평가’란 자동차 제작 시 필요한 원료 채취부터 소재·부품 생산, 완성차 제조, 운행, 폐기에 이르기까지 전과정에서 발생하는 온실가스 배출량을 정량적으로 평가하는 것이다.",
+          "유럽연합(EU)이 지난해 12월 발표한 ‘자동차 패키지(Automotive Package)’에서 저탄소 철강이나 재생합성연료(e-fuel) 등 전과정 측면의 온실가스 감축 노력을 자동차 온실가스 배출허용기준 규제의 유연성 수단으로 제안하면서, 전과정 온실가스 관리의 중요성이 부각되고 있다.",
+          "이러한 국제 동향에 맞춰 기후에너지환경부는 2024년 1월 ‘대기환경보전법’ 개정을 통해 전과정평가의 행정적, 기술적 지원 근거를 마련하고, 2025년부터는 국내 중소부품사를 대상으로 온실가스 배출량 산정·검증 및 감축 진단(컨설팅) 지원사업을 추진해 왔다. 올해는 ‘대기환경보전법’에 근거하여 ‘자동차 온실가스 전과정평가 방법에 관한 고시’ 제정을 추진하면서 민관 소통을 지속하고 있다."
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
     },
     {
       "id": "d919c869d84164",
@@ -1283,13 +1767,37 @@
       "summary": "",
       "insight": "",
       "source_excerpt": "",
-      "review_status": "원문 검토 필요",
+      "review_status": "기관 공개 본문·초록 핵심 구절 자동 추출",
       "verification": "정부 공식 보도자료",
       "priority_score": 0,
       "priority": "참고",
       "priority_reasons": [],
       "priority_basis": "개인 관심주제와 공개 제목·발췌문의 키워드 일치",
-      "source_last_attempt": "2026-11-25"
+      "source_last_attempt": "2026-11-28",
+      "analysis": {
+        "status": "source_extract",
+        "evidence_basis": "공식 기관 공개 웹페이지 본문 자동 발췌",
+        "key_takeaways": [
+          "첨부파일 “공사장 소음부터 밭 옆 가로등까지” 생활 속 환경분쟁 이야기로 쉽게 푼다(보도자료)(중조위 11.25).hwpx(1.5 MB) “공사장 소음부터 밭 옆 가로등까지” 생활 속 환경분쟁 이야기로 쉽게 푼다(보도자료)(중조위 11.25).pdf(410.4 KB)",
+          "▷ 지난해(2025년) 해결한 환경분쟁 사건 중 20건을 선정하여 “무엇이 인정되고 무엇이 인정되지 않았나”를 사례별로 정리",
+          "기후에너지환경부 소속 중앙환경분쟁조정피해구제위원회(위원장 정은해)는 지난해(2025년) 위원회가 해결한 환경분쟁 사건 가운데 20건을 골라 국민 눈높이에 맞춰 풀어 쓴 ‘생활 속 환경분쟁 이야기’를 11월 26일 발간한다고 밝혔다."
+        ],
+        "research_ideas": [],
+        "background": "",
+        "purpose": "",
+        "main_points": [
+          "첨부파일 “공사장 소음부터 밭 옆 가로등까지” 생활 속 환경분쟁 이야기로 쉽게 푼다(보도자료)(중조위 11.25).hwpx(1.5 MB) “공사장 소음부터 밭 옆 가로등까지” 생활 속 환경분쟁 이야기로 쉽게 푼다(보도자료)(중조위 11.25).pdf(410.4 KB)",
+          "▷ 지난해(2025년) 해결한 환경분쟁 사건 중 20건을 선정하여 “무엇이 인정되고 무엇이 인정되지 않았나”를 사례별로 정리",
+          "기후에너지환경부 소속 중앙환경분쟁조정피해구제위원회(위원장 정은해)는 지난해(2025년) 위원회가 해결한 환경분쟁 사건 가운데 20건을 골라 국민 눈높이에 맞춰 풀어 쓴 ‘생활 속 환경분쟁 이야기’를 11월 26일 발간한다고 밝혔다.",
+          "위원회는 매년 전년도 결정 사례를 모은 ‘환경분쟁조정사례집’을 펴내 왔으나, 결정문 중심으로 구성돼 국민이 읽고 활용하기 어렵다는 의견이 있었다. 이에 올해는 원문 사례집과 별도로, 피해를 겪는 국민이 자신과 비슷한 사례를 쉽게 찾아보고 배상 가능성을 가늠할 수 있도록 국민판 사례집을 새로 만들었다.",
+          "이번 사례집에는 공사장 소음·진동, 발파, 일조 방해, 빛공해, 철도·도로 교통 소음, 먼지 등 생활 속에서 겪을 수 있는 분쟁사건 20건이 담겼으며, 피해가 인정된 사례뿐 아니라 기각·조정된 사례도 함께 실었다."
+        ],
+        "conclusion": "",
+        "korea_implications": "",
+        "industry_implications": "",
+        "limitations": "원문 핵심 구절 자동 발췌(비번역). 전체 문맥을 확정적으로 재구성한 AI 요약은 아님.",
+        "evidence_sections": "발표기관 공개 본문/초록"
+      }
     },
     {
       "id": "e877438392eb51",
